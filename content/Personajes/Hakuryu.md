@@ -4,7 +4,7 @@
 ![[Hakuryuu.webp]]
 #### **Raza/Clase:** Dragonborn de plata / Guerrero.
 
-#### **Edad:** 35 años.
+#### **Edad:** 25 años.
 
 #### **Apariencia:**
 
