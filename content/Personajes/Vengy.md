@@ -1,8 +1,7 @@
-![[Vengy.webp]]
 ### **Vengy, el Paladín Injustamente Condenado**
 
 ---
-
+![[Vengy.webp]]
 #### **Raza/Clase:** Humano / Paladín-Hechicero.
 
 #### **Edad:** 34 años.
