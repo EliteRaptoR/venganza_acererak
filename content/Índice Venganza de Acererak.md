@@ -2,5 +2,7 @@
 
 ## Normas 
 [[Cordura]]
+
 [[Sistema de Descansos]]
+
 [[Vida y muerte]]
