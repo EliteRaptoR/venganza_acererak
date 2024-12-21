@@ -1,9 +1,7 @@
-![[Alistar.webp]]
-
 ### **Alistar, el Escudo de la Ley**
 
 ---
-
+![[Alistar.webp]]
 #### **Raza/Clase:** Humano / Paladín de Tyr.
 
 #### **Edad:** 38 años.
