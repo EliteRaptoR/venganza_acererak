@@ -1,5 +1,11 @@
-# Bienvenidos a nuestro punto de encuentro
 
+# Índice Venganza de Acererak
 
-[[Índice Venganza de Acererak]]
+## Normas 
+[[Cordura]]
 
+[[Sistema de Descansos]]
+
+[[Vida y muerte]]
+
+![[AcererakPortrait.webp]]
