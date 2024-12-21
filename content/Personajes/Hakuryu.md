@@ -1,7 +1,7 @@
-
-![[Hakuryuu.webp]]
 ### **Hakuryuu, el Guerrero Despojado**
 
+---
+![[Hakuryuu.webp]]
 #### **Raza/Clase:** Dragonborn de plata / Guerrero.
 
 #### **Edad:** 35 años.
