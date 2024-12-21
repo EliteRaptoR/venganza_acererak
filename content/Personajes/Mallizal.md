@@ -1,9 +1,7 @@
-![[Malizall.webp]]
-
 ### **Malizal, el Hechicero del Vacio**
 
 ---
-
+![[Malizall.webp]]
 #### **Raza/Clase:** Humano / Warlock.
 
 #### **Edad:** 43 años (apariencia mucho mayor debido a un envejecimiento prematuro).
