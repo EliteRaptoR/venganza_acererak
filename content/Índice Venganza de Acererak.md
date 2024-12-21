@@ -6,3 +6,5 @@
 [[Sistema de Descansos]]
 
 [[Vida y muerte]]
+
+![[AcererakPortrait.webp]]
