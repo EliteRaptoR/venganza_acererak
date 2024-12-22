@@ -1,4 +1,4 @@
-### **Orianna, la Guardiana del Bosque**
+## **Orianna, la Guardiana del Bosque**
 
 ---
 ![[Orianna.webp]]
@@ -69,3 +69,49 @@ En la batalla contra Acererak en la **Tumba de la Aniquilación**, Orianna prota
 - **Punto Fuerte:** Orianna es un protector poderoso, capaz de controlar el campo de batalla y defender a sus aliados con su magia y su fuerza.
 - **Punto Débil:** Su desdén hacia la humanidad puede causar tensiones y dificultar la cooperación con NPCs o incluso compañeros.
 - **Consejo para Interpretación:** Orianna muestra un contraste entre su ferocidad en combate y su vulnerabilidad emocional. Haz énfasis en su lealtad hacia sus compañeros y su lucha por superar su desconfianza hacia los demás.
+
+### **El Pasado de Orianna, la Guardiana del Bosque**
+
+#### **Infancia y Orígenes**
+
+Orianna nació dentro de una estirpe de tieflings esclavizados por los drows, quienes los trataban como herramientas y juguetes para sus propósitos oscuros. Su familia, marcada por generaciones de sufrimiento, nunca le brindó apoyo ni cariño. Incluso entre los suyos, Orianna estaba sola, creciendo en un ambiente donde la desesperanza era la norma.
+
+Su infancia llegó a un punto crítico cuando, siendo todavía joven, tomó una decisión que cambiaría su vida para siempre. Incapaz de soportar el sufrimiento que veía en su familia y en ella misma, los mató por lástima, liberándolos de su existencia como esclavos. En ese mismo acto, asesinó a los drows que los mantenían cautivos, logrando escapar finalmente de su vida de cadenas. Sin embargo, esta acción dejó en su corazón una mezcla de culpa y una sensación de justificación que moldearía su visión de sí misma.
+
+---
+
+#### **El Rechazo y el Trauma**
+
+La libertad no trajo consuelo. Su primera interacción con personas libres fue un encuentro lleno de odio: las primeras personas que encontró la recibieron a pedradas, viéndola como una amenaza por su apariencia y naturaleza infernal. Este momento, más que cualquier otro, marcó a Orianna. Aprendió que el mundo civilizado era un lugar hostil, donde nadie la aceptaría por lo que era.
+
+---
+
+#### **Refugio en el Bosque y Conexión con la Naturaleza**
+
+Huyendo del rechazo humano, Orianna se refugió en el bosque. Allí, encontró algo que nunca había conocido: un lugar donde nadie la discriminaba. El bosque no la juzgaba, no la hería, y la aceptaba tal como era. Fue en este entorno que comenzó a descubrir su conexión con la naturaleza, un vínculo que le ofrecía consuelo y propósito.
+
+Durante sus vagabundeos, Orianna tuvo un encuentro que cambiaría su vida. Encontró a un animal extraño que, para su asombro, se transformó en un humano. Este ser era un **druida de la luna**, un vagabundo del bosque que nunca la juzgó por su apariencia ni por su pasado. Él vio cómo el bosque resonaba con Orianna, como si la aceptara plenamente. Este mentor le enseñó a canalizar su conexión con la naturaleza en forma de magia druídica, guiándola hacia un camino de protección y equilibrio.
+
+---
+
+#### **Conflicto Interno: Naturaleza Infernal y Sintonía con el Bosque**
+
+A pesar de su conexión con la naturaleza, Orianna siempre ha sentido un conflicto interno debido a su linaje infernal. Cree que la crueldad es parte inherente de su ser, una sombra que la acompaña incluso cuando actúa para proteger. Aunque se siente cómoda con sus actos, a menudo no comprende por qué el bosque la eligió como su protectora, siendo alguien con una naturaleza que considera intrínsecamente malvada. Esta dualidad la ha llevado a aceptar que, aunque nunca podrá escapar de quién es, puede utilizar esa crueldad para cumplir su propósito.
+
+---
+
+#### **Relación con el Grupo**
+
+La Tumba de la Aniquilación representó un momento único para Orianna. Por primera vez, conoció a personas que se unieron y arriesgaron sus vidas por un propósito que no era egoísta. El grupo la aceptó, la comprendió y luchó junto a ella, a pesar de sus diferencias. Para Orianna, estos compañeros son más que aliados: son las únicas personas en el mundo que la han visto como algo más que una tiefling o una amenaza.
+
+---
+
+#### **Miedos y Sueños**
+
+El mayor miedo de Orianna es fallar en su propósito de proteger la naturaleza. Se pregunta qué será del bosque si ella muere, y esta preocupación guía muchas de sus acciones. Aunque ha aceptado su aislamiento como definitivo, sueña con poder transmitir el amor y cuidado por la naturaleza a más personas, para asegurar que su legado perdure.
+
+---
+
+#### **Si Pudiera Cambiar Algo**
+
+Sorprendentemente, Orianna no cambiaría nada de su pasado. Acepta cada parte de su historia, incluso los actos más oscuros, como pasos necesarios para convertirse en quien es. Esta aceptación es un reflejo de su fortaleza interna y de su comprensión de que, aunque su naturaleza infernal y sus decisiones han sido difíciles, también la han moldeado como una protectora del bosque.
