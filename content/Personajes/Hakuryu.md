@@ -1,4 +1,4 @@
-### **Hakuryuu, el Guerrero Despojado**
+## **Hakuryuu, el Guerrero Despojado**
 
 ---
 ![[Hakuryuu.webp]]
