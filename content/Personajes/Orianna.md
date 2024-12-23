@@ -70,6 +70,8 @@ En la batalla contra Acererak en la **Tumba de la Aniquilación**, Orianna prota
 - **Punto Débil:** Su desdén hacia la humanidad puede causar tensiones y dificultar la cooperación con NPCs o incluso compañeros.
 - **Consejo para Interpretación:** Orianna muestra un contraste entre su ferocidad en combate y su vulnerabilidad emocional. Haz énfasis en su lealtad hacia sus compañeros y su lucha por superar su desconfianza hacia los demás.
 
+---
+
 ### **El Pasado de Orianna, la Guardiana del Bosque**
 
 #### **Infancia y Orígenes**
