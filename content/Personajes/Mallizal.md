@@ -1,4 +1,4 @@
-### **Malizal, el Hechicero del Vacio**
+## **Malizal, el Hechicero del Vacio**
 
 ---
 ![[Malizall.webp]]
@@ -69,3 +69,50 @@ Ahora, Malizal vive aislado en una cabaña en las montañas, atrapado en una esp
 - **Punto Fuerte:** Malizal es un lanzador de hechizos versátil y poderoso, capaz de cambiar el rumbo de un combate con su magia y su capacidad de análisis.
 - **Punto Débil:** Su apatía y melancolía pueden afectar sus decisiones y su disposición a actuar en momentos clave.
 - **Consejo para Interpretación:** Resalta su desconexión emocional y su lucha interna por encontrar propósito. Aunque apático, muestra destellos de la pasión que una vez tuvo, especialmente cuando sus compañeros están en peligro.
+---
+
+### **El Pasado y las Motivaciones de Malizal, el Portador del Pacto**
+
+---
+
+#### **Conexión con Lathander y el Pacto**
+
+Malizal nunca fue un devoto de Lathander ni un hombre de fe en el sentido tradicional. En cambio, es una buena persona que actúa desde una voluntad genuina de ayudar y proteger. Su pacto con un celestial seguidor de Lathander fue una sorpresa para él. Recibir poder no fue algo que buscara activamente, y la experiencia de ser elegido le pareció desconcertante. Inicialmente, se preguntó si formaba parte de algún plan mayor, si el pacto era simplemente un medio para protegerlo o una herramienta para cumplir un propósito divino.
+
+Con el tiempo, tras reflexionar mucho, Malizal decidió aceptar que el pacto era una recompensa por sus acciones y su bondad inherente. Aunque no tiene dudas sobre el celestial o sobre Lathander, siempre se ha cuestionado su propio papel en todo esto.
+
+---
+
+#### **Wako, el Regalo del Celestial**
+
+Wako, un compañero celestial, no fue una elección de Malizal, sino un regalo del ser que le ofreció el pacto. Este espíritu se presentó como una extensión del pacto, diseñado para permitir a Malizal llevar su ayuda más allá de lo que su cuerpo físico podría alcanzar. Wako era un compañero leal, pero también representaba una gran responsabilidad.
+
+Para Malizal, Wako se convirtió en un símbolo de la necesidad de actuar con sabiduría. Cada decisión que tomaba se veía reflejada en las acciones de Wako, lo que reforzaba su sentido de responsabilidad. Con los años, Wako también se convirtió en un testigo de los logros y sacrificios de Malizal, algo que lo anclaba emocionalmente.
+
+---
+
+#### **La Liberación de Wako**
+
+Tras los eventos de la Tumba de la Aniquilación, Malizal tomó la decisión de liberar a Wako. Este acto fue profundamente emocional y difícil, ya que Malizal veía a Wako como parte de su familia. Sin embargo, sintió que no podía arrastrar a su compañero a un futuro incierto, lleno de las posibles consecuencias de haber acabado con la Maldición de la Muerte.
+
+Aunque Malizal está convencido de que liberar a Wako fue lo correcto, también se arrepiente. Wako era un recordatorio constante de sus responsabilidades y un lazo directo con su pacto celestial. Ahora, sin él, Malizal se siente más aislado y cuestiona si tomó la decisión adecuada.
+
+---
+
+#### **Relación con el Grupo**
+
+Malizal siempre ha visto a sus compañeros como iguales, personas buenas que comparten su deseo de proteger y ayudar a los demás. Sin embargo, tiene un vínculo especial con **Vengy**, ya que sus aventuras comenzaron mucho antes de conocer al resto del grupo. Vengy representa para Malizal un amigo verdadero y alguien en quien confiar plenamente, incluso en los momentos más oscuros.
+
+---
+
+#### **El Envejecimiento Prematuro y la Apatía**
+
+El envejecimiento prematuro causado por la maldición de la Tumba de la Aniquilación ha sido una carga pesada para Malizal. Aunque nunca lo considera una maldición en sí, se cuestiona constantemente si el sacrificio que hizo valió la pena. Con el mundo aparentemente empeorando a pesar de sus esfuerzos, siente que el sacrificio por los demás es un peso cada vez más difícil de cargar.
+
+Sus recuerdos del pasado son una de las pocas cosas que aún le traen alegría. Piensa en los momentos en que trabajó junto a Vengy y el grupo, cuando todavía sentía que su propósito tenía sentido. Estos recuerdos son un faro en medio de su melancolía.
+
+---
+
+#### **Distancia de Lathander**
+
+Malizal no siente que Lathander lo haya abandonado; por el contrario, es él quien se ha distanciado de la luz del dios del amanecer en los últimos años. Sus poderes aún permanecen, una prueba de que el celestial que le otorgó el pacto sigue creyendo en él, incluso cuando él mismo no lo hace. Sin embargo, esta desconexión lo deja en un estado de incertidumbre, incapaz de reconectar completamente con su propósito.
