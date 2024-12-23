@@ -1,10 +1,10 @@
-### **Ander, la Voz Apagada**
+## **Ander, la Voz Apagada**
 
 ---
 ![[Ander.webp]]
 #### **Raza/Clase:** Halfling / Bardo.
 
-#### **Edad:** 36 años.
+#### **Edad:** 32 años.
 
 #### **Apariencia:**
 
