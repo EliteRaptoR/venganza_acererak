@@ -1,4 +1,4 @@
-### **Vengy, el Paladín Injustamente Condenado**
+## **Vengy, el Paladín Injustamente Condenado**
 
 ---
 ![[Vengy.webp]]
