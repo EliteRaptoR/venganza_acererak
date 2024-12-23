@@ -1,3 +1,4 @@
+#GPT #Master 
 ## **Alistar, el Escudo de la Ley**
 
 ---
