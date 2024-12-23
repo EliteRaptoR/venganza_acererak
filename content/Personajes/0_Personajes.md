@@ -92,7 +92,7 @@ El arco de Alistar está centrado en la **redefinición de su fe y su lugar en e
 #### **1. Identidad y Apariencia**
 
 - **Raza/Clase:** Halfling / Bardo.
-- **Edad:** 36 años.
+- **Edad:** 32 años.
 - **Apariencia:**
     - Pequeño y ágil, aunque su postura encorvada y su andar tambaleante reflejan los estragos del alcohol y la culpa.
     - Rostro redondeado y juvenil, ahora apagado por ojeras profundas y una piel pálida.
@@ -171,6 +171,70 @@ El arco de Ander está centrado en la **superación de la culpa y el redescubrim
     Ander podría convertirse en el corazón del grupo nuevamente, usando su música y carisma para inspirar a sus compañeros en su lucha contra Acererak.
 - **Si no la supera:**  
     Ander podría convertirse en una carga emocional para el grupo, incapaz de actuar con confianza y dejando que su culpa lo consuma.
+
+### **El Pasado de Ander, el Bardo Protector**
+
+#### **Infancia y Juventud**
+
+Ander creció en un ambiente lleno de apoyo y camaradería. Nació en un pequeño pueblo rural, donde las familias se ayudaban mutuamente y el trabajo honrado era la base de la vida cotidiana. Su familia era amorosa y siempre estuvo ahí para él, enseñándole que si alguna vez estaba en problemas, habría alguien dispuesto a ayudar. Esta experiencia sembró en él una fe innata en la bondad de las personas y el deseo de proteger a quienes lo merecen.
+
+Como hijo querido y hermano amado, Ander nunca experimentó privaciones graves. Aunque no era rico, la vida en el campo le proporcionó todo lo necesario para vivir bien gracias al esfuerzo y la dedicación. Este entorno le enseñó a valorar las pequeñas cosas, a ser agradecido y a buscar la felicidad en actos simples y significativos.
+
+---
+
+#### **Inspiración para ser Bardo**
+
+Desde niño, Ander fue influenciado por la figura de su tío, el hermano de su madre, un bardo aventurero que era muy querido por toda la familia. Este tío le contaba historias de sus viajes, llenas de emociones, humor y valentía. Ander creció admirándolo profundamente y soñando con seguir sus pasos. Sin embargo, en una de sus aventuras, su tío desapareció sin dejar rastro. Esta pérdida marcó a Ander, pero también lo impulsó a tomar el manto de su tío y usar la música para inspirar y proteger, como él había hecho.
+
+---
+
+#### **Conexión con la Música**
+
+Para Ander, la música siempre ha sido un refugio y una herramienta poderosa. Desde pequeño, descubrió que sus canciones no solo lo reconfortaban a él, sino también a quienes lo rodeaban. La música se convirtió en su forma principal de expresión y una manera de compartir su alegría con los demás. Más adelante, desarrolló la capacidad de usar su arte como un medio para inspirar valor, calmar tensiones y unir a las personas.
+
+Su instrumento principal, una lira, perteneció a su tío y es uno de los pocos recuerdos que conserva de él. Cada vez que toca, Ander siente que conecta con su legado y lleva adelante su espíritu aventurero.
+
+---
+
+#### **El Camino al Heroísmo**
+
+Aunque Ander nunca se vio a sí mismo como un héroe, su vida lo preparó para serlo. La semilla de heroísmo fue plantada en él por el amor y apoyo de su familia, pero solo comenzó a crecer durante su lucha contra Acererak y la Maldición de la Muerte. Inicialmente, Ander se unió al grupo por el simple deseo de aventuras, motivado por su espíritu curioso y optimista. Sin embargo, al entender la magnitud de la tragedia que se avecinaba si nadie detenía la maldición, sintió un llamado más profundo.
+
+Conforme luchaba junto a sus compañeros, enfrentando horrores y sacrificios inimaginables, Ander comenzó a descubrir una fortaleza interior que nunca supo que tenía. Aunque en su corazón sigue siendo un hombre sencillo que busca felicidad y quiere darla con su arte, ha aprendido que su música puede ser una herramienta para inspirar coraje y esperanza, incluso en los momentos más oscuros.
+
+---
+
+#### **Relación con el Heroísmo**
+
+El crecimiento de la semilla de heroísmo en Ander ha sido un proceso conflictivo. Aunque se siente orgulloso de lo que ha logrado y de las vidas que ha salvado, también se ve a sí mismo como alguien que simplemente respondió a las circunstancias. No se odia por haberse convertido en un héroe, pero tampoco siente que esto lo haga más valioso. Para él, ser un héroe no es un destino, sino un acto temporal que surge de la necesidad y el amor por los demás.
+
+---
+
+#### **Impacto de la Lucha y el Grupo**
+
+La lucha contra la Maldición de la Muerte y el sacrificio de sus compañeros han moldeado profundamente a Ander. En el grupo encontró no solo aliados, sino una familia extendida que compartía su pasión por proteger y luchar por algo más grande que ellos mismos. Sus compañeros le enseñaron que el heroísmo no se trata de fuerza o grandeza, sino de la disposición para actuar cuando es necesario.
+
+---
+#### **El Misterio del Tío Desaparecido**
+
+El tío de Ander desapareció cuando este tenía 16 años, un evento que dejó una marca profunda en su vida. Durante años, Ander no tuvo ninguna pista de lo que le había ocurrido. Sin embargo, a los 22 años, durante uno de sus viajes, encontró una carta o comunicado de un compañero de aventuras de su tío. En el mensaje, el hombre pedía ayuda para rescatar a los miembros de su grupo, quienes habían desaparecido mientras exploraban un misterioso **laberinto**.
+
+Aunque Ander intentó seguir el rastro, la búsqueda resultó infructuosa. Cuando investigó más a fondo, descubrió que todo el grupo había sido declarado desaparecido, ya que ni cuerpos ni pistas adicionales habían sido encontrados. A pesar de este resultado desalentador, el misterio de lo que ocurrió en el laberinto sigue vivo en la mente de Ander, y el deseo de encontrar respuestas sobre el destino de su tío sigue latente.
+
+Este enigma puede ser un gancho narrativo perfecto: si Ander encuentra nuevas pistas sobre el laberinto o se cruza con alguien que tenga información sobre el grupo, podría reavivar su búsqueda. Esto no solo añadiría profundidad a su historia, sino que también lo confrontaría con las decisiones que lo llevaron a seguir los pasos de su tío.
+
+---
+
+#### **Las Dudas de Ander y su Conflicto Interno**
+
+Ander, por naturaleza, se considera un cobarde. Cada vez que se enfrenta a un problema o desafío, su mente lo lleva de vuelta a su hogar tranquilo, imaginando la paz y la comodidad de una vida sin riesgos. A menudo se dice a sí mismo que debería abandonar el grupo y regresar a su pueblo, donde podría dedicarse a su música y olvidar los peligros que lo rodean.
+
+Sin embargo, lo que lo retiene no es solo su lealtad hacia sus compañeros, sino también la pequeña semilla de heroísmo y optimismo que late en su corazón. Ander sabe que, a pesar de sus dudas y miedos, hay algo dentro de él que lo empuja a seguir adelante, enfrentando desafíos que nunca imaginó poder superar. Este conflicto interno entre su deseo de escapar y su necesidad de proteger y ayudar define gran parte de su personalidad.
+
+Incluso cuando se siente al borde del colapso, Ander encuentra fuerza en sus amigos y en su música, recordándose que cada pequeño acto de coraje cuenta. Su cobardía, en lugar de ser una debilidad, se convierte en un recordatorio de que la valentía no es la ausencia de miedo, sino la decisión de actuar a pesar de él.
+
+---
+
 ## **Hakuryuu, el Guerrero Despojado**
 
 #### **1. Identidad y Apariencia**
@@ -338,6 +402,65 @@ El arco de Malizal está centrado en la **redención y el renacimiento espiritua
     Malizal podría convertirse en un líder espiritual renovado, guiando al grupo con su sabiduría y conexión restaurada con Lathander.
 - **Si no supera su apatía:**  
     Podría convertirse en una carga para el grupo, o incluso en una herramienta para Acererak, sucumbiendo a sus manipulaciones.
+---
+### **El Pasado y las Motivaciones de Malizal, el Portador del Pacto**
+
+---
+
+#### **Conexión con Lathander y el Pacto**
+
+Malizal nunca fue un devoto de Lathander ni un hombre de fe en el sentido tradicional. En cambio, es una buena persona que actúa desde una voluntad genuina de ayudar y proteger. Su pacto con un celestial seguidor de Lathander fue una sorpresa para él. Recibir poder no fue algo que buscara activamente, y la experiencia de ser elegido le pareció desconcertante. Inicialmente, se preguntó si formaba parte de algún plan mayor, si el pacto era simplemente un medio para protegerlo o una herramienta para cumplir un propósito divino.
+
+Con el tiempo, tras reflexionar mucho, Malizal decidió aceptar que el pacto era una recompensa por sus acciones y su bondad inherente. Aunque no tiene dudas sobre el celestial o sobre Lathander, siempre se ha cuestionado su propio papel en todo esto.
+
+---
+
+#### **Wako, el Regalo del Celestial**
+
+Wako, un compañero celestial, no fue una elección de Malizal, sino un regalo del ser que le ofreció el pacto. Este espíritu se presentó como una extensión del pacto, diseñado para permitir a Malizal llevar su ayuda más allá de lo que su cuerpo físico podría alcanzar. Wako era un compañero leal, pero también representaba una gran responsabilidad.
+
+Para Malizal, Wako se convirtió en un símbolo de la necesidad de actuar con sabiduría. Cada decisión que tomaba se veía reflejada en las acciones de Wako, lo que reforzaba su sentido de responsabilidad. Con los años, Wako también se convirtió en un testigo de los logros y sacrificios de Malizal, algo que lo anclaba emocionalmente.
+
+---
+
+#### **La Liberación de Wako**
+
+Tras los eventos de la Tumba de la Aniquilación, Malizal tomó la decisión de liberar a Wako. Este acto fue profundamente emocional y difícil, ya que Malizal veía a Wako como parte de su familia. Sin embargo, sintió que no podía arrastrar a su compañero a un futuro incierto, lleno de las posibles consecuencias de haber acabado con la Maldición de la Muerte.
+
+Aunque Malizal está convencido de que liberar a Wako fue lo correcto, también se arrepiente. Wako era un recordatorio constante de sus responsabilidades y un lazo directo con su pacto celestial. Ahora, sin él, Malizal se siente más aislado y cuestiona si tomó la decisión adecuada.
+
+---
+
+#### **Relación con el Grupo**
+
+Malizal siempre ha visto a sus compañeros como iguales, personas buenas que comparten su deseo de proteger y ayudar a los demás. Sin embargo, tiene un vínculo especial con **Vengy**, ya que sus aventuras comenzaron mucho antes de conocer al resto del grupo. Vengy representa para Malizal un amigo verdadero y alguien en quien confiar plenamente, incluso en los momentos más oscuros.
+
+---
+
+#### **El Envejecimiento Prematuro y la Apatía**
+
+El envejecimiento prematuro causado por la maldición de la Tumba de la Aniquilación ha sido una carga pesada para Malizal. Aunque nunca lo considera una maldición en sí, se cuestiona constantemente si el sacrificio que hizo valió la pena. Con el mundo aparentemente empeorando a pesar de sus esfuerzos, siente que el sacrificio por los demás es un peso cada vez más difícil de cargar.
+
+Sus recuerdos del pasado son una de las pocas cosas que aún le traen alegría. Piensa en los momentos en que trabajó junto a Vengy y el grupo, cuando todavía sentía que su propósito tenía sentido. Estos recuerdos son un faro en medio de su melancolía.
+
+---
+
+#### **Distancia de Lathander**
+
+Malizal no siente que Lathander lo haya abandonado; por el contrario, es él quien se ha distanciado de la luz del dios del amanecer en los últimos años. Sus poderes aún permanecen, una prueba de que el celestial que le otorgó el pacto sigue creyendo en él, incluso cuando él mismo no lo hace. Sin embargo, esta desconexión lo deja en un estado de incertidumbre, incapaz de reconectar completamente con su propósito.
+
+---
+#### **Posibles Ganchos Narrativos**
+
+1. **El Retorno de Wako:**
+    
+    - Si Wako regresara, ya sea en peligro o con un mensaje del celestial, podría empujar a Malizal a actuar nuevamente y reconectarse con su pacto.
+2. **Un Nuevo Propósito:**
+    
+    - Una situación en la que Malizal deba tomar una decisión crítica, demostrando que su sacrificio aún puede marcar la diferencia, podría ayudarle a restaurar su confianza en sí mismo.
+3. **Cuestionamientos de Lathander:**
+    
+    - Una prueba directa de Lathander o del celestial podría obligar a Malizal a enfrentarse a su apatía y decidir si todavía es digno del pacto.
 
 ## **Orianna, la Guardiana del Bosque**
 
@@ -420,6 +543,7 @@ El arco de Orianna está centrado en la **aceptación y el sacrificio**:
 
 - **Si supera su desdén:** Podría convertirse en una líder natural, guiando a sus compañeros con su conexión con la naturaleza y su sabiduría.
 - **Si se niega a colaborar:** Su aislamiento podría llevarla a perder lo que más valora, forzándola a enfrentar las consecuencias de sus decisiones.
+---
 
 ### **El Pasado de Orianna, la Guardiana del Bosque**
 
