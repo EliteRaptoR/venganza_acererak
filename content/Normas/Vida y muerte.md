@@ -1,3 +1,4 @@
+#Jugadores
 ## **Sistema de Puntos de Golpe (PG), Puntos de Salud (PS) y Fatiga**
 
 ### **Definiciones**
