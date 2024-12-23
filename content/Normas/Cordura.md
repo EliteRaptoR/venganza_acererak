@@ -1,3 +1,4 @@
+#Jugadores
 #### **Cálculo Inicial y Funcionamiento Básico**
 
 - **Cálculo inicial:** 10 + modificador de Sabiduría. Puede ajustarse con trasfondos o eventos específicos.
