@@ -1,4 +1,4 @@
-### **Alistar, el Escudo de la Ley**
+## **Alistar, el Escudo de la Ley**
 
 ---
 ![[Alistar.webp]]
