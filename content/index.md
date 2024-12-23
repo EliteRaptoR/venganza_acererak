@@ -1,6 +1,11 @@
 
 # Índice Venganza de Acererak
 ---
+## Diario
+- [[Diario Sesión 0]]
+- [[Diario Sesión 1]]
+
+---
 ## Personajes
 - [[Alistar]]
 - [[Ander]]
