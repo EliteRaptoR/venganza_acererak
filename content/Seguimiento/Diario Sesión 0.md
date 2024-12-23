@@ -8,6 +8,12 @@
 
 ### **Presentación Individual**
 
+Lo primero de todo pido disculpas por tratar con dureza a vuestros personajes. 
+Si alguien los quiere tanto como vosotros mismo soy yo. 
+Me negaba en pensar que después de que todo fuera gloria eso durara para siempre, en la política, los malvados siempre tienen más armas que los bondadosos.
+Siempre imagine, que cuanto mas alto llegas, más dura puede ser la caída, pero siempre queda el talento que te llevo hacia el cielo.
+Si me he pasado, pues avisadme, pero la emoción del ascenso, será mayor cuanto mayor sea el desafío.
+
 ### **1. Hakuryuu: El Guerrero Despojado**
 
 > _"Hakuryuu, el orgulloso dragón plateado, se encuentra en el centro de su mansión en Waterdeep, rodeado de lujos que antes representaban su gloria. Las escamas brillantes que una vez simbolizaron su grandeza ahora reflejan una luz tenue bajo el crepitar de las antorchas. La mesa del comedor está repleta de manjares, pero el peso de su pérdida lo mantiene distante. Myrrym, la espada que definió su identidad, sigue siendo un vacío tangible en su vida. Los sirvientes murmuran entre ellos mientras intentan no llamar su atención, sabiendo que cualquier pequeño error podría despertar su furia. Hakuryuu alza la mirada hacia un tapiz que narra su victoria sobre la Maldición de la Muerte, pero solo ve un recordatorio de lo que ya no tiene. En el silencio de la noche, los ecos de una cadena quebrada parecen susurrar su nombre."_
