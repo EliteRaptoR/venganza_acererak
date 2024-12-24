@@ -93,7 +93,7 @@
 4. **Segundo Ataque:**
     - Recibe 12 puntos de daño.
     - Los 3 PG se reducen a 0, y los 9 puntos restantes afectan a los PS (quedando con -2 PS).
-    - El personaje entra en **colapso**.
+    - El personaje entra en **colapso** y aumenta en 1 punto su **fatiga**.
 5. **Tirada de Colapso:**
     - En su siguiente turno, tira **6d20**.
         - Obtiene los resultados: 15, 14, 9, 11, 8, 16 (4 resultados de 11+).
@@ -103,13 +103,3 @@
 
 ---
 
-### **Ventajas del Sistema**
-
-1. **Gestión Estratégica:**
-    - Los jugadores deben equilibrar la regeneración de PG, el riesgo de fatiga y la pérdida de PS.
-2. **Mayor Inmersión Narrativa:**
-    - Las heridas graves y el colapso añaden un peso emocional y mecánico al combate.
-3. **Tensión Continua:**
-    - La mecánica de colapso mantiene la incertidumbre, incluso tras caer a 0 PS.
-4. **Sencillez en Recuperación:**
-    - La diferenciación entre curaciones convencionales y magia avanzada simplifica las decisiones.
