@@ -8,8 +8,6 @@
     - Representan la capacidad del personaje para esquivar, resistir o minimizar daño sin recibir heridas graves.
     - Los **PG nunca pueden superar los PS actuales**.
     - Los PG se regeneran fácilmente y son la primera línea de defensa.
-    - Si el personaje supera la tirada de colapso, queda inconsciente hasta tener PS positivos.
-    - Si el personaje no la supera... RIP
 1. **Puntos de Salud (PS):**
     
     - Reflejan la fortaleza física y el estado de salud real del personaje.
@@ -30,6 +28,8 @@
     - El daño primero reduce los **PG**.
     - Si los PG llegan a 0, cualquier daño restante afecta directamente a los **PS**.
     - Si los PS llegan a 0, el personaje entra en **colapso** y aumenta en 1 punto su **fatiga**.
+    - Si el personaje supera la tirada de colapso, queda inconsciente hasta tener PS positivos.
+    - Si el personaje no la supera... RIP
 1. **Recuperar PG:**
     
     - En su turno, un personaje puede usar una **Acción Adicional** para regenerar PG.
