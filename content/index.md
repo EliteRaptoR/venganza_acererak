@@ -23,6 +23,7 @@
 ---
 ## Canciones
 
+- [[Acererak, El Arquitecto de la Muerte]]
 - [[Alistar, Luz pagada]]
 - [[Ander, Canciones al Viento]]
 - [[Hakuryu, El Orgullo del Dragón]]
