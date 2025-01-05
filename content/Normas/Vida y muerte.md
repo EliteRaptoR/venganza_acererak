@@ -24,9 +24,7 @@
 1. **Daño Recibido:**
     - El daño primero reduce los **PG**.
     - Si los PG llegan a 0, cualquier daño restante afecta directamente a los **PS**.
-    - Si los PS llegan a 0, el personaje entra en **colapso** y aumenta en 1 punto su **fatiga**.
-    - Si el personaje supera la tirada de colapso, queda inconsciente hasta tener PS positivos.
-    - Si el personaje no la supera... RIP
+    - Si los PS llegan a 0, el personaje entra en **muere** y aumenta en 1 punto su **fatiga**.
 2. **Recuperar PG:**
     - Los PG nunca pueden ser mayores a los PS.
     - En su turno, un personaje puede usar una **Acción Adicional** para regenerar PG.
@@ -41,25 +39,14 @@
 4. **Recuperar Fatiga:**
     - Los personajes solo pueden reducir **1 nivel de fatiga** tras un Descanso Largo.
 
----
-
-### **Estados Críticos**
-
-1. **Colapso (PS = 0 o menos):**
-    
-    - Cuando un personaje llega a 0 PS o menos, el personaje entra en **colapso** y aumenta en 1 punto su **fatiga**.
-    - En su turno, debe realizar una tirada especial con **6d20**:
-        - Si logra **3 o más resultados de 11+**, estabiliza su condición:
-            - Queda con 0 PS, inconsciente y ya no está en colapso.
-        - Si no logra **3 éxitos**, el personaje muere.
-    - Si un personaje en colapso recibe daño adicional, vuelve a entrar en colapso y repite la tirada en su siguiente turno.
-2. **Fatiga Extrema (10 niveles):**
+-  **Fatiga Extrema (10 niveles):**
     
     - Si un personaje acumula 10 niveles de fatiga:
         - Cae inconsciente automáticamente.
         - No puede despertar hasta reducir su fatiga por debajo de 10 niveles.
 
 ---
+
 
 ### **Ejemplo de Combate con el Sistema**
 
@@ -75,13 +62,7 @@
 4. **Segundo Ataque:**
     - Recibe 12 puntos de daño.
     - Los 3 PG se reducen a 0, y los 9 puntos restantes afectan a los PS (quedando con -2 PS).
-    - El personaje entra en **colapso** y aumenta en 1 punto su **fatiga**.
-5. **Tirada de Colapso:**
-    - En su siguiente turno, tira **6d20**.
-        - Obtiene los resultados: 15, 14, 9, 11, 8, 16 (4 resultados de 11+).
-        - El personaje estabiliza su condición, queda inconsciente y con 0 PS.
-6. **Intervención de Aliados:**
-    - Un aliado usa un hechizo avanzado para recuperar 5 PS, permitiendo que el personaje vuelva a actuar tras despertar.
+    - El personaje **muere** y aumenta en un 1 su **fatiga**.
 
 ---
 
