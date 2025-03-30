@@ -1,4 +1,4 @@
-#Jugadores #NoSubido 
+#Jugadores 
 ### [Abismo y Rabia](https://suno.com/song/1c332c52-ec2e-4f16-8f7e-13fea5714439)
 
 [Verse]
