@@ -48,3 +48,5 @@ _"Manos de hierro, fuerza final,
 Todo se quiebra bajo nuestra verdad.  
 Hierro y fuego, no hay perdón,  
 Somos la llama de tu destrucción."_  
+
+![[Manos de Hierro.png]]
