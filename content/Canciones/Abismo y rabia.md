@@ -74,3 +74,6 @@ Ricos de oro, van a pagar.
 Todo se quema, todo se va.
 ¡Ohhh!
 La muerte llama, nos salvará."
+
+![[Abismo y rabia.png]]
+
