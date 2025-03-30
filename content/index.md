@@ -31,6 +31,8 @@
 - [[Mallizal, Las Sombras del Tiempo]]
 - [[Orianna, El Murmullo del Bosque]]
 - [[Vengy, El Escudo que Nunca Cede]]
+- [[Abismo y rabia]]
+- [[Manos de Hierro]]
 
 ---
 
