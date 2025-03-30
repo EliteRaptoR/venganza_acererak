@@ -1,4 +1,4 @@
-#GPT #NoSubido
+#GPT
 ### [Haku: Marcha del Dragón Plateado](https://suno.com/song/b8ea85bd-7336-498a-add5-59ef9c66a559)
 
 [Intro]
@@ -438,3 +438,412 @@ Su sombra devora el cielo,
 Su risa quiebra la razón.
 El abismo es su reino eterno,
 ¡El arquitecto, la perdición!
+
+### [Abismo y Rabia](https://suno.com/song/1c332c52-ec2e-4f16-8f7e-13fea5714439)
+
+[Verse]
+Mira las calles, llenas de rabia,
+Los ricos arriba, nos miran con labia.
+Ellos reviven, nosotros caemos,
+La muerte nos llama, por eso nos vemos.
+El oro brilla, pero no te salva,
+Tu fe se quiebra, tu suerte se apaga.
+El juicio llega, ya no hay demora,
+Es la Tumba quien grita ahora.
+
+[Pre-Chorus]
+La muerte camina, el fuego quema,
+El pueblo se alza, nada nos frena.
+La verdad no calla, la fe no alcanza,
+Waterdeep tiembla, pierde balanza.
+
+[Chorus]
+"¡Ahhh!
+Dios de la muerte, ven a gritar.
+¡Ohhh!
+Ricos de oro, van a pagar.
+¡Ahhh!
+Todo se quema, todo se va.
+¡Ohhh!
+La muerte llama, nos salvará."
+
+[Verse]
+Mira su miedo, lo ves en sus ojos,
+El oro no brilla cuando hay despojos.
+Ellos rezaron, pero no escucharon,
+Los dioses se hartan, y nos condenaron.
+No hay salida, el juicio es total,
+La rabia del pueblo ya es infernal.
+Marcha la muerte, pisando Waterdeep,
+Los ricos tiemblan, ya no pueden huir.
+
+[Pre-Chorus]
+La muerte camina, el fuego quema,
+El pueblo se alza, nada nos frena.
+La verdad no calla, la fe no alcanza,
+Waterdeep tiembla, pierde balanza.
+
+[Chorus]
+"¡Ahhh!
+Dios de la muerte, ven a gritar.
+¡Ohhh!
+Ricos de oro, van a pagar.
+¡Ahhh!
+Todo se quema, todo se va.
+¡Ohhh!
+La muerte llama, nos salvará."
+
+[Bridge]
+¿Dónde están tus rezos ahora?
+¿Dónde está tu oro que todo devora?
+El fuego quema, el pueblo avanza,
+La sombra es nuestra, no hay esperanza.
+
+[Pre-Chorus]
+La muerte camina, el fuego quema,
+El pueblo se alza, nada nos frena.
+La verdad no calla, la fe no alcanza,
+Waterdeep tiembla, pierde balanza.
+
+[Chorus]
+"¡Ahhh!
+Dios de la muerte, ven a gritar.
+¡Ohhh!
+Ricos de oro, van a pagar.
+¡Ahhh!
+Todo se quema, todo se va.
+¡Ohhh!
+La muerte llama, nos salvará."
+
+### [El Descanso del Héroe](https://suno.com/song/1add61d9-a4ca-4049-b99f-c0ce9d14d86e)
+
+[Verse 1]
+"El viaje es largo, el camino pesa,
+Pero esta noche, todo regresa.
+En cada estrella, un sueño vivido,
+Al calor del fuego, todo es sentido."
+
+[Chorus]
+"Oh, oh, oh…
+Descansa, amigo, aquí estoy yo.
+Oh, oh, oh…
+Por hoy, el peso se olvidó."
+
+[Verse 2]
+"Un paso a la vez, juntos llegamos,
+El eco del pasado lo dejamos.
+Bajo la luna, deja fluir,
+Mañana el camino vuelve a surgir."
+
+[Chorus]
+"Oh, oh, oh…
+Descansa, amigo, aquí estoy yo.
+Oh, oh, oh…
+Por hoy, el peso se olvidó."
+
+[Bridge]
+"Orianna, escucha el viento soplar,
+Hakuryuu, tus escamas aquí brillarán.
+Ander, una canción más por cantar,
+Alistar, la justicia volverá a brillar."
+
+[Chorus]
+"Oh, oh, oh…
+Descansa, amigo, aquí estoy yo.
+Oh, oh, oh…
+Por hoy, el peso se olvidó."
+
+### [Héroes del Pueblo](https://suno.com/song/0331c195-c6d0-4790-a2a1-893d5f646045)
+
+[Intro]
+¡Oye!
+Mira quién llega, el pueblo lo celebra.
+Son los héroes de la tierra, el orgullo de esta era.
+
+[Verse]
+De las sombras regresaron, con su fuerza y su valor,
+Nyanzaru hoy se levanta, todo es celebración
+Ellos son nuestra esperanza, nuestra fuerza y tesón
+Nyanzaru nunca olvida, siempre canta con pasion.
+
+[Chorus]
+¡Ay, que vivan los héroes!
+Lucharon con fuerza, vencieron al mal.
+¡Ay, que vivan los héroes!
+Nyanzaru canta, su gloria es real.
+
+[instrumental]
+
+[Verse]
+Mami, mueve esas caderas, y di adios al dolor.
+Mientras waterdeep tiembla, aqui todo es color.
+Siente el ritmo que te lleva, el son de tu corazon.
+Nyanzaru nunca olvida, siempre canta con pasion.
+
+[Chorus]
+¡Ay, que vivan los héroes!
+Lucharon con fuerza, vencieron al mal.
+¡Ay, que vivan los héroes!
+Nyanzaru canta, su gloria es real.
+
+[instrumental]
+
+[Bridge]
+¡Oye Nyanzaru, levanta la mano!
+(¡Levanta la mano, que llegaron los hermanos!)
+¡Oye Nyanzaru, levanta la mano!
+(¡Levanta la mano, a dios los pecados)
+
+[Chorus]
+¡Ay, que vivan los héroes!
+Lucharon con fuerza, vencieron al mal.
+¡Ay, que vivan los héroes!
+Nyanzaru canta, su gloria es real.
+
+[instrumental]
+
+[Chorus]
+¡Ay, que vivan los héroes!
+Lucharon con fuerza, vencieron al mal.
+¡Ay, que vivan los héroes!
+Nyanzaru canta, su gloria es real.
+
+### [Manos de Hierro](https://suno.com/song/bd6181b7-c4d3-4e9b-8243-edd52ffcc076)
+
+_"Pisamos fuerte, marcamos el suelo,  
+Manos de hierro, el juicio es nuestro.  
+Nada perdona, todo lo alcanza,  
+El peso cae, la fe avanza."_  
+
+_"¡Purga!  
+¡Arde!   
+¡Siente el peso que invade!"_  
+
+
+_"Manos de hierro, fuerza final,  
+Todo se quiebra bajo nuestra verdad.  
+Hierro y fuego, no hay perdón,  
+Somos la llama de tu destrucción."_  
+
+
+_"Siente el calor, quema la piel,  
+Somos la luz que arrasa con él.  
+Cada palabra corta el pecado,  
+La fe nos guía, el mundo marcado."_  
+
+¡Arde! (goouuhh)
+¡Purga! (aahhhuu)
+¡Siente el peso que invade!"_  
+
+_"Manos de hierro, fuerza final,  
+Todo se quiebra bajo nuestra verdad.  
+Hierro y fuego, no hay perdón,  
+Somos la llama de tu destrucción."_  
+
+_¡Quema… pisa…
+Hierro sin prisa!
+La fe nos marca,
+El fuego avisa 
+¡Quema… pisa… 
+Hierro sin prisa! 
+La fe nos marca,
+El fuego avisa! 
+
+_¡Arde! 
+¡Purga! 
+¡Siente el peso que invade!"_  
+
+_"Manos de hierro, fuerza final,  
+Todo se quiebra bajo nuestra verdad.  
+Hierro y fuego, no hay perdón,  
+Somos la llama de tu destrucción."_  
+
+### [Tá no Risco da Tumba](https://suno.com/song/c95e97ae-a2a6-4f1c-94f8-795a65eff834)****
+
+[Verse 1]
+"Tá na Tumba, tá no som,
+Treme tudo, bate o tom.
+Uh, vai, vai, sem parar,
+Corre junto, bora jogar.
+Sente o fogo, sente o chão,
+O abismo chama, é destruição.
+Uh, vai, vai, não vai fugir,
+Tumba espera, vai decidir."
+
+*"Está en la Tumba, está en el sonido,*
+*Todo tiembla, el tono golpea.*
+*Uh, sigue, sigue, sigue y sigue,*
+*Corred juntos, juguemos.*
+*Siente el fuego, siente el suelo,*
+*El abismo llama, es destrucción.*
+*Uh, ve, ve, no huyas,*
+*Tumba espera, él decidirá".*
+
+[Chorus]
+"Bora, bora, uh, ah,
+Tá na Tumba, vem lutar!
+Bora, bora, uh, ah,
+Acererak vai cobrar!
+Bora, bora, uh, ah,
+Tá no jogo, vem jogar!
+Bora, bora, uh, ah,
+Acererak vai cobrar!"
+
+*"Vamos, vamos, uh, ah,
+Está en la Tumba, ¡ven a luchar!
+Vamos, vamos, uh, ah,
+¡Acererak cargará!
+Vamos, vamos, uh, ah,
+¡Está en el juego, ven a jugar!
+Vamos, vamos, uh, ah,
+¡Acererak atacará!"
+
+[Verse 2]
+"Bate forte, sobe o som,
+Uh, desliza, sente o dom.
+Tumba chama, vai cair,
+O abismo vai pedir.
+Vem no ritmo, bate aqui,
+O perigo dança, vem pra mim.
+Uh, vai, vai, energia,
+Tudo gira, faz magia."
+
+*"Golpea fuerte, el sonido sube,
+Deslízate, siente el regalo.
+La tumba llama, caerá,
+El abismo preguntará.
+Ven al ritmo, golpea aquí,
+El peligro baila, viene hacia mí.
+Uh, vamos, vamos, energía,
+Todo gira, se hace magia."
+
+[Chorus]
+"Bora, bora, uh, ah,
+Tá na Tumba, vem lutar!
+Bora, bora, uh, ah,
+Acererak vai cobrar!
+Bora, bora, uh, ah,
+Tá no jogo, vem jogar!
+Bora, bora, uh, ah,
+Acererak vai cobrar!"
+
+*"Vamos, vamos, uh, ah,
+¡Está en la Tumba, ven a luchar!
+Vamos, vamos, uh, ah,
+¡Acererak cargará!
+Vamos, vamos, uh, ah,
+¡Está en el juego, ven a jugar!
+Vamos, vamos, uh, ah,
+¡Acererak atacará!
+
+[intrumental bridge]
+
+[glitch voices]
+
+[pre chorus]
+"Tumba grita, sem perdão,
+Vem na vibe, sente o chão.
+Tá no risco, bate aí,
+Uh, ah, vem pra mim.
+Uh, ah, Acererak,
+O perigo é forte, vem atacar.
+Vem no risco, sem pensar,
+Uh, ah, bora lutar!"
+
+*"Tumba grita, sin perdón,
+Ven con la vibra, siente el suelo.
+Está en riesgo, golpéalo,
+Ah, ah, ven a mí.
+Ah, ah, Acererak.
+El peligro es fuerte, se trata de atacar.
+Ven a riesgo, sin pensar,
+¡Uh, ah, peleemos!”
+
+[Chorus]
+"Bora, bora, uh, ah,
+Tá na Tumba, vem lutar!
+Bora, bora, uh, ah,
+Acererak vai cobrar!
+Bora, bora, uh, ah,
+Tá no jogo, vem jogar!
+Bora, bora, uh, ah,
+Acererak vai cobrar!"
+
+*"Vamos, vamos, uh, ah,
+¡Está en la Tumba, ven a luchar!
+Vamos, vamos, uh, ah,
+¡Acererak cargará!
+Vamos, vamos, uh, ah,
+¡Está en el juego, ven a jugar!
+Vamos, vamos, uh, ah,
+¡Acererak atacará!"
+
+### [Wa Ba Ile!](https://suno.com/song/64902038-d5fb-471a-80a6-6717ba406b37)
+
+**[Verso 1: Voz Principal y Coro]**  
+_"E wa si ibi ayo, wa ba mi!_  
+_E wa si ibi ere, wa ba mi!_  
+(_Vengan a un lugar de alegría, ven conmigo!  
+Vengan a un lugar de juegos, ven conmigo!_)
+
+_Nyanzaru lo duro, aye fun!_  
+(_Nyanzaru está aquí, tierra abundante!_)
+
+_Omo gbogbo aye, wa ba mi!_  
+(_Hijos de todo el mundo, ven conmigo!_)
+
+---
+
+**[Coro: Llamado Rítmico]**  
+_"Wa ba mi, wa ba mi!_  
+_Nyanzaru, aye, wa ba mi!_  
+(_Ven conmigo, ven conmigo!  
+Nyanzaru, la tierra, ven conmigo!_)
+
+_"O ya, o ya, wa ba mi!_  
+_Nyanzaru, aye, wa ba mi!"_  
+(_Vamos, vamos, ven conmigo!  
+Nyanzaru, la tierra, ven conmigo!_)
+
+---
+
+**[Verso 2: Nueva Melodía con Variación]**  
+_"Aye ko ni lojo kan, wa ba mi!_  
+(_El mundo no tiene fin, ven conmigo!_)
+
+_Aye Nyanzaru lo kan, wa ba mi!_  
+(_Nyanzaru es el único lugar, ven conmigo!_)
+
+_Wa si ibi awon kan, aye fun!_  
+(_Ven al lugar de los elegidos, tierra abundante!_)
+
+_Omo gbogbo aye, wa ba mi!_  
+(_Hijos de todo el mundo, ven conmigo!_)
+
+---
+
+**[Puente: Llamado y Respuesta]**  
+_"Oya wa! (Wa ba mi!)_  
+(_¡Vamos allá! (Ven conmigo!)_)
+
+_Nyanzaru! (Aye fun!)_  
+(_¡Nyanzaru! (Tierra abundante!)_)
+
+_Omo aye! (Wa ba mi!)_  
+(_¡Hijos del mundo! (Ven conmigo!)_)
+
+_Ibi ayo! (Wa ba mi!)_  
+(_¡Un lugar de alegría! (Ven conmigo!)_)
+
+---
+
+**[Coro Final: Gran Final Rítmico]**  
+_"Wa ba mi, wa ba mi!_  
+_Nyanzaru, aye, wa ba mi!_  
+(_Ven conmigo, ven conmigo!  
+Nyanzaru, la tierra, ven conmigo!_)
+
+_"O ya, o ya, wa ba mi!_  
+_Nyanzaru, aye, wa ba mi!"_  
+(_Vamos, vamos, ven conmigo!  
+Nyanzaru, la tierra, ven conmigo!_)
