@@ -1,5 +1,5 @@
 #Jugadores
-## **Malizal, el Hechicero del Vacio**
+## **Malizal, el Hechicero del Vacío**
 
 ---
 ![[Malizall.webp]]
