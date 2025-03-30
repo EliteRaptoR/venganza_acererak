@@ -35,7 +35,7 @@
 - [[Hakuryu, Marcha del Dragón Plateado]]
 - [[Mallizal, Las Sombras del Tiempo]]
 - [[Orianna, El Murmullo del Bosque]]
-- [[Vengy, El Escudo que Nunca Cede]]
+- [[Vengy, La Llama Inquebrantable]]
 - [[Abismo y rabia]]
 - [[Manos de Hierro]]
 
