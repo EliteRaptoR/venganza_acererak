@@ -1,4 +1,4 @@
-#Jugadores #NoSubido
+#Jugadores 
 ### [Manos de Hierro](https://suno.com/song/bd6181b7-c4d3-4e9b-8243-edd52ffcc076)
 
 _"Pisamos fuerte, marcamos el suelo,  
