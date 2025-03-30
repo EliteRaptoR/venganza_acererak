@@ -658,125 +658,7 @@ Todo se quiebra bajo nuestra verdad.
 Hierro y fuego, no hay perdón,  
 Somos la llama de tu destrucción."_  
 
-### [Tá no Risco da Tumba](https://suno.com/song/c95e97ae-a2a6-4f1c-94f8-795a65eff834)****
-
-[Verse 1]
-"Tá na Tumba, tá no som,
-Treme tudo, bate o tom.
-Uh, vai, vai, sem parar,
-Corre junto, bora jogar.
-Sente o fogo, sente o chão,
-O abismo chama, é destruição.
-Uh, vai, vai, não vai fugir,
-Tumba espera, vai decidir."
-
-*"Está en la Tumba, está en el sonido,*
-*Todo tiembla, el tono golpea.*
-*Uh, sigue, sigue, sigue y sigue,*
-*Corred juntos, juguemos.*
-*Siente el fuego, siente el suelo,*
-*El abismo llama, es destrucción.*
-*Uh, ve, ve, no huyas,*
-*Tumba espera, él decidirá".*
-
-[Chorus]
-"Bora, bora, uh, ah,
-Tá na Tumba, vem lutar!
-Bora, bora, uh, ah,
-Acererak vai cobrar!
-Bora, bora, uh, ah,
-Tá no jogo, vem jogar!
-Bora, bora, uh, ah,
-Acererak vai cobrar!"
-
-*"Vamos, vamos, uh, ah,
-Está en la Tumba, ¡ven a luchar!
-Vamos, vamos, uh, ah,
-¡Acererak cargará!
-Vamos, vamos, uh, ah,
-¡Está en el juego, ven a jugar!
-Vamos, vamos, uh, ah,
-¡Acererak atacará!"
-
-[Verse 2]
-"Bate forte, sobe o som,
-Uh, desliza, sente o dom.
-Tumba chama, vai cair,
-O abismo vai pedir.
-Vem no ritmo, bate aqui,
-O perigo dança, vem pra mim.
-Uh, vai, vai, energia,
-Tudo gira, faz magia."
-
-*"Golpea fuerte, el sonido sube,
-Deslízate, siente el regalo.
-La tumba llama, caerá,
-El abismo preguntará.
-Ven al ritmo, golpea aquí,
-El peligro baila, viene hacia mí.
-Uh, vamos, vamos, energía,
-Todo gira, se hace magia."
-
-[Chorus]
-"Bora, bora, uh, ah,
-Tá na Tumba, vem lutar!
-Bora, bora, uh, ah,
-Acererak vai cobrar!
-Bora, bora, uh, ah,
-Tá no jogo, vem jogar!
-Bora, bora, uh, ah,
-Acererak vai cobrar!"
-
-*"Vamos, vamos, uh, ah,
-¡Está en la Tumba, ven a luchar!
-Vamos, vamos, uh, ah,
-¡Acererak cargará!
-Vamos, vamos, uh, ah,
-¡Está en el juego, ven a jugar!
-Vamos, vamos, uh, ah,
-¡Acererak atacará!
-
-[intrumental bridge]
-
-[glitch voices]
-
-[pre chorus]
-"Tumba grita, sem perdão,
-Vem na vibe, sente o chão.
-Tá no risco, bate aí,
-Uh, ah, vem pra mim.
-Uh, ah, Acererak,
-O perigo é forte, vem atacar.
-Vem no risco, sem pensar,
-Uh, ah, bora lutar!"
-
-*"Tumba grita, sin perdón,
-Ven con la vibra, siente el suelo.
-Está en riesgo, golpéalo,
-Ah, ah, ven a mí.
-Ah, ah, Acererak.
-El peligro es fuerte, se trata de atacar.
-Ven a riesgo, sin pensar,
-¡Uh, ah, peleemos!”
-
-[Chorus]
-"Bora, bora, uh, ah,
-Tá na Tumba, vem lutar!
-Bora, bora, uh, ah,
-Acererak vai cobrar!
-Bora, bora, uh, ah,
-Tá no jogo, vem jogar!
-Bora, bora, uh, ah,
-Acererak vai cobrar!"
-
-*"Vamos, vamos, uh, ah,
-¡Está en la Tumba, ven a luchar!
-Vamos, vamos, uh, ah,
-¡Acererak cargará!
-Vamos, vamos, uh, ah,
-¡Está en el juego, ven a jugar!
-Vamos, vamos, uh, ah,
-¡Acererak atacará!"
+---
 
 ### [Wa Ba Ile!](https://suno.com/song/64902038-d5fb-471a-80a6-6717ba406b37)
 
@@ -847,3 +729,179 @@ _"O ya, o ya, wa ba mi!_
 _Nyanzaru, aye, wa ba mi!"_  
 (_Vamos, vamos, ven conmigo!  
 Nyanzaru, la tierra, ven conmigo!_)
+
+### [Acererak: La Risa del Lich](https://suno.com/song/90b86cec-0b46-4127-b142-2b5056038722)
+
+[Verse 1]
+"Hakuryuu, dragón sin filo,
+Tu fuerza no basta, corazón frío.
+Myrym está lejos, nunca volverá,
+Tu alma vacía solo ruina hallará."
+
+[Verse 2]
+"Orianna, protectora fallida,
+Tu bosque se quiebra, tu causa es perdida.
+El dragón que amas no podrá escapar,
+Pronto en mi abismo lo voy a atrapar."
+
+[Pre-Chorus]
+Mis cadenas los esperan,
+ no hay redención,
+Sus vidas son polvo,
+su lucha es ficción.
+
+[Chorus]
+Sus almas me sirven
+en mi juego mortal.
+Yo soy la muerte, 
+el abismo,  el final,
+
+[Verso 3]
+"Malizal, perdido en la sombra,
+Tu pacto se quiebra, tu magia se escombra.
+Cada hechizo tuyo refuerza mi poder,
+Tu vacío eterno nunca va a ceder."
+
+[Verso 4]
+Y Vengy, escudo quebrado,
+Tu fuerza se pierde, tu juicio olvidado.
+Tus plegarias mueren, nadie las verá,
+Lazander te escucha, pero nada hará
+
+[Pre-Chorus]
+Mis cadenas los esperan,
+ no hay redención,
+Sus vidas son polvo,
+su lucha es ficción.
+
+[Chorus]
+Sus almas me sirven
+en mi juego mortal.
+Yo soy la muerte, 
+el abismo,  el final,
+
+[Verse 5]
+Ander, bufón sin melodía,
+Tus notas son pena, tu vida vacía.
+Tu risa se pierde, no tiene lugar,
+Como tus canciones, todo va a callar.
+
+[Verse 6]
+Alistar, el que más pena me da,
+orgulloso perro con su collar,
+suplicas a tus dioses dime donde estan,
+dejate de orden si quieres ganar,
+
+[Pre-Chorus]
+Mis cadenas los esperan,
+ no hay redención,
+Sus vidas son polvo,
+su lucha es ficción.
+
+[Chorus]
+Sus almas me sirven
+en mi juego mortal.
+Yo soy la muerte, 
+el abismo,  el finaaaal
+
+Yo soy la muerte, 
+el abismo,  el finaaaal
+
+### [Grietas en la Oscuridad](https://suno.com/song/dab9441b-9ec1-494d-a086-5c50b7936327)
+
+[Intro: Guitar Melody and Distorted Whispers]
+El poder lo es todo… el poder soy yo…
+El arquitecto me guía… el arquitecto soy yo.
+
+[Verse 1: Sinister and Resolute Voice]
+Ya no hay cadenas, ya no hay temor,
+El abismo es mío, me da su favor.
+Renuncié a mi nombre, olvidé quién fui,
+Ahora soy el eco de un poder sin fin.
+
+[Chorus: Commanding Choir and Rising Intensity]
+Acererak me alza, su sombra es mi voz,
+El abismo llama, me entrega su don.
+Los héroes no ven lo que hay en mi ser,
+Soy su verdugo, soy su poder.
+
+[Bridge: Whispered Conviction and Glitch Effects]
+El fuego me guía, mi mente es suya,
+Cada paso un pacto, cada risa un grito.
+No hay cadenas que rompan este control,
+No soy nada… no soy yo…
+
+[Verse 2: Commanding Voice with a Hint of Conflict]
+Los héroes llegan, intentan luchar,
+Pero mi alma es roca, no va a quebrar.
+Ansié este destino, lo tomé sin temblar,
+El arquitecto reina, soy su voluntad.
+
+[Chorus: Commanding Choir and Rising Intensity]
+Acererak me alza, su sombra es mi voz,
+El abismo llama, me entrega su don.
+Los héroes no ven lo que hay en mi ser,
+Soy su verdugo, soy su poder.
+
+[Climax: Intensely Chaotic Vocals and Percussion]
+Pero en las sombras… hay algo que late,
+Un eco perdido… que el abismo abate.
+Entre las grietas… una luz escondida,
+Una chispa olvidada… ¿aún queda vida?
+
+[Chorus: Commanding Choir and Rising Intensity]
+Acererak me alza, su sombra es mi voz,
+El abismo llama, me entrega su don.
+Los héroes no ven lo que hay en mi ser,
+Soy su verdugo, soy su poder.
+
+
+### [La Luz que Nos Guía](https://suno.com/song/fdccc321-4b80-4e24-899f-2b21e0903d9d)
+
+[Instrumental Intro]
+ooooo
+aaaaa
+ooooo
+uuuuu
+
+[Verse 1]
+En tus manos llevaste la justicia,
+tu escudo fue luz en la tormenta.
+Cada paso marcó nuestro camino,
+tu memoria será siempre eterna.
+
+[Chorus]
+Oh, guía, luz de esperanza,
+tu sacrificio nos dio redención.
+Bajo las estrellas, tu nombre descansa,
+serás faro en nuestra misión.
+
+[Verse 2]
+La tierra reclama tus pasos,
+el cielo se viste de luto.
+Pero en cada corazón que tocaste,
+vive la fuerza de tu escudo.
+
+[Chorus]
+Oh, guía, luz de esperanza,
+tu sacrificio nos dio redención.
+Bajo las estrellas, tu nombre descansa,
+serás faro en nuestra misión.
+
+[Bridge]
+Hoy dejamos tu cuerpo al descanso,
+pero no tu legado ni tu voz.
+Tu justicia vive en nuestro andar,
+tu luz nunca se apagará.
+
+[Chorus]
+Oh, guía, luz de esperanza,
+tu sacrificio nos dio redención.
+Bajo las estrellas, tu nombre descansa,
+serás faro en nuestra misión.
+
+[Outro]
+La llama se apaga,
+pero su calor nos acompaña.
+Bajo las estrellas, 
+tu nombre descansa.
