@@ -63,3 +63,5 @@ Mis sombras te esperan
 tu miedo las llama
 Soy el abismo que siempre te gana
 Y tu una luz apagada
+
+![[Alistar, Luz apagada.png]]
