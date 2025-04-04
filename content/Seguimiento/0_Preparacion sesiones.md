@@ -1,232 +1,289 @@
-#GPT
+#GPT #NoSubido
 
-# Sesión 1
+# Capitulo 1: Ecos de Gloria
+---
+## Sesión 0
 
-## Contexto Inicial del Mundo
+### Introducción General**
 
-Hace varios años, los héroes enfrentaron y derrotaron la maldición de la muerte, liberando al mundo del temible Atropal y desmantelando los planes de Acererak. Sin embargo, la gloria que les acompañó en un principio se desvaneció con el tiempo. La sociedad, dividida y temerosa, comenzó a buscar culpables para los desastres naturales, los extraños disturbios mágicos y la reciente aparición de demonios.
-
-En este mundo de caos, los héroes viven ahora vidas separadas, cargando con el peso de su pasado. La amenaza de Acererak persiste, pues fragmentos de su filacteria permanecen activos, alimentando su sed de venganza. Los héroes están a punto de enfrentarse a una nueva prueba, una que pondrá a prueba no solo su fuerza, sino también su humanidad.
+> _"Han pasado dos años desde los eventos de la Tumba de la Aniquilación. El mundo que una vez salvaron se ha transformado, y no todos creen que lo que hicieron fue correcto. Cada uno de ustedes ha seguido su camino, lidiando con las consecuencias de sus decisiones y los sacrificios realizados. Esta sesión está diseñada para que se conecten con sus personajes, comprendan dónde están emocional y físicamente, y reflexionen sobre cómo se sienten en este mundo incierto. Hoy no habrá combates ni decisiones importantes, solo el viaje interno de sus personajes y la conexión con el contexto que los rodea."_
 
 ---
 
-## Escenas Iniciales de los Personajes
+### Presentación Individual**
 
-### **Hakuryuu: La Nostalgia de la Grandeza**
+#### **1. Hakuryuu: El Guerrero Despojado**
+[[Hakuryu, El Orgullo del Dragón]]
+
+> _"Hakuryuu, el orgulloso dragón plateado, se encuentra en el centro de su mansión en Waterdeep, rodeado de lujos que antes representaban su gloria. Las escamas brillantes que una vez simbolizaron su grandeza ahora reflejan una luz tenue bajo el crepitar de las antorchas. La mesa del comedor está repleta de manjares, pero el peso de su pérdida lo mantiene distante. Myrrym, la espada que definió su identidad, sigue siendo un vacío tangible en su vida. Los sirvientes murmuran entre ellos mientras intentan no llamar su atención, sabiendo que cualquier pequeño error podría despertar su furia. Hakuryuu alza la mirada hacia un tapiz que narra su victoria sobre la Maldición de la Muerte, pero solo ve un recordatorio de lo que ya no tiene. En el silencio de la noche, los ecos de una cadena quebrada parecen susurrar su nombre."_
+
+**Pregunta Reflexiva:**
+
+- _¿Qué ves en ese tapiz, Hakuryuu? ¿Un legado perdido o un desafío por recuperar?_
+
+---
+
+#### **2. Orianna: La Guardiana del Bosque**
+[[Orianna, El Murmullo del Bosque]]
+
+> _"Orianna se encuentra en el corazón del bosque que ha jurado proteger. El claro central, normalmente vibrante de vida, ahora está cubierto por una sombra ominosa. Los árboles que alguna vez murmuraban canciones de tranquilidad están en silencio, como si el mismo bosque contuviera el aliento. A su lado, el dragón verde observa, inmóvil, las marcas recientes en el suelo: huellas de bestias que no pertenecen a este lugar. Orianna siente la corrupción en el aire, una intrusión que desafía la pureza que ha intentado preservar. A pesar de su desdén hacia la humanidad, sus pensamientos vuelven a sus compañeros, a aquellos que alguna vez lucharon a su lado. Pero mientras las ramas crujen a la distancia, la pregunta persiste: ¿puedes protegerlo todo sola?"_
+
+**Pregunta Reflexiva:**
+
+- _Cuando sientes que el bosque se oscurece, ¿qué emociones te invaden? ¿Rabia, miedo o esperanza?_
+
+---
+
+#### **3. Ander: El Bardo Apagado**
+[[Ander, Canciones al Viento]]
+
+> _"Ander tambalea al salir de una taberna en los suburbios de Waterdeep. Las luces de la calle parecen más tenues de lo habitual, o tal vez es su visión borrosa por el alcohol. Su capa, antes llena de colores vibrantes, ahora cuelga pesada y raída. En una mano sostiene su lira, un recuerdo polvoriento de un pasado más brillante. Mientras se adentra en la noche, los murmullos burlones de los clientes de la taberna resuenan en su cabeza, mezclándose con la culpa y las memorias de un error que no puede olvidar. Cada paso parece más difícil que el anterior, pero Ander no sabe si su tambaleo es físico o emocional. A lo lejos, un perro flacucho lo observa, como si buscara algo en él que Ander cree haber perdido."_
+
+**Pregunta Reflexiva:**
+
+- _Cuando ves al perro bajo la tenue luz de las calles, ¿qué sientes? ¿Compasión, indiferencia o una chispa de algo que creías perdido?_
+
+---
+
+#### **4. Vengy: El Paladín Caído**
+[[Vengy, La Llama Inquebrantable]]
+
+> _"Vengy está encerrado en una celda oscura y húmeda en las mazmorras de Waterdeep. Las cadenas oxidadas que cuelgan de las paredes reflejan la tenue luz que entra por una pequeña ventana alta. Sentado en el suelo de piedra fría, Vengy mira las marcas que ha grabado en la pared, un intento de medir el tiempo que lleva encerrado. La acusación de colaborar con traficantes y estafadores pesa sobre él, pero lo que más lo atormenta es el eco de su propio corazón. Cada vez que cierra los ojos, recuerda los momentos en que su fe era el refugio de otros. Ahora, su propósito parece tan lejano como la luz del amanecer."_
+
+**Pregunta Reflexiva:**
+
+- _En esta celda, ¿qué es lo que más te duele: la injusticia de tu encarcelamiento o la duda de que quizá no mereces el escudo que portabas?_
+
+---
+
+#### **5. Alistar: El Escudo de la Ley**
+[[Alistar, Luz pagada]]
+
+> _"Alistar se encuentra frente al altar del templo de Tyr en Waterdeep. La balanza dorada que cuelga sobre el altar parece más apagada de lo normal, como si reflejara las dudas que lo consumen. De pie, con su armadura brillante pero marcada por el uso, Alistar se inclina ligeramente en oración. Su voz, que antes resonaba con la firmeza de la justicia, ahora es un susurro cargado de preguntas sin respuesta. Detrás de él, las puertas del templo se entreabren, dejando entrar los ecos de una multitud enfurecida que grita consignas contra la iglesia y los héroes de la Maldición de la Muerte. En ese momento, Alistar se pregunta: ¿puede la balanza de Tyr soportar el peso de un mundo tan quebrado?"_
+
+**Pregunta Reflexiva:**
+
+- _Mientras escuchas los gritos de la multitud afuera, ¿qué sientes: el deber de protegerlos o la tentación de rendirte?_
+
+---
+
+#### **6. Malizal: El Hechicero Vacío**
+[[Mallizal, Las Sombras del Tiempo]]
+
+> _"En una cabaña apartada en las montañas, Malizal se sienta frente a una chimenea apagada, con el grimorio en su regazo abierto en una página que no ha leído en semanas. Su cabello desordenado cuelga sobre sus ojos mientras contempla el fuego inexistente. La cabaña está llena de polvo y silencio, un reflejo de su alma desgastada. A su lado, un búho perezoso lo observa con ojos cansados, como si compartiera su melancolía. Malizal sabe que el mundo está cambiando, que la corrupción se extiende, pero su corazón parece no encontrar la fuerza para levantarse. Sin embargo, en lo profundo de su mente, una pequeña llama de su conexión con Lathander sigue parpadeando, esperando ser avivada."_
+
+**Pregunta Reflexiva:**
+
+- _Cuando sientes esa pequeña chispa de conexión con Lathander, ¿qué te detiene de encender el fuego de nuevo? ¿Es el miedo al fracaso o algo más?_
+
+---
+### Exposion de la normas
+
+Explicar que estamos en un contexto de homebrew elevado.
+Explicar nuevas normas.
+
+[[Sistema de Descansos]]
+[[Vida y muerte]]
+
+
+---
+## Sesión 1
+
+### Contexto Inicial del Mundo
+
+**Cancion acererak**
+[[Acererak, El Arquitecto de la Muerte]]
+
+> _"Hace varios años, nos enfrentamos y derrotámos a la maldición de la muerte, liberando al mundo del temible Atropal y desmantelando los planes de Acererak. Sin embargo, la gloria que nos acompañó en un principio se desvaneció con el tiempo. La sociedad, dividida y temerosa, comenzó a buscar culpables para los desastres naturales, los extraños disturbios mágicos y la reciente aparición de rituales de sacrificios paganos."_
+> _"En este mundo de caos, los héroes viven ahora vidas separadas, cargando con el peso de su pasado. La amenaza de Acererak persiste, pues fragmentos de su filacteria permanecen activos, alimentando su sed de venganza. Los héroes están a punto de enfrentarse a una nueva prueba, una que pondrá a prueba no solo su fuerza, sino también su humanidad._
+
+
+#### El Despertar del Pueblo
+
+> Mientras tanto, en las calles y aldeas del reino, una peligrosa semilla ha germinado entre aquellos más desfavorecidos. Muchos ciudadanos, cansados de las privaciones y desigualdades, ven en la antigua maldición una mentira elaborada por los poderosos para justificar su propio beneficio. Sostienen que la maldición afectaba únicamente a aquellos privilegiados capaces de pagar los costosos rituales de resurrección, dejando claro que los dioses nunca quisieron favorecer a los ricos y poderosos. Esta convicción ha dado lugar a un creciente movimiento de resistencia popular que niega la versión oficial de los hechos y desconfía profundamente de los antiguos héroes. Para este grupo, la verdad es simple y cruda: los poderosos han abusado de ellos durante demasiado tiempo, y cualquier narrativa oficial no es más que otra herramienta de opresión.
+
+[[Abismo y rabia]]
+#### La Nueva Fe y la Inquisición
+
+> En medio de este descontento generalizado, una nueva religión ha comenzado a extenderse como un fuego en pasto seco. Sus fieles proclaman la existencia de una entidad suprema, un dios oculto y desconocido, más allá de cualquier deidad conocida hasta ahora. Aseguran que la antigua maldición fue la prueba definitiva de su existencia, ya que ningún dios tradicional pudo detenerla ni revertir sus efectos con sus conjuros de resurrección. Esta fe radical, aún sin nombre, ha formado rápidamente una Inquisición decidida a erradicar toda práctica mágica poderosa, considerándola una herejía y un peligro para la estabilidad del mundo. Esto los ha enfrentado directamente con los grandes templos y clérigos de Waterdeep, seguidores de Lathander, Tyr y otras deidades poderosas, que ahora deben defenderse no solo de la desconfianza popular, sino también del fanatismo violento de estos inquisidores.
+> 
+> Así, el mundo se encuentra al borde de una guerra entre clases y creencias, un conflicto que amenaza con consumir todo aquello por lo que alguna vez lucharon los héroes. Es en este contexto turbulento que aquellos que una vez salvaron al mundo deberán reunirse nuevamente, enfrentando enemigos externos e internos, y descubriendo si realmente pueden mantener intacta su humanidad frente a la adversidad.
+
+[[Manos de Hierro]]
+### Escenas Iniciales de los Personajes
+
+#### **Hakuryuu: La Nostalgia de la Grandeza**
 
 **Ubicación:** Una lujosa mansión en la capital de Waterdeep.
 
-**Narración del Lugar:**
+**Nota: Poner la cancion**
+[[Hakuryu, El Orgullo del Dragón]]
 
-La mansión de Hakuryuu es un monumento al exceso. Columnas de mármol decoran la entrada principal, y un par de estatuas de dragones plateados flanquean las puertas de doble hoja. En el interior, el suelo de baldosas reluce bajo la luz de arañas de cristal, mientras tapices adornados con escenas de batallas gloriosas cubren las paredes. Sin embargo, hay una frialdad en este lugar, como si toda la opulencia careciera de alma.
+> La mansión de Hakuryuu es un monumento al exceso. Columnas de mármol decoran la entrada principal, y un par de estatuas de dragones plateados flanquean las puertas de doble hoja. En el interior, el suelo de baldosas reluce bajo la luz de arañas de cristal, mientras tapices adornados con escenas de batallas gloriosas cubren las paredes. Sin embargo, hay una frialdad en este lugar, como si toda la opulencia careciera de alma.
 
-**Narración del Personaje:**
+> "Hakuryuu, el orgulloso dragonborn de plata, se encuentra en la sala principal, envuelto en la fragancia pesada del incienso importado que intenta inútilmente calmar sus nervios. Vestido con una túnica bordada en hilo de plata, inspecciona con desdén un plato exquisito que un sirviente le ha servido. "¿Esto es todo lo que puedes ofrecerme?" gruñe, apartando el plato con un gesto teatral. El resonar metálico del plato al chocar con la mesa hace estremecer al sirviente. Pese a estar rodeado de lujo, sus ojos delatan una profunda insatisfacción. Myrym, su espada perdida, es un espectro que lo atormenta constantemente. Cada día que pasa sin ella se siente como una derrota más profunda y amarga."
 
-Hakuryuu, el orgulloso dragonborn de plata, se encuentra en la sala principal. Vestido con una tónica bordada en hilo de plata, inspecciona con desdén un plato que un sirviente le ha servido. "¿Esto es todo lo que puedes ofrecerme?" gruñe, apartando el plato con un gesto teatral. Pese a estar rodeado de lujo, sus ojos delatan una insatisfacción profunda. Myrrym, su espada perdida, es un espectro que lo atormenta. Cada día que pasa sin ella es un día de derrota.
+**¿Quieres añadir algo?
+
+> De pronto, una explosión de pura oscuridad sacude violentamente la mansión. En la parte posterior de la sala principal, la realidad misma parece fracturarse, y una onda expansiva destroza todo a su paso: sillas, tapices y decoraciones vuelan por los aires, hechos añicos. Los sirvientes caen al suelo, arrastrados por la fuerza brutal del impacto, incapaces siquiera de gritar en medio del caos repentino.
+
+> Solo Hakuryuu permanece firme. Su imponente figura se mantiene erguida, sus músculos tensos y sus garras hundiéndose en las baldosas para soportar la violencia de la explosión. Sus escamas plateadas brillan tenuemente bajo la luz enfermiza que comienza a emanar desde el origen del desastre.
+
+> Una nube negra, espesa y sofocante, llena ahora el fondo de la estancia. De ella, surgen lentamente tres siluetas humanoides, distorsionadas y repugnantes, corrompidas hasta lo irreconocible. Sus cuerpos, deformes y retorcidos, muestran carne putrefacta y extremidades grotescas terminadas en garras oscuras y afiladas. Ojos vacíos y ardientes brillan en sus rostros desfigurados, y de sus bocas abiertas brota un hedor a corrupción absoluta.
+
+> Estas criaturas demoníacas avanzan hacia ti, Hakuryuu, con movimientos espasmódicos y amenazantes. La oscuridad misma parece susurrar tu nombre, retándote a enfrentar una vez más la pesadilla que creías haber dejado atrás.
+
+> _"Las criaturas avanzan, extendiendo sus garras oscuras hacia ti. Una sensación familiar de desafío y peligro recorre cada escama de tu cuerpo. Pero antes de que puedas reaccionar, antes siquiera de que puedas desenvainar el arma que ya no posees, el mundo parece detenerse por un instante."_
+
+**(Pausa breve aquí, mirando al jugador directamente a los ojos)
+
+> _"¿Qué significará todo esto, Hakuryuu? ¿Estás preparado para enfrentarte a tu pasado una vez más?"_
+
+**Pasamos al siguiente personaje**
 
 ---
 
-### **Orianna: Guardiana del Bosque**
+#### **Orianna: Guardiana del Bosque**
 
 **Ubicación:** Un bosque frondoso y lleno de vida.
 
-**Narración del Lugar:**
+**Nota: Poner la canción**
+[[Orianna, El Murmullo del Bosque]]
 
-El bosque que Orianna llama hogar es un paraíso vibrante. Los rayos del sol se filtran a través del dosel, proyectando patrones dorados sobre el suelo cubierto de musgo. Una brisa suave mueve las hojas, llevando el aroma fresco de la tierra y las flores silvestres. En el centro de este idilio, un árbol milenario se alza como un guardián imponente, sus raíces extendiéndose como arterias a través del terreno.
+> El bosque que Orianna llama hogar es un paraíso vibrante. Los rayos del sol se filtran a través del dosel, proyectando patrones dorados sobre el suelo cubierto de musgo. Una brisa suave mueve las hojas, llevando el aroma fresco de la tierra y las flores silvestres. En el centro de este idilio, un árbol milenario se alza como un guardián imponente, sus raíces extendiéndose como arterias a través del terreno.
 
-**Narración del Personaje:**
+> Orianna, una tiefling de piel carmesí, se arrodilla junto al tronco del árbol milenario. Sus dedos trazan círculos sobre la corteza mientras murmura una oración. Un dragón verde juvenil se encuentra cerca, observándola con ojos astutos y llenos de lealtad. La tranquilidad de este momento es un respiro raro para Orianna, quien ha encontrado en este bosque el refugio que el mundo le negó.
 
-Orianna, una tiefling de piel carmesí, se arrodilla junto al tronco del árbol milenario. Sus dedos trazan círculos sobre la corteza mientras murmura una oración. Un dragón verde juvenil se encuentra cerca, observándola con ojos astutos y llenos de lealtad. La tranquilidad de este momento es un respiro raro para Orianna, quien ha encontrado en este bosque el refugio que el mundo le negó.
+**¿Quieres añadir algo?
+
+> De repente, el suelo bajo tus pies emite un chasquido seco, como un hueso quebrándose, seguido de un sutil temblor que sacude suavemente el bosque. La brisa, siempre constante compañera, se detiene bruscamente. Las hojas, que antes murmuraban suavemente, ahora permanecen inmóviles, congeladas en una quietud antinatural.
+
+> Orianna, notas con alarma cómo tu conexión con el árbol milenario vibra y se agita, como si la propia naturaleza estuviese conteniendo la respiración. Antes de que puedas reaccionar, un estruendo profundo retumba bajo la tierra, haciéndote estremecer hasta los huesos. El suelo se desploma por una fracción de segundo, llevándote consigo en una sensación vertiginosa, como si el mundo mismo se estuviera hundiendo bajo tus pies.
+
+> La tierra tiembla violentamente, derribándote al suelo mientras justo delante de ti—entre el árbol ancestral y tu figura caída—una grieta comienza a abrirse lentamente con un sonido desgarrador. De ella emanan un hedor fétido y asfixiante, un vapor amarillo malsano que arde en los pulmones, y una luz enfermiza y tenebrosa que contrasta horriblemente con la belleza del bosque.
+
+> Las sacudidas aumentan en intensidad, hasta que finalmente la abertura alcanza casi medio metro de ancho. Cuando la tierra finalmente cesa su convulsión, intentas incorporarte, tu corazón latiendo acelerado. Es entonces cuando ves, emergiendo lentamente desde las profundidades oscuras de la grieta, unas garras deformes y oscuras que se aferran al borde de la abertura con una intención clara y amenazante: algo está escalando hacia la superficie.
+
+**(Pausa breve aquí, mirando al jugador directamente a los ojos)
+
+> "Orianna, algo oscuro y terrible asciende desde las profundidades mismas de tu bosque sagrado. ¿Qué estarás dispuesta a sacrificar para proteger aquello que amas?"
 
 ---
 
-### **Ander: La Sombra del Bardo**
+#### **Ander: La Sombra del Bardo**
 
 **Ubicación:** Una taberna oscura en los suburbios de Waterdeep.
 
-**Narración del Lugar:**
+**Nota: Poner la canción**
+[[Ander, Canciones al Viento]]
 
-La taberna es un lugar deslucido, con mesas de madera gastada y paredes ennegrecidas por el humo. Una única lamparilla parpadea en la barra, proyectando sombras alargadas. Los clientes, en su mayoría borrachos, murmuran entre sí o lanzan carcajadas ruidosas. El aire huele a cerveza rancia y sudor.
+> La taberna es un lugar deslucido, con mesas de madera gastada y paredes ennegrecidas por el humo. Una única lamparilla parpadea en la barra, proyectando sombras alargadas. Los clientes, en su mayoría borrachos, murmuran entre sí o lanzan carcajadas ruidosas. El aire huele a cerveza rancia y sudor.
 
-**Narración del Personaje:**
+> En una esquina, Ander, un halfling bardo, canta una balada desafinada mientras tambalea sobre un taburete. Su voz, una vez poderosa, está apagada por el alcohol y la desesperación. Algunos clientes le lanzan monedas mientras otros se burlan abiertamente. _"¡Eso es todo lo que tienes, bufón!"_ grita uno, seguido de risas burlonas. Ander finge no escuchar, pero sus hombros caídos y su mirada perdida cuentan otra historia.
 
-En una esquina, Ander, un halfling bardo, canta una balada desafinada mientras tambalea sobre un taburete. Su voz, una vez poderosa, está apagada por el alcohol y la desesperación. Algunos clientes le lanzan monedas mientras otros se burlan abiertamente. _"¡Eso es todo lo que tienes, bufón!"_ grita uno, seguido de risas burlonas. Ander finge no escuchar, pero sus hombros caídos y su mirada perdida cuentan otra historia.
+**¿Quieres añadir algo?
+
+> Finalmente, incapaz de soportar más burlas, Ander sale tambaleándose de la taberna hacia el frío punzante de la noche. Las calles están vacías, iluminadas tenuemente por la luz de una luna menguante. En la esquina, el mismo perro flacucho que siempre le espera levanta la cabeza, sus ojos grandes y brillantes clavados en él con una mezcla extraña de curiosidad y fidelidad. Ander se detiene, contemplándolo en silencio. Piensa que quizá ese perro, abandonado y olvidado como él, es el único que aún puede ver algo digno en su interior; algo que él mismo ya no consigue reconocer.
+
+> Justo en ese momento, mientras Ander contempla al perro con esos pensamientos amargos y tiernos, una explosión de oscuridad fractura la realidad al fondo de la calle. De un portal abisal surgen criaturas grotescas y deformes, su carne corrupta brillando a la luz pálida de la luna. El perro, sobresaltado, comienza a ladrar frenéticamente contra la amenaza, pero las criaturas avanzan indiferentes, con garras extendidas, hacia él.
+
+> Un escalofrío recorre a Ander al ver que el animal está en peligro. Algo profundo despierta en su interior, sacudiendo la niebla que ha envuelto su corazón durante tanto tiempo. Su respiración se acelera, sus manos se cierran en puños, y siente por primera vez en mucho tiempo una chispa de determinación arder en su pecho.
+
+**(Pausa breve aquí, mirando al jugador directamente a los ojos)
+
+> _Ander, ¿Hasta dónde estarás dispuesto a llegar para proteger esa última chispa de esperanza?_
 
 ---
 
-### **Vengy: El Paladín Caído**
+#### **Vengy: El Paladín Caído**
 
 **Ubicación:** Una celda oscura en las mazmorras de Waterdeep.
 
-**Narración del Lugar:**
+**Nota: Poner la canción**
+[[Vengy, La Llama Inquebrantable]]
 
-La celda es fría y húmeda, con paredes de piedra cubiertas de musgo. Una pequeña ventana alta deja entrar apenas un rayo de luz, iluminando las cadenas oxidadas colgadas en una esquina. Los pasos de los guardias resuenan a lo lejos, acompañados por el eco de gritos de otros prisioneros.
+> La celda es fría y húmeda, con paredes de piedra cubiertas de musgo. Una pequeña ventana alta deja entrar apenas un rayo de luz, iluminando las cadenas oxidadas colgadas en una esquina. Los pasos de los guardias resuenan a lo lejos, acompañados por el eco de gritos de otros prisioneros.
 
-**Narración del Personaje:**
+> Vengy está sentado en el suelo con la espalda contra la pared. Su armadura ha sido confiscada, y su túnica desgastada apenas cubre sus cicatrices. Sabe que podría salir de aquí por la fuerza, pero espera a su juicio que se celebrar en pocas horas o quizás días. Aunque sus ojos reflejan cansancio, hay una chispa de determinación que no ha sido extinguida. Con un susurro apenas audible, recita una plegaria, esperando que Lathander lo escuche en su desamparo.
 
-Vengy, un humano paladín, está sentado en el suelo con la espalda contra la pared. Su armadura ha sido confiscada, y su tunicá desgastada apenas cubre sus cicatrices. Aunque sus ojos reflejan cansancio, hay una chispa de determinación que no ha sido extinguida. Con un susurro apenas audible, recita una plegaria, esperando que Tyr lo escuche en su desamparo.
+**¿Quieres añadir algo?
+
+> Mientras pronuncia su plegaria, algo cambia en el ambiente. Una espesa nube de humo negro comienza a filtrarse lentamente por debajo de la puerta de la celda, extendiéndose silenciosamente por el suelo, pesado y denso como alquitrán. Vengy siente que el aire se vuelve más frío, más opresivo, y rápidamente se pone en alerta.
+
+> Antes de que pueda reaccionar, un coro de gritos desesperados llena los pasillos; los otros prisioneros y guardias gritan de terror, clamando auxilio en vano. El humo sigue avanzando inexorable, rodeando a Vengy como una sombra viviente
+
+**(Pausa breve aquí, mirando al jugador directamente a los ojos)
+
+> _Vengy, la oscuridad se cierne sobre ti una vez más. Cuando todas las plegarias parecen quedar sin respuesta, ¿encontrarás la fuerza para enfrentarte solo a las sombras que ahora te rodean?_
 
 ---
 
-### **Alistar: El Escudo de la Ley**
+#### **Alistar: El Escudo de la Ley**
 
 **Ubicación:** El templo de Tyr en el corazón de Waterdeep.
 
-**Narración del Lugar:**
+**Nota: Poner la canción**
+[[Alistar, Luz pagada]]
 
-El templo de Tyr es un edificio solemne, con altas columnas de mármol y vitrales que representan escenas de justicia divina. En el interior, la luz atraviesa los vitrales, proyectando colores brillantes sobre el suelo de piedra pulida. Bancos alineados conducen hacia un altar adornado con una balanza dorada, el símbolo de Tyr.
+>El templo de Tyr se alza majestuoso en el corazón de Waterdeep, un símbolo imponente de justicia y poder. Sus altas columnas de mármol, talladas con exquisitez, sostienen un techo adornado con relieves dorados que brillan bajo el sol. La puerta principal, inmensa y decorada con escenas heroicas grabadas en bronce, refleja la grandeza y el prestigio de la fe que allí se venera.
 
-**Narración del Personaje:**
+> Sin embargo, esta imagen de poder está hoy eclipsada por la tensión que se acumula frente a sus escaleras. Alistar, un imponente paladín humano, lidera la defensa del templo. Con la armadura reluciente y el semblante severo, observa con preocupación la creciente multitud al pie de las escalinatas. Junto a él, una veintena de combatientes forman una muralla defensiva con sus escudos en alto, listos pero nerviosos ante la inminente amenaza.
 
-Alistar, un humano paladín de Tyr, se encuentra de pie frente al altar. Su armadura, aunque marcada por el tiempo, brilla bajo la luz de los vitrales. Con las manos juntas en oración, su rostro muestra serenidad y resolución. A su lado, Sildar Hallwinter, su mentor, observa en silencio, con la mirada fija en la balanza dorada. Sildar luce cansado, pero una llama de determinación persiste en sus ojos.
+ >La multitud frente a ellos se agita cada vez más, lanzando insultos, piedras ocasionales y antorchas que, aunque todavía sin consecuencias graves, reflejan un odio creciente e imparable. Alistar observa con tensión cada movimiento; comprende claramente que cualquier intento de ataque frontal sería un grave error. Son cientos de personas enfurecidas, y provocarlos sólo empeoraría la situación.
 
----
+> A su derecha, Marcus, su fiel mano derecha y amigo desde hace años, se acerca ligeramente con voz baja y cargada de ansiedad: _"¿Qué hacemos, Alistar?_
 
-### **Malizal: El Hechicero de las Sombras**
+> Alistar siente el peso de la pregunta. Sabe muy bien que ningún refuerzo llegará; la guardia de la ciudad está completamente superada, ocupada por disturbios similares que se multiplican cada día. Este escenario se ha vuelto demasiado común últimamente, pero hoy es distinto; hoy la tensión parece aún mayor, más peligrosa, al borde de explotar.
 
-**Ubicación:** Una cabaña aislada en las montañas.
+**¿Que hacemos?
 
-**Narración del Lugar:**
+> La tensión alcanza un nuevo pico cuando, desde la gran puerta del templo, aparece el Sumo Sacerdote Eldrin, flanqueado por varios guardias del templo y el Comandante Harker, superior directo de Alistar. Eldrin levanta las manos intentando calmar a la multitud, pero sus palabras conciliadoras sólo sirven para enfurecer aún más a la gente. Los insultos se multiplican y comienzan a llover más objetos: piedras, botellas y antorchas vuelan hacia los defensores.
 
-La cabaña está rodeada de un paisaje inhóspito, con montañas nevadas que se alzan como colosos silenciosos. El viento aúlla entre las rocas, y el cielo está cubierto de nubes grises. En el interior, las brasas agonizantes de una chimenea apenas iluminan un espacio abarrotado de libros y artefactos arcanos.
+> Alistar siente la presión de los cuerpos que empujan contra él y sus hombres, tratando de alcanzar al sacerdote que continúa bajando los escalones, insistiendo en un diálogo imposible. Entonces, una piedra impacta directamente en la frente de Eldrin, haciendo que caiga al suelo con un hilo de sangre corriendo por su rostro aturdido.
 
-**Narración del Personaje:**
+> El comandante Harker, enfurecido, da un paso al frente y grita con autoridad: _"¡Avanzad y dispersadlos! ¡Es una orden!"_
 
-Malizal, un humano warlock, está sentado frente a la chimenea con la mirada fija en las llamas moribundas. Su rostro delgado está marcado por arrugas prematuras, y su cabello negro cae en mechones desordenados. En su regazo descansa un grimorio abierto, pero sus manos permanecen inertes. El aire en la cabaña está cargado de melancolía, reflejo de la apatía que consume a Malizal.
+**Alistar, el momento de decidir ha llegado. ¿Qué es más justo: defender el templo y mantener el orden a cualquier precio o proteger a esta gente desesperada que vive en pobreza y precariedad? 
 
----
+**¿Que vale más, el orden o la justicia?
 
-**Nota:** Las canciones de transición que has preparado encajarán perfectamente después de estas descripciones, marcando el cambio de tono hacia los ataques demoníacos. ¿Continuamos con los ataques personalizados?
+> Justo cuando la tensión parece insoportable, un sonido extraño, profundo y resonante surge en el centro mismo de la plaza. Una implosión súbita absorbe toda luz y ruido, creando una fracción de segundo de vacío absoluto. Inmediatamente después, una explosión cegadora y devastadora sacude el suelo, derribando a Alistar de rodillas mientras un trueno ensordecedor lo aturde por completo. A su alrededor, combatientes y ciudadanos por igual son lanzados violentamente al suelo, muchos inconscientes o gravemente heridos.
 
-## Ataques Personalizados para los Personajes
+> Cuando Alistar recobra parcialmente los sentidos, ve cómo el caos absoluto domina la plaza: ciudadanos aterrados corren sin rumbo, otros aprovechan el momento para atacar a los guardias caídos. Pero el horror apenas comienza. Desde el polvo y la oscuridad que llenan el centro de la plaza emergen figuras grotescas y demoníacas, al menos una veintena, deformes y sedientas de sangre.
 
-Cada escena comienza inmediatamente después de la transición marcada por la canción correspondiente a cada personaje. Las descripciones iniciales de los ataques establecen una atmósfera de tensión y peligro creciente, culminando en enfrentamientos que conectan con la profecía.
+> Estos demonios comienzan a avanzar despiadadamente, masacrando sin piedad a ciudadanos y guardias por igual con una violencia aterradora.
 
----
+**Alistar, en medio del caos absoluto, tu deber está claro, pero la justicia es incierta. ¿Qué elegirás ahora: proteger el templo, último símbolo del orden que has jurado defender, o acudir al rescate de la gente inocente que, pese a su furia, está completamente indefensa ante esta nueva amenaza? La decisión está en tus manos.**
 
-### **Hakuryuu: El Espectro del Pasado**
+### **Malizall: Sombras del Alma**
 
-**Ubicación:** La sala principal de su mansión en Waterdeep.
+**Ubicación:** Una solitaria cabaña en lo profundo de las montañas cercanas a Waterdeep.
 
-**Narración del Ataque:** El aire en la mansión se vuelve pesado, casi sofocante. Las llamas de las antorchas parpadean y luego se extinguen, sumiendo la sala en una penumbra inquietante. Un sonido gutural, como un gruñido lejano, resuena en los corredores. Entonces, una grieta carmesí se abre en el centro de la sala, emitiendo un brillo antinatural. De ella emerge un **Vrock**, un demonio que mezcla la apariencia de un ave de presa con la de un reptil.
+**Nota: Poner la canción** [[Mallizal, Las Sombras del Tiempo]]
 
-**Interacción:** El demonio observa a Hakuryuu con una mirada burlona. Su voz, un gruñido profundo, dice:  
-_"El arquitecto reclama lo que es suyo. Rinde tu alma y tu acero."_
+> La cabaña en la que Malizall ha decidido retirarse es modesta y solitaria, oculta en un rincón olvidado de las montañas. Las paredes de madera envejecida y el techo cubierto de musgo reflejan el paso del tiempo y su aislamiento autoimpuesto. El interior está apenas iluminado por la tenue luz de velas gastadas y una chimenea en la que arden débiles brasas. Libros polvorientos y manuscritos antiguos descansan en desorden sobre mesas y estanterías.
 
-**Encuentro:** Hakuryuu debe enfrentarse al Vrock mientras evita que los quasits que lo acompañan siembren el caos en la mansión. Durante el combate, el demonio clava una garra en el suelo, revelando un fragmento de **Myrrym**. Grabado en la hoja hay un mensaje que resuena en su mente:  
-_"Solo en la unión hallarás el camino al final."_
-**Explosión Final:** Cuando el Vrock cae, su cuerpo comienza a resquebrajarse y una luz oscura brota de su interior. Con un rugido final, explota en una onda de energía negativa que derriba muebles y destruye un ala de la mansión.
+> Malizall, con ojos cansados y un semblante de profunda melancolía, observa fijamente las llamas moribundas. Cerca de la puerta, Wako, su familiar y compañero espiritual, una lechuza que antes era majestuosa y completamente blanca, ahora luce plumas desgastadas y unas pocas oscuras, casi negras, como manchas de corrupción. La lechuza se inquieta en su percha, emitiendo graznidos suaves y nerviosos.
 
-**Efecto de la Maldición:** Hakuryuu siente un peso en su alma. Una marca oscura aparece en su escama más cercana al corazón, con un brillo tenue que parpadea si alguien menciona a Acererak. Si no supera una tirada de Sabiduría (CD 15), la mención del nombre causa daño psíquico (1d8) y le provoca desventaja en su siguiente acción.
+> De repente, un frío antinatural invade la cabaña, apagando instantáneamente las brasas en la chimenea. Malizall se levanta alarmado, reconociendo la amenaza mágica inminente. Justo entonces, la puerta de la cabaña revienta hacia adentro con una fuerza sobrenatural, y del exterior emerge una figura grotesca y demoníaca. Sus ojos ardientes centellean con furia, sus garras listas para desgarrar todo a su paso.
 
-**Impacto Ambiental:** La sala principal queda devastada, con las paredes ennegrecidas y un agujero en el techo. Sirvientes aterrorizados huyen mientras murmuran:  
-_"Esto es una maldición... nuestra casa está condenada."_
+> La criatura, al ver a Wako cerca, lanza un ataque inmediato contra la indefensa lechuza.
 
+**Tirada de inciativa
 
----
+> Pese a sus esfuerzos, el demonio logra finalmente alcanzar a Wako, arrancándole la cabeza de un mordisco rápido y salvaje. Pero en lugar de sangre, del cuerpo de Wako emana una explosión luminosa que llena brevemente la cabaña, cegando momentáneamente al demonio.
 
-### **Orianna: El Bosque Profanado**
+> Malizall, consumido por la ira y la desesperación, ve ahora su oportunidad de vengar inmediatamente la pérdida de su fiel compañero.
 
-**Ubicación:** El claro central del bosque, junto al árbol milenario.
+> Cuando finalmente la amenaza ha sido eliminada, Malizall, exhausto y con el corazón roto, se acerca lentamente al lugar donde cayó Wako. Allí, en el suelo frío y ensombrecido por la tragedia, queda solo una pluma negra. Al recogerla, la pluma vibra suavemente en sus manos, y de ella surge lentamente, envuelto en una sombra tenue, un pequeño cuervo joven, símbolo inesperado de renacimiento y esperanza.
 
-**Narración del Ataque:** El susurro de las hojas se detiene de repente, dejando un silencio antinatural. Los animales que normalmente rodean a Orianna desaparecen en un instante. Frente al árbol milenario, el aire parece desgarrarse mientras una grieta de energía oscura se abre, corrompiendo el suelo a su alrededor. Un **Hezrou** emerge con un rugido ensordecedor, acompañado de manes que avanzan lentamente, marchitando todo lo que tocan.
+> _"Malizall, la oscuridad ha intentado destruirte, pero de tu pérdida nace un nuevo vínculo. ¿Qué camino tomarás ahora con esta nueva oportunidad que la oscuridad te ha concedido?"_
 
-**Interacción:** El dragón verde juvenil desciende rápidamente, aterrizando junto a Orianna para enfrentar la amenaza. En un tono grave, le dice:  
-_"La naturaleza no puede enfrentarse a este horror sola. Llama a quienes desprecias, o todo se perderá."_
+## Sesión 2
 
-**Encuentro:** Orianna y su dragón deben trabajar juntos para derrotar al Hezrou. Durante la batalla, la profecía se manifiesta en un susurro que parece emanar del árbol:  
-_"Los viejos huesos se alzan otra vez, y tú debes enfrentarte a lo que odias para salvar lo que amas."_
+### Ataques Personalizados para los Personajes
 
-**Explosión Final:** El Hezrou se tambalea, lanzando un rugido de ira. Sus garras se hunden en el suelo, y una onda de energía negra se expande, quemando la vegetación y destruyendo parte del claro.
 
-**Efecto de la Maldición:** Orianna siente que una parte de su conexión con la naturaleza se desvanece. Si falla una tirada de Sabiduría (CD 15), cada vez que escuche el nombre de Acererak, un eco de su voz la atormentará, infligiendo daño psíquico (1d8) y debilitando sus habilidades mágicas por un turno.
-
-**Impacto Ambiental:** El claro queda profanado; los árboles caen marchitos, y el suelo, ennegrecido, deja escapar vapores tóxicos. El dragón verde, herido pero vivo, mira a Orianna y dice:  
-_"Este bosque está muriendo. Necesitamos más que fuerza para salvarlo."_
-
----
-
-### **Ander: El Último Héroe**
-
-**Ubicación:** Afuera de la taberna en los suburbios de Waterdeep.
-
-**Narración del Ataque:** Mientras Ander tambalea fuera de la taberna, un extraño silencio envuelve la calle. A lo lejos, un perro flacucho corre desesperado mientras un grupo de niños le lanza piedras. Antes de que Ander pueda intervenir, una grieta se abre en el suelo, de donde emergen dos **Dretch** y 3 **Manes** con su grotesca figura y un hedor nauseabundo que llena el aire.
-
-**Interacción:** El Dretch fija su mirada en el perro, avanzando lentamente hacia él. Ander, aún tambaleante por la embriaguez, escucha un susurro en el viento:  
-_"El alma que duda no puede cantar en la oscuridad."_
-
-**Encuentro:** Ander debe superar su estado actual para salvar al perro y enfrentarse al demonio. Al derrotar al Dretch, la grieta comienza a cerrarse, dejando atrás una marca en el suelo con un símbolo que Ander reconoce vagamente como parte de la profecía.
-
-**Explosión Final:** El Dretch emite un chillido agudo mientras su cuerpo se desintegra en una explosión de energía negativa que destruye las ventanas de las casas cercanas.
-
-**Efecto de la Maldición:** Una quemadura oscura aparece en la mano de Ander, con la forma de una runa incompleta. Si falla la tirada de Sabiduría (CD 15), al escuchar el nombre de Acererak, Ander sentirá cómo la marca arde, infligiendo daño psíquico (1d8) y nublando sus recuerdos de momentos felices.
-
-**Impacto Ambiental:** Las casas cercanas quedan dañadas, y el perro, aterrorizado, se esconde entre los escombros. Vecinos salen a la calle, gritando:  
-_"¡Es culpa tuya! ¡Tus canciones han traído esta desgracia!"_
-
----
-
-### **Vengy: El Asalto a la Prisión**
-
-**Ubicación:** Las mazmorras de Waterdeep.
-
-**Narración del Ataque:** Un grito desgarrador rompe la rutina de la prisión. Los pasos de los guardias se aceleran mientras las puertas crujen y un **Barlgura**, un demonio con forma de simio musculoso, desciende por las escaleras. Su llegada está acompañada por un grupo de manes que arrasan las celdas y atacan a los prisioneros.
-
-**Interacción:** Un guardia herido se acerca tambaleándose a la celda de Vengy. Con su último aliento, le entrega las llaves, diciendo:  
-_"Algo más grande está detrás de esto. Debes luchar."_
-
-**Encuentro:** Vengy, recién liberado, debe enfrentarse al Barlgura y sus esbirros mientras encuentra sus armas y armadura. Durante el combate, el demonio gruñe:  
-_"El arquitecto conoce tu debilidad. Busca redención en lo que otros te han arrebatado."_
-
-**Explosión Final:** El Barlgura, derrotado, se inclina hacia adelante, liberando un estallido de energía que hace colapsar parte de las mazmorras. Los ecos de los gritos de prisioneros se mezclan con el derrumbe.
-
-**Efecto de la Maldición:** Una línea de oscuridad atraviesa la frente de Vengy, como una cicatriz imborrable. Si falla la tirada de Sabiduría (CD 15), al escuchar el nombre de Acererak, su confianza vacila, sufriendo daño psíquico (1d8) y desventaja en tiradas de Carisma.
-
-**Impacto Ambiental:** Las celdas cercanas colapsan, sepultando a algunos prisioneros y dejando grietas en las paredes. Un guardia que sobrevive lo mira con miedo:  
-_"Esto no es justicia, Vengy. Es destrucción."_
-
----
-
-### **Alistar: El Escudo en la Tormenta**
-
-**Ubicación:** El templo de Tyr en Waterdeep.
-
-**Narración del Ataque:** Una multitud enfurecida se reúne frente al templo, gritando acusaciones contra la iglesia y los héroes de la Tumba de la Aniquilación. De repente, el suelo tiembla y una grieta de energía oscura atraviesa las baldosas frente al altar. Un **Glabrezu**, un demonio gigantesco con garras afiladas, emerge, desatando el caos.
-
-**Interacción:** El Glabrezu mira directamente a Alistar y pronuncia con desprecio:  
-_"El arquitecto de la muerte te observa, mártir del falso orden."_
-
-**Encuentro:** Alistar debe liderar a los defensores del templo contra el Glabrezu y los dretches que lo acompañan, protegiendo a Sildar, quien está gravemente herido. Durante la batalla, Sildar, debilitado, murmura parte de la profecía:  
-_"Cuando el abismo despierte su furia, los huesos danzarán sobre cenizas frías."_
-
-**Explosión Final:** El Glabrezu cae de rodillas, dejando escapar una explosión de energía que derrumba parte del techo del templo y lanza a los ciudadanos fuera del edificio.
-
-**Efecto de la Maldición:** Una marca oscura en forma de balanza rota aparece en el escudo de Alistar. Si falla la tirada de Sabiduría (CD 15), al escuchar el nombre de Acererak, el símbolo emite un eco metálico que inflige daño psíquico (1d8) y afecta su resolución en combate.
-
-**Impacto Ambiental:** Los vitrales del templo se hacen añicos, y parte del altar queda destruido. Algunos ciudadanos, atrapados en el derrumbe, gritan en busca de ayuda. Sildar, herido, murmura:  
-_"Esto... no puede ser justicia."_
-
----
-
-### **Malizal: La Llamada de las Sombras**
-
-**Ubicación:** Su cabaña en las montañas.
-
-**Narración del Ataque:** Las brasas de la chimenea se apagan repentinamente, y el espejo en la pared comienza a oscurecerse, como si absorbiera la luz de la habitaci\u00f3n. Un **Shadow Demon** emerge lentamente del espejo, extendiendo sus garras hacia Malizal. A su alrededor, dos **Imps** revolotean, derribando libros y destruyendo artefactos.
-
-**Interacción:** El Shadow Demon susurra:  
-_"El pacto fue sellado, pero las cadenas del pasado siempre se romperán para el arquitecto."_
-
-**Encuentro:** Malizal, armado solo con su magia y su ingenio, debe derrotar al demonio y proteger su grimorio. Al vencer al Shadow Demon, el espejo se hace añicos, dejando un símbolo rúnico grabado en el suelo.
-
-**Explosión Final:** El Shadow Demon emite un grito inhumano antes de explotar, dejando fragmentos de oscuridad que se adhieren a las paredes de la cabaña, consumiendo la luz.
-
-**Efecto de la Maldición:** Una sombra perpetua parece flotar detrás de Malizal, visible solo para él. Si falla la tirada de Sabiduría (CD 15), al escuchar el nombre de Acererak, la sombra lo asfixia brevemente, infligiendo daño psíquico (1d8) y reduciendo su velocidad a la mitad durante un turno.
-
-**Impacto Ambiental:** La cabaña queda irreconocible, con libros quemados y artefactos destruidos. El búho familiar de Malizal ulula débilmente, posándose sobre su hombro:  
-_"Las cadenas están más cerca, maestro."_
-
----
 
 ## El Mensaje de Sildar y la Reunión en Waterdeep
 
