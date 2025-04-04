@@ -1,6 +1,8 @@
 #Jugadores
 ### [Alistar: Luz pagada](https://suno.com/song/6c18894f-4cc9-4e72-9542-3d36c7c79e70)
+
 ![[Alistar_ Luz pagada.mp3]]
+
 [Verse 1]
 Oh, Alistar
 paladín del falso orden
@@ -31,7 +33,8 @@ Tus aliados caen, tus rezos fracasan,
 Mientras mi risa entre los ecos arrasa.
 
 [Pre-Chorus]
-¿Dónde está la justicia que tanto clamas?Tus manos tiemblan, tu espada apagada
+¿Dónde está la justicia que tanto clamas?
+Tus manos tiemblan, tu espada apagada
 Eres el martillo que nunca golpea
 Un eco perdido en la marea.
 
