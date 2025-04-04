@@ -1,6 +1,6 @@
 #Jugadores
 ### [Alistar: Luz pagada](https://suno.com/song/6c18894f-4cc9-4e72-9542-3d36c7c79e70)
-
+![[Alistar_ Luz pagada.mp3]]
 [Verse 1]
 Oh, Alistar
 paladín del falso orden
