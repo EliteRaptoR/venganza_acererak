@@ -14,7 +14,8 @@ En mi reino
 tus dioses también fallan
 
 [Pre-Chorus]
-¿Dónde está la justicia que tanto clamas?Tus manos tiemblan, tu espada apagada
+¿Dónde está la justicia que tanto clamas?
+Tus manos tiemblan, tu espada apagada
 Eres el martillo que nunca golpea
 Un eco perdido en la marea.
 
