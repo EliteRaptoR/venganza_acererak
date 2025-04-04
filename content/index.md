@@ -1,5 +1,5 @@
 
-# Índice Venganza de Acererak
+# Índice La Profecía del Abismo
 ---
 ## Diario
 - [[Diario Sesión 0]]
@@ -21,7 +21,7 @@
 
 ---
 ## Normas 
-- [[Cordura]]
+- [[Imposición narrativa]]
 - [[Sistema de Descansos]]
 - [[Vida y muerte]]
 
