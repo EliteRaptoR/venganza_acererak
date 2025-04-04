@@ -240,66 +240,61 @@ Mis sombras te esperan
 tu miedo las llama
 Soy el abismo que siempre te gana
 Y tu una luz apagada
-### [Vengy: El Escudo que Nunca Cede](https://suno.com/song/e7827716-a4fd-4174-b1ba-1f2b5fa8c3f3)
+### [Vengy: La Llama Inquebrantable](https://suno.com/song/931e9599-a619-4f24-bd5c-6a67be336fc5)
 
-[Intro, Solemn Strings and Percussion]
-[Female voice narrating with a reverent tone]
-Es Vengy, el escudo que nunca cede,
-La voz de los caídos, la fe que trasciende.
-Su luz guía a todos en la tempestad,
-Un faro que arde por la eternidad.
+[Verse 1]
+Cayó el reino, cayó la fe,
+los templos ardieron por última vez.
+Pero él se alzó, sin corona ni ley,
+con voz de acero, con paso de rey.
 
-[Verse 1, Building Momentum with Layered Strings]
-Con su escudo en alto, avanza sin temor,
-Cada paso marcado por justicia y honor.
-Las cadenas del pasado no lo podrán quebrar,
-Es la luz en la batalla, la llama al luchar.
+[Pre-Chorus]
+¡Vengy! ¡Luz de los que ya no creen!
+¡El juramento que renace cual fenix!
+¡Sin escudo, sin altar, sin perdón!
+¡Es leyenda viviente, es redención!
 
-[Pre-Chorus, Rising Tension with Percussion and Choir]
-¿Quién puede dudar del fuego en su ser?
-Su juramento es eterno, su fuerza un deber.
-Cuando el mundo se quiebra, él sigue de pie,
-Un faro brillante en el amanecer.
+[Chorus]
+¡Vengy! ¡El fuego que no cae jamás!
+¡Ni el juicio, ni el odio, lo harán dudar!
+¡Su nombre resuena, eterno y audaz…
+como el último faro en la oscuridad!
 
-[Chorus, Triumphant and Soaring with Group Vocals]
-Es Vengy, el escudo que nunca cede,
-La voz de los caídos, la fe que trasciende.
-Su luz guía a todos en la tempestad,
-Un faro que arde por la eternidad.
+[Verse 2]
+Dijeron que era un traidor sin honor,
+que su luz se apagó bajo juicio y dolor.
+Pero yo lo vi, yo estuve allí,
+cuando alzó su voz… y el miedo huyó de mí.
 
-[Verse 2, Gentle and Reflective with Strings]
-En los campos de batalla, su nombre es canción,
-Un héroe que lucha sin buscar perdón.
-Aunque el mundo lo dude, él sigue su andar,
-Cargando la esperanza en su voluntad.
+[Pre-Chorus]
+¡Vengy! ¡Luz de los que ya no creen!
+¡El juramento que renace cual fenix!
+¡Sin escudo, sin altar, sin perdón!
+¡Es leyenda viviente, es redención!
 
-[Pre-Chorus, Building Tension with Drums and Choir]
-¿Quién puede dudar del fuego en su ser?
-Su juramento es eterno, su fuerza un deber.
-Cuando el mundo se quiebra, él sigue de pie,
-Un faro brillante en el amanecer.
+[Chorus]
+¡Vengy! ¡El fuego que no cae jamás!
+¡Ni el juicio, ni el odio, lo harán dudar!
+¡Su nombre resuena, eterno y audaz…
+como el último faro en la oscuridad!
 
-[Chorus, Triumphant and Soaring with Group Vocals]
-Es Vengy, el escudo que nunca cede,
-La voz de los caídos, la fe que trasciende.
-Su luz guía a todos en la tempestad,
-Un faro que arde por la eternidad.
+[Verse 3]
+Su fe no se apaga, 
+su luz no se va,
+siempre hay un alba,
+donde Vengy está.
 
-[Bridge, Quiet and Reverent with Female Vocals]
-“Cuando el peso sea grande y la carga mortal,
-Recuerda que tu espíritu nunca caerá.
-Eres la promesa, el eco del bien,
-El guardián eterno, el escudo también.”
+[Pre-Chorus]
+¡Vengy! ¡Luz de los que ya no creen!
+¡El juramento que renace cual fenix!
+¡Sin escudo, sin altar, sin perdón!
+¡Es leyenda viviente, es redención!
 
-[Chorus, Final and Uplifting with Full Orchestration]
-Es Vengy, el escudo que nunca cede,
-La voz de los caídos, la fe que trasciende.
-Su luz guía a todos en la tempestad,
-Un faro que arde por la eternidad.
-Es Vengy, el escudo que nunca cede,
-La voz de los caídos, la fe que trasciende.
-Su luz guía a todos en la tempestad,
-Un faro que arde por la eternidad.
+[Chorus]
+¡Vengy! ¡El fuego que no cae jamás!
+¡Ni el juicio, ni el odio, lo harán dudar!
+¡Su nombre resuena, eterno y audaz…
+como el último faro en la oscuridad!
 
 ### [Ander: Canciones al Viento](https://suno.com/song/2b1e2b13-a291-457d-a02c-788eca81bafe)
 
