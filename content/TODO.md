@@ -1,5 +1,8 @@
 
-Cambiar sesion 1, cada escena es cancion ->  imagen de normalidad -> aparefce el problema -> pasa abrutamente al siguiente personaje.
+Revisar encuentros en al app
+canciones combate para cada personaje.
 
-norma cambate de escaramuza
+Kael, la mano derecha de hakuryuu
+Varuun
+Dareth
 

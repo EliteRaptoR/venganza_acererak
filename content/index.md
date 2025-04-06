@@ -7,23 +7,28 @@
 
 ---
 ## Personajes
+### *Nuestros Heroes*
 - [[Alistar]]
 - [[Ander]]
 - [[Hakuryu]]
 - [[Mallizal]]
 - [[Orianna]]
 - [[Vengy]]
-
-- [???]
-- [???]
-- [???]
-- [???]
-
+##### Sequito del dragón de plata
+- [[Kael Vhantar (Jugadores)]]
+- [[Dareth Silmaer (Jugadores)]]
+- [[Varuun Tyrral (Jugadores)]]
+##### Orden de Tyr
+- [[Harker (Jugadores)]]
+- [[Marcus Deren (Jugadores)]]
+##### Dragon Verde
+- [[Elyzmyrath (jugadores)]]
 ---
 ## Normas 
 - [[Imposición narrativa]]
 - [[Sistema de Descansos]]
 - [[Vida y muerte]]
+- [[Cordura]]
 
 ---
 ## Canciones

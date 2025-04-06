@@ -1,4 +1,4 @@
-#GPT #Master 
+#GPT #NoSubido
 ### **1. Sildar Hallwinter**
 
 - **Raza/Clase:** Humano / Paladín de Tyr.
@@ -138,3 +138,284 @@
     - Aunque su mente ha sido lavada por Acererak, fragmentos de su antigua amistad con los jugadores podrían emerger.
 - **Rol en la Campaña:**
     - Es el último fragmento viviente de la filacteria y el desafío emocional final antes de enfrentar a Acererak.
+
+### 9. Dareth Silmaer
+
+ _El Voto Silente_
+
+- **Raza/Clase:** Elfo lunar / Clérigo de la guerra
+    
+- **Edad:** 180 años
+    
+- **Arquetipo:** El sabio corrompible, el guardián de lo sagrado que mira demasiado cerca del abismo.
+    
+
+---
+
+### 🔍 **Apariencia Detallada:**
+
+- Mide 1,90, y sus movimientos son tan suaves como los de un bailarín ritual.
+    
+- Sus ojos, azul claro, a veces parecen opacos, como si miraran algo que los demás no pueden ver.
+    
+- Su escudo y maza son artefactos rituales heredados del culto ancestral al linaje dracónico, no están destinados a batallas mundanas.
+    
+
+---
+
+### 💬 **Personalidad Completa:**
+
+- Cree profundamente en los pactos entre el clan y los dragones astrales; no sirve a los dioses comunes, sino a la “geometría del destino”.
+    
+- Aunque callado, su fe es férrea. No discute… pero tampoco olvida.
+    
+- Ha tenido **visiones recientes**: fragmentos de Myrrym, fuego púrpura, un triángulo entrelazado con cadenas. No lo ha contado a nadie.
+    
+- Tiene una relación ambigua con Hakuryuu: lo respeta como figura sagrada, pero teme que esté perdiendo su “forma”.
+    
+
+---
+
+### 🧠 **Rol Narrativo:**
+
+- Es el primero en caer en el combate contra los demonios, **corrompido desde dentro** por un poder que ya lo rondaba antes del enfrentamiento.
+    
+- Su caída representa que **incluso los fieles y puros pueden ser reclamados** si el equilibrio se quiebra.
+    
+- Puede morir como enemigo, ser salvado por Hakuryuu (con coste), o vivir marcado por lo que vio al otro lado.
+    
+- Si sobrevive, puede servir como **puente espiritual con el alma de Myrrym**, o como **vasija pasiva** de Acererak si no se lo vigila.
+    
+
+---
+
+### ⚔️ **Notas Mecánicas (resumen):**
+
+- Clérigo Nivel 4
+    
+- PG: 28 | CA: 16
+    
+- Antes de la corrupción:
+    
+    - _Palabra de guerra_, _Curar heridas_, _Escudo de fe_
+        
+- Tras la corrupción:
+    
+    - _Toque abismal_: daño necrótico + desventaja
+        
+    - _Maldición púrpura_: reduce curación de aliados cercanos
+        
+    - _Susurros de la Marca_: miedo (CD 13 Sab)
+        
+
+---
+
+### 🧩 **Ganchos para Escena o Desarrollo:**
+
+- **Tiene visiones premonitorias** en sueños que pueden convertirse en pistas para el grupo si lo salvan.
+    
+- **Recuerda lo que hizo bajo la corrupción**: puede pedir ser exiliado, ejecutado… o buscar redención.
+    
+- Si Hakuryuu intenta usar el fragmento de Myrrym de nuevo, Dareth puede sentirlo desde donde esté, como si su alma estuviera conectada.
+
+### 10. Kael Vhantar
+
+### **Kael Vhantar** – _El Espadón de la Tradición_
+
+- **Raza/Clase:** Humano / Guerrero (Nivel 5)
+    
+- **Edad:** 42 años
+    
+- **Arquetipo:** El soldado veterano leal hasta la tumba.
+    
+
+---
+
+### 🔍 **Apariencia Detallada:**
+
+- Mide 1,85, con hombros anchos y pasos firmes. Tiene el cuerpo marcado por cortes, quemaduras y una antigua herida en la clavícula que le molesta con el frío.
+    
+- Siempre está bien presentado: su equipo pulido, sus botas limpias. Cree que el descuido es deshonra.
+    
+- Su espada azulina fue forjada con fragmentos de escama del ancestro dragón de Hakuryuu. Es más símbolo que arma mágica.
+    
+
+---
+
+### 💬 **Personalidad Completa:**
+
+- Es un soldado de la vieja escuela: directo, seco, extremadamente respetuoso con la jerarquía.
+    
+- Tiene una visión inflexible del honor y del deber.
+    
+- Si ve a Hakuryuu tambalearse moral o emocionalmente, no lo enfrentará directamente… pero su decepción será notoria.
+    
+- _No cree en segundas oportunidades para los traidores_.
+    
+
+---
+
+### 🧠 **Rol Narrativo:**
+
+- Es la **columna vertebral moral del séquito**.
+    
+- Su lealtad puede ser su mayor virtud… o su perdición, si Hakuryuu cruza límites peligrosos.
+    
+- Puede morir **heroicamente** defendiendo a su señor, o convertirse en un trágico espejo: alguien que **murió por una causa que ya no existía**.
+    
+- Si sobrevive, puede ser quien **se rebele o cuestione** las acciones del dragón si ve que la maldición de Acererak lo cambia demasiado.
+    
+
+---
+
+### ⚔️ **Notas Mecánicas (resumen):**
+
+- Guerrero Nivel 5.
+    
+- PG: 42 | CA: 17 | Mandoble (+6, 2d6+3)
+    
+- Defensa del Clan (reacción): desventaja a ataque contra Hakuryuu.
+    
+- Rugido de batalla (1/día): bonus a ataques de aliados si está gravemente herido.
+    
+
+---
+
+### 🧩 **Ganchos para Escena o Desarrollo:**
+
+- **Sueña con morir en batalla.** Si sobrevive a varias, puede empezar a buscar la muerte sin decirlo.
+    
+- **Tiene un hijo ilegítimo** en el norte. Nadie lo sabe. El chico podría aparecer más adelante, como aliado o enemigo.
+    
+- Si es testigo de la marca del triángulo, puede interpretarla como señal divina… **o como traición del alma**.
+
+### 11. Varuun Tyrral
+
+_El Escudo Joven_
+
+- **Raza/Clase:** Semiorco / Guerrero defensor
+    
+- **Edad:** 22 años
+    
+- **Arquetipo:** El aprendiz entusiasta con un corazón más grande que su experiencia.
+    
+
+---
+
+### 🔍 **Apariencia Detallada:**
+
+- Mide casi 2 metros, es corpulento pero ágil. Sus movimientos son fuertes, aunque algo torpes a veces.
+    
+- Su escudo es demasiado grande para él, un regalo que aún no domina completamente, pero lo lleva con orgullo desmedido.
+    
+- Sus armaduras están impolutas, no por vanidad, sino porque las limpia hasta el cansancio después de cada entrenamiento.
+    
+- Siempre tiene la nariz un poco raspada o la ceja hinchada: entrena con más pasión que técnica.
+    
+
+---
+
+### 💬 **Personalidad Completa:**
+
+- Varuun vive en un mundo de ideales. Para él, el clan es la máxima gloria y Hakuryuu es un héroe invencible.
+    
+- Tiene **hambre de reconocimiento**, lo que lo lleva a lanzarse al peligro para impresionar.
+    
+- Aprecia profundamente a Kael como mentor, aunque lo teme un poco. Con Dareth tiene una relación de reverencia respetuosa.
+    
+- Internamente, teme que un día descubran que **no está a la altura**.
+    
+
+---
+
+### 🧠 **Rol Narrativo:**
+
+- Representa el futuro del clan: inexperto, pero lleno de potencial y nobleza.
+    
+- Su crecimiento dependerá de cómo se sienta tratado por Hakuryuu:
+    
+    - **Inspirado →** puede llegar a ser un paladín de pleno derecho.
+        
+    - **Ignorado →** puede volverse amargado o dejar el clan.
+        
+    - **Traicionado →** podría ser el que se vuelva contra su maestro si siente que ha sido consumido por la oscuridad.
+        
+- En combate puede:
+    
+    - Morir salvando a Hakuryuu.
+        
+    - Ser corrompido más adelante si ve que sus ideales han sido aplastados.
+        
+    - O vivir… para convertirse en el nuevo símbolo del clan.
+        
+
+---
+
+### ⚔️ **Notas Mecánicas (resumen):**
+
+- Guerrero Nivel 4
+    
+- PG: 36 | CA: 18 | Espada corta (+5, 1d6+2)
+    
+- **Interposición protectora (Reacción):** reduce daño a un aliado cercano (1d10).
+    
+- **Bendición rudimentaria (1/día):** Puede lanzar una bendición de combate menor.
+    
+- **Carga temeraria:** si tiene menos del 50% de vida, ataca con ventaja el siguiente turno.
+    
+
+---
+
+### 🧩 **Ganchos para Escena o Desarrollo:**
+
+- Tiene **una carta de su madre adoptiva** que lleva siempre consigo. Nunca la ha leído en voz alta.
+    
+- Si Hakuryuu lo reconoce públicamente como "valioso", gana una inspiración narrativa y fidelidad eterna.
+    
+- Si muere, podría hacerlo protegiendo el fragmento de Myrrym… o ser recordado en el clan como el joven que creía que un escudo podía detener al infierno.
+
+### 13.  **Marcus Deren – El Guardián de la Coherencia**
+
+- **Lealtad:** Firme con Alistar, pero no ciega.
+    
+- **Pasado oculto:** Perdió a su hermano en una masacre civil que fue silenciada por la iglesia. Desde entonces, juró **proteger a los inocentes** por encima de las órdenes, pero no ha desafiado abiertamente a la jerarquía.
+    
+- **Potencial narrativo:**
+    
+    - Si Alistar defiende a los civiles, Marcus **lo sigue sin dudar**, incluso si eso le cuesta su rango.
+        
+    - Si Alistar obedece a Harker y abandona al pueblo, **Marcus puede romper con él** o morir intentando salvar a alguien por su cuenta.
+        
+    - Puede ser la voz de la conciencia en escenas posteriores: alguien que recuerda, pero no juzga… o sí, si se pierde demasiado.
+        
+- **Notas mecánicas:**
+    
+    - Guerrero nivel 8.
+        
+    - PG 35 | CA 20 | Ataques con espada larga (2d10+4), buena defensa.
+        
+    - Puede cubrir a un aliado una vez por combate (interposición heroica).
+
+### 14. **Comandante Harker – El Ancla del Orden**
+
+- **Lealtad:** A Tyr, al templo, al equilibrio de poder.
+    
+- **Pasado oculto:** Encubrió una purga interna de herejes radicales años atrás. Cree que **evitar el caos es más importante que revelar la verdad.**
+    
+- **Sospecha que algo oscuro se acerca**, pero prefiere redoblar la disciplina antes que admitir incertidumbre.
+    
+- **Potencial narrativo:**
+    
+    - Si Alistar desobedece sus órdenes, **puede intentar arrestarlo** posteriormente o manipular la narrativa para desacreditarlo.
+        
+    - Si Alistar lo sigue, lo respeta… pero se vuelve una figura que **podría ser corrompida desde dentro**, por miedo o arrogancia.
+        
+    - En sesiones futuras, puede ser clave como antagonista político… o mártir.
+        
+- **Notas mecánicas:**
+    
+    - Paladín nivel 10 (retirado, no combate habitualmente).
+        
+    - Tiene **autoridad sobre las fuerzas del templo**, puede convocar hasta 20 guardias.
+        
+    - En caso de combate, defiende, no ataca: más comandante que guerrero.

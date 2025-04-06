@@ -8,46 +8,6 @@ La profecía es un elemento central en el inicio de la campaña, diseñado para 
 
 ---
 
-#### **2. Fragmentos de la Profecía en las Escenas de los Personajes**
-
-**Orianna (Defensa del Bosque):**
-
-- Mientras combate junto a su dragón verde, escucha la voz de este diciendo:
-    - _"Los viejos huesos se alzan otra vez, y tú debes enfrentarte a lo que odias para salvar lo que amas."_  
-        (Una referencia a Acererak y la necesidad de trabajar junto a otros seres que Orianna desprecia para proteger la naturaleza que tanto valora.)
-
-**Alistar (Asalto al Templo):**
-
-- Durante el enfrentamiento con los manifestantes y la llegada de los demonios, un demonio menor grita en infernal:
-    - _"El arquitecto de la muerte te observa, mártir del falso orden."_  
-        (Apunta al papel de Acererak como arquitecto de la destrucción y su conexión con los ideales de Alistar.)
-
-**Hakuryuu (Ataque en su Mansión):**
-
-- Un demonio mayor irrumpe en la mansión de Hakuryuu, y tras una breve batalla, el demonio clava su arma en el suelo, revelando un fragmento de **Myrrym**, su espada perdida. En la hoja se lee:
-    - _"Solo en la unión hallarás el camino al final."_  
-        (Indica la necesidad de colaboración para enfrentar a Acererak y recuperar el poder perdido.)
-
-**Ander (Rescate del Perro):**
-
-- En su momento de heroísmo borracho, Ander escucha un susurro en el viento tras salvar al perro:
-    - _"El alma que duda no puede cantar en la oscuridad."_  
-        (Sugiere que Ander debe superar sus miedos y redescubrir su propósito.)
-
-**Vengy (Liberación de la Prisión):**
-
-- Cuando un guardia libera a Vengy, comenta que la celda donde estaba encerrado comenzó a mostrar un extraño símbolo antes de la invasión. El guardia dice:
-    - _"Esto apareció justo antes de que los demonios llegaran. Tal vez sea un mensaje para ti."_  
-        El símbolo parece ser un fragmento de la filacteria.
-
-**Malizal (Ataque Directo):**
-
-- Un demonio ataca a Malizal mientras está solo frente a su chimenea. Antes de desaparecer, el demonio dice:
-    - _"El pacto fue sellado, pero las cadenas del pasado siempre se romperán para el arquitecto."_  
-        (Conecta el pacto de Malizal con la influencia de Acererak y la necesidad de enfrentarse a su propio pasado.)
-
----
-
 #### **3. Fragmentos Revelados por Sildar**
 
 - **Mensaje de Sildar:** Gravemente herido, Sildar utiliza un hechizo de comunicación mágica para enviar un mensaje a todos los personajes. En su mensaje, menciona:
