@@ -1,5 +1,5 @@
 #Jugadores
-## **Vengy, el Paladín Injustamente Condenado**
+## **Vengy *Alba* Menethil
 
 ---
 ![[Vengy.webp]]

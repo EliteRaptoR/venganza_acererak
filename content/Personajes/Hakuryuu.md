@@ -1,5 +1,5 @@
 #Jugadores
-## **Hakuryuu, el Guerrero Despojado**
+## **Hakuryuu *Argentis* Arashi
 
 ---
 ![[Hakuryuu.webp]]

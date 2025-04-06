@@ -1,5 +1,5 @@
 #Jugadores 
-## **Alistar, el Escudo de la Ley**
+## **Alistar *Aegis* Belmont
 
 ---
 ![[Alistar.webp]]

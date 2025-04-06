@@ -1,5 +1,5 @@
 #Jugadores
-## **Ander, la Voz Apagada**
+## **Ander *Alma de Fuego* 
 
 ---
 ![[Ander.webp]]

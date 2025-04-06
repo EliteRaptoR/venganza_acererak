@@ -1,6 +1,5 @@
 #Jugadores
-## **Orianna, la Guardiana del Bosque**
-
+## **Orianna *Tejedora de Raices*
 ---
 ![[Orianna.webp]]
 #### **Raza/Clase:** Tiefling / Druida.

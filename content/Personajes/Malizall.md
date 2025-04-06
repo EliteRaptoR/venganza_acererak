@@ -1,5 +1,5 @@
 #Jugadores
-## **Malizal, el Hechicero del Vacío**
+## **Malizal *Faroardiente* Verbulux**
 
 ---
 ![[Malizall.webp]]

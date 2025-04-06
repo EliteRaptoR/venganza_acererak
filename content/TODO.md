@@ -1,8 +1,5 @@
 
 Revisar encuentros en al app
-canciones combate para cada personaje.
+mas imagenes para describir sesion 1 y 2
 
-Kael, la mano derecha de hakuryuu
-Varuun
-Dareth
 
