@@ -46,5 +46,4 @@
 - [[Manos de Hierro]]
 
 ---
-
-![[AcererakPortrait.webp]]
+![[Portada.png]]
