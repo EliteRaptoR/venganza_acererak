@@ -1,37 +1,37 @@
 
 # Índice La Profecía del Abismo
 ---
-## Diario
+## **Diario
 - [[Diario Sesión 0]]
 - [[Diario Sesión 1]]
 
 ---
-## Personajes
-### *Nuestros Heroes*
+## **Personajes
+### **Nuestros Heroes**
 - [[Alistar]]
 - [[Ander]]
 - [[Hakuryu]]
 - [[Mallizal]]
 - [[Orianna]]
 - [[Vengy]]
-##### Sequito del dragón de plata
+##### **Sequito del dragón de plata
 - [[Kael Vhantar (Jugadores)]]
 - [[Dareth Silmaer (Jugadores)]]
 - [[Varuun Tyrral (Jugadores)]]
-##### Orden de Tyr
+##### **Orden de Tyr
 - [[Harker (Jugadores)]]
 - [[Marcus Deren (Jugadores)]]
-##### Dragon Verde
+##### **Dragon Verde
 - [[Elyzmyrath (jugadores)]]
 ---
-## Normas 
+## **Normas 
 - [[Imposición narrativa]]
 - [[Sistema de Descansos]]
 - [[Vida y muerte]]
 - [[Cordura]]
 
 ---
-## Canciones
+## **Canciones
 
 - [[Acererak, El Arquitecto de la Muerte]]
 - [[Alistar, Luz pagada]]
