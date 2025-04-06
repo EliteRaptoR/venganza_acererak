@@ -52,7 +52,7 @@
 
 **Pregunta Reflexiva:**
 
-- _En esta celda, ¿qué es lo que más te duele: la injusticia de tu encarcelamiento o la duda de que quizá no mereces el escudo que portabas?_
+- _En esta celda, ¿qué es lo que más te duele: la injusticia de tu encarcelamiento o la duda de que quizá no mereces el blason que portabas?_
 
 ---
 
