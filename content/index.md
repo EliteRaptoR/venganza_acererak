@@ -30,6 +30,7 @@
 - [[Sistema de Descansos]]
 - [[Vida y muerte]]
 - [[Cordura]]
+- [[Pasión, determinación y rasgo de carácter]]
 
 ---
 ## **Canciones**
