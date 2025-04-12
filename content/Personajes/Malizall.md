@@ -2,7 +2,7 @@
 ## **Malizal *Faroardiente* Verbulux**
 
 ---
-![[Malizall.webp]]
+![[content/assets/Personajes/Malizall.png]]
 #### **Raza/Clase:** Humano / Warlock.
 
 #### **Edad:** 43 años (apariencia mucho mayor debido a un envejecimiento prematuro).
