@@ -1,5 +1,5 @@
 #Jugadores 
-## **Alistar *Aegis* Belmont
+## **Alistar *Aegis* Belmont**
 
 ---
 ![[Alistar.webp]]

@@ -8,12 +8,12 @@
 ---
 ## **Personajes**
 ### **Nuestros Héroes**
-- [Alistar *Aegis* Belmont](Alistar)
-- [Ander *Alma de Fuego*](Ander)
-- [Hakuryuu *Argentis* Arashi](Hakuryuu)
-- [Malizal *Faroardiente* Verbulux](Malizall)
-- [Orianna *Tejedora de Raices*](Orianna)
-- [Vengy *Alba* Menethil](Vengy)
+- [[Alistar]]
+- [[Ander]]
+- [[Hakuryuu]]
+- [[Malizall]]
+- [[Orianna]]
+- [[Vengy]]
 ##### **Sequito del dragón de plata**
 - [[Kael Vhantar (Jugadores)]]
 - [[Dareth Silmaer (Jugadores)]]
