@@ -12,7 +12,7 @@
 - [Ander *Alma de Fuego*](Ander)
 - [Hakuryuu *Argentis* Arashi](Hakuryuu)
 - [Malizal *Faroardiente* Verbulux](Malizall)
-- [Orianna *Tejedora de Raices](Orianna)
+- [Orianna *Tejedora de Raices*](Orianna)
 - [Vengy *Alba* Menethil](Vengy)
 ##### **Sequito del dragón de plata**
 - [[Kael Vhantar (Jugadores)]]

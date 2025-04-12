@@ -48,7 +48,7 @@
 #### **4. Vengy: El Paladín Caído**
 [[Vengy, La Llama Inquebrantable]]
 
-> _"Vengy está encerrado en una celda oscura y húmeda en las mazmorras de Waterdeep. Las cadenas oxidadas que cuelgan de las paredes reflejan la tenue luz que entra por una pequeña ventana alta. Sentado en el suelo de piedra fría, Vengy mira las marcas que ha grabado en la pared, un intento de medir el tiempo que lleva encerrado. La acusación de colaborar con traficantes y estafadores pesa sobre él, pero lo que más lo atormenta es el eco de su propio corazón. Cada vez que cierra los ojos, recuerda los momentos en que su fe era el refugio de otros. Ahora, su propósito parece tan lejano como la luz del amanecer."_
+> _"Vengy está encerrado en una celda oscura y húmeda en las mazmorras de Waterdeep. Las cadenas oxidadas que cuelgan de las paredes reflejan la tenue luz que entra por una pequeña ventana alta. Sentado en el suelo de piedra fría, piensas cuanto rato más estarás encerrado. La acusación de colaborar con traficantes y estafadores pesa sobre ti, pero lo que más te atormenta es el eco de su propio corazón. Cada vez que cierras los ojos, recuerdas los momentos en que tu fe era el refugio de otros. Ahora, su propósito parece tan lejano como la luz del amanecer."_
 
 **Pregunta Reflexiva:**
 
