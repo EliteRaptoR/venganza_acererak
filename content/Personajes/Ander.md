@@ -2,7 +2,7 @@
 ## **Ander *Alma de Fuego* Colinaalta**
 
 ---
-![[Ander.webp]]
+![[content/assets/Personajes/Ander.png]]
 #### **Raza/Clase:** Halfling / Bardo.
 
 #### **Edad:** 32 años.

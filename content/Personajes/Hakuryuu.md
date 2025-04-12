@@ -2,7 +2,7 @@
 ## **Hakuryuu *Argentis* Arashi**
 
 ---
-![[Hakuryuu.webp]]
+![[Hakuryuu.png]]
 #### **Raza/Clase:** Dragonborn de plata / Guerrero.
 
 #### **Edad:** 25 años.

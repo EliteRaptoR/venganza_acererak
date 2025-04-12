@@ -1,7 +1,7 @@
 #Jugadores
 ## **Orianna *Tejedora de Raices* **
 ---
-![[Orianna.webp]]
+![[Orianna.png]]
 #### **Raza/Clase:** Tiefling / Druida.
 
 #### **Edad:** 28 años.
