@@ -1,5 +1,5 @@
 #Jugadores
-## **Vengy *Alba* Menethil
+## **Vengy *Alba* Menethil**
 
 ---
 ![[Vengy.webp]]

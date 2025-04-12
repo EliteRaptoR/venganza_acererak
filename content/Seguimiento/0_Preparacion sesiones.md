@@ -4,7 +4,7 @@
 ---
 ## Sesión 0
 
-### Introducción General**
+### **Introducción General**
 
 > _"Han pasado dos años desde los eventos de la Tumba de la Aniquilación. El mundo que una vez salvaron se ha transformado, y no todos creen que lo que hicieron fue correcto. Cada uno de ustedes ha seguido su camino, lidiando con las consecuencias de sus decisiones y los sacrificios realizados. Esta sesión está diseñada para que se conecten con sus personajes, comprendan dónde están emocional y físicamente, y reflexionen sobre cómo se sienten en este mundo incierto. Hoy no habrá combates ni decisiones importantes, solo el viaje interno de sus personajes y la conexión con el contexto que los rodea."_
 

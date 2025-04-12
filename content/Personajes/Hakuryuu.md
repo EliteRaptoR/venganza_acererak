@@ -1,5 +1,5 @@
 #Jugadores
-## **Hakuryuu *Argentis* Arashi
+## **Hakuryuu *Argentis* Arashi**
 
 ---
 ![[Hakuryuu.webp]]

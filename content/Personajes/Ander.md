@@ -1,5 +1,5 @@
 #Jugadores
-## **Ander *Alma de Fuego* Colinaalta
+## **Ander *Alma de Fuego* Colinaalta**
 
 ---
 ![[Ander.webp]]
