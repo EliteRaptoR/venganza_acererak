@@ -2,7 +2,7 @@
 ## **Alistar *Aegis* Belmont**
 
 ---
-![[content/assets/Personajes/Alistar.png]]
+![[Alistar.png]]
 #### **Raza/Clase:** Humano / Paladín de Tyr.
 
 #### **Edad:** 38 años.

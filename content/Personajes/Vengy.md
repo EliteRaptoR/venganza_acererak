@@ -2,7 +2,7 @@
 ## **Vengy *Alba* Menethil**
 
 ---
-![[content/assets/Personajes/Vengy.png]]
+![[Vengy.png]]
 #### **Raza/Clase:** Humano / Paladín-Hechicero.
 
 #### **Edad:** 34 años.
