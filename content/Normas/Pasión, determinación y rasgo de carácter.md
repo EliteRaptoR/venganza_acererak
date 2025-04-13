@@ -17,7 +17,7 @@ Esta regla permite representar **hazañas imposibles**, **instintos de supervive
 - Si el resultado natural del d20 es **16 o más**, el **dado explota**:
     - Se lanza **otro d20 y se suma al anterior**.
     - Si este nuevo dado también muestra un **16 o más**, vuelve a explotar, y así sucesivamente **sin límite**.
-    - Si pese a ello, no se consigue éxito en la tirada, el personaje gana un punto de determinación.
+    - Si pese a ello, no se consigue éxito en la tirada, el personaje gana 1 PD.
 - Si el dado no explota se recupera el punto de pasión.
 
 ---
@@ -29,11 +29,11 @@ Esta regla permite representar **hazañas imposibles**, **instintos de supervive
 ---
 ### **Gestión de Puntos de Pasión**
 
-- Cada personaje tiene una reserva de 3 de **Puntos de Pasión**
-- Se gasta **1 Punto de Pasión** cada vez que se usa esta regla.
+- Cada personaje empieza con 1 PP y puede llegar a acumular hasta 3 PP**
+- Se gasta 1 PP cada vez que se usa esta regla.
 - Si el dado no explota (es decir, si se obtiene 15 o menos), el Punto de Pasión no se consume y se recupera inmediatamente.
-- Se gana un punto de Pasión si después de usar **Determinación** no se consigue un éxito.
--  Se gana un punto de Determinación cuando una tirada con desventaja gracias al **Rasgo de carácter** consigue un éxito.
+- Se gana un punto de Pasión si, después de usar **Determinación**, no se consigue un éxito.
+- Se gana un punto de Determinación cuando una tirada con desventaja de **Rasgo de carácter** consigue un éxito.
 
 ---
 ### **Ejemplo en Juego**
@@ -52,6 +52,7 @@ Esta regla permite representar **hazañas imposibles**, **instintos de supervive
 > 
 > El bosque responde. El volcán se calla. La leyenda de Orianna vive.
 
+---
 ## **Determinación**
 
 > _"El fracaso enseña, pero hay quienes se niegan a aceptarlo sin luchar una vez más."_  
@@ -69,36 +70,15 @@ La **Determinación** representa ese momento en el que el personaje **se niega a
 - Si aun así no consigue un éxito en la tirada gana un punto de Pasión.
 
 ---
-
-### **Limitaciones**
-
-- **Solo se puede usar una vez por tirada fallida.**
-    
-- **No puede usarse en críticos fallidos (1 natural)**.**
-    
-- **Solo se puede usar en tiradas hechas por el jugador, no en salvaciones pasivas, efectos automáticos ni tiradas de reacción de otros.**
-
----
-### **Aplicaciones comunes**
-
-- Tiradas de habilidad fallidas por poco margen.
-    
-- Fallos en ataques que sabías que deberían haber acertado.
-    
-- Tiradas con ventaja que, por alguna razón, salieron mal.
-
----
-
 ### **Gasto de Puntos de Determinación**
 
-- Cada personaje tiene una reserva de 3 de **Puntos de Determinación**
-- El uso de Determinación **consume 1 Punto de Determinación**.
-- Cada personaje tiene una reserva de 3 **Puntos de Determinación.
-- Se gana 1 punto de determinación cuando una tirada de **Pasión** explota y no se consigue un éxito.
-- Se gana 1 punto e determinación cuando una tirada con ventaja gracias al **Rasgo de carácter** no consigue un éxito.
+- Cada personaje empieza con 1 PD y puede llegar a acumular hasta 3 PD**
+- El uso de Determinación gasta 1 PD.
+- Se gana 1 PD cuando una tirada de **Pasión** explota y no se consigue un éxito.
+- Se gana 1 PD cuando una tirada con ventaja de **Rasgo de carácter** no consigue un éxito.
 
 ---
-### 📌 **Ejemplo en Juego**
+### **Ejemplo en Juego**
 
 > Alistar intenta romper una puerta con una tirada de Fuerza CD 10. Saca un 7.  
 > El DM le informa: _“Fallaste, no logras abrirla.”_  
@@ -106,21 +86,20 @@ La **Determinación** representa ese momento en el que el personaje **se niega a
 > Lanza de nuevo 1d20. Saca un 12.  
 > Como se queda con el mejor resultado, ahora **sí logra abrir la puerta**.
 
+---
 ## **Rasgos de Carácter**
 
 > _"No eres solo lo que haces. Eres lo que eliges sentir al hacerlo."_  
 > _—Abuelo Zitembe._
 
 ---
-
 ### **Resumen**
 
 Cada personaje está definido por **5 Rasgos de Carácter**. Estos no son meros adjetivos: son la esencia emocional, moral o filosófica que guía sus acciones.  
 Durante la aventura, un personaje puede **invocar uno de sus rasgos** para modificar una acción en curso y obtener un efecto mecánico y narrativo concreto.
 
 ---
-
-### **Cómo funciona**
+### **Mecánica**
 
 #### **Uso Positivo del Rasgo**
 
@@ -129,8 +108,6 @@ Durante la aventura, un personaje puede **invocar uno de sus rasgos** para modif
     - El personaje **tira con ventaja**.
     - Gasta **1 Punto de Rasgo de Carácter**.
     - Si **aún así falla la tirada**, gana **1 Punto de Determinación** como muestra de crecimiento interno.
-
----
 
 #### **Uso Negativo del Rasgo (Sacrificio o Contradicción)**
 
@@ -142,8 +119,9 @@ Durante la aventura, un personaje puede **invocar uno de sus rasgos** para modif
 ---
 ### **Gasto de Puntos de Determinación**
 
-- Cada personaje tiene una reserva de 3 de **Puntos de Determinación**
-- Se gasta 1 punto al usarlo en forma de desventaja.
-- Se gasta 1 punto al usarlo en forma de ventaja.
+- Cada personaje empieza con 3 PC y puede llegar a acumular hasta 5 PC**
+- Se gana 1 PC al usarlo en forma de desventaja.
+- Se gasta 1 PC al usarlo en forma de ventaja.
 - El DM puede otorgar puntos de rasgo por buena narraciones o interpretaciones.
----
+
+
