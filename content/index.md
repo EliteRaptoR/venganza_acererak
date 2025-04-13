@@ -2,7 +2,6 @@
 # Índice La Profecía del Abismo
 ---
 ## **Diario**
-- [[Diario Sesión 0]]
 - [[Diario Sesión 1]]
 
 ---
