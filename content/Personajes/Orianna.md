@@ -2,13 +2,16 @@
 ## **Orianna *Tejedora de Raices* **
 ---
 ![[Orianna.png]]
+### **Rasgos principales**
 #### **Raza/Clase:** Tiefling / Druida.
+#### Rasgos de carácter:
+-  
 
 #### **Edad:** 28 años.
 
 #### **Apariencia:**
 
-Orianna es un reflejo de la naturaleza salvaje y la fuerza que protege. Su piel carmesí, marcada por cicatrices finas, habla de una vida llena de luchas. Sus cuernos curvados hacia atrás, largos y perfectamente simétricos, son un recordatorio de su linaje infernal. Su cabello negro, trenzado con hojas y ramas, le da un aire de conexión profunda con el bosque que llama hogar. Sus ojos amarillos brillan como llamas, mostrando tanto la ferocidad de una bestia como la melancolía de alguien que ha vivido el rechazo. Viste túnicas en tonos verdes y marrones que se mezclan con el entorno, y siempre lleva consigo un bastón de madera, tallado con símbolos naturales.
+Orianna es un reflejo de la naturaleza salvaje y la fuerza que protege. Su piel violácea, marcada por cicatrices finas, habla de una vida llena de luchas. Sus cuernos curvados hacia atrás, largos y perfectamente simétricos, son un recordatorio de su linaje infernal. Su cabello carmesí, trenzado con hojas y ramas, le da un aire de conexión profunda con el bosque que llama hogar. Sus ojos amarillos brillan como llamas, mostrando tanto la ferocidad de una bestia como la melancolía de alguien que ha vivido el rechazo. Viste túnicas en tonos verdes y marrones que se mezclan con el entorno, y siempre lleva consigo un bastón de madera, tallado con símbolos naturales.
 
 ---
 
@@ -72,7 +75,7 @@ En la batalla contra Acererak en la **Tumba de la Aniquilación**, Orianna prota
 
 ---
 
-### **El Pasado de Orianna, la Guardiana del Bosque**
+### **El Pasado de Orianna
 
 #### **Infancia y Orígenes**
 
@@ -117,3 +120,7 @@ El mayor miedo de Orianna es fallar en su propósito de proteger la naturaleza. 
 #### **Si Pudiera Cambiar Algo**
 
 Sorprendentemente, Orianna no cambiaría nada de su pasado. Acepta cada parte de su historia, incluso los actos más oscuros, como pasos necesarios para convertirse en quien es. Esta aceptación es un reflejo de su fortaleza interna y de su comprensión de que, aunque su naturaleza infernal y sus decisiones han sido difíciles, también la han moldeado como una protectora del bosque.
+
+
+---
+###  **Bitácora**

@@ -3,7 +3,12 @@
 
 ---
 ![[Malizall.png]]
+
+### **Rasgos principales**
 #### **Raza/Clase:** Humano / Warlock.
+
+#### Rasgos de carácter:
+-  
 
 #### **Edad:** 43 años (apariencia mucho mayor debido a un envejecimiento prematuro).
 
@@ -72,7 +77,7 @@ Ahora, Malizal vive aislado en una cabaña en las montañas, atrapado en una esp
 - **Consejo para Interpretación:** Resalta su desconexión emocional y su lucha interna por encontrar propósito. Aunque apático, muestra destellos de la pasión que una vez tuvo, especialmente cuando sus compañeros están en peligro.
 ---
 
-### **El Pasado y las Motivaciones de Malizal, el Portador del Pacto**
+### **El Pasado y las Motivaciones de Malizal
 
 ---
 
@@ -117,3 +122,7 @@ Sus recuerdos del pasado son una de las pocas cosas que aún le traen alegría. 
 #### **Distancia de Lathander**
 
 Malizal no siente que Lathander lo haya abandonado; por el contrario, es él quien se ha distanciado de la luz del dios del amanecer en los últimos años. Sus poderes aún permanecen, una prueba de que el celestial que le otorgó el pacto sigue creyendo en él, incluso cuando él mismo no lo hace. Sin embargo, esta desconexión lo deja en un estado de incertidumbre, incapaz de reconectar completamente con su propósito.
+
+
+---
+###  **Bitácora**

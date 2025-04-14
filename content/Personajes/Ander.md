@@ -3,13 +3,17 @@
 
 ---
 ![[Ander.png]]
+### **Rasgos principales**
 #### **Raza/Clase:** Halfling / Bardo.
+
+#### Rasgos de carácter:
+-  
 
 #### **Edad:** 32 años.
 
 #### **Apariencia:**
 
-Ander es una sombra de lo que fue. Su pequeño cuerpo, antes ágil y lleno de energía, ahora está encorvado por el peso del alcohol y la culpa. Su cabello castaño está desordenado, y su piel, que alguna vez irradiaba salud, ahora está pálida, con ojeras profundas que enmarcan sus ojos marrones apagados. Las ropas que lleva todavía son de colores vivos, pero están desgastadas y sucias, como si fueran un reflejo de su caída emocional. Camina tambaleándose, con un bastón que usa más para mantener el equilibrio que como herramienta de apoyo.
+Ander es una sombra de lo que fue. Su pequeño cuerpo, antes ágil y lleno de energía, ahora está encorvado por el peso del alcohol y la culpa. Su cabello castaño está desordenado, y su piel, que alguna vez irradiaba salud, ahora está pálida, con ojeras profundas que enmarcan sus ojos marrones apagados. Un parche de ojo tapa la cicatriz que porta, no dejando ver su ojo que ahora no funciona. Las ropas que lleva todavía son de colores vivos, pero están desgastadas y sucias, como si fueran un reflejo de su caída emocional.
 
 ---
 
@@ -134,3 +138,5 @@ Sin embargo, lo que lo retiene no es solo su lealtad hacia sus compañeros, sino
 Incluso cuando se siente al borde del colapso, Ander encuentra fuerza en sus amigos y en su música, recordándose que cada pequeño acto de coraje cuenta. Su cobardía, en lugar de ser una debilidad, se convierte en un recordatorio de que la valentía no es la ausencia de miedo, sino la decisión de actuar a pesar de él.
 
 ---
+
+###  **Bitácora**

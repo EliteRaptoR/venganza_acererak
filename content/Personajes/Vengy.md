@@ -3,7 +3,11 @@
 
 ---
 ![[Vengy.png]]
+### **Rasgos principales**
 #### **Raza/Clase:** Humano / Paladín-Hechicero.
+
+#### Rasgos de carácter:
+-  
 
 #### **Edad:** 34 años.
 
@@ -70,3 +74,12 @@ Vengy ahora lucha por limpiar su nombre y recuperar el honor perdido. Aunque el 
 - **Punto Fuerte:** Vengy es un luchador equilibrado que puede resistir grandes daños, apoyar a sus aliados y castigar a sus enemigos con ataques mágicos y divinos.
 - **Punto Débil:** Su necesidad de reconocimiento puede nublar su juicio y hacerlo más vulnerable emocionalmente.
 - **Consejo para Interpretación:** Representa a Vengy como alguien bondadoso y resiliente, pero que lleva el peso del rechazo y las críticas. Su fuerza radica en su fe y su dedicación a proteger, incluso cuando no es apreciado.
+
+---
+
+### **El pasado de Vengy**
+
+
+
+---
+###  **Bitácora**

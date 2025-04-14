@@ -3,7 +3,12 @@
 
 ---
 ![[Alistar.png]]
+
+### **Rasgos principales**
 #### **Raza/Clase:** Humano / Paladín de Tyr.
+
+#### Rasgos de carácter:
+-  
 
 #### **Edad:** 38 años.
 
@@ -70,3 +75,12 @@ Ahora, Alistar se encuentra en una posición complicada dentro de su orden. Las 
 - **Punto Fuerte:** Alistar es un defensor excepcional, capaz de absorber grandes cantidades de daño y proteger a sus aliados con sus habilidades y su magia divina.
 - **Punto Débil:** Su lucha interna y su tendencia a cuestionar sus decisiones pueden ralentizar su capacidad para actuar en momentos críticos.
 - **Consejo para Interpretación:** Resalta el dilema de Alistar entre su fe en Tyr y su comprensión de las complejidades del mundo. Muestra cómo su devoción no está libre de dudas, pero sigue siendo una fuente de fortaleza para él y sus compañeros.
+---
+
+### **El pasado de Alistar**
+
+
+---
+
+###  **Bitácora**
+

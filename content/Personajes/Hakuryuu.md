@@ -3,7 +3,12 @@
 
 ---
 ![[Hakuryuu.png]]
+### **Rasgos principales**
+
 #### **Raza/Clase:** Dragonborn de plata / Guerrero.
+
+#### Rasgos de carácter:
+-  
 
 #### **Edad:** 25 años.
 
@@ -70,3 +75,22 @@ Sin embargo, todo cambió durante los eventos de la **Tumba de la Aniquilación*
 - **Punto Fuerte:** Hakuryuu es un luchador increíblemente poderoso, capaz de liderar a sus aliados en combate y enfrentar incluso las amenazas más imponentes.
 - **Punto Débil:** Su obsesión con _Myrrym_ lo hace emocionalmente vulnerable y propenso a tomar decisiones impulsivas.
 - **Consejo para Interpretación:** Resalta su ego y su determinación, pero muestra momentos de duda interna cuando está lejos de los demás. Su orgullo es una máscara que oculta un alma rota.
+
+---
+### **El pasado de Hakuryuu**
+
+#### La Tragedia de Hakuryuu y Kuryruu:
+
+Después de la muerte de Hakuryuu Arashi en una batalla, Kuryruu asumió el doloroso papel de hacerse pasar por su hermano gemelo, para evitar que su padre descubriera su muerte. Adopta el nombre de Hakuryuu Arashi y asume las responsabilidades que su hermano dejó atrás.
+
+Durante su viaje, en el que buscaba respuestas y una manera de redimir la traición que sentía al ocultar la verdad, Kuryruu recibió un regalo especial: la espada Myrim, un obsequio  en una de sus batallas más intensas símbolo de su coraje y habilidad. Myrim le fue entregada antes de una batalla crucial, la empuñó con determinación, siendo ahora un símbolo de su lucha interna y la mentira que vivía.
+
+Kuryruu continuó adelante bajo el nombre de Hakuryuu, luchando no solo en batallas físicas, sino también con la carga de la mentira y la rival
+
+
+---
+###  **Bitácora**
+
+
+
+
