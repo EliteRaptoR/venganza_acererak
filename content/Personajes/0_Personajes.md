@@ -1,177 +1,165 @@
-#GPT #Master 
-## **Alistar, el Escudo de la Ley**
+#GPT 
+## **Alistar *Aegis* Belmont**
+
+---
+![[Alistar.png]]
+
+### **Rasgos principales**
+#### **Raza/Clase:** Humano / Paladín de Tyr.
+
+#### Rasgos de carácter:
+-  
+
+#### **Edad:** 38 años.
+
+#### **Apariencia:**
+
+Alistar es la viva imagen de un defensor de la justicia. Alto y robusto, su porte imponente está reforzado por una armadura reluciente que lleva grabada en el pecho la balanza dorada de **Tyr**, símbolo de equidad y orden. Su cabello castaño corto, con mechones grises, refleja el paso del tiempo y las cargas de la responsabilidad. Sus ojos azules son claros y penetrantes, transmitiendo tanto una serenidad inquebrantable como un conflicto interno. Porta un escudo desgastado por innumerables batallas, pero mantenido con esmero, un reflejo de su dedicación a la causa de la justicia.
 
 ---
 
-#### **1. Identidad y Apariencia**
+#### **Personalidad:**
 
-- **Raza/Clase:** Humano / Paladín de Tyr.
-- **Edad:** 38 años.
-- **Apariencia:**
-    - Alto y robusto, con un físico trabajado por años de entrenamiento y combate, que refleja su disciplina y devoción.
-    - Cabello castaño corto y cuidado, con mechones grises que denotan el peso de sus responsabilidades.
-    - Sus ojos azules son claros y penetrantes, transmitiendo tanto una serenidad inquebrantable como un conflicto interno que lucha por resolver.
-    - Porta una armadura reluciente con el símbolo de Tyr grabado en el pecho: una balanza dorada en equilibrio. Su escudo, aunque desgastado por el uso, es mantenido con esmero como un recordatorio de su deber.
+- **Devoto y recto:** Alistar vive para servir a Tyr y a los ideales de justicia y orden, esforzándose por ser un ejemplo de equidad y sacrificio.
+- **Consciente de los grises morales:** Aunque sigue creyendo en la justicia absoluta, ha comenzado a darse cuenta de que no siempre es posible aplicarla sin comprometerse.
+- **Leal:** Es un compañero en quien siempre se puede confiar, dispuesto a sacrificarlo todo por proteger a sus aliados y a los inocentes.
 
 ---
 
-#### **2. Historia Personal**
+#### **Historia:**
 
-Alistar nació en un hogar profundamente devoto. Su padre, un paladín de Tyr, y su madre, una clériga, le inculcaron desde pequeño los ideales de justicia y orden. Creció bajo la estricta guía de sus padres, aprendiendo a valorar la equidad, el sacrificio y la búsqueda de un bien mayor. Desde joven, mostró un gran respeto por la jerarquía y las normas, viendo en ellas la base para un mundo más justo.
+Alistar nació en un hogar profundamente devoto. Su padre, un paladín de Tyr, y su madre, una clériga, le inculcaron los principios de justicia, disciplina y servicio desde pequeño. Creció viendo a sus padres como ejemplos vivos de los ideales de Tyr, y siguió sus pasos al unirse a una orden de paladines.
 
-Al alcanzar la madurez, Alistar abrazó plenamente los principios de Tyr y se unió a una orden de paladines dedicada a mantener el equilibrio y castigar el mal. Durante sus primeros años como paladín, se distinguió por su liderazgo y su capacidad para tomar decisiones difíciles con una claridad moral que pocos podían igualar.
+Durante los eventos de la **Tumba de la Aniquilación**, Alistar lideró con valentía, actuando como un escudo literal y figurativo para sus compañeros. Su fe y su determinación fueron inquebrantables, incluso cuando enfrentaron horrores inimaginables. Sin embargo, tras su resurrección, comenzó a enfrentarse a un nuevo dilema: las decisiones difíciles y las tensiones morales de un mundo en constante caos lo llevaron a cuestionar si la justicia absoluta era realmente alcanzable.
 
-Durante los eventos de la **Tumba de la Aniquilación**, Alistar lideró a sus compañeros en la lucha contra el Atropal y Acererak. Su fe en Tyr y su compromiso con la justicia lo convirtieron en un pilar para el grupo, enfrentándose al horror con una determinación inquebrantable. Sin embargo, la victoria dejó una marca en su espíritu, ya que comenzó a cuestionar la rigidez de la justicia absoluta y su capacidad para aplicarla en un mundo lleno de ambigüedades.
-
----
-
-#### **3. Estado Actual**
-
-Tras la derrota del Atropal y la resurrección del grupo, Alistar regresó a su orden y continuó su labor como defensor de la justicia. Sin embargo, las tensiones en el mundo, exacerbadas por las mentiras y manipulaciones que acusan a los héroes de haber provocado más daño que bien, lo han colocado en una posición incómoda.
-
-- **Conflicto con la Justicia Absoluta:** Alistar comienza a darse cuenta de que la justicia perfecta que Tyr predica es casi imposible de aplicar en el mundo mortal. Las decisiones que benefician a unos a menudo perjudican a otros, y esto lo lleva a cuestionar su papel como paladín.
-- **Tensiones en su Orden:** Dentro de la jerarquía de Tyr, algunos de sus compañeros ven a los manifestantes y críticos como ignorantes indignos de justicia. Alistar, en cambio, cree que todos merecen protección, incluso los manipulados.
-- **Dilema Personal:** Se encuentra atrapado entre su devoción por la jerarquía de Tyr y su deseo de actuar según su conciencia, lo que crea un conflicto interno que lo consume.
+Ahora, Alistar se encuentra en una posición complicada dentro de su orden. Las tensiones en la sociedad, manipuladas por rumores y mentiras, han llevado a manifestaciones y ataques contra las religiones, incluido el templo de Tyr. Mientras algunos de sus compañeros abogan por la fuerza y el desprecio hacia los manifestantes, Alistar lucha por mantenerse fiel a sus principios, considerando que todos merecen justicia, incluso aquellos que han sido manipulados.
 
 ---
 
-#### **4. Relaciones con otros Personajes**
+#### **Habilidades y Estilo de Combate:**
 
-- **Hakuryuu:** Aunque respeta su fuerza y habilidad, ve en él un egoísmo que contradice los principios de un verdadero héroe.
-- **Orianna:** Admira su conexión con la naturaleza y su ferocidad protectora, pero su desdén hacia la humanidad lo desconcierta.
-- **Malizal:** Entiende su melancolía, pero le resulta difícil aceptar su apatía. A menudo intenta motivarlo con palabras de aliento.
-- **Ander:** Lo recuerda como el alma del grupo y lamenta su caída. Está dispuesto a ayudarlo a recuperar su confianza y su lugar en el mundo.
-- **Vengy:** Alistar ve en Vengy un alma bondadosa y una voluntad inquebrantable, pero teme que su deseo de reconocimiento lo lleve por un camino peligroso.
+- **Defensa y protección:** Alistar es un paladín que prioriza la protección de sus aliados, utilizando su escudo y su magia divina para mantenerlos a salvo.
+- **Justiciero en combate:** Sus ataques son directos y poderosos, reforzados por la energía divina de Tyr para castigar a los malhechores.
+- **Resolución inquebrantable:** Su fuerza de voluntad lo hace resistente a efectos mentales y manipulaciones, un baluarte contra el caos.
 
 ---
 
-#### **5. Conflicto Principal**
+#### **Relaciones:**
 
-El conflicto de Alistar está profundamente ligado a su fe y su moral:
-
-1. **La Justicia Absoluta de Tyr:**  
-    Alistar cree en los ideales de Tyr, pero ha comenzado a cuestionar si es posible aplicarlos sin comprometer la equidad. Las decisiones difíciles y las consecuencias imprevistas lo llevan a reconsiderar qué significa ser un paladín.
-2. **Tensiones en su Orden:**  
-    Las conversaciones turbias entre los líderes de su orden y su desprecio hacia los manifestantes lo ponen en una posición difícil. Defender su templo podría significar traicionar los principios de justicia que ha defendido toda su vida.
-
-El regreso de Acererak y la invasión demoníaca podrían intensificar estos conflictos, especialmente si lo obligan a tomar decisiones que contradigan sus principios o pongan en peligro a inocentes.
+- **Hakuryuu:** Respeta su fuerza y sus logros pasados, pero ve en su obsesión con _Myrrym_ una distracción peligrosa.
+- **Orianna:** Admira su conexión con la naturaleza y su ferocidad protectora, aunque su desdén hacia la humanidad lo desconcierta.
+- **Malizal:** Entiende su melancolía y desea motivarlo, pero encuentra difícil aceptar su apatía ante los problemas del mundo.
+- **Ander:** Lo recuerda como el alma del grupo y lamenta profundamente su caída. Desea ayudarlo a recuperar su confianza y propósito.
+- **Vengy:** Ve en él un espíritu bondadoso y un aliado inquebrantable. Sin embargo, teme que su búsqueda de reconocimiento pueda desviarlo de su camino.
 
 ---
 
-#### **6. Desarrollo Narrativo**
+#### **Motivaciones:**
 
-El arco de Alistar está centrado en la **redefinición de su fe y su lugar en el mundo**:
-
-- **Inicio:** Está atrapado entre su lealtad a la jerarquía de Tyr y su deseo de actuar según su conciencia. Este conflicto lo lleva a un estado de incertidumbre.
-- **Clímax:** Durante un momento crítico, deberá decidir entre proteger la estructura de su orden o salvar a quienes necesitan ayuda, incluso si eso significa enfrentarse a sus superiores.
-- **Resolución:** Alistar puede encontrar un nuevo equilibrio, redefiniendo la justicia no como un ideal inalcanzable, sino como un principio que debe adaptarse a las necesidades del mundo.
+- **Proteger a los inocentes:** Alistar está dispuesto a sacrificar todo por salvar a los que no pueden defenderse.
+- **Mantener el equilibrio:** Lucha por encontrar un punto medio entre la justicia absoluta de Tyr y las complejidades del mundo real.
+- **Preservar su orden:** Aunque cuestiona a algunos de sus superiores, Alistar sigue creyendo en el papel fundamental de su orden para mantener la estabilidad en un mundo caótico.
 
 ---
 
-#### **7. Momentos Clave Potenciales**
+#### **Frases Clave:**
 
-1. **La Elección Imposible:**  
-    Acererak podría manipularlo para elegir entre salvar a los clérigos del templo o a ciudadanos inocentes, obligándolo a enfrentarse a las consecuencias de su decisión.
-2. **Revelación de Corrupción:**  
-    Descubrir que algunos líderes de su orden actúan en contra de los principios de Tyr podría empujarlo a cuestionar su lealtad y buscar un camino propio.
-3. **La Balanza Rota:**  
-    En un momento de desesperación, podría enfrentar una visión de Tyr que lo obligue a reconsiderar su fe, guiándolo hacia una nueva comprensión de la justicia.
+- _"La justicia no es fácil, pero es lo que nos separa del caos."_
+- _"Tyr me guía, pero el camino siempre estará lleno de decisiones difíciles."_
+- _"No protegeré solo a los dignos; mi deber es con todos los inocentes."_
 
 ---
 
-#### **8. Posibilidades de Evolución**
+#### **Notas para los Jugadores:**
 
-- **Si supera su dilema:**  
-    Alistar podría convertirse en un líder moral, inspirando a sus compañeros y a su orden para adaptarse a un mundo en constante cambio.
-- **Si no lo supera:**  
-    Podría caer en un estado de duda permanente, incapaz de actuar con claridad y convirtiéndose en un reflejo de la misma rigidez que critica.
+- **Punto Fuerte:** Alistar es un defensor excepcional, capaz de absorber grandes cantidades de daño y proteger a sus aliados con sus habilidades y su magia divina.
+- **Punto Débil:** Su lucha interna y su tendencia a cuestionar sus decisiones pueden ralentizar su capacidad para actuar en momentos críticos.
+- **Consejo para Interpretación:** Resalta el dilema de Alistar entre su fe en Tyr y su comprensión de las complejidades del mundo. Muestra cómo su devoción no está libre de dudas, pero sigue siendo una fuente de fortaleza para él y sus compañeros.
+---
 
-## **Ander, la Voz Apagada**
+### **El pasado de Alistar**
+
 
 ---
 
-#### **1. Identidad y Apariencia**
+###  **Bitácora**
 
-- **Raza/Clase:** Halfling / Bardo.
-- **Edad:** 32 años.
-- **Apariencia:**
-    - Pequeño y ágil, aunque su postura encorvada y su andar tambaleante reflejan los estragos del alcohol y la culpa.
-    - Rostro redondeado y juvenil, ahora apagado por ojeras profundas y una piel pálida.
-    - Pelo castaño despeinado, con mechones que caen sobre unos ojos marrones que alguna vez brillaron con optimismo, pero ahora muestran un constante matiz de tristeza.
-    - Su vestimenta es un eco de su antiguo esplendor: ropas de colores vivos que alguna vez reflejaron su alegría, ahora raídas y sucias, cubiertas con una capa desgastada que apenas lo protege del frío.
+## **Ander *Alma de Fuego* Colinaalta**
+
+---
+![[Ander.png]]
+### **Rasgos principales**
+#### **Raza/Clase:** Halfling / Bardo.
+
+#### Rasgos de carácter:
+-  
+
+#### **Edad:** 32 años.
+
+#### **Apariencia:**
+
+Ander es una sombra de lo que fue. Su pequeño cuerpo, antes ágil y lleno de energía, ahora está encorvado por el peso del alcohol y la culpa. Su cabello castaño está desordenado, y su piel, que alguna vez irradiaba salud, ahora está pálida, con ojeras profundas que enmarcan sus ojos marrones apagados. Un parche de ojo tapa la cicatriz que porta, no dejando ver su ojo que ahora no funciona. Las ropas que lleva todavía son de colores vivos, pero están desgastadas y sucias, como si fueran un reflejo de su caída emocional.
 
 ---
 
-#### **2. Historia Personal**
+#### **Personalidad:**
 
-Ander era el corazón del grupo, un bardo cuya misión no solo era inspirar a sus compañeros en batalla, sino también **proteger sus espíritus** con canciones y palabras positivas. Desde joven, su alegría y valentía lo destacaron entre los suyos. Su vida estaba dedicada a la protección de aquellos a quienes amaba, y siempre encontraba una manera de sacarles una sonrisa, incluso en los momentos más oscuros.
-
-Durante la Tumba de la Aniquilación, Ander fue fundamental para mantener la cohesión del grupo. Sus canciones de esperanza y su habilidad para encontrar humor en situaciones desesperadas ayudaron a sus compañeros a seguir adelante. Sin embargo, su espíritu protector también lo llevó a cargar con el peso de sus fallos, incluso cuando no eran su responsabilidad.
-
-El evento que marcó un cambio irreversible en Ander ocurrió tras la resurrección del grupo. Durante un momento de debilidad emocional y ebriedad, intentó demostrar su poder mágico frente a un público que nunca lo tomaba en serio. En el proceso, lanzó un hechizo que hirió gravemente a un niño que se encontraba cerca, un error que Ander apenas recuerda debido al trauma.
+- **Melancólico y perdido:** Ander está atrapado en un ciclo de culpa y autodesprecio, incapaz de superar su error pasado.
+- **Aislado:** Ha cortado todos los lazos con sus compañeros, convencido de que no merece su compañía.
+- **Heroico en esencia:** A pesar de todo, su instinto protector sigue vivo, aunque profundamente enterrado bajo capas de autocompasión.
 
 ---
 
-#### **3. Estado Actual**
+#### **Historia:**
 
-Ander vive consumido por la culpa y el aislamiento. Ha abandonado la música que alguna vez fue su vida, sustituyéndola por el alcohol, que utiliza como una forma de adormecer su dolor. Actualmente, canta y toca en tabernas de baja categoría, soportando las burlas y desprecios de un público que lo ve como un bufón. Sus canciones, que alguna vez fueron poderosas y llenas de vida, ahora son desafinadas y melancólicas.
+Ander era el corazón del grupo, el bardo que mantenía el ánimo en alto incluso en las peores situaciones. Su música y su humor ligero eran un recordatorio constante de que había esperanza, incluso en medio del caos de la **Tumba de la Aniquilación**. Sus compañeros confiaban en él no solo como un combatiente, sino como un amigo que siempre estaba ahí para protegerlos emocionalmente.
 
-- **Aislamiento:** Ander ha cortado casi todo contacto con sus antiguos compañeros, avergonzado por su caída. Aunque guarda un profundo cariño por ellos, siente que ya no merece estar a su lado.
-- **Autodesprecio:** Cree que ha fallado no solo a sí mismo, sino también a sus amigos y a los ideales que una vez defendió.
-- **Olvido Voluntario:** El trauma del incidente con el niño es un recuerdo bloqueado en su mente, pero los ecos de esa culpa lo persiguen constantemente.
+Sin embargo, tras ser resucitado, Ander comenzó a sentirse desplazado. Nadie lo tomaba en serio como héroe, y su frustración creció hasta que, durante una demostración de poder mágico en estado de ebriedad, cometió un error fatal. Lanzó un hechizo que hirió gravemente a un niño, un acto que apenas recuerda debido al trauma. La culpa de este evento lo llevó a aislarse y a depender del alcohol como escape.
 
----
-
-#### **4. Relaciones con otros Personajes**
-
-- **Hakuryuu:** Ander admiraba su liderazgo y fuerza, y trataba de aligerar su carga con humor. Ahora, teme que Hakuryuu lo vea como una carga.
-- **Orianna:** Ander siempre sintió una conexión especial con su espíritu protector, aunque ahora evita enfrentarse a su mirada de decepción.
-- **Malizal:** Ambos comparten un estado de desconexión, pero Ander evita a Malizal porque siente que juntos solo alimentarían su mutuo aislamiento.
-- **Vengy:** Ander siempre vio a Vengy como un modelo de bondad, pero ahora teme que lo juzgue por sus errores.
-- **Alistar:** Respeta su integridad y liderazgo, pero siente que no puede enfrentarlo tras su caída.
+Ahora, Ander sobrevive cantando en tabernas de mala muerte, soportando burlas constantes de un público que lo ve como un bufón. Ha perdido la confianza en sí mismo y se ha desconectado de sus antiguos compañeros, aunque todavía guarda un profundo cariño por ellos.
 
 ---
 
-#### **5. Conflicto Principal**
+#### **Habilidades y Estilo de Combate:**
 
-El conflicto de Ander es un **viaje de redención personal**:
-
-1. **Culpa y Aislamiento:**  
-    Ander siente que su error lo ha definido, y su incapacidad para enfrentarlo lo ha llevado a alejarse de sus amigos y de su propósito como bardo.
-2. **Falta de Valor:**  
-    Cree que ya no tiene un lugar en el mundo y que ha perdido su capacidad para inspirar y proteger. Este miedo lo paraliza, impidiéndole buscar la redención.
-
-El regreso de Acererak y la llamada de auxilio de sus compañeros representan una oportunidad para que Ander redescubra su valor, pero primero debe enfrentar sus miedos y recordar quién es realmente.
+- **Soporte musical:** Las canciones de Ander fortalecen a sus aliados y debilitan a sus enemigos, convirtiéndolo en una pieza clave en el grupo.
+- **Versatilidad mágica:** Su magia bardística le permite adaptarse a diferentes situaciones, desde control del campo de batalla hasta curación.
+- **Evasivo:** Aunque no es un luchador físico, su pequeño tamaño y agilidad le permiten evitar ataques directos.
 
 ---
 
-#### **6. Desarrollo Narrativo**
+#### **Relaciones:**
 
-El arco de Ander está centrado en la **superación de la culpa y el redescubrimiento de su propósito**:
-
-- **Inicio:** Ander vive en la miseria, actuando como un bufón y evitando cualquier interacción significativa con sus amigos. Su vida parece carecer de dirección.
-- **Clímax:** La llamada de auxilio de sus compañeros lo obliga a tomar una decisión: permanecer en la oscuridad o levantarse y ayudar a quienes todavía confían en él.
-- **Resolución:** Si logra enfrentar sus miedos, Ander puede redescubrir su pasión por la música y convertirse nuevamente en el espíritu que mantiene unido al grupo.
-
----
-
-#### **7. Momentos Clave Potenciales**
-
-1. **El Rescate del Perro:**  
-    Durante un ataque demoníaco, Ander se encuentra en una situación donde debe salvar a un perro de un demonio. Este acto de heroísmo aparentemente insignificante podría ser el primer paso hacia su redención.
-2. **Confrontación con sus Compañeros:**  
-    Al reunirse con el grupo, Ander podría enfrentarse a sus miedos de ser juzgado, solo para descubrir que sus amigos todavía lo valoran.
-3. **Enfrentamiento con Acererak:**  
-    El lich podría intentar manipularlo, recordándole su error con el niño. Esto podría ser un momento decisivo para que Ander demuestre que ha superado su culpa.
+- **Hakuryuu:** Ander admiraba su liderazgo, pero ahora teme que Hakuryuu lo vea como una carga inútil.
+- **Orianna:** Siempre valoró su espíritu protector, y su caída lo entristece profundamente. Aunque evita a Orianna, desearía volver a ganarse su respeto.
+- **Malizal:** Se siente identificado con su melancolía, pero teme que ambos se hundan más si intentan apoyarse mutuamente.
+- **Vengy:** Lo ve como un ejemplo de bondad inquebrantable y desea tener su fortaleza para superar sus propios problemas.
+- **Alistar:** Respeta profundamente su integridad, pero teme ser juzgado por él debido a su caída.
 
 ---
 
-#### **8. Posibilidades de Evolución**
+#### **Motivaciones:**
 
-- **Si supera su culpa:**  
-    Ander podría convertirse en el corazón del grupo nuevamente, usando su música y carisma para inspirar a sus compañeros en su lucha contra Acererak.
-- **Si no la supera:**  
-    Ander podría convertirse en una carga emocional para el grupo, incapaz de actuar con confianza y dejando que su culpa lo consuma.
+- **Redescubrir su valor:** Ander anhela recuperar la confianza en sí mismo y demostrar que todavía puede ser el héroe que una vez fue.
+- **Proteger a sus compañeros:** Aunque se ha aislado, no dudaría en responder a una llamada de auxilio de sus amigos.
+- **Enfrentar su culpa:** Ander necesita recordar que su error no define quién es y que todavía tiene la capacidad de hacer el bien.
+
+---
+
+#### **Frases Clave:**
+
+- _"Mis canciones ya no tienen alma. Soy solo un eco de lo que fui."_
+- _"No merezco estar entre héroes. Lo único que sé hacer es decepcionar."_
+- _"Pero… si mis amigos me necesitan, quizás todavía haya algo de valor en mí."_
+
+---
+
+#### **Notas para los Jugadores:**
+
+- **Punto Fuerte:** Ander es un soporte poderoso, capaz de potenciar al grupo con su música y su magia. Su capacidad de adaptación lo hace valioso en cualquier situación.
+- **Punto Débil:** Su culpa y autocompasión pueden dificultar su iniciativa y su capacidad para tomar decisiones.
+- **Consejo para Interpretación:** Muestra a Ander como alguien roto, pero que aún guarda un destello de heroísmo. Haz énfasis en sus momentos de duda y sus intentos de recuperar la confianza en sí mismo.
+---
 
 ### **El Pasado de Ander, el Bardo Protector**
 
@@ -236,175 +224,181 @@ Incluso cuando se siente al borde del colapso, Ander encuentra fuerza en sus ami
 
 ---
 
-## **Hakuryuu, el Guerrero Despojado**
+###  **Bitácora**
 
-#### **1. Identidad y Apariencia**
 
-- **Raza/Clase:** Dragonborn de plata / Guerrero.
-- **Edad:** 25 años (aunque su resurrección le hizo sentir un cambio en su percepción del tiempo).
-- **Apariencia:**
-    - Escamas plateadas brillantes que reflejan la luz como una armadura natural, aunque ahora algunas tienen un matiz opaco, símbolo de su desgaste emocional.
-    - Imponente, de gran musculatura, con ojos azules gélidos que transmiten tanto autoridad como desdén.
-    - Su vestimenta refleja opulencia: túnicas bordadas con hilos de plata, capas adornadas con insignias de dragones y joyas finas que denotan su riqueza y estatus.
+
+**Hakuryuu *Argentis* Arashi**
+
+---
+![[Hakuryuu.png]]
+### **Rasgos principales**
+
+#### **Raza/Clase:** Dragonborn de plata / Guerrero.
+
+#### Rasgos de carácter:
+-  
+
+#### **Edad:** 25 años.
+
+#### **Apariencia:**
+
+Hakuryuu es una figura imponente que refleja tanto grandeza como un vacío interno. Sus escamas plateadas, antes relucientes, ahora tienen un tono apagado en ciertas áreas, como si llevaran el peso de los años y la melancolía. Sus ojos azules, penetrantes y fríos como el hielo, parecen mirar constantemente hacia un pasado glorioso que no puede recuperar. Siempre viste con ropajes que muestran opulencia: túnicas de hilo de plata, capas bordadas con dragones y joyas finas que destacan su estatus. Sin embargo, su porte no logra esconder la frustración y amargura que lo acompañan.
 
 ---
 
-#### **2. Historia Personal**
+#### **Personalidad:**
 
-Hakuryuu comenzó su vida como un joven ambicioso y valiente, nacido en un pequeño clan de dragonborns que valoraban la fuerza, el honor y el liderazgo. Su deseo de gloria lo llevó a embarcarse en su primera misión a los 17 años: escoltar un carro hasta un pueblo cercano a Neverwinter. Aunque la tarea parecía simple, se convirtió en el inicio de su transformación cuando un grupo de goblins atacó. Esta prueba lo obligó a demostrar su valor, ganándose la confianza de aliados poderosos.
-
-El evento que marcó su ascenso fue la recuperación de Phandelver, un pueblo oprimido por los **Marcas Rojas**, una banda de criminales locales. Su éxito en liderar la liberación del pueblo no pasó desapercibido: fue nombrado **capitán de los Capas Verdes** y reconocido como un héroe local. Este reconocimiento atrajo la atención de los **Zentarim**, quienes lo integraron a su organización y le entregaron _Myrrym_, una espada legendaria, como símbolo de su poder y su lealtad.
-
-**Myrrym** no era solo un arma, sino una extensión de su identidad. La espada, forjada con sangre de dragón plateado, representaba no solo fuerza, sino también el respeto de sus aliados y el control sobre su destino. Hakuryuu vivió sus mejores años empuñándola, liderando a su pueblo y consolidándose como una figura imponente.
+- **Egocéntrico y obsesivo:** Hakuryuu ha sido consumido por su necesidad de recuperar _Myrrym_, su espada perdida, que simboliza su poder, identidad y gloria pasada.
+- **Altivo y distante:** Aunque es respetado como héroe, su arrogancia lo ha aislado, incluso de sus compañeros.
+- **Fuerte pero quebrado:** Su carácter todavía posee destellos de liderazgo y nobleza, pero están enterrados bajo su obsesión y su dolor.
 
 ---
 
-#### **3. La Caída en la Tumba de la Aniquilación**
+#### **Historia:**
 
-Durante la batalla final en la Tumba de la Aniquilación, Hakuryuu enfrentó a dos enemigos que definieron su destino: el temible **Atropal** y el lich **Acererak**. Aunque el grupo logró destruir al Atropal y su almero, Acererak intervino, demostrando un poder abrumador. Hakuryuu murió en esta confrontación, perdiendo a _Myrrym_ en el proceso.
+Hakuryuu comenzó como un joven de 17 años lleno de ambición y con una visión clara: alcanzar la grandeza. Su valentía durante su primera misión, proteger un carro de goblins cerca de Neverwinter, lo llevó a ganarse la confianza de aliados poderosos. Más tarde, lideró la liberación de Phandelver, expulsando a los **Marcas Rojas** y consolidando su lugar como un héroe local.
 
-Este sacrificio marcó un punto de inflexión en su vida. La batalla fue la más épica y devastadora de su existencia; aunque lograron salvar al mundo, Hakuryuu quedó destruido emocionalmente. A pesar de ser resucitado en Waterdeep junto a sus compañeros, nunca pudo superar la pérdida de su espada ni la sensación de vacío que dejó el sacrificio.
+Los **Zentarim**, impresionados por sus logros, lo integraron en su organización y le otorgaron _Myrrym_, una espada legendaria forjada con la sangre de un dragón plateado ancestral. La espada no solo era un arma de poder inmenso, sino también un símbolo de su ascenso, su autoridad y su conexión con algo más grande.
 
----
-
-#### **4. Estado Actual**
-
-Hakuryuu vive rodeado de lujos en una mansión en Waterdeep. Es venerado como un héroe por el pueblo y disfruta de una vida de comodidades, pero **su alma está quebrada**. Aunque tiene acceso a lo mejor que el mundo puede ofrecer—servicios, armas, comida y reconocimiento público—todo esto se siente vacío para él, ya que carece de lo que realmente desea: _Myrrym_.
-
-El carácter de Hakuryuu ha cambiado drásticamente:
-
-- **Altivo y soberbio:** Desprecia a quienes considera inferiores o incapaces de entender su sacrificio.
-- **Impaciente y egocéntrico:** Su obsesión con recuperar _Myrrym_ lo ha convertido en una figura difícil de tratar, incluso para sus amigos.
-- **Aislado:** Apenas mantiene contacto con algunos compañeros, como Vengy o Alistar, pero incluso estas relaciones son distantes.
-
-Para Hakuryuu, recuperar _Myrrym_ no es solo una cuestión de honor; es su razón de ser. En sus ojos, sin la espada, no puede volver a ser quien era.
+Sin embargo, todo cambió durante los eventos de la **Tumba de la Aniquilación**. En la batalla final contra el Atropal y Acererak, Hakuryuu murió, perdiendo tanto la vida como a _Myrrym_. Aunque fue resucitado junto a sus compañeros en Waterdeep, la pérdida de la espada marcó el inicio de su decadencia emocional. A pesar de ser venerado como un héroe, Hakuryuu nunca pudo aceptar la idea de vivir sin _Myrrym_, un objeto que consideraba parte esencial de su identidad.
 
 ---
 
-#### **5. Relaciones con otros Personajes**
+#### **Habilidades y Estilo de Combate:**
 
-- **Orianna:** Aunque la respeta como compañera de batalla, su aislamiento lo ha distanciado de ella. Es posible que su conexión con la naturaleza le recuerde un equilibrio que él ha perdido.
-- **Malizal:** Ambos comparten un cierto vacío existencial, pero Hakuryuu desprecia la apatía de Malizal, viéndola como una señal de debilidad.
-- **Ander:** Hakuryuu solía disfrutar de las canciones y el ánimo de Ander, pero ahora no tiene paciencia para su estado actual.
-- **Vengy:** Mantiene contacto ocasional con él. Aunque aprecia su bondad, considera que Vengy se deja manipular por su necesidad de aceptación.
-- **Alistar:** Respetado como paladín y defensor de la justicia, pero Hakuryuu se siente incómodo con su rectitud, que contrasta con su propio egoísmo.
+- **Maestría en la guerra:** Hakuryuu es un estratega nato y un luchador imponente en el frente de batalla. Su habilidad con la espada y su liderazgo lo convierten en una figura central en cualquier enfrentamiento.
+- **Agresividad calculada:** En combate, utiliza ataques directos y poderosos, confiando en su fuerza bruta y su capacidad para desmoralizar al enemigo.
+- **Adaptabilidad:** Aunque su foco siempre ha sido el combate cuerpo a cuerpo, es capaz de adaptarse a situaciones complejas gracias a su experiencia.
 
 ---
 
-#### **6. Conflicto Principal**
+#### **Relaciones:**
 
-Hakuryuu está consumido por una **obsesión destructiva**. Aunque tiene todo lo que podría desear, su vida carece de propósito sin _Myrrym_. Para él, la espada representa más que un arma; es su identidad, su conexión con su gloria pasada y la clave para sentirse completo. Sin embargo, esta obsesión lo ciega ante lo que realmente importa: sus amigos, su papel en el mundo y su capacidad para crear un nuevo propósito.
-
-El conflicto con Acererak será un catalizador clave:
-
-1. **El enfrentamiento directo con Acererak:** Saber que el lich tiene _Myrrym_ lo impulsará a actuar, incluso a costa de su vida.
-2. **La prueba del sacrificio:** Según la profecía, _Myrrym_ solo puede ser destruida si Hakuryuu la usa en un acto de sacrificio personal. Esta será su oportunidad para redimir su orgullo y demostrar que su valor trasciende el poder de la espada.
-
----
-
-#### **7. Desarrollo Narrativo**
-
-Hakuryuu tiene el potencial para uno de los arcos de redención más impactantes de la campaña:
-
-- **Inicio:** Su obsesión lo aísla, poniendo en peligro su relación con el grupo.
-- **Clímax:** El enfrentamiento con Acererak y la recuperación de _Myrrym_ lo obligan a decidir entre el poder y el sacrificio.
-- **Resolución:** Hakuryuu puede redescubrir su verdadera fuerza al abandonar su necesidad de gloria y abrazar un propósito más noble.
+- **Orianna:** Respetaba su conexión con la naturaleza, pero su aislamiento y melancolía los han distanciado.
+- **Malizal:** Aunque comparte su desconexión con el presente, Hakuryuu desprecia la pasividad de Malizal, considerándola una señal de debilidad.
+- **Ander:** Solía disfrutar de la alegría y las canciones de Ander, pero ahora su impaciencia y desdén lo alejan de él.
+- **Vengy:** Tiene una relación distante pero respetuosa. Aunque aprecia la bondad de Vengy, considera que su búsqueda de aprobación es innecesaria.
+- **Alistar:** Lo respeta por su dedicación a la justicia, aunque siente que su rectitud es un contraste incómodo con su propia soberbia.
 
 ---
 
-### **Posibilidades de Evolución**
+#### **Motivaciones:**
 
-- **Si Hakuryuu supera su obsesión:** Podría convertirse nuevamente en el líder inspirador que fue, uniendo al grupo y demostrando que la verdadera grandeza no depende de objetos materiales.
-- **Si sucumbe a su obsesión:** Acererak podría usarlo como una herramienta, haciendo que se convierta en un obstáculo para sus compañeros.
-
-## **Malizal el Hechicero  Vacio**
-
----
-
-#### **1. Identidad y Apariencia**
-
-- **Raza/Clase:** Humano / Warlock.
-- **Edad:** 43 años (apariencia mucho mayor debido al envejecimiento prematuro causado por una maldición).
-- **Apariencia:**
-    - Piel pálida y rostro marcado por arrugas y líneas de expresión que reflejan su fatiga y desilusión.
-    - Ojos hundidos y oscuros, con una mirada que parece perdida en pensamientos y recuerdos.
-    - Cabello negro y desordenado con mechones grises, como si el tiempo hubiera avanzado demasiado rápido para él.
-    - Su vestimenta, aunque funcional, está descuidada: túnicas gastadas y un cinturón que alguna vez sostuvo libros y componentes mágicos, ahora vacíos.
+- **Recuperar _Myrrym_:** Su vida gira en torno a encontrar y recuperar su espada perdida. Para Hakuryuu, _Myrrym_ no es solo un arma, sino una extensión de sí mismo y un símbolo de su valía.
+- **Enfrentarse a Acererak:** Saber que el lich tiene _Myrrym_ lo llena tanto de ira como de determinación. Ve este enfrentamiento como una oportunidad para reclamar su gloria perdida.
+- **Reconectar con su propósito:** Aunque no lo admite, Hakuryuu siente el vacío de su vida actual. En el fondo, busca un propósito más allá de su obsesión, algo que redima su alma y le devuelva su verdadera fuerza.
 
 ---
 
-#### **2. Historia Personal**
+#### **Frases Clave:**
 
-Malizal creció con un fervor religioso que lo distinguía incluso entre sus compañeros. Aunque no era especialmente dotado físicamente, su carisma y su capacidad para inspirar a otros lo llevaron a difundir la palabra de **Lathander**, el dios de la renovación y la esperanza. Acompañado por acólitos, emprendió un viaje épico para extender la fe por la Costa de la Espada, ganando muchos adeptos y estableciendo una reputación como un líder espiritual devoto.
-
-Su dedicación no pasó desapercibida. Un día, un **celestial de Lathander** apareció en sus sueños y le ofreció un pacto como recompensa por su servicio. Este pacto no era un acuerdo oscuro, sino un reconocimiento de su fervor: Malizal obtendría poder divino para continuar su misión. Durante años, usó este don para proteger a los inocentes y expandir la luz de Lathander.
-
-Sin embargo, todo cambió tras la batalla en la **Tumba de la Aniquilación**, donde enfrentó horrores más allá de lo imaginable. Durante su lucha contra el Atropal y Acererak, Malizal sufrió una maldición que aceleró su envejecimiento, drenando su vitalidad y dejándolo emocionalmente agotado. Aunque fue resucitado tras la batalla, nunca recuperó su espíritu ni su pasión por la vida.
+- _"Un héroe no se mide por sus riquezas, sino por lo que es capaz de reclamar como suyo."_
+- _"La espada me eligió. Sin ella, ¿quién soy?"_
+- _"El pasado no es solo un recuerdo; es un deber que debo cumplir."_
 
 ---
 
-#### **3. Estado Actual**
+#### **Notas para los Jugadores:**
 
-Malizal vive en aislamiento en una cabaña oscura en las montañas, donde pasa sus días frente a una chimenea apagada, perdido en sus pensamientos. La persona vibrante y carismática que una vez fue ha desaparecido, reemplazada por un hombre apático que lucha por encontrar propósito en un mundo que considera cruel e injusto.
+- **Punto Fuerte:** Hakuryuu es un luchador increíblemente poderoso, capaz de liderar a sus aliados en combate y enfrentar incluso las amenazas más imponentes.
+- **Punto Débil:** Su obsesión con _Myrrym_ lo hace emocionalmente vulnerable y propenso a tomar decisiones impulsivas.
+- **Consejo para Interpretación:** Resalta su ego y su determinación, pero muestra momentos de duda interna cuando está lejos de los demás. Su orgullo es una máscara que oculta un alma rota.
 
-- **Apatía:** Se siente atrapado entre su obligación como servidor de Lathander y la falta de motivación para actuar. Su conexión con su celestial, aunque aún presente, parece distante y vacía.
-- **Soledad:** Su único compañero es un búho que refleja su estado emocional: perezoso y desmotivado, pero leal.
-- **Melancolía:** Malizal no puede evitar revivir los sacrificios y pérdidas de la campaña pasada, especialmente la juventud y energía que entregó en su lucha contra el mal.
+---
+### **El pasado de Hakuryuu**
+
+#### La Tragedia de Hakuryuu y Kuryruu:
+
+Después de la muerte de Hakuryuu Arashi en una batalla, Kuryruu asumió el doloroso papel de hacerse pasar por su hermano gemelo, para evitar que su padre descubriera su muerte. Adopta el nombre de Hakuryuu Arashi y asume las responsabilidades que su hermano dejó atrás.
+
+Durante su viaje, en el que buscaba respuestas y una manera de redimir la traición que sentía al ocultar la verdad, Kuryruu recibió un regalo especial: la espada Myrim, un obsequio  en una de sus batallas más intensas símbolo de su coraje y habilidad. Myrim le fue entregada antes de una batalla crucial, la empuñó con determinación, siendo ahora un símbolo de su lucha interna y la mentira que vivía.
+
+Kuryruu continuó adelante bajo el nombre de Hakuryuu, luchando no solo en batallas físicas, sino también con la carga de la mentira y la rival
+
+
+---
+###  **Bitácora**
+
+## **Malizal *Faroardiente* Verbulux**
+
+---
+![[Malizall.png]]
+
+### **Rasgos principales**
+#### **Raza/Clase:** Humano / Warlock.
+
+#### Rasgos de carácter:
+-  
+
+#### **Edad:** 43 años (apariencia mucho mayor debido a un envejecimiento prematuro).
+
+#### **Apariencia:**
+
+Malizal tiene un aspecto que refleja el peso de los años y la desesperanza. Su piel es pálida, casi grisácea, con líneas marcadas que denotan su envejecimiento acelerado. Sus ojos oscuros están hundidos, con una mirada vacía que parece buscar algo en el horizonte que no puede alcanzar. Su cabello negro, salpicado de mechones grises, está descuidado, cayendo en mechones desordenados. Viste túnicas gastadas que una vez fueron imponentes, pero que ahora son meros vestigios de su pasado glorioso.
 
 ---
 
-#### **4. Relaciones con otros Personajes**
+#### **Personalidad:**
 
-- **Hakuryuu:** Aunque entiende su dolor, Malizal encuentra difícil relacionarse con la obsesión y el egoísmo de Hakuryuu. Sin embargo, ambos comparten una desconexión con el presente.
-- **Orianna:** Siente respeto por su conexión con la naturaleza, pero su aislamiento mutuo dificulta una relación más cercana.
-- **Ander:** Aunque siente lástima por Ander, no tiene la energía para intentar ayudarlo, viéndolo como un reflejo de su propia pérdida.
-- **Vengy:** Su relación con Vengy está marcada por el respeto y la nostalgia de sus días de fervor compartido. Sin embargo, su apatía lo ha distanciado de su amigo.
-- **Alistar:** Respeta la dedicación de Alistar hacia Tyr, pero lo considera demasiado idealista y rígido, algo que Malizal ya no cree posible en este mundo.
+- **Melancólico y apático:** La apatía lo consume. Aunque sigue conectado con Lathander a través de su pacto celestial, su fe se siente vacía.
+- **Reflexivo:** Su intelecto lo lleva a analizar las cosas profundamente, aunque su melancolía le impide actuar con decisión.
+- **Leal, aunque distante:** A pesar de su estado actual, aún guarda cariño y respeto por sus compañeros, aunque rara vez lo demuestra abiertamente.
 
 ---
 
-#### **5. Conflicto Principal**
+#### **Historia:**
 
-El conflicto de Malizal es tanto interno como externo:
+Malizal comenzó su vida como un ferviente devoto de **Lathander**, el dios de la renovación y la esperanza. Aunque no era especialmente fuerte, su carisma y su capacidad para inspirar a otros lo llevaron a ser una figura central en la expansión de la fe de Lathander por la Costa de la Espada. Durante uno de estos viajes, un celestial de Lathander lo visitó en sueños, ofreciendo un pacto que otorgaría a Malizal parte de su poder para continuar sirviendo a la causa.
 
-1. **Apatía y Desilusión:**  
-    Su envejecimiento prematuro y el desprecio público hacia los héroes lo han llevado a perder la fe en el mundo y en su misión. Aunque todavía cree en Lathander, su devoción se siente vacía y mecánica.
-2. **Falta de Propósito:**  
-    Malizal necesita encontrar una razón para luchar nuevamente, algo que despierte su espíritu y lo conecte con los ideales que una vez defendió.
+Por años, Malizal utilizó estos dones para proteger a los inocentes y expandir la luz de Lathander, pero todo cambió en la **Tumba de la Aniquilación**. Allí, una maldición de Acererak aceleró su envejecimiento, drenando su vitalidad y dejándolo emocionalmente exhausto. Aunque fue resucitado tras la batalla, el sacrificio le arrebató gran parte de su espíritu.
 
-El regreso de Acererak y la invasión demoníaca representan una amenaza que podría sacarlo de su estado, pero necesitará un evento emocionalmente significativo, como el peligro de su antiguo compañero **Wako** o la ayuda de sus amigos, para romper su apatía.
+Ahora, Malizal vive aislado en una cabaña en las montañas, atrapado en una espiral de melancolía y apatía. Pasa sus días reflexionando frente a una chimenea apagada, incapaz de encontrar un propósito en un mundo que considera lleno de odio y corrupción.
 
 ---
 
-#### **6. Desarrollo Narrativo**
+#### **Habilidades y Estilo de Combate:**
 
-El arco de Malizal está centrado en la **redención y el renacimiento espiritual**:
-
-- **Inicio:** Vive en aislamiento, consumido por la apatía y desconectado del mundo. Apenas responde a la invasión demoníaca, considerando la posibilidad de dejarse morir.
-- **Clímax:** Un evento emocional—como la aparición de Wako, la petición de ayuda de Vengy o el peligro para el grupo—lo obliga a actuar, recordándole lo que significa ser un servidor de Lathander.
-- **Resolución:** Si encuentra un propósito renovado, Malizal podría redescubrir su conexión con su celestial y convertirse nuevamente en una fuerza de esperanza. Si no lo hace, corre el riesgo de sucumbir completamente a la desesperación.
+- **Magia de Pacto:** Malizal utiliza los dones otorgados por su pacto celestial para lanzar poderosos hechizos, principalmente enfocados en daño y control del terreno.
+- **Adaptación táctica:** Aunque apático, su intelecto le permite analizar rápidamente las situaciones y adaptarse a las amenazas.
+- **Debilidad emocional:** Su estado emocional afecta su determinación en combate, lo que puede hacerlo vulnerable en situaciones de alta presión.
 
 ---
 
-#### **7. Momentos Clave Potenciales**
+#### **Relaciones:**
 
-1. **Reencuentro con Wako:**  
-    Si su antiguo compañero de pacto regresa en peligro, Malizal no dudaría en protegerlo, lo que podría ser un catalizador para su transformación.
-2. **Petición de Vengy:**  
-    Vengy, como su amigo más cercano, podría intentar despertar su espíritu, apelando a sus recuerdos compartidos y su deber hacia Lathander.
-3. **Enfrentamiento con Acererak:**  
-    El lich podría usar las dudas de Malizal para manipularlo, revelándole cómo la luz que tanto defendió ha fallado. Esto podría obligarlo a reafirmar su fe o aceptar su caída.
+- **Hakuryuu:** Aunque entiende su dolor, Malizal desprecia su arrogancia y egoísmo, viéndolos como reflejos de una debilidad emocional.
+- **Orianna:** Comparte un entendimiento silencioso con ella, ya que ambos han enfrentado una desconexión con el mundo. Sin embargo, su pasividad es un contraste con la ferocidad protectora de Orianna.
+- **Ander:** Siente tristeza por la caída de Ander, pero su propia apatía le impide ayudarlo activamente.
+- **Vengy:** Su relación más cercana. Malizal aprecia los esfuerzos de Vengy por reavivar su espíritu, aunque su propia desesperanza lo hace resistirse.
+- **Alistar:** Respeta su integridad, pero encuentra su rigidez moral difícil de aceptar, viéndola como una limitación más que una fortaleza.
 
 ---
 
-#### **8. Posibilidades de Evolución**
+#### **Motivaciones:**
 
-- **Si supera su apatía:**  
-    Malizal podría convertirse en un líder espiritual renovado, guiando al grupo con su sabiduría y conexión restaurada con Lathander.
-- **Si no supera su apatía:**  
-    Podría convertirse en una carga para el grupo, o incluso en una herramienta para Acererak, sucumbiendo a sus manipulaciones.
+- **Reencontrar un propósito:** Aunque actualmente está atrapado en la apatía, algo dentro de Malizal aún busca una razón para actuar.
+- **Proteger a sus compañeros:** A pesar de su desconexión, Malizal no puede ignorar el peligro que enfrentan sus amigos. Su instinto protector podría ser lo que lo saque de su letargo.
+- **Salvar a Wako:** Su antiguo compañero de pacto es uno de los pocos vínculos emocionales que aún tiene. Si Wako estuviera en peligro, Malizal no dudaría en actuar.
+
 ---
-### **El Pasado y las Motivaciones de Malizal, el Portador del Pacto**
+
+#### **Frases Clave:**
+
+- _"El mundo ya ha tomado lo mejor de mí. ¿Qué más puede ofrecerme?"_
+- _"La luz de Lathander aún brilla, pero no sé si puedo verla como antes."_
+- _"Tal vez mi único propósito ahora sea asegurar que otros no caigan como yo."_
+
+---
+
+#### **Notas para los Jugadores:**
+
+- **Punto Fuerte:** Malizal es un lanzador de hechizos versátil y poderoso, capaz de cambiar el rumbo de un combate con su magia y su capacidad de análisis.
+- **Punto Débil:** Su apatía y melancolía pueden afectar sus decisiones y su disposición a actuar en momentos clave.
+- **Consejo para Interpretación:** Resalta su desconexión emocional y su lucha interna por encontrar propósito. Aunque apático, muestra destellos de la pasión que una vez tuvo, especialmente cuando sus compañeros están en peligro.
+---
+
+### **El Pasado y las Motivaciones de Malizal
 
 ---
 
@@ -450,103 +444,89 @@ Sus recuerdos del pasado son una de las pocas cosas que aún le traen alegría. 
 
 Malizal no siente que Lathander lo haya abandonado; por el contrario, es él quien se ha distanciado de la luz del dios del amanecer en los últimos años. Sus poderes aún permanecen, una prueba de que el celestial que le otorgó el pacto sigue creyendo en él, incluso cuando él mismo no lo hace. Sin embargo, esta desconexión lo deja en un estado de incertidumbre, incapaz de reconectar completamente con su propósito.
 
----
-#### **Posibles Ganchos Narrativos**
-
-1. **El Retorno de Wako:**
-    
-    - Si Wako regresara, ya sea en peligro o con un mensaje del celestial, podría empujar a Malizal a actuar nuevamente y reconectarse con su pacto.
-2. **Un Nuevo Propósito:**
-    
-    - Una situación en la que Malizal deba tomar una decisión crítica, demostrando que su sacrificio aún puede marcar la diferencia, podría ayudarle a restaurar su confianza en sí mismo.
-3. **Cuestionamientos de Lathander:**
-    
-    - Una prueba directa de Lathander o del celestial podría obligar a Malizal a enfrentarse a su apatía y decidir si todavía es digno del pacto.
-
-## **Orianna, la Guardiana del Bosque**
 
 ---
+###  **Bitácora**
 
-#### **1. Identidad y Apariencia**
 
-- **Raza/Clase:** Tiefling / Druida.
-- **Edad:** 28 años.
-- **Apariencia:**
-    - Piel roja como el fuego, marcada con cicatrices finas que cuentan historias de lucha y protección.
-    - Cabello largo y negro como la noche, trenzado con hojas y pequeñas ramas en un símbolo de su conexión con la naturaleza.
-    - Cuernos curvados hacia atrás que destacan su linaje infernal, un rasgo que ha causado rechazo y prejuicio durante toda su vida.
-    - Sus ojos amarillos, brillantes como llamas, muestran tanto determinación como un dolor latente.
+
+## **Orianna *Tejedora de Raices* **
+---
+![[Orianna.png]]
+### **Rasgos principales**
+#### **Raza/Clase:** Tiefling / Druida.
+#### Rasgos de carácter:
+-  
+
+#### **Edad:** 28 años.
+
+#### **Apariencia:**
+
+Orianna es un reflejo de la naturaleza salvaje y la fuerza que protege. Su piel violácea, marcada por cicatrices finas, habla de una vida llena de luchas. Sus cuernos curvados hacia atrás, largos y perfectamente simétricos, son un recordatorio de su linaje infernal. Su cabello carmesí, trenzado con hojas y ramas, le da un aire de conexión profunda con el bosque que llama hogar. Sus ojos amarillos brillan como llamas, mostrando tanto la ferocidad de una bestia como la melancolía de alguien que ha vivido el rechazo. Viste túnicas en tonos verdes y marrones que se mezclan con el entorno, y siempre lleva consigo un bastón de madera, tallado con símbolos naturales.
 
 ---
 
-#### **2. Historia Personal**
+#### **Personalidad:**
 
-Desde pequeña, Orianna conoció el desprecio y el rechazo. Su linaje tiefling la marcó como un paria en una sociedad que no podía ver más allá de su apariencia. A pesar de su naturaleza bondadosa, las constantes miradas de desconfianza y los murmullos a sus espaldas la llevaron a alejarse del mundo civilizado y buscar consuelo en la naturaleza.
-
-En el bosque encontró su verdadero hogar y propósito. Fue allí donde conectó con la vida en su forma más pura y descubrió su talento para la magia druídica. Sus primeros años como guardiana de la naturaleza fueron solitarios, pero llenos de paz y crecimiento personal.
-
-Durante una de sus exploraciones, Orianna conoció a un joven **dragón verde**, un encuentro que marcó el inicio de una relación compleja pero significativa. Aunque los dragones verdes suelen ser considerados astutos y peligrosos, este mostró un lado protector hacia Orianna. Con el tiempo, desarrollaron un vínculo que se fortalecería tras los eventos de la **Tumba de la Aniquilación**.
+- **Protectora y feroz:** Orianna no duda en usar toda su fuerza y magia para proteger a los inocentes y a la naturaleza.
+- **Amargada y desconfiada:** A lo largo de su vida, las razas civilizadas la han rechazado por su apariencia, lo que ha forjado en ella un desdén hacia la humanidad.
+- **Leal a sus compañeros:** A pesar de su aislamiento y desconfianza hacia los demás, los héroes que lucharon junto a ella son la excepción; los considera una familia.
 
 ---
 
-#### **3. La Tumba de la Aniquilación y el Sacrificio**
+#### **Historia:**
 
-Durante la campaña contra Acererak, Orianna demostró ser una pieza clave para el grupo, tanto por su conexión con la naturaleza como por su capacidad para proteger a los inocentes. Sin embargo, el evento más definitorio de su vida ocurrió en la batalla final contra el lich.
+Desde pequeña, Orianna vivió bajo el peso del rechazo. Como tiefling, fue vista como una amenaza por su mera apariencia, incluso cuando actuaba con bondad. Esto la llevó a buscar refugio en los bosques, donde encontró un hogar que no la juzgaba y donde podía vivir en paz. Durante sus años en la naturaleza, desarrolló una conexión especial con los animales y las plantas, convirtiéndose en una protectora de los lugares salvajes.
 
-Enfrentada a la abrumadora fuerza de Acererak, Orianna tomó una decisión desesperada: **se arrojó a la lava** para evitar que el lich la ejecutara directamente. Aunque parecía un sacrificio seguro, la llegada inesperada de **Artus Cimber** salvó su vida. Con magia poderosa, Artus restauró su cuerpo, un acto que fue recibido con lágrimas de alivio y felicidad cuando sus compañeros la vieron viva nuevamente en Waterdeep.
+Fue durante una de sus exploraciones que conoció a un joven dragón verde. Aunque su especie es conocida por su astucia y peligrosidad, este dragón mostró una curiosidad y un respeto hacia Orianna. Juntos desarrollaron una relación de lealtad y protección mutua, convirtiéndose en aliados inseparables.
 
-A pesar de su resurrección, este evento dejó una marca indeleble en su espíritu. Para Orianna, haber enfrentado la muerte por el bien de sus amigos fue una prueba de su amor por ellos, pero también reforzó su desconfianza hacia un mundo que apenas reconoció su sacrificio.
-
----
-
-#### **4. Estado Actual**
-
-Orianna vive aislada en un bosque profundo, lejos de la humanidad que tanto desprecia. Su vida está dedicada a la **protección de la naturaleza**, un refugio que considera su único hogar verdadero. Comparte este espacio con su compañero, el dragón verde, quien se ha convertido en su aliado más cercano.
-
-El bosque que Orianna protege no solo es su hogar, sino también un símbolo de su propósito. Sin embargo, la paz de este lugar se ve amenazada por **demonios y fuerzas corruptas** que lo invaden. Estos ataques refuerzan su desdén hacia las civilizaciones humanas, a las que culpa por su negligencia hacia el equilibrio natural.
-
-A pesar de su aislamiento, Orianna guarda un profundo amor por sus compañeros de la campaña pasada. Aunque rara vez los ve, los considera una familia que ganó a través del sacrificio compartido.
+En la batalla contra Acererak en la **Tumba de la Aniquilación**, Orianna protagonizó uno de los actos más heroicos y desgarradores: **se arrojó a la lava** para evitar que el lich la matara directamente. Acererak la dejó agonizando, pero fue salvada por **Artus Cimber**, quien usó magia para restaurar su cuerpo. Su regreso a la vida fue un momento profundamente emotivo para sus compañeros, pero para Orianna fue una experiencia que marcó su alma con cicatrices invisibles.
 
 ---
 
-#### **5. Relaciones con otros Personajes**
+#### **Habilidades y Estilo de Combate:**
 
-- **Hakuryuu:** Orianna siente lástima por su obsesión con _Myrrym_ y su desconexión con el mundo real. Aunque su altivez la irrita, también reconoce que su dolor es similar al suyo.
-- **Malizal:** Comparte un entendimiento silencioso con él, pues ambos han enfrentado la apatía tras la Tumba de la Aniquilación. Orianna, sin embargo, rechaza su pasividad.
-- **Ander:** Siempre tuvo aprecio por la alegría de Ander, aunque ahora lo ve con tristeza. Espera que recupere su espíritu y valora su capacidad de levantar el ánimo del grupo.
-- **Vengy:** Lo respeta por su bondad innata, pero considera que su deseo de reconocimiento es un obstáculo. Aún así, lo valora como un aliado confiable.
-- **Alistar:** Aunque no comparte su fe en Tyr, respeta su devoción y su esfuerzo por ser justo. En el fondo, envidia su claridad moral, algo que ella ha perdido.
+- **Maestría natural:** Orianna utiliza la magia druídica para controlar su entorno y proteger a sus aliados. Puede invocar bestias, manipular el terreno y canalizar la fuerza de la naturaleza.
+- **Adaptabilidad:** Es capaz de enfrentarse a amenazas físicas o mágicas con la misma eficacia, equilibrando su fuerza física y su magia.
+- **Fuerza combativa:** Aunque prefiere evitar el conflicto directo, es feroz cuando se trata de defender su bosque o a sus compañeros.
 
 ---
 
-#### **6. Conflicto Principal**
+#### **Relaciones:**
 
-Orianna enfrenta dos conflictos principales:
-
-1. **Desdén por la humanidad:** Su rechazo hacia las razas civilizadas, que han despreciado tanto la naturaleza como a ella misma, la lleva a evitar cualquier contacto. Sin embargo, sabe que la amenaza de Acererak y los demonios requiere que trabaje junto a aquellos que desprecia.
-2. **Protección de su hogar:** Los ataques demoníacos contra su bosque representan una amenaza directa a lo que más valora. Esto la obliga a tomar decisiones difíciles para garantizar la seguridad de su santuario.
-
-El regreso de Acererak podría profundizar estos conflictos, especialmente si la pone en una situación donde deba colaborar con humanos para salvar lo que ama.
-
----
-
-#### **7. Desarrollo Narrativo**
-
-El arco de Orianna está centrado en la **aceptación y el sacrificio**:
-
-- **Inicio:** Vive aislada, protegiendo su bosque y evitando a los humanos. Se siente atrapada entre su amor por la naturaleza y su conexión con sus compañeros.
-- **Clímax:** La invasión demoníaca y el regreso de Acererak la obligan a enfrentar su rencor hacia la humanidad y tomar decisiones que podrían cambiar el destino de su hogar.
-- **Resolución:** Orianna puede aprender que la colaboración, incluso con aquellos que desprecia, es esencial para proteger lo que ama. Su arco podría culminar en un acto de sacrificio que reafirme su amor por la vida y sus compañeros.
+- **Hakuryuu:** Siente lástima por su obsesión con _Myrrym_. Aunque su altivez le irrita, entiende que su dolor no es tan distinto al suyo.
+- **Malizal:** Comparte con él un entendimiento silencioso, ya que ambos han enfrentado la apatía tras los eventos de la Tumba. Sin embargo, rechaza su inacción.
+- **Ander:** Orianna guarda un profundo respeto por la alegría que Ander trajo al grupo en el pasado. Su caída la entristece, pero cree que aún puede recuperarse.
+- **Vengy:** Respeta su bondad, aunque a veces considera que su necesidad de reconocimiento lo distrae de su verdadero propósito.
+- **Alistar:** Aunque no comparte su fe en Tyr, admira su determinación y sentido de justicia. Sin embargo, encuentra su rigidez moral difícil de aceptar.
 
 ---
 
-#### **8. Posibilidades de Evolución**
+#### **Motivaciones:**
 
-- **Si supera su desdén:** Podría convertirse en una líder natural, guiando a sus compañeros con su conexión con la naturaleza y su sabiduría.
-- **Si se niega a colaborar:** Su aislamiento podría llevarla a perder lo que más valora, forzándola a enfrentar las consecuencias de sus decisiones.
+- **Proteger su bosque:** Orianna vive para defender la naturaleza y el equilibrio. Los demonios y Acererak representan una amenaza directa para todo lo que ama.
+- **Salvar a sus compañeros:** Aunque se ha distanciado del mundo, su conexión con los héroes sigue siendo fuerte. Hará lo que sea necesario para protegerlos.
+- **Aceptar la humanidad:** A pesar de su desdén, Orianna sabe que necesita encontrar una manera de trabajar con los demás para enfrentar las amenazas más grandes.
+
 ---
 
-### **El Pasado de Orianna, la Guardiana del Bosque**
+#### **Frases Clave:**
+
+- _"El bosque no me juzga. Los árboles no mienten. Aquí encuentro paz, lejos de la crueldad humana."_
+- _"Si la humanidad destruye la naturaleza, entonces no merece salvarse."_
+- _"Mis amigos son mi familia, y por ellos daría mi vida otra vez."_
+
+---
+
+#### **Notas para los Jugadores:**
+
+- **Punto Fuerte:** Orianna es un protector poderoso, capaz de controlar el campo de batalla y defender a sus aliados con su magia y su fuerza.
+- **Punto Débil:** Su desdén hacia la humanidad puede causar tensiones y dificultar la cooperación con NPCs o incluso compañeros.
+- **Consejo para Interpretación:** Orianna muestra un contraste entre su ferocidad en combate y su vulnerabilidad emocional. Haz énfasis en su lealtad hacia sus compañeros y su lucha por superar su desconfianza hacia los demás.
+
+---
+
+### **El Pasado de Orianna
 
 #### **Infancia y Orígenes**
 
@@ -592,89 +572,92 @@ El mayor miedo de Orianna es fallar en su propósito de proteger la naturaleza. 
 
 Sorprendentemente, Orianna no cambiaría nada de su pasado. Acepta cada parte de su historia, incluso los actos más oscuros, como pasos necesarios para convertirse en quien es. Esta aceptación es un reflejo de su fortaleza interna y de su comprensión de que, aunque su naturaleza infernal y sus decisiones han sido difíciles, también la han moldeado como una protectora del bosque.
 
-## **Vengy, el Paladín Injustamente Condenado**
+
+---
+###  **Bitácora**
+
+
+## **Vengy *Alba* Menethil**
+
+---
+![[Vengy.png]]
+### **Rasgos principales**
+#### **Raza/Clase:** Humano / Paladín-Hechicero.
+
+#### Rasgos de carácter:
+-  
+
+#### **Edad:** 34 años.
+
+#### **Apariencia:**
+
+Vengy es la imagen de un guerrero caído que aún conserva su dignidad. Su complexión robusta y musculatura son prueba de años de entrenamiento y combate, aunque su porte está marcado por una mezcla de orgullo y melancolía. Su cabello rubio corto está bien cuidado, y sus ojos verdes, aunque reflejan bondad, también muestran un rastro de tristeza. Lleva una armadura sencilla con el símbolo de **Lathander**, desgastada pero aún brillante por el esfuerzo que pone en mantenerla limpia. Su capa, descolorida y ajada, sigue siendo un recordatorio de su devoción inquebrantable.
 
 ---
 
-#### **1. Identidad y Apariencia**
+#### **Personalidad:**
 
-- **Raza/Clase:** Humano / Paladín-Hechicero.
-- **Edad:** 34 años.
-- **Apariencia:**
-    - Altura media, complexión robusta y musculatura trabajada por años de entrenamiento y combate.
-    - Cabello rubio corto y ojos verdes que solían irradiar bondad y confianza, pero ahora muestran un matiz de tristeza y duda.
-    - Su armadura, aunque sencilla, lleva el símbolo de Lathander, grabado con orgullo en el pecho. Sin embargo, está desgastada por su tiempo en prisión y los constantes conflictos.
-    - Porta una capa descolorida que alguna vez fue símbolo de su fe y ahora parece reflejar el desamparo que ha sentido.
+- **Bondadoso y protector:** Vengy siempre busca hacer el bien, aunque el mundo lo haya rechazado.
+- **Orgulloso, pero herido:** Desea recuperar su honor y demostrar que es digno del respeto que una vez tuvo.
+- **Resiliente:** A pesar de todo lo que ha sufrido, su fe en Lathander permanece fuerte, y sigue luchando por sus principios.
 
 ---
 
-#### **2. Historia Personal**
+#### **Historia:**
 
-Desde joven, Vengy sintió un llamado a proteger y servir a los demás. Influenciado por su amistad con **Malizal**, encontró en Lathander un propósito más grande que su propia existencia. Su naturaleza bondadosa y su deseo de hacer el bien lo llevaron a abrazar los ideales del dios del amanecer, convirtiéndose en un paladín decidido a luchar por la renovación y la justicia.
+Desde joven, Vengy mostró una inclinación natural por la bondad y el altruismo. Inspirado por su amistad con **Malizal**, encontró en **Lathander**, dios del amanecer, una causa mayor que lo guiaría toda su vida. Su camino como paladín lo llevó a convertirse en un defensor incansable de los inocentes y en una luz de esperanza para los oprimidos.
 
-Durante sus aventuras, Vengy desarrolló una habilidad especial para la magia gracias a su linaje dracónico, que despertó en él poderes arcanos que complementaban su habilidad marcial. Su fe inquebrantable y su optimismo lo convirtieron en un pilar para el grupo durante los eventos de la **Tumba de la Aniquilación**, enfrentando horrores inimaginables junto a sus compañeros.
+Durante la Tumba de la Aniquilación, Vengy luchó junto a sus compañeros, enfrentándose a horrores que pusieron a prueba su fe y su valor. Aunque sobrevivió y fue resucitado con el grupo, su vida dio un giro cuando, intentando ayudar a alguien que parecía necesitado, fue víctima de una **conspiración**. Acusado falsamente de colaborar con criminales, fue arrestado y encarcelado. Aunque logró ser liberado, las sospechas y las críticas públicas lo siguieron, convirtiéndolo en un paria.
 
-Sin embargo, después de la resurrección del grupo, Vengy fue víctima de una conspiración que lo marcó profundamente. En su intento por ayudar a alguien que parecía necesitado, fue incriminado como colaborador de estafadores y criminales, lo que lo llevó a perder su reputación y ser encarcelado. Aunque su nombre fue limpiado formalmente, la sospecha y el desprecio público lo siguieron, dejándolo aislado y luchando por recuperar su honor.
-
----
-
-#### **3. Estado Actual**
-
-A pesar de la injusticia que ha sufrido, Vengy mantiene su fe en Lathander y sus principios de bondad y justicia. Sin embargo, su confianza en la humanidad está rota, y su necesidad de demostrar su valía lo ha convertido en una figura más solitaria y desconfiada. Vive en una lucha constante entre su deseo de redimirse y el peso emocional de las acusaciones que enfrenta.
-
-- **Fe Inquebrantable:** Lathander sigue siendo su guía, y su conexión con el dios del amanecer permanece fuerte. Cree firmemente en la bondad y el sacrificio, aunque el mundo le haya fallado.
-- **Duda en la Humanidad:** La traición y las críticas constantes lo han llevado a desconfiar de las personas que antes trataba de proteger.
-- **Lucha por Redención:** Vengy siente que su honor está manchado y busca desesperadamente demostrar que es digno del respeto que una vez tuvo.
+Vengy ahora lucha por limpiar su nombre y recuperar el honor perdido. Aunque el desprecio público lo afecta, no ha dejado que esto apague su fe ni su determinación por hacer el bien.
 
 ---
 
-#### **4. Relaciones con otros Personajes**
+#### **Habilidades y Estilo de Combate:**
 
-- **Hakuryuu:** Aprecia su fuerza, pero lo ve como alguien atrapado por su ego. Cree que Hakuryuu necesita recordar el verdadero significado de la grandeza.
-- **Orianna:** Respeta su conexión con la naturaleza y su ferocidad protectora, aunque a veces se siente desconectado por el desdén de Orianna hacia la humanidad.
-- **Malizal:** Su amigo más cercano y una figura que representa tanto esperanza como tristeza. Vengy intenta reavivar su espíritu, creyendo que su conexión con Lathander aún puede salvarlo.
-- **Ander:** Siempre ha visto a Ander como un alma pura y valiosa. Desea que supere su culpa y cree que puede ayudarlo si Ander se lo permite.
-- **Alistar:** Admira profundamente su dedicación a Tyr, aunque a veces lo encuentra demasiado rígido. Ve en Alistar un aliado que podría comprender su lucha por la justicia.
+- **Defensor divino:** Vengy combina su destreza marcial como paladín con magia sorcérica, haciendo de él un luchador versátil.
+- **Resiliencia:** Su entrenamiento lo hace capaz de resistir grandes daños, protegiendo tanto a sí mismo como a sus aliados.
+- **Apoyo mágico:** Sus hechizos son un reflejo de su fe en Lathander, utilizados para curar, reforzar y dañar a sus enemigos.
 
 ---
 
-#### **5. Conflicto Principal**
+#### **Relaciones:**
 
-El conflicto de Vengy está en su lucha por equilibrar su deseo de redimirse con sus principios de bondad y justicia:
-
-1. **Redención Personal:**  
-    Quiere demostrar al mundo que las acusaciones en su contra son falsas, pero este deseo lo lleva a buscar el reconocimiento de los demás, a menudo olvidando que su verdadero valor está en sus acciones y no en la opinión pública.
-2. **Confianza Rota:**  
-    Aunque sigue siendo bondadoso, su fe en las personas ha sido profundamente herida. Necesita reconciliarse con la idea de que no todos los humanos son indignos de confianza.
-
-El regreso de Acererak y la invasión demoníaca podrían ser una oportunidad para que Vengy demuestre su valía, pero también representan un desafío que podría llevarlo al límite de su fe y su paciencia.
+- **Hakuryuu:** Respeta su fuerza, pero ve su obsesión como un obstáculo para alcanzar la verdadera grandeza.
+- **Orianna:** Aprecia su dedicación a proteger la naturaleza, aunque a veces le cuesta entender su desdén hacia la humanidad.
+- **Malizal:** Es su amigo más cercano y alguien en quien sigue confiando, aunque la apatía de Malizal lo frustra profundamente.
+- **Ander:** Lo ve como un alma pura que ha perdido su camino, y desea ayudarlo a encontrar la redención.
+- **Alistar:** Lo considera un modelo de integridad y justicia, aunque a veces encuentra su rigidez moral demasiado inflexible.
 
 ---
 
-#### **6. Desarrollo Narrativo**
+#### **Motivaciones:**
 
-El arco de Vengy está centrado en la **aceptación de su valía interna y la reconciliación con el mundo**:
-
-- **Inicio:** Lucha por limpiar su nombre y busca reconocimiento público mientras mantiene una profunda conexión con Lathander.
-- **Clímax:** Durante un momento crítico, deberá decidir entre proteger su honor personal o sacrificarse por los inocentes, demostrando que su fe y bondad son más importantes que su reputación.
-- **Resolución:** Si logra superar su necesidad de reconocimiento externo, Vengy podría redescubrir la paz interior y reafirmar su compromiso con los principios de Lathander.
+- **Redención:** Quiere limpiar su nombre y demostrar al mundo que las acusaciones en su contra son falsas.
+- **Proteger a los inocentes:** A pesar del rechazo público, Vengy sigue comprometido con proteger a quienes lo necesiten.
+- **Servir a Lathander:** Su fe en el dios del amanecer es una fuente constante de fuerza y guía, recordándole que su valor no depende de la opinión de los demás.
 
 ---
 
-#### **7. Momentos Clave Potenciales**
+#### **Frases Clave:**
 
-1. **Defender a los Inocentes:**  
-    Vengy podría enfrentarse a una situación donde los mismos ciudadanos que lo critican necesitan su ayuda. Este acto de sacrificio podría ser un punto de inflexión en su redención.
-2. **Intervención de Lathander:**  
-    Una visión o señal de su dios podría recordarle que su valor no depende de la opinión pública, sino de su corazón y sus acciones.
-3. **Confrontación con un Traidor:**  
-    Descubrir que quienes lo incriminaron aún operan podría darle la oportunidad de enfrentar su pasado y demostrar su inocencia.
+- _"Lathander me dio esta vida para proteger, no para buscar reconocimiento."_
+- _"No necesito que crean en mí; basta con que mis acciones hablen por sí solas."_
+- _"La luz del amanecer no discrimina entre los dignos y los caídos, y yo tampoco lo haré."_
 
 ---
 
-#### **8. Posibilidades de Evolución**
+#### **Notas para los Jugadores:**
 
-- **Si supera su necesidad de reconocimiento:**  
-    Vengy podría convertirse en un símbolo de esperanza y redención, inspirando a otros con su bondad y sacrificio desinteresado.
-- **Si no lo supera:**  
-    Podría volverse amargado y obsesionado con su honor, dejando que su necesidad de validación lo consuma.
+- **Punto Fuerte:** Vengy es un luchador equilibrado que puede resistir grandes daños, apoyar a sus aliados y castigar a sus enemigos con ataques mágicos y divinos.
+- **Punto Débil:** Su necesidad de reconocimiento puede nublar su juicio y hacerlo más vulnerable emocionalmente.
+- **Consejo para Interpretación:** Representa a Vengy como alguien bondadoso y resiliente, pero que lleva el peso del rechazo y las críticas. Su fuerza radica en su fe y su dedicación a proteger, incluso cuando no es apreciado.
+
+---
+
+### **El pasado de Vengy**
+
+
+
+---
+###  **Bitácora**

@@ -2,33 +2,54 @@
 ### **Kael Vhantar**
 
 ![[Dragon de plata, Kael.png]]
-
 _“Un dragón no se arrodilla. Ni ante dioses. Ni ante sombras.”_
 
-- **Raza/Clase:** Humano / Guerrero veterano
+**Kael Vhantar**  
+**Raza / Clase:** Humano / Guerrero veterano  
+**Edad:** 42 años  
+**Ubicación conocida:** Mansión del Clan del Dragón Plateado, Waterdeep
+
+---
+
+### Apariencia
+
+- Hombre de complexión sólida y actitud férrea.
     
-- **Edad:** 42 años
+- Cabello castaño con canas, barba corta y cuidada, mirada firme.
     
-- **Apariencia:**
+- Su armadura, adornada con símbolos del Dragón Plateado, luce heridas de batalla restauradas con orgullo.
     
-    - De complexión ancha y porte militar, Kael es el tipo de hombre que impone sin necesidad de hablar.
-        
-    - Su cabello castaño oscuro, salpicado de canas, combina con una barba corta bien cuidada.
-        
-    - Su armadura de placas, decorada con grabados del Clan del Dragón Plateado, muestra señales de batalla pero ha sido pulida con esmero. Porta un mandoble de hoja azulada, símbolo de su vínculo con el clan.
-        
-- **Personalidad:**
+- Porta un mandoble de hoja azulada, de forja única, entregado por Hakuryuu tras su primer sacrificio en combate.
     
-    - Serio, disciplinado y reservado. Habla poco, pero sus palabras tienen peso.
-        
-    - Su lealtad hacia Hakuryuu es total, basada en años de servicio en guerras pasadas.
-        
-    - Cree en el deber por encima de todo, incluso por encima de la vida. No muestra emociones fácilmente, pero las siente profundamente.
-        
-- **Pasado y Contexto:**
+
+---
+
+### Personalidad
+
+- Reservado y disciplinado. Cada palabra que dice ha sido pensada con anticipación.
     
-    - Kael sirvió como teniente de Hakuryuu durante la Guerra del Norte, donde defendieron juntos la frontera de las tierras salvajes.
-        
-    - Fue uno de los primeros en unirse al Séquito del Dragón Plateado cuando Hakuryuu fundó su casa en Waterdeep.
-        
-    - Muchos dentro del clan lo ven como el “muro de escamas” que siempre ha estado entre su señor y la muerte.
+- Su lealtad hacia Hakuryuu no es ciega, pero sí absoluta: ve en él un símbolo que no debe caer.
+    
+- Cree que el deber justifica el dolor, y que mostrar emociones es algo que se hace **en privado, o después de morir**.
+    
+
+---
+
+### Rol actual
+
+- Kael es el comandante del séquito personal de Hakuryuu, y su protector silencioso.
+    
+- Supervisa la seguridad de la mansión, los viajes del clan y los movimientos estratégicos del grupo.
+    
+- Es visto como una figura de respeto, miedo y autoridad por todos los sirvientes y seguidores del Dragón Plateado.
+    
+
+---
+
+### Conexión con el grupo
+
+- Con Hakuryuu tiene un vínculo forjado en sangre y acero. Lo ve no solo como líder, sino como redención encarnada.
+    
+- Desconfía de aquellos que se acercan demasiado al señor sin haber probado su valor.
+    
+- Puede tolerar, proteger o colaborar con el resto del grupo si Hakuryuu lo ordena… pero no les debe nada.

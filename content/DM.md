@@ -1,6 +1,6 @@
-# La Profecía del Abismo
+# DM
 ---
-![[Portada.png]]
+[[0_Preparacion sesiones]]
 ## **Diario**
 - [[Diario Sesión 1]]
 
@@ -13,23 +13,25 @@
 - [[Malizall]]
 - [[Orianna]]
 - [[Vengy]]
-##### **Sequito del dragón de plata**
-- [[Kael Vhantar (Jugadores)]]
-- [[Dareth Silmaer (Jugadores)]]
-- [[Varuun Tyrral (Jugadores)]]
-##### **Orden de Tyr**
-- [[Harker (Jugadores)]]
-- [[Marcus Deren (Jugadores)]]
-##### **Dragon Verde**
-- [[Elyzmyrath (jugadores)]]
 
----
-## **Normas** 
-- [[Imposición narrativa]]
-- [[Sistema de Descansos]]
-- [[Vida y muerte]]
-- [[Cordura]]
-- [[Pasión, determinación y rasgo de carácter]]
+#### **Relevantes**
+- [[Eranthos, Bibliotecario Perdido (Master)]]
+- [[Gran Padre Zitembe (Master)]]
+- [[Nyah Zitembe (Master)]]
+- [[NoWako (Master)]]
+- [[Sildar Hallwinter (Master)]]
+- [[Terry Black (Master)]]
+- [[Tharvek, Gran inquisidor (Master)]]
+- [[Wakanga O’tamu (Master)]]
+##### **Sequito del dragón de plata**
+- [[Dareth Silmaer (Master)]]
+- [[Varuun Tyrral (Master)]]
+##### **Orden de Tyr**
+- [[Harker (Master)]]
+- [[Marcus Deren (Master)]]
+- [[Kael Vhantar (Master)]]
+##### **Dragon Verde**
+- [[Elyzmyrath (master)]]
 
 ---
 ## **Canciones**
@@ -44,6 +46,3 @@
 - [[Vengy, La Llama Inquebrantable]]
 - [[Abismo y rabia]]
 - [[Manos de Hierro]]
-
----
-

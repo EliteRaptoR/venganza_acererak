@@ -1,79 +1,73 @@
 #Master
-### **Dareth Silmaer** – _El Voto Silente_
 
-![[Dragon de plata, Dareth.png]]
+[[Dareth Silmaer (Jugadores)]]
 
-- **Raza/Clase:** Elfo lunar / Clérigo de la guerra
-    
-- **Edad:** 180 años
-    
-- **Arquetipo:** El sabio corrompible, el guardián de lo sagrado que mira demasiado cerca del abismo.
-    
+### Motivaciones ocultas
 
----
-
-### 🔍 **Apariencia Detallada:**
-
-- Mide 1,90, y sus movimientos son tan suaves como los de un bailarín ritual.
+- Dareth cree que el equilibrio cósmico está al borde del colapso, y que **Myrrym no es solo una espada**, sino una “figura geométrica ancla” que sostiene el tejido entre planos.
     
-- Sus ojos, azul claro, a veces parecen opacos, como si miraran algo que los demás no pueden ver.
+- Tiene miedo de que Hakuryuu no sea el verdadero “portador” profetizado, o que su ego destruya el equilibrio.
     
-- Su escudo y maza son artefactos rituales heredados del culto ancestral al linaje dracónico, no están destinados a batallas mundanas.
+- Ha empezado a oír voces dentro de sus visiones, algunas claramente provenientes del **Abismo**.
     
 
 ---
 
-### 💬 **Personalidad Completa:**
+### Ganchos narrativos y evolución
 
-- Cree profundamente en los pactos entre el clan y los dragones astrales; no sirve a los dioses comunes, sino a la “geometría del destino”.
+- **Escena de corrupción:** En el primer gran combate, Dareth es **el primero en caer**. Su mente es devorada parcialmente por los ecos del Abismo, dejando una marca oscura en su alma.
     
-- Aunque callado, su fe es férrea. No discute… pero tampoco olvida.
+- **Posibles rutas:**
     
-- Ha tenido **visiones recientes**: fragmentos de Myrrym, fuego púrpura, un triángulo entrelazado con cadenas. No lo ha contado a nadie.
-    
-- Tiene una relación ambigua con Hakuryuu: lo respeta como figura sagrada, pero teme que esté perdiendo su “forma”.
-    
-
----
-
-### 🧠 **Rol Narrativo:**
-
-- Es el primero en caer en el combate contra los demonios, **corrompido desde dentro** por un poder que ya lo rondaba antes del enfrentamiento.
-    
-- Su caída representa que **incluso los fieles y puros pueden ser reclamados** si el equilibrio se quiebra.
-    
-- Puede morir como enemigo, ser salvado por Hakuryuu (con coste), o vivir marcado por lo que vio al otro lado.
-    
-- Si sobrevive, puede servir como **puente espiritual con el alma de Myrrym**, o como **vasija pasiva** de Acererak si no se lo vigila.
-    
-
----
-
-### ⚔️ **Notas Mecánicas (resumen):**
-
-- Clérigo Nivel 4
-    
-- PG: 28 | CA: 16
-    
-- Antes de la corrupción:
-    
-    - _Palabra de guerra_, _Curar heridas_, _Escudo de fe_
+    - **Redención:** Puede ser salvado si alguien realiza un rito ancestral del clan élfico bajo luna llena, o si Hakuryuu pronuncia un voto sagrado sobre él.
         
-- Tras la corrupción:
+    - **Tragedia viviente:** Sobrevive, pero sufre alucinaciones constantes. Los jugadores deben decidir si confiar en sus profecías o temer su caída definitiva.
+        
+    - **Traidor sin querer:** Su cuerpo es usado como **vasija para una esencia de Acererak** si no se toman precauciones (runa en su escudo puede reactivarse).
+        
+- **Sensibilidad a Myrrym:** Si Hakuryuu usa el fragmento corrupto de la espada, Dareth puede detectarlo, esté donde esté. Esto puede causar un brote de locura o una visión útil.
     
-    - _Toque abismal_: daño necrótico + desventaja
-        
-    - _Maldición púrpura_: reduce curación de aliados cercanos
-        
-    - _Susurros de la Marca_: miedo (CD 13 Sab)
-        
 
 ---
 
-### 🧩 **Ganchos para Escena o Desarrollo:**
+### Mecánicas (post-caída)
 
-- **Tiene visiones premonitorias** en sueños que pueden convertirse en pistas para el grupo si lo salvan.
+- **Nivel 4 (Clérigo de la Guerra)**
     
-- **Recuerda lo que hizo bajo la corrupción**: puede pedir ser exiliado, ejecutado… o buscar redención.
+- **PG:** 28 — **CA:** 16
     
-- Si Hakuryuu intenta usar el fragmento de Myrrym de nuevo, Dareth puede sentirlo desde donde esté, como si su alma estuviera conectada.
+
+**Antes de la corrupción:**
+
+- Hechizos: _Curar heridas, Escudo de fe, Palabra de guerra_
+    
+- Auras de protección aliada en combate.
+    
+
+**Después de la corrupción:**
+
+- _Toque abismal_ (ataque necrótico cuerpo a cuerpo, daño + desventaja en CON).
+    
+- _Maldición púrpura_ (área de 10 pies, reduce curación en -50% durante 3 turnos).
+    
+- _Susurros de la Marca_ (terror mental, CD 13 Sabiduría, miedo 1 minuto).
+    
+
+---
+
+### Interpretación
+
+- Voz baja, ceremonial. Tras la corrupción, se vuelve más críptico y perturbador.
+    
+- Puede murmurar frases como:  
+    _“El triángulo giró… y todo lo conocido se deshizo.”_  
+    _“La llama púrpura aún danza, aunque no haya música.”_
+    
+
+---
+
+### Relevancia futura
+
+- **Puente espiritual:** Si se mantiene vivo, puede actuar como **nexo entre Myrrym y el plano espiritual**. El grupo puede recibir visiones a través de él.
+    
+- **Punto de decisión:** Los jugadores deberán tomar una decisión moral si Dareth se convierte en una amenaza: ¿matar a un antiguo aliado o buscar una solución imposible?

@@ -1,32 +1,55 @@
 #Jugadores 
-#### **Comandante Harker**
+### **Comandante Harker** 
 
 ![[Harker.png]]
+_“Cuando la justicia duda, el deber debe alzar la voz.”_
 
-_"Una muralla que duda es una muralla rota."_
+**Comandante Harker**  
+**Raza / Clase:** Humano / Paladín retirado de Tyr  
+**Edad:** 51 años  
+**Ubicación conocida:** Cuarteles y alto mando del Templo de Tyr, Waterdeep
 
-- **Raza/Clase:** Humano / Paladín de Tyr (retirado, ahora comandante)
+---
+
+### Apariencia
+
+- Hombre de porte firme, de los que nunca parecen relajarse.
     
-- **Edad:** 51 años
+- Cabello gris recogido en una trenza militar corta, rostro cincelado por los años y el deber.
     
-- **Apariencia:**
+- Lleva armadura ceremonial siempre impecable, con grabados del martillo de Tyr en el pecho.
     
-    - Alto, imponente, con la espalda recta y el rostro endurecido por décadas de servicio.
-        
-    - Cabello gris recogido en una trenza corta, barba bien afeitada.
-        
-    - Su armadura ceremonial brilla con un lustre frío, y su tabardo de Tyr está perfectamente doblado. Siempre lo está.
-        
-- **Personalidad:**
+- Su tabardo está siempre perfectamente doblado y ajustado. Nada en su presencia es dejado al azar.
     
-    - Autoritario, disciplinado, con una concepción rígida del orden.
-        
-    - Para él, **la justicia es estructura**: obedecer, contener, mantener.
-        
-    - Cree que Alistar es valioso, pero peligroso si deja que la compasión eclipse el deber.
-        
-- **Rol en el mundo:**
+
+---
+
+### Personalidad
+
+- Frío, preciso, inquebrantable en sus órdenes.
     
-    - Es uno de los pilares administrativos y militares del templo de Tyr en Waterdeep.
-        
-    - Visto por muchos como una figura estable… y por otros como una reliquia de otra era.
+- Cree en una justicia estructurada: la ley, la obediencia, el sacrificio por el bien mayor.
+    
+- No le interesan los sentimientos si interrumpen el funcionamiento del orden.
+    
+- Admira a Alistar por su potencial, pero desconfía de su creciente empatía. Para Harker, la compasión es una grieta en la muralla.
+    
+
+---
+
+### Rol actual
+
+- Harker actúa como cabeza militar del templo de Tyr, y como supervisor directo de sus paladines en tiempo de crisis.
+    
+- Ha contenido revueltas, dirigido campañas contra herejías, y mantenido intacta la fe… a un precio.
+    
+- En tiempos de inestabilidad, es visto como el rostro de la autoridad divina y terrenal, incluso si eso significa aplastar disidencia.
+    
+
+---
+
+### Conexión con el grupo
+
+- Superior de **Alistar**, con quien comparte historia, entrenamiento y un vínculo de respeto tenso.
+    
+- Puede ser una fuente de ayuda logística o recursos… siempre bajo condiciones rígidas.

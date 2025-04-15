@@ -2,33 +2,56 @@
 ### **Varuun Tyrral**
 
 ![[Dragon de plata, Varrum.png]]
-
 _“¡Nadie pasará mientras yo esté de pie!”_
 
-- **Raza/Clase:** Semiorco / Guerrero defensor
+**Varuun Tyrral**  
+**Raza / Clase:** Semiorco / Guerrero defensor  
+**Edad:** 22 años  
+**Ubicación conocida:** Mansión del Clan del Dragón Plateado, o donde Hakuryuu combata
+
+---
+
+### Apariencia
+
+- Semiorco de complexión poderosa, con músculos de entrenamiento más que de raza.
     
-- **Edad:** 22 años
+- Su piel verde oliva muestra heridas menores y marcas de esfuerzo constante.
     
-- **Apariencia:**
+- Cabello oscuro y corto, usualmente húmedo de sudor por las rondas de vigilancia o sparring.
     
-    - De complexión fornida y musculatura juvenil, Varuun impone por su sola presencia.
-        
-    - Su piel verde oliva está salpicada por pequeñas marcas de entrenamiento, y su cabello, oscuro y corto, está siempre sudado por el esfuerzo constante.
-        
-    - Viste una cota de mallas nueva, reluciente, que contrasta con su escudo redondo decorado con el emblema del Clan del Dragón Plateado. Porta una espada corta de filo sencillo, pero bien afilada.
-        
-- **Personalidad:**
+- Viste una cota de mallas nueva (regalo de Kael), un escudo redondo con el emblema del Dragón Plateado, y una espada corta bien mantenida.
     
-    - Impulsivo, valiente, con una energía que a veces raya en la imprudencia.
-        
-    - Tiene una visión idealizada de Hakuryuu y el clan, y busca constantemente demostrar que es digno de estar entre los elegidos.
-        
-    - Aunque aún inmaduro, su valor y generosidad son genuinos. Cree que proteger a los suyos es el mayor honor posible.
-        
-- **Pasado y Contexto:**
+
+---
+
+### Personalidad
+
+- Entusiasta, orgulloso y tremendamente leal.
     
-    - Varuun fue entrenado desde niño por el séquito tras ser salvado en una escaramuza en las tierras fronterizas.
-        
-    - Aunque joven, se ha ganado su lugar como escudero por méritos reales, y ha combatido en al menos una gran campaña junto a Kael.
-        
-    - Muchos dentro del clan lo ven como un símbolo de la nueva generación, un escudo en formación.
+- Su ímpetu a veces lo hace imprudente, especialmente cuando busca impresionar a Hakuryuu o a Kael.
+    
+- Cree en la protección por encima del ataque, y considera que morir por otro es el máximo honor.
+    
+- Admira a todos los veteranos del clan, pero **idolatra especialmente a Hakuryuu**, a quien ve como un semidiós viviente.
+    
+
+---
+
+### Rol actual
+
+- Escudero oficial del Clan del Dragón Plateado, bajo tutela directa de Kael.
+    
+- Participa en la defensa de la mansión, entrenamientos del séquito y eventualmente misiones menores junto al grupo.
+    
+- Su mera presencia representa **la juventud que aún cree en el honor puro**… y lo que puede perderse si la corrupción lo alcanza.
+    
+
+---
+
+### Conexión con el grupo
+
+- Tiene admiración reverente por los héroes del grupo, aunque se intimida si le hablan directamente.
+    
+- Con el tiempo puede establecer un vínculo más fuerte con un personaje que lo trate con respeto o mentoría (Alistar, Orianna o Vengy son buenas opciones).
+    
+- Podría sacrificarse para proteger a uno de ellos o convertirse en su seguidor ferviente.

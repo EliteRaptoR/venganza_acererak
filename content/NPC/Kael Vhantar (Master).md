@@ -1,70 +1,75 @@
-#Master 
-### **Kael Vhantar** – _El Espadón de la Tradición_
+#Master  #NoIncorporado
 
-![[Dragon de plata, Kael.png]]
-- **Raza/Clase:** Humano / Guerrero (Nivel 5)
+[[Kael Vhantar (Jugadores)]]
+
+**Frase de identidad (versión oscura):**  
+_“Si cae el dragón, no por falta de acero será.”_
+
+---
+
+### Motivaciones ocultas
+
+- Kael no teme morir, pero sí teme que Hakuryuu **muera sin redención**. Sabe que el orgullo y la obsesión están devorando a su señor, pero no se atreve a cuestionarlo.
     
-- **Edad:** 42 años
+- Cree que el deber de un escudero fiel es proteger incluso de los errores del amo… **aunque eso signifique mentir, manipular o matar por él**.
     
-- **Arquetipo:** El soldado veterano leal hasta la tumba.
+- Guarda en secreto una carta firmada por **el verdadero Hakuryuu**, escrita antes de su muerte (lo que lo convertiría en uno de los pocos que conoce la verdad sobre **Kuryruu**).
     
 
 ---
 
-### 🔍 **Apariencia Detallada:**
+### Ganchos narrativos y evolución
 
-- Mide 1,85, con hombros anchos y pasos firmes. Tiene el cuerpo marcado por cortes, quemaduras y una antigua herida en la clavícula que le molesta con el frío.
+- **Confesión silente:** Si el grupo demuestra que Hakuryuu ha perdido el rumbo o se ha corrompido, Kael podría revelar la verdad… o **morir intentando evitar que lo descubran**.
     
-- Siempre está bien presentado: su equipo pulido, sus botas limpias. Cree que el descuido es deshonra.
+- **Sacrificio final:** Puede intervenir en un combate crucial, interponiéndose entre Hakuryuu y un ataque letal, entregando su vida para mantener el símbolo intacto.
     
-- Su espada azulina fue forjada con fragmentos de escama del ancestro dragón de Hakuryuu. Es más símbolo que arma mágica.
-    
-
----
-
-### 💬 **Personalidad Completa:**
-
-- Es un soldado de la vieja escuela: directo, seco, extremadamente respetuoso con la jerarquía.
-    
-- Tiene una visión inflexible del honor y del deber.
-    
-- Si ve a Hakuryuu tambalearse moral o emocionalmente, no lo enfrentará directamente… pero su decepción será notoria.
-    
-- _No cree en segundas oportunidades para los traidores_.
+- **Deslealtad táctica:** Si cree que salvar a Hakuryuu requiere desobedecerlo, podría actuar por cuenta propia (ej: impedirle usar Myrrym o negociar con enemigos si eso lo protege).
     
 
 ---
 
-### 🧠 **Rol Narrativo:**
+### Mecánicas (resumen)
 
-- Es la **columna vertebral moral del séquito**.
+- **Nivel funcional:** Guerrero veterano nivel 8
     
-- Su lealtad puede ser su mayor virtud… o su perdición, si Hakuryuu cruza límites peligrosos.
+- **PG:** 102 | **CA:** 18
     
-- Puede morir **heroicamente** defendiendo a su señor, o convertirse en un trágico espejo: alguien que **murió por una causa que ya no existía**.
+- **Arma:** _Mandoble Azul de la Devoción_ (+1, ignora resistencia a daño cortante no mágico si es para proteger a Hakuryuu)
     
-- Si sobrevive, puede ser quien **se rebele o cuestione** las acciones del dragón si ve que la maldición de Acererak lo cambia demasiado.
+- **Estilo de combate:** Defensa total, represalias, interposición
     
 
----
+**Habilidades especiales:**
 
-### ⚔️ **Notas Mecánicas (resumen):**
-
-- Guerrero Nivel 5.
+- _Interponerse (Reacción):_ Puede recibir el daño total de un ataque dirigido a Hakuryuu si está a 5 pies.
     
-- PG: 42 | CA: 17 | Mandoble (+6, 2d6+3)
+- _Voluntad de escamas (1/día):_ Gana ventaja en todas las tiradas de salvación si Hakuryuu cae a 0 PG.
     
-- Defensa del Clan (reacción): desventaja a ataque contra Hakuryuu.
-    
-- Rugido de batalla (1/día): bonus a ataques de aliados si está gravemente herido.
+- _Presencia del León:_ Aliados a 10 pies ganan +1 a CA si Kael no ha sido derribado.
     
 
 ---
 
-### 🧩 **Ganchos para Escena o Desarrollo:**
+### Interpretación
 
-- **Sueña con morir en batalla.** Si sobrevive a varias, puede empezar a buscar la muerte sin decirlo.
+- Voz grave, medida. Su tono es más de general que de soldado.
     
-- **Tiene un hijo ilegítimo** en el norte. Nadie lo sabe. El chico podría aparecer más adelante, como aliado o enemigo.
+- Nunca grita. Solo eleva la voz cuando una vida pende de un hilo.
     
-- Si es testigo de la marca del triángulo, puede interpretarla como señal divina… **o como traición del alma**.
+- Frases típicas:
+    
+    - _“No es tu vida la que importa. Es lo que representas.”_
+        
+    - _“Mi escudo no cae. Si lo hace, no quedará nadie para alzar el vuestro.”_
+        
+    - _“El señor no pide. El señor exige. Y yo exijo que lo respete.”_
+        
+
+---
+
+### Relevancia futura
+
+- Puede ser **el mártir que inicia la redención de Hakuryuu**, o **el último obstáculo que impide que el grupo descubra la verdad**.
+    
+- Si sobrevive hasta el final, podría ser el último miembro del clan dispuesto a cargar con la culpa y los secretos… para preservar la leyenda del Dragón Plateado.

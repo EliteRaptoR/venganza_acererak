@@ -1,0 +1,1 @@
+PS C:\Users\Admin\OneDrive\venganza_acererak\content\NPC> Get-Content *.md | Out-File 0_NPC.md

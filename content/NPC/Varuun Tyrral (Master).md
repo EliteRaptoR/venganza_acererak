@@ -1,85 +1,79 @@
-#Master 
-### **Varuun Tyrral** – _El Escudo Joven_
+#Master #NoIncorporado 
 
-![[Dragon de plata, Varrum.png]]
+[[Varuun Tyrral (Jugadores)]]
 
-- **Raza/Clase:** Semiorco / Guerrero defensor
+**Frase oculta de esencia:**  
+_“Si caigo antes de que me llamen caballero… al menos caí defendiéndolos.”_
+
+---
+
+### Motivaciones ocultas
+
+- Varuun no solo quiere ser un gran guerrero: quiere que **Hakuryuu lo reconozca públicamente** como digno heredero del ideal del clan.
     
-- **Edad:** 22 años
+- Guarda en secreto un juramento personal que hizo frente al altar del clan: _"Que mi cuerpo sea el muro si la espada de mi señor no basta."_
     
-- **Arquetipo:** El aprendiz entusiasta con un corazón más grande que su experiencia.
+- Tiene pesadillas desde hace semanas, en las que sueña con ser el último en pie entre ruinas y escamas rotas.
     
 
 ---
 
-### 🔍 **Apariencia Detallada:**
+### Ganchos narrativos y evolución
 
-- Mide casi 2 metros, es corpulento pero ágil. Sus movimientos son fuertes, aunque algo torpes a veces.
+- **El mártir que inspira:** Puede caer protegiendo a Hakuryuu o al grupo durante un ataque sorpresa, encendiendo una escena de rabia, redención o unión.
     
-- Su escudo es demasiado grande para él, un regalo que aún no domina completamente, pero lo lleva con orgullo desmedido.
+- **El escudero redimido:** Si sobrevive a una situación crítica y Hakuryuu lo reconoce, podría obtener un título simbólico (Caballero del Plata), aumentando moral en aliados PNJ.
     
-- Sus armaduras están impolutas, no por vanidad, sino porque las limpia hasta el cansancio después de cada entrenamiento.
+- **El espejo inocente:** Su fe ciega en el clan puede hacer dudar a Hakuryuu o Kael si ven que Varuun está dispuesto a morir por una causa que ellos mismos ya no creen.
     
-- Siempre tiene la nariz un poco raspada o la ceja hinchada: entrena con más pasión que técnica.
-    
-
----
-
-### 💬 **Personalidad Completa:**
-
-- Varuun vive en un mundo de ideales. Para él, el clan es la máxima gloria y Hakuryuu es un héroe invencible.
-    
-- Tiene **hambre de reconocimiento**, lo que lo lleva a lanzarse al peligro para impresionar.
-    
-- Aprecia profundamente a Kael como mentor, aunque lo teme un poco. Con Dareth tiene una relación de reverencia respetuosa.
-    
-- Internamente, teme que un día descubran que **no está a la altura**.
+- **Corrupción opcional:** Si se ve traicionado o abandonado en combate, podría ser tentado por un enemigo (como Tharvek o incluso la Daga que Nunca Mata) para "proteger mejor".
     
 
 ---
 
-### 🧠 **Rol Narrativo:**
+### Mecánicas (resumen)
 
-- Representa el futuro del clan: inexperto, pero lleno de potencial y nobleza.
+- **Nivel funcional:** Guerrero nivel 3
     
-- Su crecimiento dependerá de cómo se sienta tratado por Hakuryuu:
+- **PG:** 42 | **CA:** 17
     
-    - **Inspirado →** puede llegar a ser un paladín de pleno derecho.
-        
-    - **Ignorado →** puede volverse amargado o dejar el clan.
-        
-    - **Traicionado →** podría ser el que se vuelva contra su maestro si siente que ha sido consumido por la oscuridad.
-        
-- En combate puede:
+- **Equipo:** Escudo de acero estándar, espada corta, capa con símbolo del clan
     
-    - Morir salvando a Hakuryuu.
-        
-    - Ser corrompido más adelante si ve que sus ideales han sido aplastados.
-        
-    - O vivir… para convertirse en el nuevo símbolo del clan.
-        
+- **Estilo de combate:** Defensa total, interposición, foco en proteger aliados
+    
 
----
+**Habilidades especiales:**
 
-### ⚔️ **Notas Mecánicas (resumen):**
-
-- Guerrero Nivel 4
+- _Escudo Firme (Reacción):_ Puede recibir la mitad del daño destinado a un aliado a 5 pies si tiene escudo equipado.
     
-- PG: 36 | CA: 18 | Espada corta (+5, 1d6+2)
+- _Furia por Lealtad (1/día):_ Si un aliado cae frente a él, gana +2 a la CA y resistencia a daño durante 1 minuto.
     
-- **Interposición protectora (Reacción):** reduce daño a un aliado cercano (1d10).
-    
-- **Bendición rudimentaria (1/día):** Puede lanzar una bendición de combate menor.
-    
-- **Carga temeraria:** si tiene menos del 50% de vida, ataca con ventaja el siguiente turno.
+- _Inspiración Marcial (pasiva):_ Si lucha junto a Kael, ambos obtienen +1 a tiradas de salvación.
     
 
 ---
 
-### 🧩 **Ganchos para Escena o Desarrollo:**
+### Interpretación
 
-- Tiene **una carta de su madre adoptiva** que lleva siempre consigo. Nunca la ha leído en voz alta.
+- Voz joven, firme, pero a veces demasiado rápida, como si hablara para ser tomado en serio.
     
-- Si Hakuryuu lo reconoce públicamente como "valioso", gana una inspiración narrativa y fidelidad eterna.
+- Le cuesta no interrumpir cuando se emociona o ve injusticia.
     
-- Si muere, podría hacerlo protegiendo el fragmento de Myrrym… o ser recordado en el clan como el joven que creía que un escudo podía detener al infierno.
+- Frases típicas:
+    
+    - _“¡Mi escudo es el primero, mi cuerpo el último!”_
+        
+    - _“Si Hakuryuu puede sangrar y seguir… ¿por qué no yo?”_
+        
+    - _“No me llamen niño. No cuando muero por ustedes.”_
+        
+
+---
+
+### Relevancia futura
+
+- Si muere heroicamente, se convierte en un **símbolo para la nueva generación** del clan y puede inspirar cambios en Hakuryuu o Kael.
+    
+- Si vive y es nombrado caballero, podría asumir el rol de Kael si este cae.
+    
+- Si es corrompido, sería un golpe devastador a la moral del clan, y un recordatorio de que incluso la fe puede ser desviada sin guía.

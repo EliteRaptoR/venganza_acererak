@@ -1,53 +1,60 @@
 #Jugadores 
-
-#### **Elyzmyrath** _(“Elyz” para Orianna)_
+### **Elyzmyrath** _(“Elyz” para Orianna)_
 
 ![[Elyzmyrath.png]]
-_"No es mi fuego el que quema… es la savia que no olvidaré."_
 
-- **Raza/Tipo:** Dragona verde joven (Criatura mágica)
+
+**Elyzmyrath**  
+**Apodo:** “Elyz” (uso exclusivo de Orianna)  
+**Tipo de criatura:** Dragona verde joven (inteligente y mágica)  
+**Edad aparente:** Equivalente a una joven adulta  
+**Ubicación:** Bosque sagrado, en simbiosis con Orianna
+
+---
+
+### Apariencia
+
+- Escamas de un verde intenso, con reflejos que brillan como el follaje bajo el sol o se oscurecen como sombras bajo la lluvia.
     
-- **Edad aparente:** Equivalente a una joven adulta
+- Alas amplias de membranas casi vegetales, moteadas de motas doradas como polen.
     
-- **Relación:** Compañera y aliada de Orianna. Vínculo profundo, espiritual y ancestral.
+- Cuernos delgados, en espiral hacia atrás como ramas entrelazadas.
     
-- **Ubicación:** Bosque sagrado, custodiado junto a Orianna.
+- Ojos ámbar vivos, que parecen analizar no solo lo visible, sino lo que se oculta tras los actos.
     
 
 ---
 
-- **Apariencia:**
+### Personalidad
+
+- Serena y sabia. Orgullosa como los árboles centenarios, pero sin arrogancia.
     
-    - Escamas de un verde profundo y brillante, con reflejos dorados en la luz del sol y oscuros en la sombra.
-        
-    - Cuernos delgados y curvados hacia atrás, como ramas entrelazadas.
-        
-    - Ojos ámbar con pupilas rasgadas que parecen leer más allá de la superficie.
-        
-    - Alas amplias y majestuosas, cuyas membranas tienen la textura de hojas jóvenes.
-        
+- No habla a los humanos salvo en casos extremos. Con Orianna se comunica a través de la mirada, la emoción o sueños compartidos.
+    
+- Desprecia la corrupción y a quienes la esparcen, sin importar su razón.
+    
+- Cree que la verdadera justicia es la restauración del ciclo natural.
+    
 
 ---
 
-- **Personalidad:**
+### Rol actual
+
+- Compañera inseparable de Orianna. Su vínculo es espiritual más que físico.
     
-    - Orgullosa, sabia más allá de su edad, pero no altiva.
-        
-    - Habla poco frente a otros, pero se comunica con Orianna incluso sin palabras.
-        
-    - Ve a Orianna no como su dueña, sino como su igual. Juntas son protectoras del equilibrio natural.
-        
-    - Feroz contra la corrupción. No siente compasión hacia quienes profanan la vida verde.
-        
+- Observadora de los eventos mágicos que perturban el bosque. Su silencio es juicio, su rugido es veredicto.
+    
+- Puede acudir en ayuda directa solo si el equilibrio está en grave peligro.
+    
 
 ---
 
-- **Rol en la Campaña:**
+### Conexión con el grupo
+
+- No se vincula con otros personajes más allá de Orianna, a quien considera “raíz hermana”.
     
-    - Defensora del bosque y testigo de los cambios mágicos que lo afectan.
-        
-    - Puede acudir al combate si el equilibrio natural está amenazado.
-        
-    - Su mera presencia es símbolo de que **el bosque aún vive**.
+- Es símbolo viviente de que la Naturaleza aún no ha sido derrotada.
+    
+- Algunos druidas, elfos o sabios pueden reconocerla como un presagio favorable… o como un aviso.
 
 ![[Elyzmyrath Aliento.png]]
