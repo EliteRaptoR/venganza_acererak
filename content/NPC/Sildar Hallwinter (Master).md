@@ -1,4 +1,4 @@
-#Master #NoIncorporado
+#Master 
 
 [[Sildar Hallwinter (Jugadores)]]
 

@@ -1,4 +1,4 @@
-#Master  #NoIncorporado
+#Master 
 
 [[Kael Vhantar (Jugadores)]]
 

@@ -1,5 +1,4 @@
-#Master #NoIncorporado
-
+#Master 
 [[Terry Black (Jugadores)]]
 
 _“No soy esclavo. Solo estoy cansado de perder.”_

@@ -1,4 +1,4 @@
-#Master #NoIncorporado
+#Master 
 
 [[Wakanga O’tamu (Jugadores)]]
 
