@@ -24,7 +24,7 @@ _“Yo no soy cruel. El caos lo es. Yo soy su castigo.”_
     
 - **Redención falsa:** Puede ofrecer una “amnistía” a Alistar o Vengy si se arrodillan y condenan la magia públicamente, causando un cisma interno.
     
-- **Golpe inquisitorial:** Si el grupo desestabiliza a la Inquisición, Tharvek podría lanzar un asalto final a un bastión del grupo (como el templo de Savras), con una fuerza armada “bendecida”.
+- **Golpe inquisitorial:** Si el grupo desestabiliza a la Mano de Hierro, Tharvek podría lanzar un asalto final a un bastión del grupo (como el templo de Savras), con una fuerza armada “bendecida”.
     
 - **Transformación oscura:** Si es derrotado físicamente pero no moralmente, puede ser “resucitado” como un campeón corrompido por energía abismal disfrazada de luz: la _Cruz del Silencio_.
     
@@ -41,7 +41,7 @@ _“Yo no soy cruel. El caos lo es. Yo soy su castigo.”_
     
     - _Espada Justa de los Cielos Sellados_ (+2, daño radiante + ignora invisibilidad o teletransporte en radio de 30 pies)
         
-    - _Amuleto Inquisitorial:_ Detecta cualquier forma de magia activa o latente (no bloqueable con _No detección_)
+    - _Amuleto de la Mano de Hierro:_ Detecta cualquier forma de magia activa o latente (no bloqueable con _No detección_)
         
 - **Rasgos únicos:**
     

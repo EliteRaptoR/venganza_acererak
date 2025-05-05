@@ -7,7 +7,7 @@ _“La libertad es el velo favorito del caos.”_
 **Tharvek**  
 **Raza / Clase:** Humano / Paladín Caído  
 **Edad:** 50 años  
-**Ubicación conocida:** Fortaleza Inquisitorial en la Ciudadela de la Devoción, Waterdeep
+**Ubicación conocida:** Fortaleza de Mano de Hierro en la Ciudadela de la Devoción, Waterdeep
 
 ---
 
@@ -39,7 +39,7 @@ _“La libertad es el velo favorito del caos.”_
 
 ### Rol actual
 
-- Tharvek lidera la **Inquisición Mágica**, una fuerza político-religiosa que gana poder tras la crisis mágica mundial.
+- Tharvek lidera la **Mano de Hierro**, una fuerza político-religiosa que gana poder tras la crisis mágica mundial.
     
 - Encabeza campañas contra practicantes de magia sin regulación, templos antiguos y héroes del pasado.
     

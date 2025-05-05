@@ -1,8 +1,10 @@
 # DM
 ---
-[[0_Preparacion sesiones]]
+- [[Sesión 0 (Master)]]
+- [[Sesión 1 (Master)]]
+- [[Sesión 2 (Master)]]
 ## **Diario**
-- [[Diario Sesión 1]]
+- [[Diario Capitulo 1. Ecos de Gloria]]
 
 ---
 ## **Personajes**
@@ -45,4 +47,4 @@
 - [[Orianna, El Murmullo del Bosque]]
 - [[Vengy, La Llama Inquebrantable]]
 - [[Abismo y rabia]]
-- [[Manos de Hierro]]
+- [[Canciones/Manos de Hierro]]

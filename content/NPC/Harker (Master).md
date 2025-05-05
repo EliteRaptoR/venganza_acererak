@@ -4,9 +4,9 @@
 
 ### Motivaciones ocultas
 
-- Harker teme que la **Inquisición Mágica** termine absorbiendo el control del templo, desplazando a Tyr como símbolo de justicia.
+- Harker teme que la **Mano de Hierro** termine absorbiendo el control del templo, desplazando a Tyr como símbolo de justicia.
     
-- Por eso, ha empezado a establecer contactos secretos con altos inquisidores, buscando influir desde dentro y mantener el dogma de Tyr en pie, incluso si eso requiere **ceder parte del alma del templo**.
+- Por eso, ha empezado a establecer contactos secretos con altos inquisidores de la Mano de Hierro, buscando influir desde dentro y mantener el dogma de Tyr en pie, incluso si eso requiere **ceder parte del alma del templo**.
     
 - Cree firmemente que el pueblo necesita miedo y orden más que verdad y esperanza. Si el grupo actúa fuera de los canales oficiales, podría denunciarlos como traidores.
     
@@ -21,7 +21,7 @@
         
     - Si obedece, podría “ascenderlo” o confiarle una misión especial… que lo pondrá en conflicto con sus compañeros.
         
-- **Aliado del mal menor:** Podría aceptar aliarse temporalmente con la Inquisición o incluso con enemigos si cree que eso estabiliza Waterdeep.
+- **Aliado del mal menor:** Podría aceptar aliarse temporalmente con la Mano de Hierro o incluso con enemigos si cree que eso estabiliza Waterdeep.
     
 - **Caída por orgullo:** Si es confrontado directamente, no cederá a la razón. Su caída sería simbólica: un pilar que se derrumba al negar su propia humanidad.
     

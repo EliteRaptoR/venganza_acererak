@@ -20,7 +20,7 @@ _“Una mano abierta siempre esconde la otra.”_
 
 ### Ganchos narrativos y evolución
 
-- **Cambio de lealtad parcial:** Si la Inquisición gana fuerza o el grupo cae en desgracia, Wakanga puede mantener contacto… pero como “intermediario neutral”.
+- **Cambio de lealtad parcial:** Si la Mano de Hierro gana fuerza o el grupo cae en desgracia, Wakanga puede mantener contacto… pero como “intermediario neutral”.
     
 - **Aliado esencial:** Si el grupo se compromete a liberar Chult de una amenaza concreta, él puede **convertirse en mecenas activo**, proporcionando recursos, tropas o incluso acceso a conocimientos prohibidos.
     

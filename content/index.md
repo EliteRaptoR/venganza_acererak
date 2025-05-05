@@ -2,7 +2,7 @@
 ---
 ![[Portada.png]]
 ## **Diario**
-- [[Diario Sesión 1]]
+- [[Diario Capitulo 1. Ecos de Gloria]]
 
 ---
 ## **Personajes**
@@ -43,7 +43,7 @@
 - [[Orianna, El Murmullo del Bosque]]
 - [[Vengy, La Llama Inquebrantable]]
 - [[Abismo y rabia]]
-- [[Manos de Hierro]]
+- [[Canciones/Manos de Hierro]]
 
 ---
 

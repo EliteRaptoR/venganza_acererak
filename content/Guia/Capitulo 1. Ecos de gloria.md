@@ -26,16 +26,16 @@ Tras la victoria en la **Tumba de la Aniquilación**, el mundo quedó marcado po
 
 ---
 
-##### **La Inquisición Mágica: Castigadores de la Arrogancia**
+##### **La Mano de Hierro Mágica: Castigadores de la Arrogancia**
 
 - **La Magia como Herejía:**  
-    La creciente influencia de estas sectas y el miedo a los desastres recientes han dado origen a la **Inquisición Mágica**, un movimiento que ve el abuso de la magia como la raíz de todos los problemas. Según sus creencias, la magia ha roto el equilibrio del mundo, atrayendo la ira de los dioses. Consideran que la magia es un privilegio que debe estar bajo estricta vigilancia o ser abolida.
+    La creciente influencia de estas sectas y el miedo a los desastres recientes han dado origen a la **Mano de Hierro**, un movimiento que ve el abuso de la magia como la raíz de todos los problemas. Según sus creencias, la magia ha roto el equilibrio del mundo, atrayendo la ira de los dioses. Consideran que la magia es un privilegio que debe estar bajo estricta vigilancia o ser abolida.
     
 - **Caza de Magos y Aventureros:**  
-    En muchas regiones, la Inquisición actúa como una fuerza autoritaria, cazando a magos, hechiceros y clérigos que consideran herejes. También persiguen a aventureros, especialmente a aquellos que alguna vez usaron artefactos mágicos o tuvieron contacto con los eventos de la Tumba de la Aniquilación.
+    En muchas regiones, la Mano de Hierro actúa como una fuerza autoritaria, cazando a magos, hechiceros y clérigos que consideran herejes. También persiguen a aventureros, especialmente a aquellos que alguna vez usaron artefactos mágicos o tuvieron contacto con los eventos de la Tumba de la Aniquilación.
     
 - **División en la Fe:**  
-    Aunque la Inquisición cuenta con el apoyo de algunos templos y gobiernos, otros se oponen a sus métodos extremos, creyendo que su cruzada solo fomenta el caos. Esto ha generado tensiones dentro de las instituciones religiosas, muchas de las cuales ya enfrentan una pérdida masiva de fieles.
+    Aunque la Mano de Hierro cuenta con el apoyo de algunos templos y gobiernos, otros se oponen a sus métodos extremos, creyendo que su cruzada solo fomenta el caos. Esto ha generado tensiones dentro de las instituciones religiosas, muchas de las cuales ya enfrentan una pérdida masiva de fieles.
     
 
 ---
@@ -49,7 +49,7 @@ Tras la victoria en la **Tumba de la Aniquilación**, el mundo quedó marcado po
     Aunque aún no se reconoce a Acererak como una figura central, los rumores comienzan a extenderse entre las sectas más radicales de que este lich podría haber sido un emisario o una herramienta del verdadero Dios de la Muerte. Esto sienta las bases para que, más adelante, cuando Acererak regrese al mundo material, algunos lo vean como la encarnación de su fe o como un profeta enviado para reclamar lo que es suyo.
     
 - **El Pueblo en Desesperanza:**  
-    La mayoría de la gente común, abrumada por los desastres y la incertidumbre, se ha resignado a una vida de apatía o superstición. Muchos ven en las sectas o en la Inquisición una esperanza de redención, mientras otros simplemente intentan sobrevivir.
+    La mayoría de la gente común, abrumada por los desastres y la incertidumbre, se ha resignado a una vida de apatía o superstición. Muchos ven en las sectas o en la Mano de Hierro una esperanza de redención, mientras otros simplemente intentan sobrevivir.
     
 
 ---

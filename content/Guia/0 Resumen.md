@@ -4,7 +4,7 @@
 
 Tras los eventos de _Tumba de la Aniquilación_, el mundo está en caos. Acererak, humillado por la derrota, busca venganza y desea capturar las almas de los héroes para fortalecer su filacteria fragmentada. Mientras los personajes intentan detener su regreso, el mundo sufre los efectos de la desestabilización mágica, con demonios invadiendo y una sociedad dividida por la paranoia.
 
-La Inquisición Mágica, un nuevo poder político y religioso, culpa a los usuarios de magia del caos, enfrentándose activamente a los personajes. A través de profecías y fragmentos de objetos malditos, los jugadores descubrirán que para derrotar a Acererak deben destruir los siete fragmentos de su filacteria, uniendo sus fuerzas y enfrentando sacrificios personales.
+La Mano de Hierro, un nuevo poder político y religioso, culpa a los usuarios de magia del caos, enfrentándose activamente a los personajes. A través de profecías y fragmentos de objetos malditos, los jugadores descubrirán que para derrotar a Acererak deben destruir los siete fragmentos de su filacteria, uniendo sus fuerzas y enfrentando sacrificios personales.
 
 ---
 
@@ -13,7 +13,7 @@ La Inquisición Mágica, un nuevo poder político y religioso, culpa a los usuar
 ### **Capítulo 1: "El Presagio de la Oscuridad"**
 
 - **Resumen:**  
-    Los personajes son atacados por demonios en diferentes partes del mundo. Sildar, un viejo aliado, envía un mensaje urgente antes de colapsar debido a una maldición demoníaca. El grupo se reúne en Chult, donde obtienen los primeros fragmentos de la profecía y enfrentan la creciente amenaza de la Inquisición Mágica.
+    Los personajes son atacados por demonios en diferentes partes del mundo. Sildar, un viejo aliado, envía un mensaje urgente antes de colapsar debido a una maldición demoníaca. El grupo se reúne en Chult, donde obtienen los primeros fragmentos de la profecía y enfrentan la creciente amenaza de la Mano de Hierro.
 - **Puntos Clave:**
     - Escenas personalizadas para cada personaje durante la invasión demoníaca.
     - Sildar, herido, los guía hacia Puerto Nyanzaru.
