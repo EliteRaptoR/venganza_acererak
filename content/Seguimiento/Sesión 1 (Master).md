@@ -29,7 +29,7 @@
 
 **Ubicación:** Una lujosa mansión en la capital de Waterdeep.
 
-**Nota: Poner la cancion**
+**Nota: Poner la canción**
 [[Hakuryu, El Orgullo del Dragón]]
 
 > La mansión de Hakuryuu es un monumento al exceso. Columnas de mármol decoran la entrada principal, y un par de estatuas de dragones plateados flanquean las puertas de doble hoja. En el interior, el suelo de baldosas reluce bajo la luz de arañas de cristal, mientras tapices adornados con escenas de batallas gloriosas cubren las paredes. Sin embargo, hay una frialdad en este lugar, como si toda la opulencia careciera de alma.
