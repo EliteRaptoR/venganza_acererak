@@ -1,13 +1,153 @@
 #Master #Nofusionado
 ## **Sesión 2**
 
+### Normas y hoja de personaje
+
+Necesitamos hoja de personaje de todos los jugadores.
+Hay que poner 1 PP 1 PD y 2 PC
+Hay que poner cordura, Ander 6, Alistar 14, Haku 10, Malizall 8, Orianna 16, Vengy 16
+Hay que ver que objetos iniciales tienen
+### El Juicio Ya Fue Escrito
+
+![[LecturaFragmentoProfecia.png]]
+El escenario está envuelto en penumbra.  
+No sabes si es noche, o si estás bajo tierra.  
+Ni si esto es el pasado… o lo que vendrá.
+
+Cientos de figuras se congregan en círculo, más allá de lo que la luz alcanza. No hay gritos, solo una respiración contenida, como si toda esa masa de cuerpos compartiera un solo pulmón.
+
+En el centro, sobre un pedestal de piedra retorcida, se alza una figura.  
+Su silueta es imponente. Viste túnicas negras bordadas en rojo, cubiertas por capas de cera derretida, como si estuviera fundido con antiguos cirios.
+
+Su rostro no se ve, solo una máscara blanca agrietada, como un cráneo en ruina.
+
+Su voz no se proyecta: se cuela en cada mente como un pensamiento que no puede ser rechazado.
+
+_“Cuando el velo del mundo se desgaste,_  
+_y el oro de los héroes se vuelva herrumbre,_  
+_el aire se abrirá como herida en la carne de este plano._
+
+_Y de esa grieta brotarán los siervos del Juicio,_  
+_con garras de castigo y aliento de ruina._  
+_Mas su mera presencia la cordura mina._
+
+_Donde las raíces se retuercen de dolor,_  
+_y la savia se convierte en sangre,_  
+_el abismo mismo se abre._
+
+_Sobre los muros de la falsa fe,_  
+_cuando el caos llegue y reine,_  
+_ni los más puros estarán a salvo._
+
+_No temáis a la muerte, pues es salvación,_  
+_sino al renacer de aquello que nunca vivió._
+
+_Los astros se ocultarán de la mirada de los sabios,_  
+_las reliquias brillarán con luz marchita,_  
+_y los rezos antiguos serán ceniza en la lengua del clérigo._
+
+_Vendrán las tres señales:_  
+_La sangre manará del árbol sagrado,_  
+_la campana sonará bajo aguas sin templo,_  
+_y la luna será devorada por su reflejo._
+
+_Entonces, la Voz hablará desde la grieta:_  
+_‘El Juicio ha comenzado. Vuestra era termina.’_  
+_Así está escrito. Así será.”_
+
 ### Ataques Personalizados para los Personajes
+
+#### Ander
+
+**Cargar encuentro ander
+**Musica ander
+
+![[AnderSesion2.png]]
+
+Cargas con el perro pero el demonio parece correr mas que tu y mas con ese saco de pulgas cargado.
+
+> _Tu corazón late con fuerza, más por sorpresa que por valentía. Tus piernas se mueven… y entonces estás corriendo.  
+> El aire se corta con cada paso, tu garganta arde. No sabes qué vas a hacer, ni cómo…_
+
+> _Solo sabes que **no vas a dejar que muera otro ser inocente mientras tú sigues bebiendo tu culpa.**_
+
+> _La criatura se gira hacia ti. No parece sorprendida… pero sí interesada._
+
+> _Y tú, bardo olvidado, abres la boca… y **cantas.**_
+
+Cuando se deshaga de la criatura vera el fuego de la plaza de Tyr y llegara hasta el un papel medio calcinado con unos versos. 
+
+**Entregar versos iniciales**
+
+#### Alistar
+
+![[WaterdeepNormal.png]]
+![[Pasted image 20250515171823.png]]
+**Musica combate alistar
+Abrir combate alistar
+
+> _El estruendo aún resuena en tu cabeza como una campana rota.  
+> Abres los ojos… y ves **infierno.**_
+
+> _Cuerpos en el suelo. Gritos. Fuego. Llamas naciendo donde antes había esperanza.  
+> Las columnas del templo están chamuscadas, sus escalones manchados de sangre. Y entre el humo y los restos del caos… los ves._
+
+> _Figuras inhumanas, de extremidades retorcidas y bocas llenas de colmillos, emergen del epicentro de la explosión. Caminan como si el mundo les perteneciera, aplastando huesos y carne sin distinción._
+
+> _Estas en las escaleras, mientras las criaturas atacan a soldados de Tyr y cuidadanos en la plaza, otro grupo avanza hacia arriba. Mientras piensas que hacertus ojos se quedan clavados por un instante en un niño está atrapado bajo una carroza volcada, gritando con un brazo estirado hacia una figura caída. ¿Su madre?, inmóvil. Mientras tanto escuchas la voz de Harker **“¡Defiende el templo! ¡Es nuestra única posición segura!”**
+
+> _Y sobre todo esto, una sola pregunta arde en tu pecho:_
+
+> **"¿A quién protegerás primero, Alistar?"**
+
+##### ✅ Opción 1: Proteger a los inocentes
+
+📜 _Fragmento para usar si Alistar se lanza a salvar civiles:_
+
+> _Tu armadura cruje mientras te levantas. El peso de la ley parece un recuerdo lejano frente al **deber humano** que arde ahora en tu pecho.  
+> Saltas sobre un cuerpo, apartas una antorcha caída, y con tus propias manos **levantas la carroza para liberar al niño**._
+
+> _El demonio más cercano te ve. Gira el rostro hacia ti… y sonríe._
+
+> _Lo has elegido. Y lo sabe._
+
+##### 🛡️ Opción 2: Defender el templo y los suyos
+
+📜 _Fragmento si decide replegarse con los guardias:_
+
+> _Avanzas hacia tus hombres, aún tambaleantes.  
+> Tu voz, áspera por el humo, resuena con la autoridad que aún queda intacta:_  
+> **“¡Muralla! ¡Escudos arriba! ¡Nadie más cae hoy!”**_
+
+> _Los soldados responden con mirada temblorosa… pero te siguen.  
+> Porque eres su eje._
+
+> _A lo lejos, ves cómo la horda demoníaca comienza a **devorar a los civiles sin protección**. El templo resiste… pero a un precio._
+
+
+---
+
+##### 🩸 Opción 3: Desobedecer a Harker (si sobrevive) y actuar por justicia
+
+📜 _Fragmento si decide romper con la orden establecida:_
+
+> _Tú lo miras… y **das un paso hacia la multitud indefensa**._
+
+> _No hay odio. Solo certeza._
+
+> _“Si la ley no protege a los inocentes… no es justicia.”_
+
+> _Rompes la formación. Algunos soldados dudan. Otros… te siguen._
 
 #### Hakuryuu
 
 **Abrir combate hakuryu**
 
-> _El suelo tiembla bajo tus pies mientras los demonios se deslizan hacia ti, grotescos, emitiendo sonidos que están entre el gruñido animal y el eco de un llanto maldito. Te preparas, instintivamente, aunque tus garras están desnudas y Myrrym brilla por su ausencia._
+> _El suelo tiembla bajo tus pies mientras los demonios se deslizan hacia ti, grotescos, emitiendo sonidos que están entre el gruñido animal y el eco de un llanto maldito. Te preparas, instintivamente, aunque tus garras están desnudas y Myrrym brilla por su ausencia... Verte agarrando el candelabro te hace recordar más que nunca su ausencia.
+> 
+> **Hakuryuu Tiene cordura 10. 
+> 
+> Salvación de Cordura 14. De fallar -1 a la cordura._
 
 > _Entonces…_
 
@@ -78,7 +218,7 @@
 
 > _Hakuryuu, esa pieza brilla con la luz de lo que fuiste. De lo que perdiste. De lo que podrías volver a ser... o destruir para siempre._
 
-**Tirada de cordura 18**
+**Tirada de cordura 18 de fallar -2 Cordura.**
 
 **Al tocar el fragmento**
 
@@ -180,91 +320,9 @@
 > _Y en ese instante, lo entiendes: la oscuridad puede arrancarte todo…  
 > …pero también puede devolverte algo distinto, si sabes sostener la herida._
 
-#### Alistar
 
-**Musica combate alistar
-Abrir combate alistar
-
-> _El estruendo aún resuena en tu cabeza como una campana rota.  
-> Abres los ojos… y ves **infierno.**_
-
-> _Cuerpos en el suelo. Gritos. Fuego. Llamas naciendo donde antes había esperanza.  
-> Las columnas del templo están chamuscadas, sus escalones manchados de sangre. Y entre el humo y los restos del caos… los ves._
-
-> _Figuras inhumanas, de extremidades retorcidas y bocas llenas de colmillos, emergen del epicentro de la explosión. Caminan como si el mundo les perteneciera, aplastando huesos y carne sin distinción._
-
-> _A tu izquierda, un grupo de **guardias del templo intenta reorganizarse.** A tu derecha, **civiles aterrados corren sin rumbo**, muchos de ellos heridos o desarmados._ _Delante de ti, un niño está atrapado bajo una carroza volcada, gritando con un brazo estirado hacia una figura caída. Su madre, inmóvil. Mientras tanto escuchas la voz de Harker **“¡Defiende el templo! ¡Es nuestra única posición segura!”**
-
-> _Y sobre todo esto, una sola pregunta arde en tu pecho:_
-
-> **"¿A quién protegerás primero, Alistar?"**
-
-##### ✅ Opción 1: Proteger a los inocentes
-
-📜 _Fragmento para usar si Alistar se lanza a salvar civiles:_
-
-> _Tu armadura cruje mientras te levantas. El peso de la ley parece un recuerdo lejano frente al **deber humano** que arde ahora en tu pecho.  
-> Saltas sobre un cuerpo, apartas una antorcha caída, y con tus propias manos **levantas la carroza para liberar al niño**._
-
-> _El demonio más cercano te ve. Gira el rostro hacia ti… y sonríe._
-
-> _Lo has elegido. Y lo sabe._
-
-📌 **Consecuencia mecánica:** Gana ventaja moral: inspiración o bonus temporal. Pero uno de los **compañeros del templo muere** en su lugar si no se actúa rápido.
 
 ---
-
-##### 🛡️ Opción 2: Defender el templo y los suyos
-
-📜 _Fragmento si decide replegarse con los guardias:_
-
-> _Avanzas hacia tus hombres, aún tambaleantes.  
-> Tu voz, áspera por el humo, resuena con la autoridad que aún queda intacta:_  
-> **“¡Muralla! ¡Escudos arriba! ¡Nadie más cae hoy!”**_
-
-> _Los soldados responden con mirada temblorosa… pero te siguen.  
-> Porque eres su eje._
-
-> _A lo lejos, ves cómo la horda demoníaca comienza a **devorar a los civiles sin protección**. El templo resiste… pero a un precio._
-
-📌 **Consecuencia narrativa:** El templo permanece en pie, pero Alistar **carga con las muertes** como una mancha en su conciencia.
-
----
-
-##### 🩸 Opción 3: Desobedecer a Harker (si sobrevive) y actuar por justicia
-
-📜 _Fragmento si decide romper con la orden establecida:_
-
-> _Tú lo miras… y **das un paso hacia la multitud indefensa**._
-
-> _No hay odio. Solo certeza._
-
-> _“Si la ley no protege a los inocentes… no es justicia.”_
-
-> _Rompes la formación. Algunos soldados dudan. Otros… te siguen._
-
-📌 **Consecuencia narrativa fuerte:** puede marcar un **antes y después en su carrera dentro de Tyr**. Gana aliados entre el pueblo… y enemigos en la jerarquía.
-
-#### Ander
-
-**Cargar encuentro ander
-
-**Musica ander
-#####  **Opción 1: Defender al perro / Enfrentar al demonio**
-
-📜 _Fragmento para leer cuando Ander actúe:_
-
-> _Tu corazón late con fuerza, más por sorpresa que por valentía. Tus piernas se mueven… y entonces estás corriendo.  
-> El aire se corta con cada paso, tu garganta arde. No sabes qué vas a hacer, ni cómo…_
-
-> _Solo sabes que **no vas a dejar que muera otro ser inocente mientras tú sigues bebiendo tu culpa.**_
-
-> _La criatura se gira hacia ti. No parece sorprendida… pero sí interesada._
-
-> _Y tú, bardo olvidado, abres la boca… y **cantas.**_
-
-**Cuandio acabe con el demonio
-
 #### Vengy
 
 **Cargar encuentro vengy
@@ -275,6 +333,9 @@ Abrir combate alistar
 ![[Vengy en la celda.png]]
 Vengy tendrá que ir salvando a cuantos pueda de la las garras de las criaturas.
 
+Al salir puede que este cerca del templo de tyr.
+
+El caos en la ciudad es enorme. Pero las criaturas cada vez son menos.
 #### Orianna
 
 **Cargar encuentro
@@ -337,113 +398,3 @@ Vengy tendrá que ir salvando a cuantos pueda de la las garras de las criaturas.
 > Notas dolor en el cuello, una cicatriz con forma de triangulo.
 
 ![[Bosque dañado.png]]
-
---- 
-## Proximas sesiones
-
-### El Mensaje de Sildar y la Reunión en Waterdeep
-
----
-
-**Ubicación:** El templo de Tyr en Waterdeep.
-
-**Narración del Lugar:**  
-El templo de Tyr es una fortaleza de mármol y piedra pulida, símbolo de justicia y orden en la ciudad. Sin embargo, el ambiente ha cambiado. Los vitrales están empañados por el polvo de las recientes revueltas, y el eco de las oraciones se mezcla con los rumores inquietantes que se filtran desde el exterior. Fuera, una multitud se reúne, gritando acusaciones y exigiendo respuestas. La tensión se palpa en el aire, una mezcla de miedo y rabia.
-
----
-
-### **Escena de la Reunión**
-
-**Descripción del Evento:**  
-Los personajes llegan al templo, convocados por el mensaje mágico de Sildar. Algunos, como **Vengy** y **Alistar**, ya están allí, mientras otros llegan heridos y marcados por sus enfrentamientos. La atmósfera está cargada de desconfianza y cansancio, pero la presencia de Sildar los une momentáneamente.
-
----
-
-### **Narración de la Entrada de Sildar**
-
-Sildar Hallwinter aparece en la sala principal del templo, apoyándose en su espada como si esta fuera un bastón. Su armadura está dañada, y su rostro, lleno de cicatrices, refleja una fatiga que va más allá del cuerpo. A pesar de su estado, su voz se mantiene firme cuando dice:
-
-_"Sabía que vendrían. Pese a todo lo que este mundo les ha hecho, ustedes son los únicos capaces de detener lo que está por venir."_
-
-Hace una pausa para respirar, tambaleándose ligeramente antes de continuar:  
-_"El arquitecto de la muerte ha regresado. Y no se detendrá hasta reclamarnos a todos."_
-
----
-
-### **El Mensaje de la Profecía**
-
-**Entrega de la Profecía:**  
-Sildar, ayudado por Alistar, realiza un ritual con un pergamino antiguo que revela un fragmento de la profecía. Su voz, aunque quebrada, resuena con autoridad:  
-_"Cuando el abismo despierte su furia, los huesos danzarán sobre cenizas frías. Uníos o pereced; no todos veréis el alba."_
-
-**Impacto Narrativo:**  
-Las palabras de Sildar son un recordatorio de la amenaza que enfrentan, pero también plantean dudas sobre su destino colectivo.
-
----
-
-### **Interrupción: La Mano de Hierro y la Multitud**
-
-**Descripción de la Amenaza:**  
-El Gran Inquisidor Tharvek irrumpe en el templo acompañado por varios soldados. Su armadura negra refleja la luz de las velas, y su voz, fría y calculadora, corta el aire:  
-_"Aquí están los culpables de nuestro sufrimiento. Estos… héroes trajeron la maldición sobre nosotros. Y ahora, se esconden tras un templo de justicia."_
-
-Fuera, la multitud enfurecida grita:  
-_"¡Villanos! ¡Traidores! ¡Devuélvannos la paz!"_
-
----
-
-### **Decisión Clave: Diplomacia, Enfrentamiento o Huida**
-
-**Opciones para los Personajes:**
-
-1. **Diplomacia:** Intentar razonar con Tharvek y la multitud, buscando tiempo para reagruparse.
-    - CD 18 en Persuasión o Intimidación.
-2. **Enfrentamiento:** Defender el templo contra los soldados de la Mano de Hierro y proteger a los civiles.
-    - Encuentro con 2 **Caballeros de la Mano de Hierro** y 6 **Milicianos Manipulados**.
-3. **Huida:** Escapar del templo a través de pasadizos subterráneos mientras los enemigos los persiguen.
-    - Tiradas de Sigilo (CD 15) para evitar ser detectados.
-
-**Consecuencias:**
-
-- Diplomacia exitosa: Tiempo para organizarse, pero la desconfianza persiste.
-- Enfrentamiento: El templo sufre daños significativos, y la multitud se vuelve aún más hostil.
-- Huida: Los personajes escapan, pero la Mano de Hierro toma el control del templo, aumentando su poder en Waterdeep.
-
----
-
-### **Clausura: Preparativos para la Huida a Chult**
-
-**Narración de la Decisión:**  
-Sildar, con voz debilitada, dice:  
-_"Waterdeep ya no es segura. Debemos encontrar un refugio donde podamos reagruparnos y planear nuestro próximo paso. Chult nos espera."_
-
-**Diálogo de Wakanga O’tamu:**  
-Un mensaje mágico llega al grupo, con la voz tranquila pero urgente de Wakanga:  
-_"La jungla siempre protege a quienes buscan justicia. Aquí encontraréis lo que necesitáis, pero no lleguéis tarde. El tiempo corre en vuestra contra."_
-
-**Preparativos:**  
-El grupo debe encontrar una manera de salir de Waterdeep sin ser detectados, organizando su viaje en un barco proporcionado por aliados de Wakanga.
-
----
-
-### **Opción 1: Fin al Decidir Escapar**
-
-**Cierre Narrativo:** Los personajes, tras decidir cómo manejar la situación en el templo (ya sea luchando, negociando o huyendo), se dan cuenta de que la ciudad ya no es un lugar seguro. Con Sildar debilitado y la Mano de Hierro ganando terreno, acuerdan reunirse en secreto en un puerto de Waterdeep al anochecer.
-
-**Escena Final:** Mientras se ocultan en las sombras, cada personaje lleva consigo el peso de los recientes eventos: las maldiciones, las explosiones de energía y la creciente hostilidad de la ciudad. La noche es fría, y el aire huele a sal y humedad. En el muelle, un contrabandista aliado de Wakanga los espera junto a un pequeño barco que parece desvencijado, pero fiable.
-
-Un último vistazo a las luces de Waterdeep deja claro que no habrá retorno fácil. Al subir al barco, Sildar, apoyado en Alistar, dice:  
-_"No miréis atrás. Nuestro destino no está aquí."_
-
----
-
-### **Opción 2: Fin ya en el Barco**
-
-**Cierre Narrativo:** La sesión concluye con los personajes navegando hacia Chult, dejando atrás una ciudad al borde del caos y cargando con la culpa de haber sido convertidos en villanos. Mientras el barco se aleja del puerto, las luces de Waterdeep se apagan en la distancia.
-
-**Escena Final:** La cubierta del barco está llena de crujidos y sonidos del agua golpeando el casco. Sildar, recostado contra unas cajas, mira a los personajes y dice con una sonrisa cansada:  
-_"Quizás no podamos limpiar nuestro nombre, pero aún podemos salvar este mundo."_
-
-Desde la bodega, un marinero sube corriendo con preocupación:  
-_"¡Señores! El capitán dice que algo extraño está pasando en el agua!"_  
-La sesión termina con la amenaza de lo que podría ser un primer encuentro en el mar, dejando un gran gancho para la siguiente sesión.

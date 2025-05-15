@@ -1,4 +1,9 @@
 Crear entrda para pueblo y Manos de Hierro y la nueva religion
-Revisar encuentros en al app
-mas imagenes para describir sesion 1 y 2
+revisar encuentros.
+Preparar sesion 2
+Prerarar diario de sesion 1
+actualizar GPT
+mas imagenes??
+
+
 
