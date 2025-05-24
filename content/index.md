@@ -2,6 +2,7 @@
 ---
 ![[Portada.png]]
 ## **Diario**
+- [[La Profecía del Abismo]]
 - [[Diario Capitulo 1. Ecos de Gloria]]
 
 ---

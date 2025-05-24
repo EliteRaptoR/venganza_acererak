@@ -28,10 +28,10 @@
 ##### **Sequito del dragón de plata**
 - [[Dareth Silmaer (Master)]]
 - [[Varuun Tyrral (Master)]]
+-  [[Kael Vhantar (Master)]]
 ##### **Orden de Tyr**
 - [[Harker (Master)]]
 - [[Marcus Deren (Master)]]
-- [[Kael Vhantar (Master)]]
 ##### **Dragon Verde**
 - [[Elyzmyrath (master)]]
 
