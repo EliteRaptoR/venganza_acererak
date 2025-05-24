@@ -9,7 +9,7 @@
 
 ---
 
-### Presentación Individual**
+### **Presentación Individual**
 
 #### **1. Hakuryuu: El Guerrero Despojado**
 [[Hakuryu, El Orgullo del Dragón]]

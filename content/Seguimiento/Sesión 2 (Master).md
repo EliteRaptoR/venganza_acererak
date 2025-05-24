@@ -268,7 +268,7 @@ Abrir combate alistar
 > **“¡No!”**  
 > _La palabra resuena en tu mente. No la pronuncias, pero el mundo la escucha igual._
 
-**Tirada de iniciativa.**
+**Tirada de iniciativa.** 
 
 **Musica combate malizall
 
