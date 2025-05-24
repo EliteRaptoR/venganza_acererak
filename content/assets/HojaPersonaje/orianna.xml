@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<creator>
+<version>0.7</version>
+<confLang>1</confLang>
+<name>Character Name</name>
+<class1>4</class1>
+<level1>11</level1>
+<voie1>2</voie1>
+<class2>1</class2>
+<level2>0</level2>
+<voie2></voie2>
+<className>Druid</className>
+<subClassName>Circle of the Moon</subClassName>
+<XP>0</XP>
+<species>10</species>
+<speciesName>Tiefling (Infernal)</speciesName>
+<lineage>2</lineage>
+<back>0</back>
+<backName></backName>
+<lang>1,1,0,0,0,0,0</lang>
+<align>7</align>
+<size></size>
+<str>12</str><dex>12</dex><con>14</con>
+<int>11</int><wis>14</wis><cha>10</cha>
+<bstr></bstr><bdex></bdex><bcon></bcon>
+<bint></bint><bwis></bwis><bcha></bcha>
+<feats>,Healer,,,Ability Score Improvement,,,,Ability Score Improvement,,,,,,,,,,,,</feats>
+<invoc>,,,,,,,,,</invoc>
+<manoeuv>,,,,,,,,</manoeuv>
+<choice>,0,,,,,,1,,,,,,,,,,,,,</choice>
+<option0>,,,,,,,,,,,,,,,,,,,,</option0>
+<option1>,,,,4,,,,4,,,,,,,,,,,,</option1>
+<option2>,,,,4,,,,4,,,,,,,,,,,,</option2>
+<option3>,,,,,,,,,,,,,,,,,,,,</option3>
+<option4>,Thorn Whip,,,,,,,,,,,,,,,,,,,</option4>
+<option5>,Thorn Whip,,,,,,,,,,,,,,,,,,,</option5>
+<option6>,Thorn Whip,,,,,,,,,,,,,,,,,,,</option6>
+<ritual>,,,,,,</ritual>
+<custom>,,,,,,,,,,,,,,,,,,,,</custom>
+<skillE></skillE>
+<skillC>2,10,0,0</skillC>
+<skillB>17,1</skillB>
+<armor>Studded Leather Armor,Without Shield</armor>
+<weapons>Quarterstaff,1,Light crossbow,1,Sling,1</weapons>
+<tool>,,Poisoner's Kit,Herbalism Kit,,,</tool>
+<cantrips4>|||</cantrips4>
+<cantrips5>|||</cantrips5>
+<cantrips6>|||</cantrips6>
+<hp>0,8,5,5,5,5,5,5,5,5,5,5,,,,,,,,,</hp>
+<spells0>Produce Flame,Guidance,Mending,Druidcraft,,,,,,,,,,,</spells0>
+<spells1>Animal Friendship,Cure Wounds,Healing Word,Thunderwave,,,,,,,,,,,</spells1>
+<spells2>Find Traps,Beast Sense,Aid,,,,,,,,,,,,</spells2>
+<spells3>Call Lightning,Revivify,Dispel Magic,,,,,,,,,,,,</spells3>
+<spells4>Wall of Fire,Polymorph,Conjure Woodland Beings,,,,,,,,,,,,</spells4>
+<spells5>Cone of Cold,Reincarnate,,,,,,,,,,,,,</spells5>
+<spells6>Conjure Fey,,,,,,,,,,,,,,</spells6>
+<spells7>,,,,,,,,,,,,,,</spells7>
+<spells8>,,,,,,,,,,,,,,</spells8>
+<spells9>,,,,,,,,,,,,,,</spells9>
+<spells10>,,,,,,,,,,,,,,</spells10>
+<spells11>,,,,,,,,,,,,,,</spells11>
+<spells12>,,,,,,,,,,,,,,</spells12>
+<spells13>,,,,,,,,,,,,,,</spells13>
+<spells14>,,,,,,,,,,,,,,</spells14>
+<spells15>,,,,,,,,,,,,,,</spells15>
+<spells16>,,,,,,,,,,,,,,</spells16>
+<spells17>,,,,,,,,,,,,,,</spells17>
+<spells18>,,,,,,,,,,,,,,</spells18>
+<spells19>,,,,,,,,,,,,,,</spells19>
+<spellNote0></spellNote0>
+<spellNote1>3d10 fuego</spellNote1>
+<spellNote2>3d8 radiante,brillo </spellNote2>
+<spellNote3>3d6, acercar 10ft</spellNote3>
+<spellNote4>3d8 fuego</spellNote4>
+<spellNote5>+1d4 tirada habilidad</spellNote5>
+<spellNote6>repara</spellNote6>
+<spellNote7>cosas druida magico</spellNote7>
+<spellNote8></spellNote8>
+<spellNote9>ya tengo dragon</spellNote9>
+<spellNote10>2d8+spellcasting mod</spellNote10>
+<spellNote11></spellNote11>
+<spellNote12>1d6 x slot level</spellNote12>
+<spellNote13>2d4</spellNote13>
+<spellNote14>2d8+1d8 empuja</spellNote14>
+<spellNote15>2d10 +1d10</spellNote15>
+<spellNote16></spellNote16>
+<spellNote17></spellNote17>
+<spellNote18>HPmax-5HP +5HP</spellNote18>
+<spellNote19></spellNote19>
+<spellNote20>3d10+1d10</spellNote20>
+<spellNote21>diamonds 300+ GP</spellNote21>
+<spellNote22>hability check</spellNote22>
+<spellNote23>2d6 radiante</spellNote23>
+<spellNote24>5d8 fire+1d8</spellNote24>
+<spellNote25>como transformar </spellNote25>
+<spellNote26>5d8 force+ 1d8</spellNote26>
+<spellNote27>5d8+1d8</spellNote27>
+<spellNote28>8d8+1d8</spellNote28>
+<spellNote29>rare oils 1,000+ GP</spellNote29>
+<spellNote30></spellNote30>
+<spellNote31></spellNote31>
+<spellNote32></spellNote32>
+<spellNote33></spellNote33>
+<spellNote34></spellNote34>
+<spellNote35></spellNote35>
+<spellNote36></spellNote36>
+<spellNote37></spellNote37>
+<spellNote38></spellNote38>
+<spellNote39></spellNote39>
+<spellNote40></spellNote40>
+<spellNote41></spellNote41>
+<spellNote42></spellNote42>
+<spellNote43></spellNote43>
+<spellNote44></spellNote44>
+<spellNote45></spellNote45>
+<spellNote46></spellNote46>
+<spellNote47></spellNote47>
+<spellNote48></spellNote48>
+<spellNote49></spellNote49>
+<spellNote50></spellNote50>
+<spellNote51></spellNote51>
+<spellNote52></spellNote52>
+<spellNote53></spellNote53>
+<spellNote54></spellNote54>
+<spellNote55></spellNote55>
+<spellNote56></spellNote56>
+<spellNote57></spellNote57>
+<spellNote58></spellNote58>
+<spellNote59></spellNote59>
+<spellNote60></spellNote60>
+<spellNote61></spellNote61>
+<spellNote62></spellNote62>
+<spellNote63></spellNote63>
+<spellNote64></spellNote64>
+<spellNote65></spellNote65>
+<spellNote66></spellNote66>
+<spellNote67></spellNote67>
+<spellNote68></spellNote68>
+<spellNote69></spellNote69>
+<spellNote70></spellNote70>
+<spellNote71></spellNote71>
+<spellNote72></spellNote72>
+<spellNote73></spellNote73>
+<spellNote74></spellNote74>
+<appearance></appearance>
+<backstory></backstory>
+<equipment></equipment>
+<attun1></attun1>
+<attun2></attun2>
+<attun3></attun3>
+<cp></cp>
+<sp></sp>
+<ep></ep>
+<gp></gp>
+<pp></pp>
+</creator>
