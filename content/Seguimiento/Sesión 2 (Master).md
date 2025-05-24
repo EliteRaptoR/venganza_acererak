@@ -82,7 +82,7 @@ Cuando se deshaga de la criatura vera el fuego de la plaza de Tyr y llegara hast
 #### Alistar
 
 ![[WaterdeepNormal.png]]
-![[Pasted image 20250515171823.png]]
+![[Waterdeepcaos.png]]
 **Musica combate alistar
 Abrir combate alistar
 
