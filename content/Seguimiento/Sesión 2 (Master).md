@@ -328,9 +328,6 @@ Abrir combate alistar
 **Cargar encuentro vengy
 
 **Musica vengy
-
-**Enseñar imagen
-![[Vengy en la celda.png]]
 Vengy tendrá que ir salvando a cuantos pueda de la las garras de las criaturas.
 
 Al salir puede que este cerca del templo de tyr.

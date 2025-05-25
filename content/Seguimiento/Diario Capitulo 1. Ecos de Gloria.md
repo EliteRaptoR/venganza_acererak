@@ -80,7 +80,6 @@
 
 ### Escenas con los personajes
 
-
 ### 🐉 **Hakuryuu – El Eco de la Gloria Rota**
 
 **Ubicación:** Mansión del Clan del Dragón Plateado, distrito noble de Waterdeep  
@@ -377,5 +376,274 @@
 ---
 ## **Sesión 2**
 
+### Ander - La Huida acompañado
+
+Ander corrió con una desesperación animal, huyendo de las sombras que brotaban del portal maldito, sintiendo cómo el frío de la noche se mezclaba con el pánico ardiente que recorría sus venas. En sus brazos, el perro flaco jadeaba, asustado. Con un último esfuerzo, se escondieron juntos en un callejón estrecho y oscuro.
+
+—Escóndete —susurró Ander, acariciando brevemente la cabeza del animal, sintiendo que su propia mano temblaba más que el perro.
+
+Antes de que pudiese recuperar el aliento, una figura oscura apareció al final del callejón, a escasos metros. Sin pensarlo demasiado, Ander conjuró un Starry Wisp que impactó de lleno sobre la figura. Aprovechando el momento, echó a correr de nuevo, pero la criatura era veloz, demasiado veloz. En un abrir y cerrar de ojos, lo alcanzó y se lanzó sobre él, derribándolo al suelo en una maraña de brazos y sombras.
+
+Rodaron juntos por el suelo húmedo y frío; Ander logró momentáneamente liberarse, pero no sin recibir un golpe brutal que le dejó una sensación helada extendiéndose desde el punto de impacto hacia todo su cuerpo.
+
+De pronto, escuchó al perro gruñir con furia desesperada. Al girarse, vio cómo la pequeña criatura mordía ferozmente los tobillos del demonio, exponiéndose a una muerte segura. La imagen golpeó a Ander con una claridad insoportable.
+
+Su corazón latía furioso, no por valentía sino por la desesperación absoluta de evitar otra muerte inocente a causa de su culpa. Sin dudarlo más, canalizó un poderoso hechizo de desintegrar hacia la criatura, pero esta esquivó ágilmente el ataque. Con una crueldad implacable, el demonio lanzó una patada brutal al perro, que salió despedido y quedó inmóvil en el suelo.
+
+La visión del animal herido llenó a Ander con una determinación que no sabía que aún poseía. Se lanzó contra el demonio, recibiendo otro golpe que, aunque doloroso, carecía de la precisión anterior. No obstante, Ander, consiguio su ibjetivo, salir corriendo en dirección al animal para cargarlo y seguir su huida. Herido, pronto fue consciente de que no escaparia sin más de esta cirauta pero justo cuando todo parecia perdido vio un agujero estrecho en la pared. Sin dudarlo trató de lanzarse a el, con el perro cogido en sus manos extendidas atravesó parcialmente el agujero, pero sus piernas quedaron atrás. El demonio lo atrapó por las piernas y lo sacó violentamente, estrellándolo contra la pared opuesta y arrebatándole el aliento.
+
+A punto de perder la conciencia, Ander reunió sus últimas fuerzas para conjurar un patrón hipnótico, atrapando la atención de la criatura que quedó momentáneamente embelesada. Sin perder tiempo, Ander se arrastró por la apertura, curando rápidamente sus heridas y luego examinando desesperadamente al perro. Su corazón saltó al comprobar que, aunque inconsciente, el animal recuperaba lentamente algo de estabilidad.
+
+Exhausto, cargó al perro hacia el interior de lo que resultó ser un almacén abandonado. Unas escaleras polvorientas le condujeron a una portezuela que daba al tejado. Al salir, Ander contempló un panorama desolador: varios edificios ardían con llamas que se alzaban hacia el cielo nocturno, tiñéndolo de rojo y naranja. Su mirada fue atraída inexorablemente hacia la colina donde se alzaba el templo de Tyr, rodeado completamente por llamas hambrientas. El templo permanecía intacto por ahora, pero estaba claro que la destrucción era inevitable.
+
+Entonces, arrastrado por el viento nocturno, un papel medio calcinado aterrizó frente a sus pies. Ander lo tomó con dedos temblorosos y leyó en voz baja:
+
+_“Cuando el velo del mundo se desgaste,_  
+_y el oro de los héroes se vuelva herrumbre,_  
+_el aire se abrirá como herida en la carne de este plano._
+
+_Y de esa grieta brotarán los siervos del Juicio,_  
+_con garras de castigo y aliento de ruina._  
+_Mas su mera presencia la cordura mina._
+
+_Donde las raíces se retuercen de dolor,_  
+_y la savia se convierte en sangre,_  
+_el abismo mismo se abre._
+
+_Sobre los muros de la falsa fe,_  
+_cuando el caos llegue y reine,_  
+_ni los más puros estarán a salvo._
+
+_No temáis a la muerte, pues es salvación,_  
+_sino al renacer de aquello que nunca vivió._
+
+_Los astros se ocultarán de la mirada de los sabios,_  
+_las reliquias brillarán con luz marchita,_  
+_y los rezos antiguos serán ceniza en la lengua del clérigo._
+
+_Vendrán las tres señales:_  
+_La sangre manará del árbol sagrado,_  
+_la campana sonará bajo aguas sin templo,_  
+_y la luna será devorada por su reflejo._
+
+_Entonces, la Voz hablará desde la grieta:_  
+_‘El Juicio ha comenzado. Vuestra era termina.’_  
+_Así está escrito. Así será.”_
+
+Ander sintió un frío más profundo que cualquier noche invernal recorrer su cuerpo. No solo por las palabras leídas, sino por la certeza de que ya sabían exactamente dónde encontrarlo.
+
+###  Alistar – El caos
+
+La noche se había roto, desgarrada por un estallido infernal que aún reverberaba en los oídos de Alistar. Frente al templo, la plaza era una herida abierta en la piel de la ciudad, de la que manaba humo negro y gritos desesperados. Su mirada recorrió brevemente el campo de batalla improvisado, distinguiendo entre las llamas y el caos a treinta o quizás cuarenta criaturas demoníacas, sombras retorcidas que avanzaban inexorables, sembrando muerte y miedo.
+
+Desde lo alto de las escalinatas, Harker permanecía rígido, los labios apretados en una línea de acero, los ojos duros como piedras ante el horror que se desplegaba a sus pies. Alistar se giró hacia él, la voz quebrada por urgencia y desesperación.
+
+—¡Harker! ¡Tenemos que ayudarles! ¡Son inocentes!
+
+Harker titubeó un instante, la mano crispada sobre la empuñadura de su espada, pero enseguida endureció su semblante, negando con firmeza.
+
+—La orden es proteger el templo. Nada más importa.
+
+Un gesto y un grupo de arqueros se adelantó, lanzando una ráfaga de flechas contra las tres criaturas que ascendían las escaleras con voracidad. Una de ellas, ágil y aterradora, apartó una flecha con un simple manotazo, un gesto tan casual como escalofriante, y siguió avanzando, acompañada de sus compañeras que apenas parecían ralentizadas.
+
+El corazón de Alistar golpeó furioso contra sus costillas, la adrenalina pulsando en sus sienes como un tambor de guerra. Con un rugido que resonó como campana de plata en la noche ennegrecida, proclamó:
+
+—¡En nombre de Tyr, levantad vuestros escudos! ¡Proteged a los inocentes!
+
+Sus soldados, inflamados por la luz de sus palabras, se incorporaron con decisión renovada, interponiendo sus cuerpos frente al avance demencial. Alistar extendió su mano hacia la plaza, susurrando una oración de santuario que envolvió con una luz protectora a un niño atrapado bajo un carro destrozado, cuya voz imploraba a una madre que ya no respondía.
+
+Entonces, Alistar se lanzó al combate. La primera criatura demoníaca le cerró el paso, sus ojos ardientes clavados en él con odio ancestral. Con un impulso feroz, Alistar blandió su arma iluminada por la justicia divina, logrando detener a esa criatura, pero sus compañeras aprovecharon la distracción para sortearle, siguiendo adelante hacia el templo.
+
+—¡No! —rugió Alistar, invocando en su espada la Luz Sagrada que ardió con fuerza renovada.
+
+La batalla se convirtió en un torbellino desesperado, metal contra garra, luz contra oscuridad. Alistar golpeó con dos ataques certeros, la espada trazando estelas luminosas en la oscuridad densa de la plaza.
+
+La criatura retrocedió, gravemente herida, y Alistar aprovechó para invocar el poder supremo de Tyr. Una oleada divina hizo brillar todas las armas de sus soldados, transformando sus hojas en estandartes de luz y esperanza en medio del caos.
+
+Pero entonces, la criatura moribunda extendió grotescamente sus brazos y murmuró una única palabra en lengua arcana que heló la sangre del paladín:
+
+—Sacrificio.
+
+La explosión fue brutal, desgarradora, una esfera de fuego oscuro que lanzó a Alistar hacia atrás, su cuerpo golpeando violentamente contra la piedra.
+
+Dolorido pero aún en pie, Alistar miró hacia arriba, hacia Harker, cuya expresión era ahora de consternación. Usando toda la fuerza de su pasión y fe, Alistar clamó:
+
+—¡Ayúdame a salvarlos, Harker! ¡Por la justicia, por lo que aún queda de humanidad!
+
+Finalmente, algo se quebró en los ojos de su comandante. Con un asentimiento seco y tenso, Harker dio la orden que Alistar ansiaba escuchar.
+
+—¡Paladines! ¡A la plaza! ¡Proteged a los inocentes!
+
+El descenso por las escaleras fue rápido y decidido. Alistar se reunió con sus hombres entre los escombros humeantes y cuerpos caídos, en medio de un caos total. Los incendios se extendían, y cada grito era una daga en su alma.
+
+Cuando el peligro inmediato pasó y el humo empezó a dispersarse lentamente, Harker apareció junto a él, con una mirada fría que anticipaba reproches.
+
+—Tu desobediencia no quedará impune, Alistar.
+
+Alistar asintió lentamente, aceptando sin resistencia.
+
+—Asumo las consecuencias —respondió con firmeza.
+Aquella noche, sin embargo, la justicia prevaleció sobre el orden
+
+Y mientras su comandante se alejaba en silencio, Alistar contempló el desastre con el corazón pesado, sabiendo que, pese a la victoria efímera, las heridas de esta noche tardarían mucho tiempo en cicatrizar.
+
+### Malizall - El amanecer del pacto
+
+La cabaña vibró con violencia, resonando como un gong de pesadilla al abrirse paso el demonio. Malizall, afuera en la nieve punzante, apenas tuvo tiempo para reaccionar antes de que la criatura, una masa retorcida de oscuridad y carne corrompida, emergiera en toda su grotesca plenitud. Su corazón se contrajo con una punzada de pánico, sus ojos fijos en Wako, quien desesperadamente extendía sus alas, buscando altura en vano.
+
+—¡No! —La palabra resonó en la mente de Malizall, aunque sus labios permanecieron mudos. Pero el mundo mismo pareció estremecerse ante la desesperación silenciosa de su súplica.
+
+Sin embargo, el demonio fue más rápido. Su cuerpo se deformó con una agilidad monstruosa, las garras extendiéndose con crueldad hacia el familiar. Un crujido seco resonó en el aire, quirúrgico y despiadado, cuando la criatura atrapó a Wako en pleno vuelo, hundiendo sus fauces en la delicada criatura.
+
+El corazón de Malizall se detuvo, su mente negándose a aceptar lo que veía.
+
+La cabeza de Wako fue arrancada con violencia, pero no brotó sangre ni vísceras. En su lugar, una explosión de luz blanca y cegadora inundó la cabaña, como si un fragmento de sol hubiese escapado del cuerpo del familiar para castigar al monstruo que lo había destruido. El demonio rugió, tambaleándose, sus ojos consumidos por la luz que lo quemaba desde dentro.
+
+El mundo de Malizall se tiñó entonces de rojo. No por la sangre, sino por una furia ardiente y dolorosa que emergía desde lo más profundo de su alma. Wako no era simplemente una criatura mágica; era su reflejo más puro, la manifestación de todo lo que alguna vez fue y podría haber sido.
+
+Y ahora, estaba perdido.
+
+Sin dudar, con la determinación nacida del dolor y la culpa, Malizall extendió las manos y pronunció las palabras prohibidas. Un círculo de muerte estalló desde su núcleo, envolviendo la cabaña en una destrucción violenta que astilló paredes y destrozó vigas. El demonio fue golpeado de lleno, su cuerpo corrupto estremeciéndose bajo el impacto del hechizo devastador.
+
+Sin darle tregua, Malizall lanzó inmediatamente una descarga de estática sináptica, retorciendo la mente ya fracturada de la criatura. El demonio intentó avanzar, pero sus movimientos eran torpes, frenados por el peso insoportable de la magia oscura que lo azotaba desde dentro.
+
+Por un instante, Malizall vaciló. Imploró silenciosamente a Lathander, al recuerdo de una conexión perdida. Pero la súplica pronto se convirtió en exigencia, una demanda desde las profundidades de su ser.
+
+—¡Ayúdame! —rugió, la voz resonando con una fuerza que hacía tiempo no poseía.
+
+Como respuesta, la luz divina desgarró la tormenta oscura, manifestando a un celestial que descendió con una gracia vengativa. Entre Malizall y el ser divino, el demonio fue finalmente reducido a polvo y sombra, consumido por la fuerza implacable de su desesperación redimida.
+
+Entonces Malizall lo vio: una pluma oscura, caída desde donde Wako había desaparecido. Se lanzó hacia ella, atrapándola justo antes de tocar el suelo frío. Al sostenerla, notó un calor inesperado que emanaba del objeto frágil. La pluma tembló suavemente en su palma y comenzó a elevarse, flotando envuelta en una tenue sombra.
+
+Ante sus ojos, la pluma cambió lentamente. Alas más pequeñas se formaron, ojos nuevos se abrieron, un cuerpo joven se manifestó con claridad creciente. Un cuervo se materializó frente a él, silencioso y solemne.
+
+Malizall reconoció algo familiar en la profundidad de aquellos ojos nuevos; no era Wako, pero había algo inconfundible de él allí. El cuervo no graznó ni cantó; simplemente lo miró con ojos penetrantes y calmados.
+
+Malizall comprendió en ese instante lo que significaba. Había sido elegido nuevamente, destinado a cuidar de esta criatura como una vez cuidó de Wako. La marca invisible del pacto resurgía, distinta pero igualmente poderosa, y supo con absoluta certeza que su camino aún no había terminado.
+
+### Vengy - Protector del débil
+
+El eco del trueno resonó aún en los oídos de Vengy mientras la puerta retorcida de su celda caía a un lado, liberándolo de su encierro. Apenas tuvo tiempo de recuperar el aliento cuando la criatura felina, retorcida y envuelta en humo, se lanzó sobre el guardia caído, hiriéndolo gravemente con una facilidad aterradora.
+
+Vengy sintió la llama en su interior arder con fuerza renovada. Apoyándose contra el frío muro de piedra, se impulsó hacia adelante, sin armadura ni escudo, armado únicamente con su determinación. La criatura se giró lentamente, sus ojos brillantes fijándose en él, reconociéndolo como el verdadero objetivo.
+
+El combate fue feroz, una danza desesperada entre la criatura y el antiguo héroe. La bestia golpeaba con una velocidad sobrenatural, pero Vengy respondía con igual intensidad, cada movimiento guiado por una mezcla de furia y fe implacable.
+
+Durante la lucha, el guardia, que inicialmente parecía vencido, comenzó a recuperarse lentamente. Con esfuerzo, se levantó del suelo y, tras un instante de duda, decidió regresar a la batalla. Armado con la determinación de ayudar, aprovechó un momento de distracción de la criatura y asestó desde atrás un golpe certero, debilitando al monstruo.
+
+Vengy aprovechó esta oportunidad para lanzar un ataque decisivo, acabando finalmente con la bestia. Sin perder tiempo, se arrodilló junto al guardia herido, canalizando sus energías para sanarlo. El hombre jadeó, sus ojos llenos de gratitud y sorpresa al ver la determinación intacta en la mirada de Vengy.
+
+—Todavía no es tu hora —susurró Vengy, ayudando al guardia a levantarse con esfuerzo.
+
+Sin embargo, antes de poder salir juntos, Vengy decidió enfrentar otra amenaza que detectó en la oscuridad del calabozo. Armado con la pica de un guardia caído, avanzó cautelosamente hasta encontrar otra criatura aguardando en las sombras. El combate fue aún más brutal, un duelo agotador que Vengy apenas logró ganar.
+
+En su último aliento, la criatura pronunció una palabra en un idioma desconocido que resonó claramente en la mente de Vengy:
+
+—Ofrecido.
+
+En ese instante, una explosión de energía negativa recorrió violentamente el oscuro pasillo del calabozo, golpeando con fuerza a Vengy y acabando instantáneamente con la vida del guardia que lo había ayudado. Aturdido y golpeado, Vengy entendió finalmente que no quedaban más criaturas en el calabozo y decidió salir al exterior.
+
+Emergiendo de los calabozos, se encontró con una ciudad sumida en el caos absoluto. Fuego, gritos y desesperación llenaban las calles mientras figuras demoníacas vagaban libremente sembrando destrucción.
+
+Su mirada se endureció con una determinación férrea; no abandonaría a la gente en esta hora oscura. Avanzó decidido hacia el templo de Tyr, llamando a todos los ciudadanos que encontraba, guiándolos hacia aquel último bastión de esperanza y protección en medio del caos.
+
+—¡Al templo! ¡Allí estaremos seguros! —gritó, su voz resonando fuerte y clara, llena de la autoridad que solo surge de la auténtica convicción.
+
+Mientras la ciudad ardía a su alrededor, Vengy supo con absoluta claridad que su batalla estaba lejos de haber terminado. Pero mientras tuviera aliento, seguiría luchando por proteger a aquellos que aún no habían perdido la esperanza.
+
+### Orianna - El latir del abismo
+
+La grieta en la tierra siguió expandiéndose lentamente, devorando el suelo con un sonido húmedo y angustioso. Orianna, firme a pesar del temblor bajo sus pies, calculó con horror que al menos cinco criaturas emergían lentamente de aquella fisura maldita. Su corazón latía con furia y determinación, consciente del peligro que amenazaba con consumir el santuario y todo cuanto amaba.
+
+Sin dudarlo más, extendió las manos y canalizó un cono de frío devastador sobre tres de esas siluetas grotescas. El aire se congeló instantáneamente, encerrando a las criaturas en prisiones de escarcha momentáneas. Elyzmyrath, con un rugido desafiante, extendió sus alas majestuosas y liberó un torrente de veneno verde que se extendió implacable sobre la horda emergente.
+
+Entonces, algo profundo resonó desde el árbol sagrado, un latido que Orianna sintió vibrar en cada fibra de su ser. Un dolor insoportable la golpeó al notar cómo Elyz perdía estabilidad en pleno vuelo, su cuerpo cayendo con un esfuerzo agónico por mantener la altitud.
+
+—¡No te acerques más a esos vapores! —gritó Orianna, desesperada, lanzando un nuevo cono de frío que finalmente destrozó a las tres criaturas más cercanas.
+
+Pero la joven dragona ignoró la advertencia, arrojándose ferozmente contra las criaturas restantes. Sus movimientos se volvieron torpes, afectados gravemente por la corrupción que emanaba la grieta. Orianna suplicó a su compañera mientras invocaba relámpagos desde las nubes oscurecidas, castigando con furia a los monstruos restantes.
+
+El combate se prolongó en un torbellino de magia y desesperación, hasta que finalmente, Orianna conjuró un último rayo destructor que pulverizó a la última criatura. Con rapidez, su cuerpo se transformó en un águila gigante, desplegando sus alas con urgencia para acudir en auxilio de Elyz.
+
+Sin embargo, Elyz se adelantó a su búsqueda, con sus ojos brillantes cargados de una determinación que no admitía réplica.
+
+—¡Tenemos que ir a la grieta! —urgió la dragona.
+
+Sin opción de discutir, Orianna montó sobre el lomo de Elyz, ambas sumergiéndose en una oscuridad densa e infinita. En plena caída, Elyz realizó una maniobra repentina, lanzando a Orianna más profundamente en el abismo mientras se aferraba a las paredes para frenar su descenso.
+
+Orianna sintió los vapores tóxicos aferrándose a su cuerpo, tratando de doblegar su voluntad. Pero resistió, atraída hacia abajo por ese latido insistente que parecía estirarla hacia algo inevitable. Finalmente, ante ella apareció un corazón envuelto en ramas oscurecidas, flotando en una realidad sin calor, tiempo ni gravedad. Solo existían ella y aquel corazón.
+
+Sin dudar, Orianna deshizo su transformación y lanzó un último cono de frío hacia el corazón. En el instante previo a su destrucción, un último latido rasgó la urdimbre misma del mundo, y Orianna se vio desde fuera, observando una cámara llena de símbolos que formaban una espiral convergiendo hacia el corazón destrozado.
+
+Su mente fue arrancada de nuevo, arrojada a un vacío infinito lleno de símbolos en espiral y fragmentos de hueso flotando como estrellas muertas. Frente a ella, suspendido en el aire, un triángulo perfecto hecho de cicatrices con un ojo cerrado en el centro. Más allá, una figura sin rostro, coronada con una calavera de oro y fuego que no la miraba, pero cuya presencia la penetraba hasta el alma.
+
+Una voz sin lengua susurró en su mente:
+
+—El Corazón del Abismo fue solo un fragmento. Un nodo. Yo soy la raíz. El origen. El hambre.
+
+Es la voz de Acererak
+
+La figura alzó una mano mostrando el mismo triángulo tatuado en su palma con un ojo cerrado en el centro.
+
+—Los guardianes ya sangran. El sello se debilita. Y tú… tú llevas tierra sagrada en tus venas. Pronto vendrás a mí. Voluntaria o no.
+
+El ojo del triángulo se abrió abruptamente, devolviendo a Orianna a la realidad con un estremecimiento.
+
+Orianna parpadeó, desorientada, y se encontró de nuevo frente al árbol destrozado. En su mano ahora ardía la misma marca triangular que había visto en su visión. Elyz no estaba por ningún lado, y su ausencia golpeó el corazón de Orianna con una fuerza devastadora.
+
+La comprensión llegó con brutal certeza: Acererak había secuestrado a Elyz. Sabía que venían por ellos. Que su familia estaba en peligro y sabía que debía encontrarlos, salvarlos como ellos siempre la habían salvado a ella.
+
+El aislamiento había terminado. Ahora comenzaba la verdadera batalla.
+
+### Conclusión
+
+La noche se prolongó en un caos incesante, donde criaturas astutas y oscuras aprovechaban cada sombra para atacar a los incautos y distraídos. Waterdeep ardía bajo un cielo ennegrecido, y el aire estaba impregnado de humo, ceniza y desesperación.
+
+Ander pasó un tiempo en la azotea del almacen escondido viendo en caos en la ciudad, contemplando con dolor cómo la ciudad que recordaba con afecto y nostalgia se había convertido en una visión apocalíptica. Decidió entonces buscar refugio en el templo de Tyr. Caminando lentamente hacia la plaza frente al templo, sintió un nudo en la garganta al reconocer una figura familiar: Alistar, con una postura cansada pero firme, dedicándose con incansable determinación a ayudar a cada persona que se acercaba buscando refugio.
+
+Por un instante, Ander dudó de acercarse, recordando cómo había cambiado desde la última vez que se habían visto. Se preguntó incluso si Alistar lo reconocería en este estado deplorable. Finalmente, avanzó con pasos inseguros, cargando al perro maltrecho que había rescatado de una muerte segura.
+
+Alistar, absorbido por sus tareas, tardó unos segundos en reparar en la presencia del bardo. Cuando sus miradas finalmente se cruzaron, Alistar lo reconoció de inmediato, notando la terrible herida que cruzaba el rostro de Ander.
+
+—¿Estás bien? —preguntó Alistar con una mezcla de preocupación y alivio.
+
+—No —respondió Ander con una sonrisa triste—. Vine buscando seguridad al templo, aunque solo sea moral. Estaba acabando con mi vida en los bares, pero un encuentro con un demonio me sacó de mis ideas suicidas y me hizo querer volver a vivir. Traje a este chucho pulgoso conmigo.
+
+Alistar sonrió con calidez genuina, aliviado al ver a Ander vivo y decidido a luchar de nuevo. Ander sintió una chispa de orgullo al reconocer al amigo que, pese a todo, no había cambiado en lo esencial.
+
+Sin embargo, antes de que pudieran intercambiar más palabras, una presencia luminosa rompió la oscuridad de la calle. Vengy apareció caminando con una serenidad casi sobrenatural, su presencia irradiando calma y esperanza. Detrás de él, una multitud herida y agotada lo seguía, atraída por su fortaleza espiritual y firmeza moral.
+
+Vengy guió a la multitud hacia el templo y reconoció rápidamente a sus compañeros. Se acercó a Ander, intentando curar la grave herida en su ojo, pero Ander detuvo suavemente su mano.
+
+—No, amigo —dijo con determinación tranquila—. Esta herida no debe cerrarse con magia. Necesito que permanezca abierta para recordarme quién fui y quién debo ser.
+
+Vengy asintió solemnemente y miró a Alistar, seguro y calmado.
+
+—Malizall llegará pronto —aseguró con confianza—. Nos reuniremos todos otra vez.
+
+En otro rincón de la ciudad, Hakuryuu permanecía sentado, con la mirada perdida y el fragmento de Myrrym fuertemente apretado en una mano. Dos de sus seguidores más fieles descansaban cerca, recuperándose lentamente de sus heridas. Dareth, prudente y respetuoso, permanecía distante, observándolo en silencio.
+
+De repente, Hakuryuu se levantó abruptamente, con una decisión irrevocable en sus ojos fríos y azules. Al dirigirse hacia la puerta, Dareth preguntó con cautela:
+
+—¿A dónde va, mi señor?
+
+—No te preocupes —respondió Hakuryuu sin mirarlo—. Cuida de la mansión y de los demás. Esto es algo que debo hacer solo.
+
+—Mi misión es protegerlo con mi vida —replicó Dareth con convicción—. ¿Dónde piensa ir?
+
+Hakuryuu detuvo sus pasos por un instante.
+
+—Voy a ver a viejos amigos.
+
+—¿Los héroes de Chult? —preguntó Dareth, pero solo el silencio respondió.
+
+Sin mediar otra palabra, Hakuryuu desapareció en la noche, dejando atrás su mansión y sus dudas.
+
+En el bosque herido, Orianna emergió de las sombras con la determinación feroz de quien ha perdido demasiado en una sola noche. Sabía que sus aliados seguían vivos en algún lugar y que el tiempo del aislamiento había terminado definitivamente.
+
+La noche avanzaba implacable hacia el amanecer, y con ella, la certeza de que la reunión de aquellos viejos compañeros era inevitable. El destino, una vez más, los llamaba a luchar juntos.
 
 
+---
+
+## Sesion 3

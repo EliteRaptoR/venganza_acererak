@@ -2,6 +2,9 @@
 ## **Alistar *Aegis* Belmont**
 
 ---
+
+![[Alistar2.png]]
+
 ![[Alistar.png]]
 
 ### **Rasgos principales**

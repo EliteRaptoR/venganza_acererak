@@ -3,6 +3,7 @@
 
 ---
 ![[Hakuryuu.png]]
+![[Hakuryuu2.png]]
 ### **Rasgos principales**
 
 #### **Raza/Clase:** Dragonborn de plata / Guerrero.
