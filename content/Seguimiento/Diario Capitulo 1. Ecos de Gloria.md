@@ -487,6 +487,60 @@ Aquella noche, sin embargo, la justicia prevaleció sobre el orden
 
 Y mientras su comandante se alejaba en silencio, Alistar contempló el desastre con el corazón pesado, sabiendo que, pese a la victoria efímera, las heridas de esta noche tardarían mucho tiempo en cicatrizar.
 
+### Hakuryuu - Soledad Interior
+
+El suelo tembló bajo sus pies mientras los demonios se deslizaban hacia él, grotescos, emitiendo sonidos que se debatían entre gruñidos animales y ecos de llantos malditos. Hakuryuu se preparó instintivamente, aunque sus garras estaban desnudas y Myrrym brillaba dolorosamente por su ausencia. Verse aferrando un simple candelabro en lugar de su legendaria espada le recordó con mayor intensidad la profundidad de su pérdida.
+
+Un escalofrío punzante recorrió su mente; el mundo se desenfocó por un instante, su cordura tambaleándose peligrosamente. Pero entonces, con un estallido ensordecedor, las grandes puertas dobles de la sala principal reventaron hacia dentro, lanzando astillas y polvo al aire.
+
+Tres miembros del Séquito del Dragón Plateado irrumpieron en la sala con armas en mano, los ojos brillando con una mezcla de pánico y lealtad inquebrantable.
+
+—¡Mi señor! ¡Estamos aquí! ¡Atrás, monstruos! —rugieron al unísono.
+
+Eran sus mejores hombres. Kael, al frente, blandía un mandoble envuelto en un leve resplandor azul; Varuun, el más joven, asumió rápidamente una posición defensiva frente a Hakuryuu; y Dareth, silencioso y solemne, murmuraba una plegaria mientras alzaba el escudo adornado con el emblema del clan.
+
+Las criaturas demoníacas se detuvieron abruptamente, como si algo en esta resistencia les intrigara profundamente. La más alta de ellas—una masa de huesos retorcidos, humo negro y garras carmesí—abrió una boca inexistente en un rostro vacío, pronunciando claramente una palabra que resonó ominosamente en los corazones de todos los presentes:
+
+—División.
+
+Un chorro de oscuridad líquida emergió de su boca, serpenteando por el aire como una víbora viva antes de lanzarse directamente hacia Dareth. El escudo cayó al suelo con un estruendo metálico. Los ojos del clérigo se abrieron desmesuradamente, consumidos repentinamente por una luz púrpura antinatural.
+
+Dareth cayó de rodillas, soltando una risa quebrada, inhumana, que heló la sangre de todos los presentes.
+
+—Mi señor... —su voz, distorsionada y cruel, resonó en la sala— ¿por qué debería proteger a un dragón que ya no ruge?
+
+La oscuridad reaccionó aún más ferozmente, devorando instantáneamente a otra de las criaturas hasta que no quedó rastro alguno salvo una sombra vacía. Hakuryuu, conmocionado pero reafirmando su resolución, cargó hacia la amenaza que aún persistía, su cuerpo movido por la memoria del guerrero que había sido.
+
+El combate se convirtió en un baile desesperado, las criaturas y soldados enfrentándose en medio del caos. Finalmente, con un golpe certero, Hakuryuu hirió gravemente a la última criatura. La bestia, agonizante, soltó un rugido antinatural y, usando sus propias garras, desgarró su pecho. Un crujido grotesco de huesos rotos resonó en la sala, acompañado de un chorro de sangre negra que chisporroteaba como ácido en el aire.
+
+Y entonces, de entre la masa pútrida, extrajo algo. Un objeto imposible, brillante incluso bajo la sombra más absoluta. Una punta de espada, retorcida y mellada, pero indudablemente reconocible.
+
+—Myrrym —susurró Hakuryuu, aturdido.
+
+Sin mediar palabra, el demonio lanzó con brutalidad el fragmento contra el suelo. La pieza metálica se clavó violentamente entre las baldosas rotas, enviando una onda de energía antigua y familiar que recorrió la habitación como un latido congelado en el tiempo.
+
+Hakuryuu corrió hacia el fragmento. Sus dedos se cerraron lentamente en torno al metal. Estaba tibio, demasiado tibio, como si aún recordara haber sido parte de algo más grande, algo vivo.
+
+En cuanto su piel lo tocó por completo, el mundo se detuvo.
+
+El aire se plegó hacia dentro, las sombras se alargaron, y el sonido se desvaneció como si alguien hubiese sumergido su cabeza en agua negra. Su cuerpo quedó rígido, mientras su mente era arrastrada sin permiso hacia una visión profunda.
+
+Ante él apareció una sala que no había visto en años: una cámara circular sumida en penumbra. En el centro, los restos de una cuna de huesos y un altar vacío. Allí, donde alguna vez había luchado por la vida del mundo, descansaba algo que brillaba con un resplandor apagado.
+
+Myrrym.
+
+Exactamente donde la había dejado.
+
+Su hoja incrustada en el suelo, cubierta de polvo y tiempo, intacta. A su alrededor flotaba una niebla púrpura que se retorcía como si respirara. De esa niebla emanaba una maldición viva, una energía que reconoció con cada escama de su cuerpo: era poder de Acererak.
+
+Un dolor agudo le atravesó la mano. Miró hacia abajo.
+
+Un triángulo—formado por tres líneas negras—ardía sobre su piel como un hierro candente. No podía gritar ni soltar el fragmento.
+
+—Ahora somos uno —resonó una voz fría y cruel—. Y cuando vuelvas por ella, yo estaré esperándote.
+
+La visión se desvaneció bruscamente, devolviéndole a la sala destrozada. Pero la marca permaneció, grabada en su piel, una promesa oscura de que su batalla estaba lejos de terminar.
+
 ### Malizall - El amanecer del pacto
 
 La cabaña vibró con violencia, resonando como un gong de pesadilla al abrirse paso el demonio. Malizall, afuera en la nieve punzante, apenas tuvo tiempo para reaccionar antes de que la criatura, una masa retorcida de oscuridad y carne corrompida, emergiera en toda su grotesca plenitud. Su corazón se contrajo con una punzada de pánico, sus ojos fijos en Wako, quien desesperadamente extendía sus alas, buscando altura en vano.
