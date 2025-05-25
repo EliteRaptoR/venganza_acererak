@@ -599,7 +599,7 @@ En ese instante, una explosión de energía negativa recorrió violentamente el 
 
 Emergiendo de los calabozos, se encontró con una ciudad sumida en el caos absoluto. Fuego, gritos y desesperación llenaban las calles mientras figuras demoníacas vagaban libremente sembrando destrucción.
 
-Su mirada se endureció con una determinación férrea; no abandonaría a la gente en esta hora oscura. Avanzó decidido hacia el templo de Tyr, llamando a todos los ciudadanos que encontraba, guiándolos hacia aquel último bastión de esperanza y protección en medio del caos.
+Su mirada se endureció con una determinación férrea; no abandonaría a la gente en esta hora oscura. Invocando su poder un dragón espiritual surgió como un fuego artificial en el cielo, dando la ubicación exacta de todo aquel que estaba el peligro. Con esto, Vengy avanzó decidido hacia el templo de Tyr, llamando a todos los ciudadanos que encontraba, guiándolos hacia aquel último bastión de esperanza y protección en medio del caos.
 
 —¡Al templo! ¡Allí estaremos seguros! —gritó, su voz resonando fuerte y clara, llena de la autoridad que solo surge de la auténtica convicción.
 
@@ -653,7 +653,7 @@ El aislamiento había terminado. Ahora comenzaba la verdadera batalla.
 
 La noche se prolongó en un caos incesante, donde criaturas astutas y oscuras aprovechaban cada sombra para atacar a los incautos y distraídos. Waterdeep ardía bajo un cielo ennegrecido, y el aire estaba impregnado de humo, ceniza y desesperación.
 
-Ander pasó un tiempo en la azotea del almacen escondido viendo en caos en la ciudad, contemplando con dolor cómo la ciudad que recordaba con afecto y nostalgia se había convertido en una visión apocalíptica. Decidió entonces buscar refugio en el templo de Tyr. Caminando lentamente hacia la plaza frente al templo, sintió un nudo en la garganta al reconocer una figura familiar: Alistar, con una postura cansada pero firme, dedicándose con incansable determinación a ayudar a cada persona que se acercaba buscando refugio.
+Ander pasó un tiempo en la azotea del almacen escondido viendo el caos en la ciudad, contemplando con dolor cómo la ciudad que recordaba con afecto y nostalgia se había convertido en una visión apocalíptica. Decidió entonces buscar refugio en el templo de Tyr. Caminando lentamente hacia la plaza frente al templo, sintió un nudo en la garganta al reconocer una figura familiar: Alistar, con una postura cansada pero firme, dedicándose con incansable determinación a ayudar a cada persona que se acercaba buscando refugio.
 
 Por un instante, Ander dudó de acercarse, recordando cómo había cambiado desde la última vez que se habían visto. Se preguntó incluso si Alistar lo reconocería en este estado deplorable. Finalmente, avanzó con pasos inseguros, cargando al perro maltrecho que había rescatado de una muerte segura.
 
