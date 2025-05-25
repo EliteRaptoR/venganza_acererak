@@ -39,26 +39,27 @@ _Así está escrito. Así será.”_
 
 ### **Profecía del  Vuelo Renacido**
 
-![[ProfeciaFindeWako 1.png]]
-_“Desde el silencio del pacto quebrado,  
-una chispa vaga entre planos olvidados.  
-No es vida, ni muerte, ni reflejo,  
-sino eco de un alma que no supo marcharse._
+![[ProfeciaFindeWako.png]]
 
-Bajo la luna sin canto,  
-cuando el hechicero calla su lamento,  
-una pluma caerá en el lugar correcto  
-y el cielo reconocerá al que fue testigo.
+*“Desde el silencio del pacto quebrado,*  
+*una chispa vaga entre planos olvidados.*  
+*No es vida, ni muerte, ni reflejo,*  
+*sino eco de un alma que no supo marcharse.*
 
-Renacerá con alas manchadas de noche,  
-no como espíritu ni como guardián,  
-sino como sombra del vínculo perdido,  
-portador mudo de la voluntad dormida.
+*Bajo la luna sin canto,*  
+*cuando el brujo calla su lamento,*  
+*una pluma caerá en el lugar correcto*  
+*y el cielo reconocerá al que fue testigo.*
 
-Donde las palabras ya no bastan,  
-sus ojos brillarán como estrellas caídas.  
-Y en su mirada, el conjuro más antiguo:  
-la promesa de que incluso en la ruina,  
-puede surgir una nueva forma de fe.”
+*Renacerá con alas manchadas de noche,*  
+*no como espíritu ni como guardián,*  
+*sino como sombra del vínculo perdido,*  
+*portador mudo de la voluntad dormida.*
+
+*Donde las palabras ya no bastan,*  
+*sus ojos brillarán como estrellas caídas.*  
+*Y en su mirada, el conjuro más antiguo:*  
+*la promesa de que incluso en la ruina,*  
+*puede surgir una nueva forma de fe.”*
 
 ![[ProfeciaFindeWako2.png]]

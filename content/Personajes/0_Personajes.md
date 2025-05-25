@@ -326,10 +326,9 @@ Kuryruu continuó adelante bajo el nombre de Hakuryuu, luchando no solo en batal
 ![[Malizall.png]]
 
 ### **Rasgos principales**
-#### **Raza/Clase:** Humano / Warlock.
+#### **Raza/Clase:** Humano / Brujo.
 
 #### Rasgos de carácter:
--  
 
 #### **Edad:** 43 años (apariencia mucho mayor debido a un envejecimiento prematuro).
 

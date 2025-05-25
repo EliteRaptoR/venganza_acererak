@@ -50,7 +50,7 @@
 
 ---
 
-#### **6. Malizal: El Hechicero Vacío**
+#### **6. Malizal: El Brujo Vacío**
 [[Mallizal, Las Sombras del Tiempo]]
 
 > _"En una cabaña apartada en las montañas, Malizal se sienta frente a una chimenea apagada, con el grimorio en su regazo abierto en una página que no ha leído en semanas. Su cabello desordenado cuelga sobre sus ojos mientras contempla el fuego inexistente. La cabaña está llena de polvo y silencio, un reflejo de su alma desgastada. A su lado, un búho perezoso lo observa con ojos cansados, como si compartiera su melancolía. Malizal sabe que el mundo está cambiando, que la corrupción se extiende, pero su corazón parece no encontrar la fuerza para levantarse. Sin embargo, en lo profundo de su mente, una pequeña llama de su conexión con Lathander sigue parpadeando, esperando ser avivada."_
@@ -81,7 +81,7 @@
 ### Escenas con los personajes
 
 
-## 🐉 **Hakuryuu – El Eco de la Gloria Rota**
+### 🐉 **Hakuryuu – El Eco de la Gloria Rota**
 
 **Ubicación:** Mansión del Clan del Dragón Plateado, distrito noble de Waterdeep  
 
@@ -129,7 +129,7 @@
 > 
 > _¿Estoy preparado para luchar a lo que se avecina… si ya no soy el que fui?_
 
-## 🍃 **Orianna – La Herida del Bosque Eterno**
+### 🍃 **Orianna – La Herida del Bosque Eterno**
 
 **Ubicación:** Santuario del Árbol Sagrado, en los confines del Bosque Profundo  
 
@@ -167,7 +167,7 @@
 > 
 > Y que el tiempo del aislamiento… ha terminado.
 
-## 🔮 **Malizall – El Eco del Pacto Roto**
+### 🔮 **Malizall – El Eco del Pacto Roto**
 
 **Ubicación:** Cabaña solitaria en las Montañas de la Niebla  
 
@@ -183,7 +183,7 @@
 > 
 > Wako no responde. Solo ladea la cabeza. No con ternura, sino con tristeza.
 > 
-> El hechicero se levanta con torpeza, su capa arrastrando polvo. Toma el libro, lo deja abierto sobre la mesa, y sin cerrar la puerta tras de sí, **sale a la intemperie**. Una ventisca le corta la piel como cuchillas de hielo. Pero Malizall no reacciona.
+> El brujo se levanta con torpeza, su capa arrastrando polvo. Toma el libro, lo deja abierto sobre la mesa, y sin cerrar la puerta tras de sí, **sale a la intemperie**. Una ventisca le corta la piel como cuchillas de hielo. Pero Malizall no reacciona.
 > 
 > Entonces ocurre.
 > 
@@ -205,7 +205,7 @@
 > 
 > Pero no hay respuesta.
 
-## ⚖️ **Alistar – Luz Pagada, Justicia Sin Refugio**
+### ⚖️ **Alistar – Luz Pagada, Justicia Sin Refugio**
 
 **Ubicación:** Escalinatas del Templo de Tyr, Waterdeep  
 
@@ -247,7 +247,7 @@
 > 
 > Figuras demoníacas surgen entre el humo negro. Retorcidas, grotescas, hechas de carne muerta y oscuridad sólida. Algunos ciudadanos corren. Otros mueren antes de comprender.
 
-## 🔥 **Vengy – La Llama Encerrada**
+### 🔥 **Vengy – La Llama Encerrada**
 
 **Ubicación:** Prisión subterránea, Waterdeep  
 
@@ -308,7 +308,7 @@
 > …entonces **arderá con él**.
 
 
-## 🎭 **Ander – El Bardo Que Olvida el Ritmo**
+### 🎭 **Ander – El Bardo Que Olvida el Ritmo**
 
 **Ubicación:** Taberna "La Grulla Rancia" y callejones de los bajos fondos de Waterdeep  
 **Música sugerida:** _Ander – Canciones al Viento_
@@ -375,5 +375,7 @@
 > 
 > …puede que ya sepan **dónde encontrarlo**.
 ---
+## **Sesión 2**
+
 
 
