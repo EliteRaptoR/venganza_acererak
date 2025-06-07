@@ -32,6 +32,7 @@
 ##### **Orden de Tyr**
 - [[Harker (Master)]]
 - [[Marcus Deren (Master)]]
+- [[Eldrin (Master)]]
 ##### **Dragon Verde**
 - [[Elyzmyrath (master)]]
 

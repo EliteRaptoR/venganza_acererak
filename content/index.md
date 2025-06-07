@@ -14,6 +14,10 @@
 - [[Malizall]]
 - [[Orianna]]
 - [[Vengy]]
+
+#### **Relevantes**
+- 
+
 ##### **Sequito del dragón de plata**
 - [[Kael Vhantar (Jugadores)]]
 - [[Dareth Silmaer (Jugadores)]]
@@ -21,7 +25,8 @@
 ##### **Orden de Tyr**
 - [[Harker (Jugadores)]]
 - [[Marcus Deren (Jugadores)]]
-##### **Dragon Verde**
+- [[Eldrin (Jugadores)]]
+##### **Dragona Verde**
 - [[Elyzmyrath (jugadores)]]
 
 ---
