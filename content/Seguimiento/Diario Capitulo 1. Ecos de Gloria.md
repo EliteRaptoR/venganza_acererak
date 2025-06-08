@@ -1,391 +1,322 @@
 #Jugadores  #NoSubido
+
+![[Portada2.png]]
 # Diario Capitulo 1: Ecos de Gloria
 
-
+## _Índice:_
 [[Diario Capitulo 1. Ecos de Gloria#Sesión 1|Sesion 1]]
+[[Diario Capitulo 1. Ecos de Gloria#Sesión 2|Sesion 2]]
+[[Diario Capitulo 1. Ecos de Gloria#Sesión 3|Sesion 3]]
+[[Diario Capitulo 1. Ecos de Gloria#Sesión 4|Sesion 4]]
 
+---
 ## **Sesión 0**
 
-### **Introducción General**
+### **Introducción**
 
 > _"Han pasado dos años desde los eventos de la Tumba de la Aniquilación. El mundo que una vez salvaron se ha transformado, y no todos creen que lo que hicieron fue correcto. Cada uno de ustedes ha seguido su camino, lidiando con las consecuencias de sus decisiones y los sacrificios realizados. Esta sesión está diseñada para que se conecten con sus personajes, comprendan dónde están emocional y físicamente, y reflexionen sobre cómo se sienten en este mundo incierto. Hoy no habrá combates ni decisiones importantes, solo el viaje interno de sus personajes y la conexión con el contexto que los rodea."_
 
----
-
-### **Presentación Individual**
-
-#### **1. Hakuryuu: El Guerrero Despojado**
+#### **Hakuryuu: El Guerrero Despojado**
 [[Hakuryu, El Orgullo del Dragón]]
+
+![[Hakuryuu.png]]
 
 > _"Hakuryuu, el orgulloso dragón plateado, se encuentra en el centro de su mansión en Waterdeep, rodeado de lujos que antes representaban su gloria. Las escamas brillantes que una vez simbolizaron su grandeza ahora reflejan una luz tenue bajo el crepitar de las antorchas. La mesa del comedor está repleta de manjares, pero el peso de su pérdida lo mantiene distante. Myrrym, la espada que definió su identidad, sigue siendo un vacío tangible en su vida. Los sirvientes murmuran entre ellos mientras intentan no llamar su atención, sabiendo que cualquier pequeño error podría despertar su furia. Hakuryuu alza la mirada hacia un tapiz que narra su victoria sobre la Maldición de la Muerte, pero solo ve un recordatorio de lo que ya no tiene. En el silencio de la noche, los ecos de una cadena quebrada parecen susurrar su nombre."_
 
-
----
-
-#### **2. Orianna: La Guardiana del Bosque**
+#### **Orianna: La Guardiana del Bosque**
 [[Orianna, El Murmullo del Bosque]]
+
+![[Orianna.png]]
 
 > _"Orianna se encuentra en el corazón del bosque que ha jurado proteger. El claro central, normalmente vibrante de vida, ahora está cubierto por una sombra ominosa. Los árboles que alguna vez murmuraban canciones de tranquilidad están en silencio, como si el mismo bosque contuviera el aliento. A su lado, el dragón verde observa, inmóvil, las marcas recientes en el suelo: huellas de bestias que no pertenecen a este lugar. Orianna siente la corrupción en el aire, una intrusión que desafía la pureza que ha intentado preservar. A pesar de su desdén hacia la humanidad, sus pensamientos vuelven a sus compañeros, a aquellos que alguna vez lucharon a su lado. Pero mientras las ramas crujen a la distancia, la pregunta persiste: ¿puedes protegerlo todo sola?"_
 
----
-
-#### **3. Ander: El Bardo Apagado**
+#### **Ander: El Bardo Apagado**
 [[Ander, Canciones al Viento]]
+
+![[Ander.png]]
 
 > _"Ander tambalea al salir de una taberna en los suburbios de Waterdeep. Las luces de la calle parecen más tenues de lo habitual, o tal vez es su visión borrosa por el alcohol. Su capa, antes llena de colores vibrantes, ahora cuelga pesada y raída. En una mano sostiene su lira, un recuerdo polvoriento de un pasado más brillante. Mientras se adentra en la noche, los murmullos burlones de los clientes de la taberna resuenan en su cabeza, mezclándose con la culpa y las memorias de un error que no puede olvidar. Cada paso parece más difícil que el anterior, pero Ander no sabe si su tambaleo es físico o emocional. A lo lejos, un perro flacucho lo observa, como si buscara algo en él que Ander cree haber perdido."_
 
-
----
-
-#### **4. Vengy: El Paladín Caído**
+#### **Vengy: El Paladín Caído**
 [[Vengy, La Llama Inquebrantable]]
 
+![[Vengy.png]]
 > _"Vengy está encerrado en una celda oscura y húmeda en las mazmorras de Waterdeep. Las cadenas oxidadas que cuelgan de las paredes reflejan la tenue luz que entra por una pequeña ventana alta. Sentado en el suelo de piedra fría, piensas cuanto rato más estarás encerrado. La acusación de colaborar con traficantes y estafadores pesa sobre ti, pero lo que más te atormenta es el eco de su propio corazón. Cada vez que cierras los ojos, recuerdas los momentos en que tu fe era el refugio de otros. Ahora, su propósito parece tan lejano como la luz del amanecer."_
 
-
----
-
-#### **5. Alistar: El Escudo de la Ley**
+#### **Alistar: El Escudo de la Ley**
 [[Alistar, Luz pagada]]
+
+![[Alistar2.png]]
 
 > _"Alistar se encuentra frente al altar del templo de Tyr en Waterdeep. La balanza dorada que cuelga sobre el altar parece más apagada de lo normal, como si reflejara las dudas que lo consumen. De pie, con su armadura brillante pero marcada por el uso, Alistar se inclina ligeramente en oración. Su voz, que antes resonaba con la firmeza de la justicia, ahora es un susurro cargado de preguntas sin respuesta. Detrás de él, las puertas del templo se entreabren, dejando entrar los ecos de una multitud enfurecida que grita consignas contra la iglesia y los héroes de la Maldición de la Muerte. En ese momento, Alistar se pregunta: ¿puede la balanza de Tyr soportar el peso de un mundo tan quebrado?"_
 
-
----
-
-#### **6. Malizal: El Brujo Vacío**
+#### **Malizal: El Brujo Vacío**
 [[Mallizal, Las Sombras del Tiempo]]
+
+![[Malizall.png]]
 
 > _"En una cabaña apartada en las montañas, Malizal se sienta frente a una chimenea apagada, con el grimorio en su regazo abierto en una página que no ha leído en semanas. Su cabello desordenado cuelga sobre sus ojos mientras contempla el fuego inexistente. La cabaña está llena de polvo y silencio, un reflejo de su alma desgastada. A su lado, un búho perezoso lo observa con ojos cansados, como si compartiera su melancolía. Malizal sabe que el mundo está cambiando, que la corrupción se extiende, pero su corazón parece no encontrar la fuerza para levantarse. Sin embargo, en lo profundo de su mente, una pequeña llama de su conexión con Lathander sigue parpadeando, esperando ser avivada."_
 
 ---
 ## **Sesión 1**
 
-### Contexto Inicial del Mundo
+### _Acererak, El Arquitecto de la Muerte
 
-**Cancion acererak**
+**Cancion**
 [[Acererak, El Arquitecto de la Muerte]]
 
-> _"Hace varios años, nos enfrentamos y derrotámos a la maldición de la muerte, liberando al mundo del temible Atropal y desmantelando los planes de Acererak. Sin embargo, la gloria que nos acompañó en un principio se desvaneció con el tiempo. La sociedad, dividida y temerosa, comenzó a buscar culpables para los desastres naturales, los extraños disturbios mágicos y la reciente aparición de rituales de sacrificios paganos."_
-> _"En este mundo de caos, los héroes viven ahora vidas separadas, cargando con el peso de su pasado. La amenaza de Acererak persiste, pues fragmentos de su filacteria permanecen activos, alimentando su sed de venganza. Los héroes están a punto de enfrentarse a una nueva prueba, una que pondrá a prueba no solo su fuerza, sino también su humanidad._
+Hace años, la sombra ominosa de Acererak y su terrible maldición cayeron sobre nuestro mundo. Luchamos y vencimos, desterrando al atroz Atropal y frustrando los oscuros designios del temible lich. En aquellos días fuimos héroes, cubiertos por la efímera gloria que acompaña a los salvadores del mundo. Pero con el tiempo, esa gloria se deshizo como ceniza en el viento, dejando solo el amargo residuo de la duda y el temor.
 
+La sociedad, fracturada y sumida en la incertidumbre, comenzó a buscar chivos expiatorios entre las sombras, culpando a sus propios héroes por los cataclismos naturales, los inquietantes disturbios mágicos y la creciente presencia de rituales paganos bañados en sangre inocente. Ahora, cada uno de esos héroes vive aislado, arrastrando el pesado fardo de un pasado que se niega a descansar.
 
-#### El Despertar del Pueblo
+Sin embargo, la amenaza de Acererak aún persiste en los rincones más oscuros del mundo. Fragmentos de su filacteria, peligrosamente activos, alimentan su insaciable sed de venganza. Pronto, los héroes deberán enfrentar una nueva prueba, una que desafiará no solo su fuerza y habilidad, sino que pondrá al límite su misma humanidad.
 
-> Mientras tanto, en las calles y aldeas del reino, una peligrosa semilla ha germinado entre aquellos más desfavorecidos. Muchos ciudadanos, cansados de las privaciones y desigualdades, ven en la antigua maldición una mentira elaborada por los poderosos para justificar su propio beneficio. Sostienen que la maldición afectaba únicamente a aquellos privilegiados capaces de pagar los costosos rituales de resurrección, dejando claro que los dioses nunca quisieron favorecer a los ricos y poderosos. Esta convicción ha dado lugar a un creciente movimiento de resistencia popular que niega la versión oficial de los hechos y desconfía profundamente de los antiguos héroes. Para este grupo, la verdad es simple y cruda: los poderosos han abusado de ellos durante demasiado tiempo, y cualquier narrativa oficial no es más que otra herramienta de opresión.
+![[Acererak.png]]
+### _El Despertar del Pueblo
 
+Mientras los héroes se debaten en sus conflictos internos, en las calles y aldeas una peligrosa semilla de rebelión ha echado raíces profundas. Aquellos marginados y oprimidos por las desigualdades crecientes han empezado a cuestionar la narrativa oficial. Para ellos, la maldición de la muerte no fue más que un engaño urdido por los poderosos para justificar sus propios privilegios. Dicen que la supuesta maldición solo afectaba a aquellos lo suficientemente ricos para costearse los exclusivos rituales de resurrección, dejando al descubierto la verdad incómoda: que los dioses jamás se preocuparon por ellos.
+
+Esta convicción se ha convertido en un movimiento de resistencia popular que se expande rápidamente, alimentado por un resentimiento antiguo hacia los héroes y las instituciones que alguna vez juraron protegerlos. Para estos ciudadanos, la verdad es clara y devastadora: la opresión ha durado demasiado tiempo, y cada relato oficial no es más que una herramienta más del abuso sistemático de quienes ostentan el poder.
+
+**Cancion**
 [[Abismo y rabia]]
-#### La Nueva Fe y la Inquisición
 
-> En medio de este descontento generalizado, una nueva religión ha comenzado a extenderse como un fuego en pasto seco. Sus fieles proclaman la existencia de una entidad suprema, un dios oculto y desconocido, más allá de cualquier deidad conocida hasta ahora. Aseguran que la antigua maldición fue la prueba definitiva de su existencia, ya que ningún dios tradicional pudo detenerla ni revertir sus efectos con sus conjuros de resurrección. Esta fe radical, aún sin nombre, ha formado rápidamente una Inquisición decidida a erradicar toda práctica mágica poderosa, considerándola una herejía y un peligro para la estabilidad del mundo. Esto los ha enfrentado directamente con los grandes templos y clérigos de Waterdeep, seguidores de Lathander, Tyr y otras deidades poderosas, que ahora deben defenderse no solo de la desconfianza popular, sino también del fanatismo violento de estos inquisidores.
-> 
-> Así, el mundo se encuentra al borde de una guerra entre clases y creencias, un conflicto que amenaza con consumir todo aquello por lo que alguna vez lucharon los héroes. Es en este contexto turbulento que aquellos que una vez salvaron al mundo deberán reunirse nuevamente, enfrentando enemigos externos e internos, y descubriendo si realmente pueden mantener intacta su humanidad frente a la adversidad.
+![[Abismo y rabia.png]]
+### _La Nueva Fe y la Mano de Hierro
 
-### Escenas con los personajes
+En este clima de creciente desesperación y desconfianza, una nueva y perturbadora fe ha emergido con fuerza incendiaria. Sus seguidores predican sobre una entidad suprema, un dios oscuro y desconocido que trasciende cualquier divinidad tradicional. Proclaman que la antigua maldición fue la prueba inequívoca de su existencia, pues ningún dios conocido fue capaz de detenerla o revertir sus efectos por completo.
 
-### 🐉 **Hakuryuu – El Eco de la Gloria Rota**
+Esta creencia radical, aún sin un nombre definido pero ya profundamente arraigada, ha dado lugar a una Inquisición despiadada, decidida a eliminar cualquier forma de magia poderosa, acusándola de herejía y de ser una amenaza para el orden natural del mundo. Los templos y clérigos de Waterdeep, dedicados a veneradas deidades como Lathander y Tyr, ahora se encuentran bajo el asedio de la sospecha popular y el fanatismo inquisitorial.
 
-**Ubicación:** Mansión del Clan del Dragón Plateado, distrito noble de Waterdeep  
+Al borde de una guerra que amenaza con consumir a toda sociedad, el conflicto entre clases sociales y credos religiosos se profundiza con cada día que pasa. En medio de esta tormenta, aquellos héroes que una vez salvaron al mundo deben reunirse de nuevo. Juntos enfrentarán enemigos internos y externos, poniendo a prueba no solo sus habilidades y valor, sino también descubriendo si pueden mantener intacta su humanidad frente a una adversidad que parece destinada a romperlos.
 
-> La mansión de Hakuryuu se yergue como un mausoleo de piedra pulida y mármol helado. Columnas corintias envueltas en hiedra domesticada sostienen techos que replican los frescos de una gloria pretérita. Dos estatuas de dragones plateados lo flanquean todo, con la altivez congelada de un tiempo que ya no existe.
-> 
-> En su interior, salones insonorizados resuenan solo con el eco de la rutina vacía. Alfombras bordadas, mesas de ébano, manjares dispuestos con precisión quirúrgica. Todo está en su sitio, pero nada tiene vida.
-> 
-> En el centro de ese silencio, Hakuryuu.
-> 
-> Sentado a la cabecera de una larga mesa de banquetes donde nadie más se sienta, luce una túnica de brocado blanco y plata. La lleva como se porta una máscara: como una obligación. Su expresión es la de un noble caprichoso, pero sus ojos, esos ojos, son pozos sin fondo donde arde la nostalgia. En su rostro no hay hambre. En su voz, apenas desdén.
-> 
-> —¿Esto es todo lo que puedes ofrecerme? —dice sin levantar la mirada al sirviente que tiembla con la bandeja aún en las manos. El plato cae con un ruido seco. El silencio vuelve a devorar el salón.
-> 
-> No hay alivio. No hay honor en esta vida. Solo un vacío donde antes latía el nombre de su espada: _Myrrym_.
-> 
-> El dragón de escamas plateadas se ha convertido en un ornamento. Una reliquia brillante. Un héroe atrapado en mármol.
-> 
-> Pero entonces… algo cambia.
-> 
-> Una presión imperceptible en el aire. Como si alguien —o algo— respirase muy cerca del plano de la realidad. Un sonido apagado, un zumbido grave que se filtra entre las paredes como el presagio de un trueno lejano.
-> 
-> Y luego, el estallido.
-> 
-> Una **explosión silenciosa**, pero devastadora, sacude la sala desde el fondo. Tapices vuelan, platos se rompen, el mármol cruje. Un vendaval oscuro, denso como brea, se derrama por las puertas fracturadas. Los sirvientes gritan. Algunos caen. Otros no se levantan.
-> 
-> Hakuryuu, en cambio, **no se mueve**. No retrocede. Pero tampoco carga.
-> 
-> No por miedo.
-> 
-> Sino porque lo ha olvidado.
-> 
-> Su cuerpo aún recuerda cómo era prepararse para el combate. Su mano se alza, por reflejo, buscando la empuñadura de Myrrym… y se cierra en el aire vacío.
-> 
-> Una corriente de humo oscuro llena ahora el salón. Dentro, avanzan tres siluetas humanoides, deformes, corrompidas por la abominación. Garras negras. Ojos vacíos. Rostros donde ya no hay humanidad, si alguna vez la hubo.
-> 
-> No pronuncian palabras. Pero sus pasos sí hablan:
-> 
-> _"Has vivido demasiado tiempo creyendo que tu historia terminó. Hemos venido a recordarte que aún no ha empezado."_
-> 
-> Una gota de sudor corre por el cuello de Hakuryuu. Sus garras, abiertas, tiemblan apenas. No es miedo. Es ira. No es coraje. Es **ausencia de propósito**.
-> 
-> No lucha. No huye. Solo contempla.
-> 
-> Y en su mente, una única pregunta retumba como martillo sobre yunque:
-> 
-> _¿Estoy preparado para luchar a lo que se avecina… si ya no soy el que fui?_
+![[assets/Other/Manos de Hierro.png]]
 
-### 🍃 **Orianna – La Herida del Bosque Eterno**
+### _Hakuryuu – Eco de la Gloria Rota
 
-**Ubicación:** Santuario del Árbol Sagrado, en los confines del Bosque Profundo  
+La mansión del Clan del Dragón Plateado se alzaba imponente en el corazón del distrito noble de Waterdeep, semejante a un mausoleo erigido en honor a tiempos ya olvidados. Sus columnas corintias, adornadas por hiedras disciplinadas, sostenían pesados techos decorados con frescos que ilustraban glorias y victorias pasadas. A ambos lados de la entrada, dos estatuas majestuosas de dragones plateados vigilaban eternamente, atrapadas en una altivez que ya no reflejaba más que recuerdos marchitos.
 
-> El hogar de Orianna es un santuario vivo, escondido entre raíces antiguas y senderos que sólo los espíritus recuerdan. Allí, la luz del sol se filtra entre copas altas, proyectando danzas doradas sobre el suelo cubierto de musgo. El aire, habitualmente fresco y lleno de aromas salvajes, parecía esa mañana especialmente apacible. Todo era armonía. Todo... demasiado silencioso.
-> 
-> En el corazón del claro, se alza el **árbol milenario**, el centro del equilibrio natural. Sus raíces, profundas y serpenteantes, conectan la vida del bosque como venas arcanas. Orianna, la guardiana silvestre, se arrodilla junto a él. Sus dedos acarician la corteza con devoción, como si despertara memorias dormidas.
-> 
-> A su lado, **Elyzmyrath**, la joven dragona verde, vigila con ojos inteligentes, atentos a los matices del viento.
-> 
-> —Algo no está bien —murmura Orianna sin apartar la mirada del tronco—. Las raíces susurran… y su voz está enferma.
-> 
-> La dragona emite un leve gruñido de incomodidad, agitando sus alas con tensión contenida.
-> 
-> Un **chasquido seco**, repentino, rompe la quietud. El temblor que sigue es sutil, pero lo suficiente para que los pájaros enmudecidos alzen vuelo de forma errática. Las hojas ya no se mueven con la brisa: la brisa ha huido.
-> 
-> —No... no tan pronto —susurra Orianna, sintiendo cómo la energía del bosque se desequilibra como una balanza inclinada a la fuerza.
-> 
-> Otro crujido, esta vez más profundo, resuena como un lamento de la propia tierra. El suelo tiembla con violencia. Orianna cae de rodillas y apenas logra sostenerse cuando, justo delante del árbol, **una grieta se abre con lentitud cruel**, rasgando la tierra con un sonido húmedo y putrefacto.
-> 
-> De esa herida abierta brota **un vapor amarillo**, graso, cargado de muerte. La pestilencia arde al respirarla. Y del interior, como si la podredumbre tuviese garras, emergen dedos deformes, negros y afilados, que se aferran al borde de la grieta.
-> 
-> La tiefling se arrastra hacia atrás, sin apartar la vista del horror que asoma. Pero no es miedo lo que le embarga: es certeza.
-> 
-> > _"Han venido. Uno por uno. Nos están buscando."_
-> 
-> Elyz, con las alas extendidas y un rugido sordo en el pecho, se interpone entre Orianna y la amenaza, dispuesta a pelear aunque eso signifique el fin.
-> 
-> —¡No! —grita Orianna—. ¡Debes huir! No puedes caer aquí... no tú.
-> 
-> Pero Elyz no obedece. Da un paso al frente, mirando a su amiga, su alma hermana, con una mirada que dice más que mil palabras.
-> 
-> El árbol milenario cruje una vez más… y **se parte en dos**.
-> 
-> Y con ese sonido final, Orianna entiende que el equilibrio se ha roto. El bosque que protegía está herido. Su santuario ha sido profanado.
-> 
-> Y que el tiempo del aislamiento… ha terminado.
+En su interior, el silencio era casi tangible. Cada salón parecía haber sido diseñado para contener ecos de conversaciones olvidadas, ahora sustituidas únicamente por el murmullo constante y vacío del tiempo detenido. Alfombras lujosas tejidas con oro y plata cubrían el frío suelo de mármol, mesas de ébano perfectamente pulidas sostenían manjares que nadie tocaba y que lentamente se convertían en meras decoraciones, testigos mudos de un esplendor que ya no existía.
 
-### 🔮 **Malizall – El Eco del Pacto Roto**
+En el centro mismo de este silencio, sentado con una altivez que parecía una obligación impuesta por su rango, estaba Hakuryuu. Su túnica, magníficamente bordada con hilos de plata sobre una seda blanca impoluta, caía sobre él con la pesada responsabilidad de mantener las apariencias. Sus ojos, dos pozos oscuros llenos de una nostalgia ardiente, observaban sin interés el plato exquisitamente presentado que un sirviente nervioso sostenía ante él.
 
-**Ubicación:** Cabaña solitaria en las Montañas de la Niebla  
+—¿Esto es todo lo que puedes ofrecerme? —preguntó Hakuryuu, sin molestarse siquiera en levantar la mirada.
 
-> El aire dentro de la cabaña es espeso, casi inmóvil, cargado de polvo viejo y cenizas apagadas. En las paredes, libros apilados en desequilibrio y pergaminos olvidados dan la impresión de un templo sin dios.
-> 
-> Sentado frente a una chimenea agonizante, **Malizall**, antaño portador del pacto de Lathander, contempla sin leer un grimorio abierto sobre su regazo. Su mirada se pierde entre las líneas, sin verlas. Su aliento es lento. Cada página parece pesar lo mismo que su alma.
-> 
-> En el alfeizar, **Wako**, su antiguo familiar, lo observa. Ha estado con él durante semanas… quizá meses. Nadie sabe si sigue ahí por elección o por inercia espiritual. Sus plumas, antaño blancas y etéreas, ahora tienen vetas grises, como si el mundo mismo hubiera empezado a olvidarlo.
-> 
-> Malizall no le habla. Tampoco le mira.
-> 
-> —No deberías quedarte aquí —dice en voz baja, como si lo dijera para sí mismo—. No si sabes lo que se acerca.
-> 
-> Wako no responde. Solo ladea la cabeza. No con ternura, sino con tristeza.
-> 
-> El brujo se levanta con torpeza, su capa arrastrando polvo. Toma el libro, lo deja abierto sobre la mesa, y sin cerrar la puerta tras de sí, **sale a la intemperie**. Una ventisca le corta la piel como cuchillas de hielo. Pero Malizall no reacciona.
-> 
-> Entonces ocurre.
-> 
-> Un sonido sordo, como el crujido de la realidad misma, sacude la cabaña. La **puerta sale despedida desde dentro**, como si algo la hubiera arrojado desde otro plano. Malizall se aparta justo a tiempo, más por reflejo que por voluntad.
-> 
-> Del umbral abierto, como un tumor que sangra oscuridad, emerge **una figura demoníaca**. Corrompida, retorcida, con garras que parecen cuchillas de hueso y ojos que brillan como carbones ardiendo. No dice nada. No ruge. Solo actúa.
-> 
-> **Wako grazna**. No de miedo, sino de advertencia. Aletea para escapar…
-> 
-> …y es **atrapado**.
-> 
-> El brazo de la criatura se alarga antinaturalmente y lo aferra por el cuerpo.
-> 
-> Malizall grita.
-> 
-> —¡No!
-> 
-> Alza el brazo. Intenta canalizar el poder de siempre. El viejo vínculo. El intercambio que una vez fue su llama…
-> 
-> Pero no hay respuesta.
+El sirviente, estremecido por la fría indiferencia del noble dragón, dejó caer el plato al suelo con un sonido seco y quebradizo que resonó como un reproche. Luego, se retiró apresuradamente, dejando atrás una sala nuevamente devorada por el silencio opresivo.
 
-### ⚖️ **Alistar – Luz Pagada, Justicia Sin Refugio**
+Para Hakuryuu, no quedaba hambre ni deseo, tan solo un vasto vacío donde antaño vibraba con fuerza el nombre de su espada perdida, Myrrym. Ahora, el héroe de antaño no era más que un reflejo deslucido, un adorno en su propio mausoleo, atrapado en un esplendor inmóvil como el mármol que lo rodeaba.
 
-**Ubicación:** Escalinatas del Templo de Tyr, Waterdeep  
+Sin embargo, aquella noche algo cambió. Una sensación apenas perceptible recorrió la mansión, como si una presencia oculta respirase justo al borde de la realidad. Un zumbido grave, semejante al eco lejano de un trueno reprimido, comenzó a filtrarse lentamente entre los muros.
 
-> El Templo de Tyr se alza como una fortaleza sagrada, una promesa de justicia en piedra y bronce. Pero esta noche, su balanza dorada no brilla: tiembla.
-> 
-> **Alistar**, de pie en la cima de las escalinatas, contempla una **muchedumbre encapuchada**, empuñando antorchas, palos, piedras… y rabia. Una multitud que no busca redención, sino respuestas. No escucha sermones. Solo exige que alguien pague.
-> 
-> Junto a él, **Marcus**, su segundo de confianza, murmura:  
-> —Esto va a romperse.
-> 
-> Alistar asiente, sin despegar los ojos de las masas. Reconoce la tensión en sus soldados. **Escudos alzados, corazones temblando.** Algunos ya buscan con la mirada rutas de retirada.
-> 
-> Entonces, las puertas del templo se abren con solemnidad y torpeza a la vez. **Harker**, su comandante, aparece con el rostro endurecido por la certeza del deber. A su lado camina el **Sumo Sacerdote Eldrin**, envuelto en vestiduras sagradas, elevando las manos al cielo.
-> 
-> —¡Hijos de la ciudad! ¡Tyr ve vuestro dolor y ofrece consuelo!
-> 
-> El gentío ruge.
-> 
-> No es el rugido de fieles, sino el de lobos heridos.
-> 
-> **Botellas vuelan. Antorchas caen. Piedras golpean.**
-> 
-> —¡Atrás! —grita Alistar— ¡Formación!
-> 
-> Pero ya es tarde. Una piedra silba entre los gritos y golpea a Eldrin en la frente. El sumo sacerdote cae como un muñeco de trapo, su sangre tiñendo los escalones sagrados.
-> 
-> **Harker estalla.**  
-> —¡Avanzad y dispersadlos! ¡Es una orden!
-> 
-> Alistar se queda inmóvil. La mirada fija en la multitud. En sus ojos no ve enemigos. Ve hambre. Desesperación. Hijos. Padres.
-> 
-> Un pulso de oscuridad surge desde el centro de la plaza. La luz se contrae. El sonido desaparece.
-> 
-> Y luego… la explosión.
-> 
-> **El suelo revienta. Las escalinatas se fragmentan. Cuerpos vuelan.** Alistar siente cómo el escudo que lleva desde su iniciación se le desprende de la mano, arrancado por una fuerza brutal. Golpea el suelo. El mundo zumba.
-> 
-> Cuando logra levantarse, **la plaza ya no es plaza. Es un campo de batalla**.
-> 
-> Figuras demoníacas surgen entre el humo negro. Retorcidas, grotescas, hechas de carne muerta y oscuridad sólida. Algunos ciudadanos corren. Otros mueren antes de comprender.
+Y entonces ocurrió el estallido.
 
-### 🔥 **Vengy – La Llama Encerrada**
+La explosión silenciosa, aterradora en su mutismo, desgarró el salón desde sus entrañas. Tapices volaron convertidos en jirones, porcelanas preciosas se hicieron añicos, y la orgullosa estructura de mármol tembló como un ser vivo al borde de la muerte. Un vendaval oscuro, viscoso y cruel, inundó el salón atravesando puertas quebradas y ventanas destruidas. Los sirvientes gritaron presas del pánico; algunos cayeron al suelo para no levantarse más.
 
-**Ubicación:** Prisión subterránea, Waterdeep  
+Pero Hakuryuu permaneció inmóvil, ni retrocediendo ni avanzando, simplemente observando el caos que consumía su mansión. No era el miedo lo que lo paralizaba, sino el olvido. Su cuerpo todavía recordaba instintivamente la sensación de empuñar a Myrrym, pero su mano, al elevarse en busca de la empuñadura que ya no existía, se cerró sobre la nada fría e indiferente.
 
-> Aunque no lleva armadura ni capa, aunque las piedras frías de la celda muerden su espalda y sus piernas no responden… **Vengy sigue teniendo seguidores**.
-> 
-> Algunos lo llaman santo. Otros, farsante iluminado. Pero todos los que han cruzado palabra con él coinciden en algo: **su mirada arde**.
-> 
-> La celda donde lo han encerrado es estrecha, húmeda, y no huele a justicia. El cargo oficial es colaboración con criminales. Pero todos saben que su caída comenzó cuando entró en el local de un viejo amigo… y descubrió que aquel lugar, antes lleno de risas y canciones, era ahora **una fachada de los bajos fondos**.
-> 
-> Desde entonces, los rumores corrieron. La fe vaciló. Los enemigos se acercaron.
-> 
-> Pero **él no huyó**.
-> 
-> Esa noche, todo está en calma. El silencio en la cárcel es espeso. Inquietante. Vengy está sentado, solo, los ojos clavados en el techo, buscando constelaciones invisibles en las grietas.
-> 
-> Entonces… lo siente.
-> 
-> Un **aire pesado**, cargado de ceniza y odio.
-> 
-> Y después, lo ve.
-> 
-> Una **nube de humo negro** empieza a filtrarse bajo la puerta de su celda. Se desliza como un predador, como si tuviera voluntad propia. Y el mundo **queda en silencio**, de ese que precede al trueno o al grito.
-> 
-> Vengy no duda. No reza.
-> 
-> —¡Thunder Wave!
-> 
-> La onda mágica estalla desde su voz como un trueno contenido demasiado tiempo. La puerta metálica se abolla hacia fuera y revienta de sus goznes. En el pasillo, un **guardia corre a ciegas**, presa del pánico. Tropieza con los restos de la puerta y cae rodando a los pies del prisionero.
-> 
-> —¡Levántate! —gruñe Vengy, mientras intenta ayudarlo como puede.
-> 
-> Pero antes de que pueda incorporarse, **una figura felina emerge del humo**. No corre. No salta aún. **Se desliza**, con un movimiento antinatural, como si danzara en la niebla.
-> 
-> Ojos brillantes. Garras curvas. Piel retorcida.
-> 
-> Vengy la ve. Y ella lo ve a él.
-> 
-> Sin pausa, sin rugido, la criatura **se lanza sobre el guardia** y **lo ejecuta** de un tajo seco, sin gloria ni remordimiento.
-> 
-> Luego… gira el rostro.
-> 
-> Y lo **mira**.
-> 
-> Y en ese instante, **Vengy entiende que no está aquí por casualidad**.
-> 
-> No es un asesinato al azar.
-> 
-> Es una **caza dirigida**.
-> 
-> Y **él es el siguiente en la lista**.
-> 
-> Pero incluso sin piernas, sin su escudo, sin su altar… la llama aún no se apaga.
-> 
-> Y mientras el humo gira como una serpiente alrededor del cuerpo sin vida del guardia, Vengy se yergue lo mejor que puede, apoyado en la piedra, y **mira de vuelta**.
-> 
-> Porque si este es el final…
-> 
-> …entonces **arderá con él**.
+La sala, ahora envuelta en una oscuridad sofocante, vio emerger lentamente tres figuras deformes, criaturas corrompidas cuyas formas humanoides apenas disimulaban su naturaleza monstruosa. Sus garras negras brillaban bajo la tenue luz residual, sus ojos vacíos observaban sin emoción, y sus rostros deformados eran un grotesco simulacro de la humanidad perdida.
 
+No pronunciaron palabra alguna. Sus pasos, sin embargo, hablaron con claridad sobrecogedora:
 
-### 🎭 **Ander – El Bardo Que Olvida el Ritmo**
+_Has vivido demasiado tiempo creyendo que tu historia terminó. Hemos venido a recordarte que aún no ha empezado._
 
-**Ubicación:** Taberna "La Grulla Rancia" y callejones de los bajos fondos de Waterdeep  
-**Música sugerida:** _Ander – Canciones al Viento_
+Una gota de sudor frío recorrió lentamente el cuello de Hakuryuu. Sus garras abiertas temblaron imperceptiblemente, no por miedo, ni siquiera por valor; sino por la falta absoluta de propósito. No cargó contra ellos, ni intentó huir. Solo se quedó allí, contemplando impasible la destrucción que lo rodeaba, y sintiendo que una única pregunta resonaba en su mente con la fuerza incansable del martillo contra el yunque:
 
-> En el rincón más deslucido de una taberna sin alma, **Ander** toca una melodía con dedos torpes y alma apagada. La taberna huele a cerveza estancada, grasa rancia y resignación. Las paredes están ennegrecidas por el humo, y el público no escucha: **tolera**.
-> 
-> Su flauta emite notas quebradas. Algunas mal ejecutadas. Otras… quizá a propósito.
-> 
-> Las monedas lanzadas no son gesto de admiración. Son limosna. Son castigo.
-> 
-> —¡Eh, héroe! —grita alguien entre risas—. ¡Cántanos sobre cómo salvaste el mundo y perdiste el alma!
-> 
-> La respuesta de Ander es una mirada vacía. Una palabra silenciada por el nudo en su garganta.
-> 
-> Cuando la burla se convierte en rutina y la vergüenza en escudo, **el bardo se tambalea fuera del local**, sin despedirse de nadie. Vomita junto al umbral. Luego camina. Nadie lo sigue. Nadie lo detiene.
-> 
-> **La noche es cruel.**
-> 
-> Hace frío. Un frío húmedo que se cuela por su ropa desgastada y lo hace temblar. Las farolas de aceite apenas logran iluminar las callejuelas angostas. Voces lejanas se mezclan con risas oscuras, algún disturbio aislado, y promesas de violencia que se susurran desde las sombras.
-> 
-> Al cruzar una esquina, **un perro callejero**, flaco, sucio, con los huesos marcados bajo la piel, levanta la cabeza al verlo.
-> 
-> Ander se detiene.
-> 
-> Se agacha con torpeza. Saca un mendrugo de pan endurecido y se lo ofrece. El animal se lo lleva con suavidad, sin apartar los ojos.
-> 
-> Y por un instante… **Ander se ve reflejado**.
-> 
-> Abandonado. Sin gloria. Sobreviviendo a algo que otros ya han olvidado.
-> 
-> Pero esa escena de ternura rota se interrumpe.
-> 
-> En el fondo de la calle… una **luz blanca** comienza a brillar. No como farol. No como luna.
-> 
-> Es demasiado pura. Demasiado intensa. **Demasiado viva para este mundo**.
-> 
-> Ander parpadea. Siente náuseas. El perro gruñe.
-> 
-> La luz **gira sobre sí misma** y luego **se abre como un ojo**.
-> 
-> Un **portal**.
-> 
-> Al otro lado, un paisaje imposible: montañas negras, volcanes en erupción, nubes de ceniza roja como sangre vieja. El suelo es fuego. El cielo es humo.
-> 
-> —No… —susurra Ander, dando un paso atrás.
-> 
-> Y entonces, **tres figuras humanoides** cruzan el umbral. Sus formas son oscuras, sin rostro definido. Parecen soldados, pero de otra guerra. Se mueven como si **reconocieran el terreno**. Como si buscaran algo… o a alguien.
-> 
-> Uno de ellos se vuelve, como si lo oliera.
-> 
-> Como si lo recordara.
-> 
-> Pero antes de que puedan avanzar más, el portal **colapsa sobre sí mismo**, dejando solo un leve resplandor en el empedrado mojado.
-> 
-> Silencio.
-> 
-> Solo el perro jadea, aún comiendo.
-> 
-> Ander se arrodilla lentamente. Mira sus propias manos.
-> 
-> Y por primera vez en mucho tiempo… **siente miedo de sí mismo**.
-> 
-> Porque si aquellos vinieron a buscar algo…
-> 
-> …puede que ya sepan **dónde encontrarlo**.
+_¿Estoy realmente preparado para enfrentar lo que se avecina, ahora que ya no soy el héroe que alguna vez fui?_
+
+![[Myrym.png]]
+
+### _Orianna – La Guardiana del Bosque
+
+![[Bosque Intacto.png]]
+_El arbol sagrado_
+
+El santuario de Orianna era un refugio oculto entre raíces ancestrales y senderos conocidos solo por espíritus olvidados. Allí, la luz del sol atravesaba las copas de árboles centenarios, formando patrones dorados sobre el suelo cubierto de un suave manto de musgo. Normalmente lleno del susurro de la vida salvaje y del murmullo reconfortante de la naturaleza, esa mañana el santuario estaba impregnado por un silencio inquietante. Una calma demasiado perfecta, demasiado frágil.
+
+En el corazón del claro se alzaba majestuoso el árbol milenario, guardián del equilibrio del bosque. Sus raíces, profundas y entrelazadas como venas cargadas de magia antigua, mantenían la armonía de todo cuanto las rodeaba. Orianna, la guardiana silvestre, estaba arrodillada junto a él, sus manos acariciando reverentemente la corteza rugosa como si intentara consolar recuerdos dormidos.
+
+A su lado, Elyzmyrath, la joven dragona verde, mantenía una alerta vigilante. Sus ojos agudos se movían inquietos, rastreando señales ocultas en la brisa, cada músculo tenso y preparado para actuar.
+
+—Algo no está bien —susurró Orianna, su voz apenas audible pero cargada de inquietud—. Las raíces están susurrando, y su voz está enferma.
+
+Elyzmyrath emitió un gruñido bajo y profundo, desplegando ligeramente sus alas con un gesto de incomodidad.
+
+De repente, un chasquido seco rompió abruptamente la quietud. El temblor que lo siguió fue tenue, pero suficiente para que los pájaros enmudecidos escaparan en vuelos caóticos, buscando refugio lejos de aquella perturbación. La brisa desapareció abruptamente, dejando las hojas inmóviles, atrapadas en una tensión casi palpable.
+
+—No… no tan pronto —murmuró Orianna, sintiendo cómo la energía vital del bosque comenzaba a torcerse, inclinándose inevitablemente hacia un desequilibrio que podría ser irreversible.
+
+Un segundo crujido, más profundo y ominoso, resonó a través de la tierra, semejante a un lamento surgido de las entrañas del mundo mismo. El suelo bajo los pies de Orianna se sacudió violentamente, haciéndola caer de rodillas mientras trataba desesperadamente de mantener el equilibrio. Frente a sus ojos, justo ante el imponente árbol, la tierra empezó a abrirse lentamente con una crueldad insoportable, desgarrándose con sonidos húmedos y putrefactos.
+
+De aquella herida abierta emanó un vapor espeso y amarillo, saturado de corrupción y muerte, cuya mera inhalación ardía en sus pulmones. Del interior de la grieta, dedos grotescos y deformados, negros como el ébano y afilados como dagas, emergieron lentamente, agarrándose al borde con una determinación maligna.
+
+Orianna retrocedió instintivamente, sin apartar la mirada del horror que brotaba desde las profundidades. Pero no era miedo lo que reflejaban sus ojos, sino una certeza dolorosa.
+
+_Han venido. Uno por uno. Nos están buscando._
+
+Elyzmyrath rugió con ferocidad, extendiendo sus alas plenamente para proteger a Orianna con su cuerpo, dispuesta a enfrentar cualquier amenaza, aun sabiendo que podría significar su fin.
+
+—¡No! —gritó Orianna, la voz desgarrada por la angustia—. ¡Debes huir! ¡No puedes caer aquí! ¡No tú!
+
+La dragona ignoró sus palabras y avanzó con una determinación férrea, dedicándole a Orianna una mirada profunda, llena de significado y compromiso eterno.
+
+El árbol milenario emitió un último crujido doloroso y, en un instante que pareció eterno, se partió en dos, cayendo sus fragmentos pesadamente a ambos lados de la grieta con un sonido definitivo.
+
+Con ese estruendo final, Orianna comprendió con una claridad devastadora que el equilibrio sagrado estaba roto para siempre. El bosque que había jurado proteger estaba herido gravemente, su santuario profanado por fuerzas oscuras.
+
+Sabía entonces, con una certeza absoluta, que su tiempo de aislamiento había llegado a su fin, y que la batalla que siempre había temido ya estaba aquí, inevitable e inexorable.
+
+### _Malizall – El Pacto que fue
+
+El aire en la cabaña era espeso y pesado, impregnado por un denso aroma a polvo antiguo y cenizas consumidas. Libros desordenadamente apilados y pergaminos olvidados descansaban sobre estantes precarios, evocando la sensación inquietante de un templo abandonado, un santuario cuyos dioses habían decidido hace tiempo apartar su mirada.
+
+Sentado frente a una chimenea casi extinguida, Malizall sostenía distraídamente un grimorio en su regazo, aunque sus ojos, cargados de fatiga y desencanto, no seguían las palabras escritas en sus páginas. En otro tiempo portador orgulloso del pacto con Lathander, ahora parecía apenas la sombra marchita de aquel hombre que una vez había sido, consumido lentamente por la quietud amarga del aislamiento.
+
+Desde el alfeizar de la ventana, Wako lo observaba en silencio, el antiguo familiar convertido en una triste figura de abandono. Sus plumas, antes brillantes y blancas como la nieve recién caída, mostraban ahora un gris ceniciento, como si reflejaran la tristeza de quien se siente olvidado por el mismo mundo.
+
+Malizall no lo miraba ni le dirigía palabra alguna, pero finalmente rompió el silencio con voz suave, apenas audible, cargada de una advertencia casi resignada.
+
+—No deberías quedarte aquí —susurró con cansancio—. No si entiendes lo que se aproxima.
+
+Wako solo ladeó ligeramente la cabeza, respondiendo no con ternura, sino con una melancólica tristeza, como si supiera exactamente lo que Malizall temía y no quisiera dejarlo solo frente a ello.
+
+Con esfuerzo, el brujo se levantó, su pesada capa arrastrando polvo del suelo de madera. Colocó el libro abierto sobre la mesa desvencijada, dejándolo abandonado como testigo mudo de su desidia, y salió lentamente hacia el exterior. Ni siquiera se molestó en cerrar la puerta detrás de él.
+
+La ventisca golpeó su rostro con violencia despiadada, cortándole la piel como diminutas hojas de hielo afilado. Pero Malizall no reaccionó; permaneció inmóvil, como si hubiera perdido la capacidad de sentir.
+
+Entonces, en medio del aullido del viento, un sonido sordo, profundo y terrible resonó desde la cabaña, como si la realidad misma se fracturara. La puerta estalló violentamente desde dentro, expulsada por una fuerza invisible y oscura, lanzando astillas al viento. Malizall reaccionó por instinto más que por voluntad consciente, apartándose justo a tiempo para evitar ser alcanzado.
+
+Desde el oscuro umbral de la cabaña, como una herida abierta en la propia existencia, emergió lentamente una figura retorcida, una aberración demoníaca cuya piel parecía emanar corrupción y sombra. Sus ojos brillaban con una luz antinatural, y sus garras, largas y afiladas como cuchillas de hueso, se desplegaron en una amenaza silenciosa y devastadora.
+
+Wako graznó alarmado, no por temor, sino con desesperada advertencia. Intentó elevarse para escapar de la amenaza, pero el brazo de la criatura se extendió grotescamente, atrapándolo en un movimiento antinatural y brutal.
+
+—¡No! —gritó Malizall, sintiendo cómo una parte de él mismo era arrancada con ese gesto.
+
+En un acto reflejo, levantó su brazo, tratando de invocar desesperadamente la magia que antaño había dominado con facilidad, el vínculo sagrado que había sido su fuente de poder y esperanza. Pero no hubo respuesta. Solo un vacío aterrador, un silencio sepulcral donde antes había ardido intensamente la llama de un pacto que ahora parecía olvidado.
+
+Mientras observaba impotente cómo Wako luchaba inútilmente en las garras del demonio, Malizall comprendió con amarga certeza que la batalla que se avecinaba no solo pondría a prueba sus fuerzas, sino que también amenazaba con destruir el último resquicio de humanidad y esperanza que aún permanecía en él.
+### _Alistar – Justicia Divina
+
+El Templo de Tyr se alzaba imponente, una fortaleza sagrada tallada en piedra y reforzada en bronce, símbolo tangible de justicia y orden. Pero esa noche, bajo el cielo cubierto de nubes densas y amenazantes, la balanza dorada que coronaba el templo no relucía, sino que temblaba inquieta, reflejando la tensión palpable que impregnaba el ambiente.
+
+Desde lo alto de las escalinatas, Alistar contemplaba la multitud que se extendía ante él, una masa encapuchada cuyos rostros apenas se distinguían bajo la tenue luz de las antorchas que sostenían con furia y desesperación. La multitud no buscaba salvación ni escuchaba palabras de consuelo; exigía con la rabia de quienes sienten traicionada su fe. Sus ojos brillaban con una mezcla de ira y desesperanza, sus manos empuñando palos, piedras y todo lo que pudiera servir como arma improvisada.
+
+Marcus, siempre a su lado y fiel hasta el fin, murmuró con voz tensa y preocupada:
+
+—Esto va a romperse.
+
+Alistar asintió lentamente, sin desviar la mirada de aquella turba inquieta. En sus hombres podía notar el miedo creciente, oculto tras los escudos firmemente alzados, sus corazones latiendo en un ritmo irregular. Algunos soldados ya comenzaban a buscar con discreción rutas de escape, incapaces de sostener mucho más la presión que se avecinaba.
+
+De pronto, con una mezcla de solemnidad y torpeza, las puertas principales del templo se abrieron lentamente. Harker, comandante de la orden, emergió al frente con una expresión endurecida por años de cumplimiento del deber. Junto a él caminaba el sumo sacerdote Eldrin, vestido con los ropajes sagrados, alzando sus manos hacia los cielos en un gesto de súplica y paz.
+
+—¡Hijos de Waterdeep! —clamó Eldrin con voz firme—. ¡Tyr entiende vuestro sufrimiento y ofrece consuelo!
+
+La respuesta del gentío fue inmediata y devastadora: no una muestra de devoción o gratitud, sino un rugido de desafío cargado de resentimiento, como el aullido furioso de bestias heridas. Las antorchas volaron en dirección al templo, botellas estallaron contra las escaleras y piedras comenzaron a silbar peligrosamente cerca de los defensores.
+
+—¡Atrás! —rugió Alistar, alzando su voz sobre el caos creciente—. ¡Formación!
+
+Pero ya era demasiado tarde. Una piedra atravesó el aire envenenado por la violencia y golpeó al sumo sacerdote Eldrin directamente en la frente, quien cayó sin resistencia, su cuerpo desplomándose inerte mientras la sangre teñía rápidamente los escalones sagrados.
+
+La reacción de Harker fue inmediata y despiadada:
+
+—¡Avanzad y dispersadlos! ¡Es una orden!
+
+Pero Alistar no se movió. Permaneció inmóvil, incapaz de actuar, contemplando la multitud que tenía frente a sí. En sus ojos no veía enemigos, sino la desesperación profunda de padres, madres e hijos, arrastrados hasta ese extremo por circunstancias que escapaban a su control.
+
+Entonces ocurrió algo imposible. Desde el corazón mismo de la plaza surgió un pulso oscuro, una presencia intangible que consumió toda luz, devorando el sonido hasta que todo quedó sumido en un vacío aterrador.
+
+Segundos después, el silencio estalló violentamente.
+
+La plaza se desgarró desde sus entrañas, lanzando al aire fragmentos de piedra y cuerpos. Las escalinatas se fragmentaron como cristal roto bajo un golpe demoledor. Alistar sintió cómo el escudo que había portado desde su iniciación era arrancado brutalmente de su brazo por una fuerza invisible, lanzándolo al suelo con tal violencia que la realidad misma pareció vibrar a su alrededor.
+
+Cuando por fin logró incorporarse, el paisaje que conocía había desaparecido por completo. La plaza ya no era una plaza: era un campo de batalla, envuelto en humo oscuro y espeso. Desde la negrura emergieron figuras grotescas y deformadas, criaturas hechas de carne putrefacta y oscuridad sólida, avanzando implacablemente hacia los aterrados ciudadanos. Algunos trataron de huir, pero otros fueron alcanzados por la muerte antes siquiera de comprender qué estaba ocurriendo.
+
+En ese instante de absoluto caos, Alistar comprendió con aterradora claridad que la batalla que se avecinaba no solo pondría a prueba su fuerza y su fe, sino que desafiaría hasta el límite más profundo su propia humanidad.
+
+![[ProfeciaFindeWako.png]]
+### _Vengy – La Llama Encerrada
+
+La prisión subterránea de Waterdeep era un lugar sombrío y sofocante, donde la humedad impregnaba cada piedra y la justicia parecía haber huido hace tiempo. Dentro de una celda estrecha y fría, Vengy permanecía sentado en la penumbra, la espalda apoyada contra el muro áspero y helado. Aunque no vestía armadura ni capa, y sus piernas, debilitadas por el cautiverio, apenas le respondían, seguía irradiando una fuerza intangible que atraía miradas y murmuraciones.
+
+Había quienes lo llamaban santo; otros, un farsante iluminado. Pero todos coincidían en un único detalle: su mirada ardía con una intensidad que no podía apagarse ni siquiera en la más oscura de las celdas.
+
+El cargo oficial era colaboración con criminales, una acusación que Vengy sabía que escondía verdades más profundas. Su caída había comenzado en el instante mismo en que cruzó el umbral del establecimiento de un viejo amigo, descubriendo con amarga sorpresa que aquel lugar de risas y canciones había sido transformado en una fachada para los bajos fondos. Desde aquel día, su reputación quedó dañada, la fe de sus seguidores comenzó a tambalearse y los enemigos surgieron de las sombras, como buitres atraídos por la debilidad.
+
+Pero Vengy no huyó.
+
+Aquella noche, el silencio en la cárcel era especialmente pesado y perturbador. Desde su celda, el prisionero miraba absorto el techo resquebrajado, buscando constelaciones en las grietas, intentando distraerse de la creciente inquietud que sentía en su interior.
+
+De pronto, algo cambió. Un aire opresivo, cargado con aroma de ceniza y odio, invadió lentamente su espacio. Vengy se tensó inmediatamente, alerta. Entonces lo vio: una nube de humo oscuro comenzaba a deslizarse lentamente bajo la puerta de su celda, avanzando como un predador silencioso, dotado de voluntad propia.
+
+El mundo quedó atrapado en una pausa, en ese instante eterno que siempre precede al trueno o al grito.
+
+Sin pensarlo dos veces, sin siquiera rezar, Vengy canalizó toda la fuerza contenida en su espíritu.
+
+—¡Thunder Wave! —exclamó con un rugido que resonó como el trueno largo tiempo contenido.
+
+La onda mágica explotó desde él con violencia arrolladora, deformando la puerta metálica hasta arrancarla de sus bisagras y lanzarla al pasillo con un estruendo metálico ensordecedor. Un guardia, cegado por el pánico, corría sin dirección alguna, tropezando torpemente con los restos de la puerta y cayendo a los pies del prisionero.
+
+—¡Levántate! —ordenó Vengy con determinación férrea, intentando ayudarlo en vano.
+
+Antes de que pudiera incorporarse del todo, una figura felina emergió lentamente de entre la neblina oscura, moviéndose con un ritmo perturbadoramente antinatural, como una danza siniestra entre las sombras. Sus ojos brillaban con una intensidad sobrenatural, sus garras eran curvas y letales, y su piel, retorcida por la corrupción, reflejaba la perversión de su esencia.
+
+Vengy la miró. Ella lo miró a él.
+
+Sin un rugido ni advertencia, la criatura saltó con precisión letal sobre el guardia caído, arrebatándole la vida con un movimiento limpio y despiadado. Luego, lentamente, giró su rostro hacia Vengy, clavando en él su mirada incandescente.
+
+Fue entonces cuando Vengy comprendió con absoluta claridad que no se encontraba allí por azar. Aquello no era un acto aleatorio de violencia; era una cacería meticulosamente dirigida, y él era la presa.
+
+Pero incluso sin fuerzas en sus piernas, privado de su escudo y despojado de su altar, la llama en el interior de Vengy seguía ardiendo. Mientras el humo oscuro se enroscaba como una serpiente alrededor del cuerpo sin vida del guardia, el prisionero se incorporó lentamente apoyándose contra la pared fría y húmeda.
+
+Porque si este era el final, entonces ardería junto con él.
+
+### _Ander – Al compas de la penitencia
+
+En la esquina más oscura y olvidada de una taberna desprovista de alegría, Ander sostenía la flauta con dedos inseguros, tocando una melodía quebrada que reflejaba el vacío profundo de su alma. La atmósfera estaba impregnada de olores desagradables; cerveza estancada, grasa rancia y desesperanza envolvían cada rincón del lugar, como si las mismas paredes ennegrecidas por el humo hubieran absorbido años de penas acumuladas. El público presente no escuchaba realmente; apenas toleraba su presencia con una indiferencia cruelmente pasiva.
+
+Las notas que escapaban de la flauta eran irregulares, torpes; algunas claramente fallidas, otras quizás intencionalmente desajustadas, como si intentara comunicarse con un lenguaje que nadie deseaba entender. Las monedas lanzadas a sus pies no eran reconocimiento, sino limosnas impregnadas de desprecio y castigo.
+
+—¡Eh, héroe! —vociferó alguien entre carcajadas crueles—. ¿Por qué no nos cantas cómo salvaste al mundo y perdiste tu alma?
+
+Ander levantó los ojos hacia aquella voz burlona, ofreciendo únicamente una mirada vacía. Las palabras se le quedaron atrapadas en la garganta, amordazadas por la vergüenza acumulada y el cansancio de mil noches iguales.
+
+Cuando las burlas se convirtieron en un murmullo constante, el bardo se puso de pie con dificultad, abandonando su rincón con pasos tambaleantes. Se detuvo junto a la entrada, vomitando discretamente junto al umbral antes de salir al frío nocturno, sin despedirse de nadie. Nadie lo siguió. Nadie intentó detenerlo.
+
+La noche era cruelmente fría y húmeda, penetrando sus ropas desgastadas y sacudiendo su cuerpo con temblores inevitables. Las escasas farolas de aceite apenas lograban disipar las sombras densas de las callejuelas estrechas. A lo lejos, voces sin rostro mezclaban risas oscuras con amenazas y susurros de violencia.
+
+Al girar una esquina, Ander se encontró con un perro callejero, delgado y sucio, cuyos huesos eran claramente visibles bajo su pelaje enmarañado. El animal levantó la cabeza lentamente, mirándolo con ojos profundamente tristes, casi humanos. Ander se detuvo, sintiendo una conexión inmediata con aquella criatura abandonada.
+
+Con torpeza, sacó de su bolsillo un trozo de pan endurecido y se agachó lentamente para ofrecerlo. El perro tomó el mendrugo con suavidad, sin apartar su mirada de los ojos del bardo, como reconociendo en él a un hermano en desgracia. Por un instante fugaz y doloroso, Ander se vio reflejado en aquel ser abandonado: un héroe olvidado, sobreviviendo apenas en un mundo que ya había dejado atrás sus glorias.
+
+La ternura rota del momento fue interrumpida abruptamente. Al fondo de la calle, una luz blanca, antinaturalmente pura y deslumbrante, comenzó a brillar con una intensidad ajena a la realidad conocida. Ander parpadeó, mareado por una súbita sensación de náusea. El perro gruñó con inquietud.
+
+Aquella luz giró lentamente sobre sí misma, expandiéndose hasta convertirse en algo que parecía un ojo celestial, y luego, sin advertencia, se abrió.
+
+Un portal apareció ante él, revelando del otro lado un paisaje infernal: montañas negras escupiendo fuego y humo, cielos de ceniza roja como sangre seca, y una tierra agrietada que ardía en llamas eternas. Ander retrocedió un paso, aterrado.
+
+—No… —susurró, la voz quebrada por un miedo que nacía en su alma misma.
+
+Desde el otro lado emergieron lentamente tres figuras humanoides, sombras oscuras sin rostro definido. Su aspecto era marcial, como soldados provenientes de una guerra eterna y desconocida. Sus movimientos eran deliberados, como si reconocieran el terreno que ahora pisaban, como si buscaran algo o a alguien en particular.
+
+Una de las figuras giró lentamente su cabeza hacia él, con una atención aterradora, como si pudiera percibirlo con sentidos imposibles, como si lo recordara.
+
+Antes de que pudieran avanzar más, el portal se colapsó abruptamente sobre sí mismo, dejando tras de sí solo un leve resplandor sobre el empedrado mojado. El silencio se apoderó nuevamente de la calle, roto únicamente por el jadeo inquieto del perro.
+
+Ander cayó lentamente de rodillas, mirando sus propias manos temblorosas con una mezcla de incredulidad y horror. Por primera vez en mucho tiempo, sintió miedo real, un miedo profundo y primordial que nacía no del exterior, sino de sí mismo.
+
+Porque comprendía claramente que, si aquellos seres habían venido buscando algo, era porque ya sabían exactamente dónde encontrarlo.
+
 ---
 ## **Sesión 2**
 
-### Ander - La Huida acompañado
+### _Ander - La Huida acompañado
 
 Ander corrió con una desesperación animal, huyendo de las sombras que brotaban del portal maldito, sintiendo cómo el frío de la noche se mezclaba con el pánico ardiente que recorría sus venas. En sus brazos, el perro flaco jadeaba, asustado. Con un último esfuerzo, se escondieron juntos en un callejón estrecho y oscuro.
 
 —Escóndete —susurró Ander, acariciando brevemente la cabeza del animal, sintiendo que su propia mano temblaba más que el perro.
 
 Antes de que pudiese recuperar el aliento, una figura oscura apareció al final del callejón, a escasos metros. Sin pensarlo demasiado, Ander conjuró un Starry Wisp que impactó de lleno sobre la figura. Aprovechando el momento, echó a correr de nuevo, pero la criatura era veloz, demasiado veloz. En un abrir y cerrar de ojos, lo alcanzó y se lanzó sobre él, derribándolo al suelo en una maraña de brazos y sombras.
+
+![[AnderSesion2.png]]
 
 Rodaron juntos por el suelo húmedo y frío; Ander logró momentáneamente liberarse, pero no sin recibir un golpe brutal que le dejó una sensación helada extendiéndose desde el punto de impacto hacia todo su cuerpo.
 
@@ -401,45 +332,49 @@ Exhausto, cargó al perro hacia el interior de lo que resultó ser un almacén a
 
 Entonces, arrastrado por el viento nocturno, un papel medio calcinado aterrizó frente a sus pies. Ander lo tomó con dedos temblorosos y leyó en voz baja:
 
-_“Cuando el velo del mundo se desgaste,_  
-_y el oro de los héroes se vuelva herrumbre,_  
-_el aire se abrirá como herida en la carne de este plano._
-
-_Y de esa grieta brotarán los siervos del Juicio,_  
-_con garras de castigo y aliento de ruina._  
-_Mas su mera presencia la cordura mina._
-
-_Donde las raíces se retuercen de dolor,_  
-_y la savia se convierte en sangre,_  
-_el abismo mismo se abre._
-
-_Sobre los muros de la falsa fe,_  
-_cuando el caos llegue y reine,_  
-_ni los más puros estarán a salvo._
-
-_No temáis a la muerte, pues es salvación,_  
-_sino al renacer de aquello que nunca vivió._
-
-_Los astros se ocultarán de la mirada de los sabios,_  
-_las reliquias brillarán con luz marchita,_  
-_y los rezos antiguos serán ceniza en la lengua del clérigo._
-
-_Vendrán las tres señales:_  
-_La sangre manará del árbol sagrado,_  
-_la campana sonará bajo aguas sin templo,_  
-_y la luna será devorada por su reflejo._
-
-_Entonces, la Voz hablará desde la grieta:_  
-_‘El Juicio ha comenzado. Vuestra era termina.’_  
-_Así está escrito. Así será.”_
+> _“Cuando el velo del mundo se desgaste,_  
+> _y el oro de los héroes se vuelva herrumbre,_  
+> _el aire se abrirá como herida en la carne de este plano._
+> 
+> _Y de esa grieta brotarán los siervos del Juicio,_  
+> _con garras de castigo y aliento de ruina._  
+> _Mas su mera presencia la cordura mina._
+> 
+> _Donde las raíces se retuercen de dolor,_  
+> _y la savia se convierte en sangre,_  
+> _el abismo mismo se abre._
+> 
+> _Sobre los muros de la falsa fe,_  
+> _cuando el caos llegue y reine,_  
+> _ni los más puros estarán a salvo._
+> 
+> _No temáis a la muerte, pues es salvación,_  
+> _sino al renacer de aquello que nunca vivió._
+> 
+> _Los astros se ocultarán de la mirada de los sabios,_  
+> _las reliquias brillarán con luz marchita,_  
+> _y los rezos antiguos serán ceniza en la lengua del clérigo._
+> 
+> _Vendrán las tres señales:_  
+> _La sangre manará del árbol sagrado,_  
+> _la campana sonará bajo aguas sin templo,_  
+> _y la luna será devorada por su reflejo._
+> 
+> _Entonces, la Voz hablará desde la grieta:_  
+> _‘El Juicio ha comenzado. Vuestra era termina.’_  
+> _Así está escrito. Así será.”_
 
 Ander sintió un frío más profundo que cualquier noche invernal recorrer su cuerpo. No solo por las palabras leídas, sino por la certeza de que ya sabían exactamente dónde encontrarlo.
 
-###  Alistar – El caos
+![[ProfeciaVersosIniciales.png]]
+###  _Alistar – El caos
 
 La noche se había roto, desgarrada por un estallido infernal que aún reverberaba en los oídos de Alistar. Frente al templo, la plaza era una herida abierta en la piel de la ciudad, de la que manaba humo negro y gritos desesperados. Su mirada recorrió brevemente el campo de batalla improvisado, distinguiendo entre las llamas y el caos a treinta o quizás cuarenta criaturas demoníacas, sombras retorcidas que avanzaban inexorables, sembrando muerte y miedo.
 
 Desde lo alto de las escalinatas, Harker permanecía rígido, los labios apretados en una línea de acero, los ojos duros como piedras ante el horror que se desplegaba a sus pies. Alistar se giró hacia él, la voz quebrada por urgencia y desesperación.
+
+![[Harker.png]]
+_Harker_
 
 —¡Harker! ¡Tenemos que ayudarles! ¡Son inocentes!
 
@@ -490,7 +425,7 @@ Aquella noche, sin embargo, la justicia prevaleció sobre el orden
 
 Y mientras su comandante se alejaba en silencio, Alistar contempló el desastre con el corazón pesado, sabiendo que, pese a la victoria efímera, las heridas de esta noche tardarían mucho tiempo en cicatrizar.
 
-### Hakuryuu - Soledad Interior
+### _Hakuryuu - Soledad Interior
 
 El suelo tembló bajo sus pies mientras los demonios se deslizaban hacia él, grotescos, emitiendo sonidos que se debatían entre gruñidos animales y ecos de llantos malditos. Hakuryuu se preparó instintivamente, aunque sus garras estaban desnudas y Myrrym brillaba dolorosamente por su ausencia. Verse aferrando un simple candelabro en lugar de su legendaria espada le recordó con mayor intensidad la profundidad de su pérdida.
 
@@ -502,6 +437,9 @@ Tres miembros del Séquito del Dragón Plateado irrumpieron en la sala con armas
 
 Eran sus mejores hombres. Kael, al frente, blandía un mandoble envuelto en un leve resplandor azul; Varuun, el más joven, asumió rápidamente una posición defensiva frente a Hakuryuu; y Dareth, silencioso y solemne, murmuraba una plegaria mientras alzaba el escudo adornado con el emblema del clan.
 
+![[Dragon de plata, Varrum.png]]
+_Varrum_
+
 Las criaturas demoníacas se detuvieron abruptamente, como si algo en esta resistencia les intrigara profundamente. La más alta de ellas—una masa de huesos retorcidos, humo negro y garras carmesí—abrió una boca inexistente en un rostro vacío, pronunciando claramente una palabra que resonó ominosamente en los corazones de todos los presentes:
 
 —División.
@@ -512,9 +450,16 @@ Dareth cayó de rodillas, soltando una risa quebrada, inhumana, que heló la san
 
 —Mi señor... —su voz, distorsionada y cruel, resonó en la sala— ¿por qué debería proteger a un dragón que ya no ruge?
 
+
+![[Dragon de plata, Dareth.png]]
+_Dareth_
+
 La oscuridad reaccionó aún más ferozmente, devorando instantáneamente a otra de las criaturas hasta que no quedó rastro alguno salvo una sombra vacía. Hakuryuu, conmocionado pero reafirmando su resolución, cargó hacia la amenaza que aún persistía, su cuerpo movido por la memoria del guerrero que había sido.
 
 El combate se convirtió en un baile desesperado, las criaturas y soldados enfrentándose en medio del caos. Finalmente, con un golpe certero, Hakuryuu hirió gravemente a la última criatura. La bestia, agonizante, soltó un rugido antinatural y, usando sus propias garras, desgarró su pecho. Un crujido grotesco de huesos rotos resonó en la sala, acompañado de un chorro de sangre negra que chisporroteaba como ácido en el aire.
+
+![[Dragon de plata, Kael.png]]
+_Kael_
 
 Y entonces, de entre la masa pútrida, extrajo algo. Un objeto imposible, brillante incluso bajo la sombra más absoluta. Una punta de espada, retorcida y mellada, pero indudablemente reconocible.
 
@@ -544,7 +489,9 @@ Un triángulo—formado por tres líneas negras—ardía sobre su piel como un h
 
 La visión se desvaneció bruscamente, devolviéndole a la sala destrozada. Pero la marca permaneció, grabada en su piel, una promesa oscura de que su batalla estaba lejos de terminar.
 
-### Malizall - El amanecer del pacto
+![[MyrymRoto.png]]
+
+### _Malizall - El nuevo amanecer del pacto
 
 La cabaña vibró con violencia, resonando como un gong de pesadilla al abrirse paso el demonio. Malizall, afuera en la nieve punzante, apenas tuvo tiempo para reaccionar antes de que la criatura, una masa retorcida de oscuridad y carne corrompida, emergiera en toda su grotesca plenitud. Su corazón se contrajo con una punzada de pánico, sus ojos fijos en Wako, quien desesperadamente extendía sus alas, buscando altura en vano.
 
@@ -578,7 +525,8 @@ Malizall reconoció algo familiar en la profundidad de aquellos ojos nuevos; no 
 
 Malizall comprendió en ese instante lo que significaba. Había sido elegido nuevamente, destinado a cuidar de esta criatura como una vez cuidó de Wako. La marca invisible del pacto resurgía, distinta pero igualmente poderosa, y supo con absoluta certeza que su camino aún no había terminado.
 
-### Vengy - Protector del débil
+![[ProfeciaFindeWako2.png]]
+### _Vengy - Protector del débil
 
 El eco del trueno resonó aún en los oídos de Vengy mientras la puerta retorcida de su celda caía a un lado, liberándolo de su encierro. Apenas tuvo tiempo de recuperar el aliento cuando la criatura felina, retorcida y envuelta en humo, se lanzó sobre el guardia caído, hiriéndolo gravemente con una facilidad aterradora.
 
@@ -608,7 +556,7 @@ Su mirada se endureció con una determinación férrea; no abandonaría a la gen
 
 Mientras la ciudad ardía a su alrededor, Vengy supo con absoluta claridad que su batalla estaba lejos de haber terminado. Pero mientras tuviera aliento, seguiría luchando por proteger a aquellos que aún no habían perdido la esperanza.
 
-### Orianna - El latir del abismo
+### _Orianna - El latir del abismo
 
 La grieta en la tierra siguió expandiéndose lentamente, devorando el suelo con un sonido húmedo y angustioso. Orianna, firme a pesar del temblor bajo sus pies, calculó con horror que al menos cinco criaturas emergían lentamente de aquella fisura maldita. Su corazón latía con furia y determinación, consciente del peligro que amenazaba con consumir el santuario y todo cuanto amaba.
 
@@ -630,7 +578,9 @@ Sin opción de discutir, Orianna montó sobre el lomo de Elyz, ambas sumergiénd
 
 Orianna sintió los vapores tóxicos aferrándose a su cuerpo, tratando de doblegar su voluntad. Pero resistió, atraída hacia abajo por ese latido insistente que parecía estirarla hacia algo inevitable. Finalmente, ante ella apareció un corazón envuelto en ramas oscurecidas, flotando en una realidad sin calor, tiempo ni gravedad. Solo existían ella y aquel corazón.
 
-Sin dudar, Orianna deshizo su transformación y lanzó un último cono de frío hacia el corazón. En el instante previo a su destrucción, un último latido rasgó la urdimbre misma del mundo, y Orianna se vio desde fuera, observando una cámara llena de símbolos que formaban una espiral convergiendo hacia el corazón destrozado.
+![[Corazón del abismo.png]]
+
+Sin dudar, Orianna deshizo su transformación y lanzó un último cono de frío hacia el corazón. En el instante previo a su choque, un último latido rasgó la urdimbre misma del mundo, y Orianna se vio desde fuera, observando una cámara llena de símbolos que formaban una espiral convergiendo hacia el corazón.
 
 Su mente fue arrancada de nuevo, arrojada a un vacío infinito lleno de símbolos en espiral y fragmentos de hueso flotando como estrellas muertas. Frente a ella, suspendido en el aire, un triángulo perfecto hecho de cicatrices con un ojo cerrado en el centro. Más allá, una figura sin rostro, coronada con una calavera de oro y fuego que no la miraba, pero cuya presencia la penetraba hasta el alma.
 
@@ -652,7 +602,8 @@ La comprensión llegó con brutal certeza: Acererak había secuestrado a Elyz. S
 
 El aislamiento había terminado. Ahora comenzaba la verdadera batalla.
 
-### Conclusión
+![[Bosque dañado.png]]
+### _Conclusión
 
 La noche se prolongó en un caos incesante, donde criaturas astutas y oscuras aprovechaban cada sombra para atacar a los incautos y distraídos. Waterdeep ardía bajo un cielo ennegrecido, y el aire estaba impregnado de humo, ceniza y desesperación.
 
@@ -700,12 +651,10 @@ En el bosque herido, Orianna emergió de las sombras con la determinación feroz
 
 La noche avanzaba implacable hacia el amanecer, y con ella, la certeza de que la reunión de aquellos viejos compañeros era inevitable. El destino, una vez más, los llamaba a luchar juntos.
 
-
 ---
-
 ## **Sesion 3**
 
-###  _Amanecer púrpura sobre el templo herido__
+###  _Amanecer púrpura sobre el templo herido_
 
 ![[Eldrin.png]]
 El templo de Tyr respiraba con dificultad aquella mañana. Sobre el aroma familiar del incienso ahora pesaba una atmósfera sofocante de ceniza y sangre seca, impregnando cada piedra, cada rincón del sagrado recinto. En los pasillos, hombres y mujeres descansaban, vendados y abatidos, con miradas perdidas que buscaban respuestas en las grietas del techo. Las velas sagradas habían dado paso a lámparas de aceite que proyectaban sombras largas, convirtiendo la santidad en un campo improvisado de batalla.
@@ -1181,4 +1130,4 @@ Era el eco definitivo del juicio, el anuncio inevitable de que la verdadera prue
 
 ---
 
-## **Sesion 4**
+## **Sesión 4**
