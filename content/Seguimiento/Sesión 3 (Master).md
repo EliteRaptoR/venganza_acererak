@@ -310,7 +310,7 @@ Aquí el grupo puede intervenir de muchas formas:
 ### **El profeta de la nueva fe – Última proclama**
 
 Subido a la caja, el profeta deja que los gritos y sollozos de la multitud se extingan poco a poco, hasta que sólo su voz retumba en la plaza. El viento agita su túnica, y la ceniza de los últimos días parece danzar en el aire.
-![[Charlatan.png]]
+![[Profeta.png]]
 > —¡Escuchadme, hijos del dolor y la pérdida! Hoy os habéis postrado ante un altar vacío, habéis suplicado a sacerdotes sordos y a dioses que os miran desde su trono de oro y ceniza. Pero el tiempo de los favores comprados ha terminado.
 > 
 > —¿Esperáis milagros de los que han cerrado la mano? ¿Creéis que el juicio diferenciará entre ricos y pobres cuando la última campana caiga al abismo? No habrá resurrección para vosotros. Ni para vuestros hijos, ni para los héroes en su torre.

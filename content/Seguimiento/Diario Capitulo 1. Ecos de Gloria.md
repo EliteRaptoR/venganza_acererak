@@ -1,6 +1,9 @@
 #Jugadores  #NoSubido
-
 # Diario Capitulo 1: Ecos de Gloria
+
+
+[[#**Sesión 1**]]
+
 ## **Sesión 0**
 
 ### **Introducción General**
@@ -702,5 +705,480 @@ La noche avanzaba implacable hacia el amanecer, y con ella, la certeza de que la
 
 ## **Sesion 3**
 
+###  _Amanecer púrpura sobre el templo herido__
+
+![[Eldrin.png]]
+El templo de Tyr respiraba con dificultad aquella mañana. Sobre el aroma familiar del incienso ahora pesaba una atmósfera sofocante de ceniza y sangre seca, impregnando cada piedra, cada rincón del sagrado recinto. En los pasillos, hombres y mujeres descansaban, vendados y abatidos, con miradas perdidas que buscaban respuestas en las grietas del techo. Las velas sagradas habían dado paso a lámparas de aceite que proyectaban sombras largas, convirtiendo la santidad en un campo improvisado de batalla.
+
+En el interior de la cámara del sumo sacerdote Eldrin Kurthos, la situación era aún más grave. Eldrin yacía inmóvil sobre un lecho frío, envuelto en mantas raídas y vendas empapadas. Una quemadura siniestra recorría desde su frente hasta la mandíbula, negra y profunda como una letra oculta tatuada por la violencia de la noche. A su lado, dos clérigos jóvenes murmuraban oraciones con una desesperación silenciosa, canalizando lo poco que quedaba de su poder divino hacia las runas grabadas en mármol.
+
+La puerta crujió con un quejido metálico, dejando entrar a Harker, el comandante cuya armadura siempre había relucido con impecable severidad. Hoy, aquella armadura estaba manchada por sangre y hollín; su capa desgarrada colgaba sin dignidad sobre sus hombros.
+
+Sin siquiera mirar a Eldrin, Harker se dirigió lentamente hacia la ventana alta. Afuera, el amanecer teñido de violeta anunciaba una verdad incómoda: la batalla había dejado algo más que heridas físicas. La fe, la justicia, el orden—todo parecía pender de un hilo demasiado delgado.
+
+Harker rompió el silencio, su voz grave, contenida: —Haced lo que debáis. Pero si este hombre muere… Tyr será el único que juzgue mis decisiones.
+
+En la plaza frente al templo, la realidad era un cuadro desolador de destrucción. Columnas rotas y emblemas resquebrajados reposaban como huesos dispersos de una justicia caída. Bajo el cielo violáceo, cargado de gases residuales de la batalla nocturna, se movían figuras conocidas con pesadumbre, tratando de encontrar sentido a los restos del caos.
+
+Alistar, visiblemente agotado tras una noche sin tregua, se encontraba de pie en medio de la desolación, sus hombros caídos bajo el peso invisible de la responsabilidad. Junto a él, Ander rebuscaba entre los cadáveres con meticulosidad incómoda, guiado por la fría necesidad de dar dignidad a los caídos. No estaba acostumbrado a tal escena, pero no desistía en su tarea.
+
+Ander rompió el silencio incómodo con una voz quebrada por la ironía de su situación: —Hace mucho que no nos vemos así. ¿Qué tal una cerveza?
+
+—Este no es el momento, Ander —reprendió Alistar, severo aunque comprensivo.
+
+Vengy, que hasta ese momento había estado guiando a los ciudadanos heridos hacia el refugio del templo, se acercó con expresión incrédula. La tensión inicial pronto cedió ante la realidad compartida, y Alistar, finalmente, abrió su corazón, relatando las dificultades de mantener la ley y el orden en un mundo que ya no reconocía la justicia divina.
+
+Ander sonrió con nostalgia, comentando con resignación que Alistar seguía siendo el mismo de siempre, firme e implacable en sus convicciones. Vengy, con ironía punzante, relató su reciente encarcelamiento, lo que provocó la sorpresa sincera de Alistar.
+
+—¿Ahora eres un estafador o un testaferro? —pinchó Ander, recuperando por un instante su vieja chispa provocadora.
+
+Vengy trató de justificarse torpemente, maldiciendo su inocencia y jurando venganza contra aquellos que lo habían engañado. Esta conversación, tan llena de camaradería y tensión contenida, despertó en Alistar sentimientos encontrados: alegría por el reencuentro, añoranza de tiempos mejores y nostalgia por la unidad perdida del grupo que una vez había enfrentado lo imposible.
+
+Vengy, notando la apariencia desmejorada de Ander, lo llamó cariñosamente "pequeñajo", intentando limpiar torpemente el polvo acumulado en sus desgastadas ropas.
+
+—La vida me pasó por encima —respondió Ander con amargura—. Salí a contar nuestras historias, esperando reconocimiento, pero solo obtuve burlas, insultos y violencia. Al final, simplemente me rendí al alcohol.
+
+Vengy no pudo evitar un comentario ácido: —Ahora entiendo por qué tu primera reacción fue pedir cerveza.
+
+Alistar, intentando aliviar el dolor evidente de su amigo, le habló con empatía sobre cómo había cambiado el mundo después de la maldición, cómo ahora cuestionaban incluso a Tyr y cómo un culto oscuro crecía, socavando la fe y la justicia conocidas.
+
+Los tres, rodeados de ruinas y dolor, compartían ahora algo más profundo que el cansancio físico: una renovada certeza de que solo unidos podrían enfrentar lo que se avecinaba.
+
+El aislamiento, la culpa y la desesperación habían terminado. Ahora, comenzaba su verdadera batalla.
+
+### _El sonido que aún no ha sonado_
+
+Un grito abrupto rasgó el murmullo general de la plaza, atrayendo todas las miradas.
+
+—¡No entréis al templo! ¡Está corrupto! ¡Lo han mancillado!
+
+Sobre una pila tambaleante de cajas, un joven harapiento, con ojos inflamados pero brillantes por la fiebre, agitaba sus brazos con desesperación.
+
+—¡Esta plaga es juicio por siglos de mentiras! ¡Por venerar a dioses que callaron cuando más los necesitábamos!
+
+Alistar avanzó junto a Vengy, intentando calmar al joven, pero éste lo evadió, alzando un pergamino mugriento. Con voz ajena y profunda leyó:
+
+“Cuando el juicio se derrame en las calles  
+y el cielo se pinte de vino muerto,  
+una campana sonará bajo las aguas  
+donde no hay templo ni altar.  
+Su eco traerá el final del día,  
+y la aurora será tragada por la espuma.  
+Los dioses que juraron proteger callarán,  
+y en su silencio, la Voz tomará forma.  
+No habrá más amanecer.  
+No habrá más canto de la luz.  
+Solo el bronce hundido hablará por ellos.  
+Entonces sabréis:  
+la era del juicio ha comenzado.”
+
+La figura enloquecida preguntó bruscamente a Alistar: —¿La oyes tú también? ¿La campana?
+
+Y sin esperar respuesta, corrió alejándose de la plaza, dejando caer el pergamino al suelo.
+
+La multitud comenzó a murmurar inquieta; algunos retrocedieron. Ander intentó apaciguar la tensión, entonando una canción magistral que logró suavizar los ánimos y recuperar cierta calma.
+
+Un hombre junto a su familia agradeció a Alistar con reverencia antes de partir. Mientras tanto, Vengy observaba el papel caído, reconociendo inmediatamente un patrón que heló su sangre: un triángulo invertido.
+
+Una anciana se acercó a Alistar con voz susurrante: —No te dejes guiar por esta gente. Sigue a tu dios, y solo a tu dios.
+
+Alistar reafirmó su voz ante todos: —En estos tiempos difíciles, más que nunca debemos cuidarnos los unos a los otros. Todo aquel que necesite ayuda, será bienvenido en el templo de Tyr.
+
+La decisión estaba tomada. Su lucha apenas comenzaba.
+
+### _El rencuentro con Orianna y Malizall_
+
+Desde el cielo teñido de violeta, una sombra cortó el aire con majestuosidad solemne. La enorme águila descendió en amplios círculos sobre la plaza destrozada, sus alas desplegadas irradiando reflejos de bronce y esmeralda que combatían la oscuridad reinante. La multitud miró con asombro silencioso, reconociendo, en aquel vuelo majestuoso, algo más que un simple ave. Finalmente, en un suave destello del amanecer, la figura tocó tierra transformándose en Orianna.
+
+Estaba visiblemente exhausta, su respiración agitada y entrecortada. Ocultaba instintivamente su mano, herida y marcada con una cicatriz siniestra. Sus ojos, profundamente alterados, buscaron desesperadamente a sus amigos.
+
+—¡Ha vuelto! —clamó con voz quebrada por el cansancio y el miedo—. ¡Lo ha tomado todo! Elyz… la tiene él. Necesitáis ayudarme… ¡tenemos que defender este mundo!
+
+Vengy, alarmado, mostró rápidamente el pergamino abandonado por el hombre perturbado, donde resaltaba ominosamente un triángulo invertido. Orianna fijó sus ojos en el símbolo y, al instante, la conmoción y el agotamiento la vencieron, desplomándose suavemente hacia el suelo.
+
+Alistar reaccionó de inmediato, acercándose rápidamente para sostenerla y acomodarla con delicadeza. Observó con preocupación las heridas visibles en su cuerpo. Mientras la alzaba en brazos, un puñado de tierra fina cayó desde la mano de Orianna, fundiéndose imperceptiblemente con el suelo del templo, como si reclamara su regreso a la tierra sagrada de donde provenía.
+
+Ander se apresuró a vendar cuidadosamente la mano herida de Orianna, y junto a Alistar y Vengy, la llevaron con premura al interior del templo.
+
+Mientras tanto, una figura cruzaba lentamente el umbral, trayendo consigo un frío penetrante que poco tenía que ver con el clima. Malizal Faroardiente Verbulux, cubierto de cenizas hasta los codos, con nuevas arrugas talladas por la tensión y la angustia, avanzó con pasos decididos hacia Vengy.
+
+—¿Estás bien? —preguntó Malizal con voz ansiosa y acelerada—. ¡Tenemos que hacer algo! ¿Qué hacemos ahora?
+
+Vengy intentó mostrarle el pergamino con la profecía, pero Malizal, agitado, interrumpió con un gesto impaciente.
+
+—Ya sé lo que está pasando. ¿Dónde están los demás?
+
+—Alistar, Ander y Orianna están dentro del templo —respondió Vengy, señalando hacia el interior.
+
+Malizal asintió con determinación, aunque claramente perturbado. En un movimiento rápido, realizó un conjuro de visión, buscando contactar con Hakuryuu. En su mente vio al orgulloso dragón plateado cabalgando frenéticamente sobre Drogo, su caballo blanco, atravesando el bosque devastado y marchito.
+
+—Hakuryuu, ¿dónde estás? —preguntó mentalmente Malizal—. Ven al templo de Tyr en Waterdeep. Te necesitamos.
+
+Hakuryuu, frente a la grieta que partía el bosque, observaba impotente la desolación causada. Al escuchar las palabras urgentes de Malizal, sintió cómo el pánico se apoderaba de él. Con movimientos torpes e impulsivos, saltó a lomos de Drogo, quien, en marcado contraste con la torpeza de su jinete, salió disparado con firmeza y decisión hacia Waterdeep.
+
+Dentro del templo, Marcus había encontrado rápidamente una habitación improvisada con lechos humildes de paja y tela para que Orianna descansara. Alistar depositó suavemente el cuerpo inconsciente de su amiga sobre una de las camas y agradeció al soldado con una mirada grave.
+
+—¿Cómo estás, Marcus? —preguntó con genuina preocupación.
+
+—Difícil, pero aguantaremos —respondió Marcus, visiblemente alterado—. Permaneceré afuera haciendo guardia.
+
+Alistar asintió en silencio, consciente del peso de las sospechas que ahora se confirmaban con cada nueva revelación.
+
+Al cruzar nuevamente el umbral de la sala, Marcus reconoció inmediatamente a Vengy, saludándolo militarmente antes de indicarles dónde estaban los demás. Malizal y Vengy ingresaron en la habitación. Al ver a Malizal, Alistar lo abrazó efusivamente, notando de inmediato la ausencia de Wako y la presencia inquietante de un nuevo acompañante cuervo.
+
+Malizal se dirigió hacia Orianna, intentando canalizar magia curativa sobre sus heridas. Pronto comprendió con frustración que el conjuro no surtía efecto alguno; no era daño físico lo que la aquejaba. Calló profundamente, reflexionando en silencio sobre la magnitud de lo que estaba ocurriendo y sobre las dificultades que aguardaban a todos.
+
+Fuera del templo, Hakuryuu, montado sobre Drogo, avanzaba con premura hacia la ciudad, consciente de que aquella reunión en el templo de Tyr era ahora su única esperanza.
+
+Con determinación, Alistar se separó del grupo, encaminándose con pasos firmes hacia Harker. Sabía que era hora de enfrentar las consecuencias de sus decisiones. Antes de marcharse, dio instrucciones claras a Marcus.
+
+—Avísame en cuanto Orianna despierte.
+
+Marcus asintió con solemnidad, apostándose en la puerta con una vigilancia resuelta, consciente de que aquella calma momentánea no era más que el preludio de nuevas tormentas.
+
+### _El edicto de Harker_
+
+Entre la niebla violácea y el murmullo apagado de los refugiados que aún se agolpaban en el templo, Alistar caminaba con la determinación de quien sabe que está a punto de enfrentar una verdad inevitable. Al fondo de la estancia, envuelto por la tenue luz filtrada a través del humo, apareció el comandante Harker. Flanqueado por cuatro templarios con armaduras dañadas, sus capas rasgadas y yelmos abollados, avanzaba con la precisión fría de una marcha marcial.
+
+El casco maltrecho del comandante apenas ocultaba unos ojos que parecían dos cuchillas de acero helado, y sobre su pecho brillaba fugazmente el lema "Lex et Iustitia", como un recordatorio implacable del deber sagrado que aún lo sostenía en pie.
+
+Alistar se detuvo y, alzando su mano izquierda hacia el corazón, saludó respetuosamente al comandante que ahora se acercaba.
+
+—Paladín Belmont —comenzó Harker, su voz resonando como acero en piedra—. Tus acciones en la plaza me han costado la noche. Provisionalmente quedas fuera del servicio de la orden de Tyr hasta que se pueda celebrar un juicio justo. Nadie te tocará ahora: la ciudad arde, y el juicio deberá esperar mejores tiempos.
+
+Alistar mantuvo la serenidad en su rostro y respondió con calma:
+
+—Entiendo, comandante. ¿Cómo se encuentra el sumo sacerdote Eldrin?
+
+Harker, por primera vez, pareció titubear brevemente antes de recomponer su semblante impasible.
+
+—Estamos haciendo lo posible por ayudarlo a recuperarse, pero su estado es incierto.
+
+Tras estas palabras, Harker retomó su camino sin más comentarios, sus pasos resonando con la solemnidad de una sentencia ya dictada.
+
+Alistar permaneció en silencio unos instantes, sintiendo el peso de la mirada de Marcus sobre su espalda. Volvió lentamente hacia él, enfrentando la preocupación palpable en el rostro de su leal subordinado.
+
+—Marcus —dijo Alistar con voz firme pero cálida—, tendrás que tomar mi relevo. He sido relegado de mis funciones hasta que se celebre el juicio.
+
+La reacción de Marcus fue inmediata, su rostro reflejando indignación y sorpresa.
+
+—¡¿Cómo es posible?! —exclamó Marcus—. ¡¿Quién se cree que es para hacer esto?!
+
+—Es el comandante, Marcus, y debemos aceptar su decisión —respondió Alistar con calma, intentando apaciguar la ira creciente de su subordinado.
+
+Marcus negó vigorosamente, visiblemente furioso:
+
+—¡De ninguna manera! ¡Renuncio!
+
+Alistar colocó una mano tranquilizadora en el hombro de Marcus.
+
+—No puedes renunciar, Marcus. La Orden te necesita.
+
+—¿Y usted no me necesita, señor? —preguntó Marcus, la voz quebrándose con emoción genuina.
+
+—Por supuesto que sí, Marcus —contestó Alistar suavemente—. Pero el funcionamiento de la Orden es fundamental para la ciudad. Te necesitamos aquí, recordando a todos, especialmente al comandante, nuestro juramento de proteger a los inocentes y defender la justicia. En plena batalla, el comandante tomó la decisión de abrir las puertas para proteger a los ciudadanos. Debes recordarle siempre el valor de esas acciones.
+
+Marcus respiró profundamente, luchando internamente contra su deseo de marcharse junto a Alistar. Finalmente, resignado, asintió lentamente.
+
+—¿Última orden? —preguntó, recuperando lentamente su compostura marcial.
+
+—Solo recuerda lo que somos y por lo que luchamos —respondió Alistar con solemne convicción—. Protégelos a todos y no permitas que nadie olvide nuestra verdadera misión.
+
+Marcus cuadró los hombros y, con el saludo formal de la Orden, se despidió de Alistar antes de ocupar nuevamente su puesto.
+
+Alistar observó cómo Marcus retomaba su posición con renovado propósito y entró silenciosamente en la habitación donde aguardaban sus compañeros, sabiendo que esta prueba era solo el principio de una larga y oscura batalla por venir.
+
+### _La llegada de Sildar_
+
+Fuera del templo, sentado en las escalinatas que aún mostraban las cicatrices de la noche anterior, Vengy observaba sombríamente a quienes murmuraban a su alrededor, juzgándolo con miradas furtivas y palabras envenenadas.
+
+—Mira, ya está fuera. Gente como él nunca paga realmente por sus actos —susurraban voces anónimas, pero audibles.
+
+Vengy sintió cómo la rabia bullía en su interior, la determinación firme de hacer justicia sobre quienes le habían traicionado y manchado su nombre. Lanzó una mirada gélida hacia quienes hablaban, provocando que se alejaran rápidamente.
+
+En ese instante, una figura luminosa avanzó hacia la plaza. Su espada destellaba con una luz radiante y su presencia transmitía una calma absoluta, casi irreal en medio del caos. Vengy reconoció inmediatamente aquella silueta familiar.
+
+—¡Vengy, viejo amigo! ¡Cuánto tiempo sin verte! —saludó efusivamente Sildar Hallwinter, con una sonrisa que disipaba temporalmente las sombras que lo rodeaban.
+
+—Dichosos los ojos, Sildar —respondió Vengy, poniéndose de pie y estrechando cálidamente su mano.
+
+Sildar, con gesto tranquilo, sacó una cantimplora y la ofreció a un niño que pasaba cerca, antes de volver su atención hacia Vengy.
+
+—¿Cómo te encuentras? —preguntó con preocupación genuina.
+
+—Mal —confesó Vengy con sinceridad—. Nos enfrentamos de nuevo al mal que combatimos hace años.
+
+—Otro amanecer ha llegado, viejo amigo —dijo Sildar con firmeza serena—. Todo irá bien.
+
+Caminaron juntos hacia la entrada del templo, y antes de cruzar el umbral, Sildar hizo una reverencia respetuosa. Sin llamar, entró junto a Vengy en la sala donde aguardaban los demás.
+
+—¡Chicos, adivinad quién ha venido! —anunció Vengy con renovado optimismo.
+
+La presencia de Sildar iluminó instantáneamente la sala. Alistar y Ander le recibieron con sonrisas y abrazos, reconfortados al ver un rostro tan familiar en esos tiempos tan oscuros.
+
+—¿Dónde está Hakuryuu? —preguntó Sildar, mirando alrededor con expectación.
+
+—Está en camino —informó Alistar—. Pronto estaremos todos reunidos.
+
+Vengy aprovechó para entregarle a Sildar el papel con la profecía. Tras echarle una rápida mirada, el rostro del veterano se ensombreció.
+
+—Tengo mucho que contaros sobre esto —dijo, mostrando una gravedad inesperada—. Quemad este papel, es veneno para la mente.
+
+La atención de Sildar recayó entonces sobre Orianna, tendida e inconsciente en la improvisada cama. Con suavidad, extendió sus manos sobre ella, lanzando un hechizo para intentar despertarla. Orianna emitió un débil quejido, pero no despertó. Sildar reparó en la marca oscura en la mano de la tiefling, y al tocarla sintió abruptamente las emociones que la atenazaban, la oscuridad infinita que invadía su espíritu.
+
+—¿Podrías ayudarla, Malizal? —preguntó Ander con voz preocupada.
+
+Malizal asintió, aunque con incertidumbre.
+
+—Podría usar Greater Restoration, pero necesito polvo de diamante.
+
+Alistar salió apresuradamente a buscar a Marcus, explicándole la necesidad urgente. No tardaron mucho en regresar, Marcus entregándole a Malizal una generosa cantidad del polvo requerido.
+
+Con solemne determinación, Malizal extendió el polvo de diamante sobre Orianna. Colocó una mano sobre su pecho y la otra sobre su frente, murmurando plegarias fervientes a Lathander para que limpiara la corrupción que la consumía. Una luz intensa se extendió por el cuerpo de Orianna, luchando fieramente contra la oscuridad concentrada en su mano. Finalmente, con un destello final, Orianna abrió los ojos, despertando abruptamente en medio de la pesadilla que aún la perseguía.
+
+Durante unos segundos, Orianna permaneció confundida, con las terribles imágenes aún frescas en su mente. Poco a poco, reconoció a sus compañeros y susurró con voz débil pero determinada:
+
+—Él ha vuelto… he visto un corazón oscuro dentro de la grieta. Acererak nos quiere, y ha tomado a Elyz. Necesito vuestra ayuda… sin ella, el bosque está condenado.
+
+Los ojos de todos se encontraron en silencio, la determinación compartida reflejada en sus miradas.
+
+—¿Otra vez Acererak? —preguntó Ander, irónico pero decidido—. Parece que ha vuelto para que volvamos a hacer de niñeras.
+
+El silencio fue breve, roto pronto por la determinación colectiva.
+
+—Entonces volvemos a luchar —dijo Alistar con voz firme—, juntos, como antes.
+
+Todos asintieron, preparándose internamente para el camino arduo que estaba por delante. El reencuentro había concluido; la verdadera batalla estaba a punto de comenzar.
+
+### _El caballero plateado_
+
+Hakuryuu cabalgaba a lomos de su caballo Drogo hacia el templo de Tyr con impaciente urgencia, cruzando la plaza con rapidez. Sin detenerse, ascendió las escalinatas hasta detenerse en la cima con un repentino movimiento de las patas delanteras del caballo. Un guardia, visiblemente incómodo y evasivo, tomó apresuradamente las riendas del animal para llevarlo a las cuadras. Hakuryuu lo reconoció al instante.
+
+—¿Cómo te llamas? —preguntó, aunque sabía perfectamente quién era.
+
+El guardia evitó la mirada, señalando nerviosamente hacia el interior.
+
+—La sala octava, al fondo. Allí está Alistar con los demás —balbuceó el guardia antes de retirarse rápidamente.
+
+Sin perder un segundo, Hakuryuu entró bruscamente, abriendo de golpe la puerta.
+
+—¡Por favor, un poco de modales! —recriminó Alistar inmediatamente—. Este es un templo y hay personas heridas descansando.
+
+Ander lo miró con una sonrisa sarcástica.
+
+—Ya veo que tus modales han mejorado considerablemente.
+
+Hakuryuu apenas reaccionó, demasiado agitado y visiblemente deteriorado por su viaje. Alistar, preocupado, ofreció asistencia, notando claramente que su viejo amigo no se encontraba en buen estado.
+
+Mientras trataban de atender a Hakuryuu, la conversación derivó rápidamente hacia la profecía. Alistar recordó al hombre que había irrumpido en la plaza y leyó nuevamente en voz alta los versos perturbadores. Ander aprovechó para mostrar la hoja dejada atrás por el monstruo, provocando que Sildar comentara:
+
+—Hay muchos pergaminos como estos circulando. Fragmentos dispersos de una única profecía. Acererak está extendiendo estas visiones por todas partes.
+
+Alistar, reflexivo, se volvió hacia Sildar.
+
+—¿Sabes algo más sobre esta "nueva fe"? ¿Quién podría estar colaborando directamente con Acererak para propagar estos escritos?
+
+Sildar negó lentamente con gesto preocupado.
+
+—Es difícil obtener información clara. Esta organización está fragmentada, sin una estructura clara. Solo coinciden en que todos los dioses conocidos están subordinados a esta nueva y oscura deidad.
+
+Orianna, inquieta, intervino con ansiedad.
+
+—¿Por qué soy la única marcada así? ¿Es esto una maldición? ¿Acaso Acererak me controla?
+
+Hakuryuu, apartando suavemente a Ander, se incorporó con dificultad y mostró su propia mano, marcada de forma idéntica.
+
+—Yo también tengo esta marca —confesó con voz sombría—. Fue después de tocar algo especial, un fragmento de Myrrym, mi antigua espada.
+
+El grupo intercambió miradas cargadas de preocupación. Ander, reflexionando, dijo en voz alta:
+
+—¿Y si Acererak busca convertirse en un dios? Esta profecía podría ser su medio para consolidar esa falsa divinidad.
+
+Vengy, decidido, tomó la palabra intentando insuflar ánimo en el grupo, pero Malizal lo interrumpió con un tono de advertencia:
+
+—No debemos subestimar el peligro que enfrentamos. Esto no es como antes; Acererak ha regresado más fuerte y preparado.
+
+Alistar intervino con pragmatismo.
+
+—Necesitamos recursos e información. Debemos saber hacia dónde dirigirnos para detenerlo. Estoy seguro de que la Orden puede apoyarnos, pese a las circunstancias actuales.
+
+En ese momento, recordaron las palabras de Ras' Nsi mencionando que Terry aún estaba vivo. Malizal intentó localizarlo usando su conjuro de visión, pero en su lugar apareció la figura espectral y burlona de Acererak, cuya voz resonó malévolamente:
+
+—Esto que intentas ver, es mío.
+
+Orianna, con determinación renovada, propuso:
+
+—Debemos regresar a Omu, a la Tumba. Allí empezó todo.
+
+Hakuryuu recordó entonces al abuelo Zitembe, el sabio de Puerto Nyanzaru.
+
+—Él podría ayudarnos a localizar a quienes necesitamos.
+
+Alistar asintió, aunque sugirió primero aprovechar los recursos inmediatos en Waterdeep antes de emprender un largo viaje.
+
+En un impulso compartido, Orianna y Hakuryuu juntaron sus manos marcadas. Instantáneamente, cada uno experimentó las visiones del otro: Hakuryuu contempló con horror el corazón oscuro palpitante en el abismo, desgarrando la realidad misma, mientras Orianna veía claramente la espada Myrym, brillante pero dañada en su punta.
+
+La intensidad de la visión fue demasiada para Hakuryuu, quien se desplomó inconsciente. Malizal, reaccionando de inmediato, utilizó Greater Restoration para estabilizarlo, devolviéndolo lentamente a la conciencia.
+
+Mientras el grupo recuperaba el aliento, comprendieron que la batalla que les aguardaba sería la más dura y decisiva hasta la fecha.
+
+### _No hay justicia sin diamantes_
+
+Alistar caminaba con determinación por los corredores del templo, seguido por Vengy y Malizal, buscando la figura reconfortante del clérigo Faux. Mientras avanzaban, el ruido creciente de una acalorada discusión alcanzó sus oídos, resonando desde la entrada principal. Las voces cargadas de desesperación y reproche retumbaban contra las paredes de piedra.
+
+—¡Si podéis resucitar, resucitad a mi hijo! ¡Solo necesitáis un diamante! ¿Por qué no ayudáis a quienes realmente lo necesitamos? —clamaba un hombre desgarrado por la pérdida.
+
+—¡Claro, para los ricos sí hay diamantes! ¡Los dioses odian a los pobres! —exclamaba otra voz entre sollozos y gritos de aprobación.
+
+Alistar sintió un profundo conflicto interno, debatiéndose entre intervenir y seguir adelante. Finalmente, consciente de que cualquier interrupción podría agravar más el caos, decidió avanzar en silencio.
+
+Llegaron a una zona interior cerca de la cripta, donde habitualmente los clérigos oraban en soledad. En esta ocasión, la sala estaba ocupada por muchos clérigos, sumergidos en plegarias silenciosas y desesperadas. Alistar, con respeto pero firmeza, interrumpió la quietud del lugar.
+
+—Disculpad, necesito hablar urgentemente con Faux.
+
+Faux, con una calma ceremoniosa, se puso en pie y se acercó hacia Alistar.
+
+—¿Qué ocurre, hermano Alistar?
+
+—Necesito tu ayuda para realizar el ritual de Commune. Debemos obtener respuestas directamente de Tyr. Todo esto está conectado con Acererak.
+
+Al oír aquel nombre, Faux se estremeció visiblemente, pero asintió con determinación.
+
+—Dime qué necesitas saber exactamente.
+
+—Necesitamos guía. ¿Debemos regresar a la Tumba de la Aniquilación?
+
+Faux cerró los ojos, concentrándose en profunda plegaria. Tras unos largos segundos, sus ojos se abrieron lentamente, reflejando una paz solemne.
+
+—Él está solo y no tiene nada que ganar. Tú posees algo mucho más grande que jamás podrá arrebatarte: tu fe. Permaneced unidos y seguid el camino que vuestros pasos tracen. Ese es vuestro destino, enfrentarlo juntos.
+
+Alistar meditó en silencio sobre estas palabras, comprendiendo claramente el significado implícito. Acererak ansiaba encontrarlos, y el lugar evidente era aquel en el que ya habían combatido antes.
+
+Cuando retrocedieron hacia la sala principal, el clamor en la entrada del templo se había intensificado dramáticamente. La multitud exigía con furia los diamantes para resucitar a sus muertos, acusando a la Orden de favoritismo hacia los ricos. Un comerciante prominente exigía atención preferente para resucitar a su esposa, agitando una bolsa llena de diamantes y prometiendo generosas donaciones. La rabia colectiva se desató aún más.
+
+Alistar, consciente de su responsabilidad moral, decidió que no podía mantenerse al margen esta vez. Se adelantó junto a Vengy y Malizal para enfrentar a la multitud.
+
+—Ciudadanos, entiendo vuestro dolor y desesperación —comenzó Alistar con voz firme pero compasiva—, pero no podemos permitir que esto se convierta en caos.
+
+—¡Solo queremos que resucitéis a nuestros seres queridos! ¿Por qué no nos ayudáis? —le gritó alguien desesperado.
+
+—Si fuera posible, os aseguro que resucitaríamos a todos sin excepción. Pero estos conjuros tienen un coste, y lamentablemente, no podemos cambiar eso —respondió Alistar, tratando de apaciguar la situación.
+
+—¡Entonces explica por qué esa mujer sí fue resucitada! ¡Es porque tiene dinero! —acusó furiosamente un hombre, señalando hacia una familia que se retiraba en silencio, claramente adinerada.
+
+Alistar suspiró profundamente, compartiendo parte de esa frustración.
+
+—Sé que parece injusto, y desearía de todo corazón que estos conjuros no requiriesen semejante coste. Pero la realidad es dura, y debemos gestionar con sabiduría los pocos recursos que tenemos, tratando de ayudar al máximo número posible. Os pido paciencia y comprensión.
+
+La multitud continuó murmurando, pero las palabras de Alistar lograron al menos contener parcialmente la furia inmediata. Alistar, con el corazón pesado, sabía que esta no sería la última vez que tendría que enfrentarse a dilemas tan dolorosos en estos tiempos oscuros.
+
+### _El profeta de la nueva fe_
+
+![[Profeta.png]]
+
+En ese instante, un hombre emergió entre la multitud, subiéndose a una caja de madera con movimientos resueltos. Su túnica ondeaba con el viento, mientras la ceniza de los días pasados danzaba a su alrededor como un aura siniestra. Los gritos y súplicas de la multitud se apagaron lentamente hasta que solo quedó su voz, resonante y cargada de convicción.
+
+—¡No vayáis al templo de Tyr! —clamó con fuerza—. ¡No creáis sus falsas promesas! ¿Acaso vuestros dioses os han ayudado alguna vez cuando más los necesitabais? ¡No confiéis en aquellos que solo favorecen a los ricos mientras dejan sufrir y morir a los pobres! ¡Seguid al verdadero Dios, aquel que está por encima de todos estos falsos ídolos!
+
+Malizal, furioso ante tales palabras, dio un paso adelante y lo interrumpió bruscamente:
+
+—¡Blasfemo! ¿Dónde está ese dios tuyo del que tanto hablas? ¡Demuestra su poder si es que existe!
+
+El hombre, lejos de intimidarse, encaró directamente a Malizal con fervor:
+
+—¡Eso es precisamente vuestro problema! Solo pensáis en el poder, igual que vuestros supuestos dioses. ¡Hablan de proteger a los inocentes, pero son solo palabras vacías! ¡Nadie cree que vosotros, débiles y falsos héroes, vencierais realmente a Acererak!
+
+Alistar se adelantó decidido, elevando su voz con autoridad para enfrentar al profeta:
+
+—¡Nuestros actos hablan más alto que nuestras palabras! Cuando luchamos contra los monstruos que amenazaron esta ciudad y protegimos a los ciudadanos, ¿dónde estabais vosotros?
+
+El hombre sonrió con desprecio y contestó desafiante:
+
+—¡No necesitamos combatir a los enviados de nuestro Señor! ¿Sabéis por qué? Porque los mal llamados héroes de Chult no sois más que impostores, sirvientes de una iglesia corrupta que solo ayuda a las castas sociales más altas. La iglesia de Tyr y todos esos falsos dioses solo buscan favorecer a los ricos y poderosos.
+
+—¡Mentiras! —exclamó Alistar con firmeza—. Siempre hemos luchado por todos, independientemente de su clase o condición.
+
+—¡Falsedad! —respondió el profeta con ira—. El nuevo dios nos pone a todos en igualdad. ¡Da igual cuánto dinero tengáis, todos caeréis ante su poder! Ya nos dio la oportunidad durante lo que llamáis "Maldición de la Muerte", pero en realidad fue su bendición. Al no escucharlo entonces, ahora nos castiga. ¡Solo aceptando su poder y abandonando los actos corruptos de estos falsos dioses seremos liberados! Si no lo aceptáis, vuestro destino será la muerte.
+
+Alistar giró hacia la multitud con una voz cargada de convicción y compasión:
+
+—¡No tenéis que aceptar el sufrimiento y la muerte! ¡Este hombre y su fe solo ofrecen desesperación! En estos tiempos oscuros, nuestra única esperanza es mantenernos unidos.
+
+Malizal, elevando su voz mediante un hechizo de taumaturgia, señaló al profeta:
+
+—¿Con qué poder hablas? ¡Muéstranos el poder de tu dios! ¿Eso es lo que ofrecéis a estas personas? ¿Muerte? ¡No lo permitiremos! No escuchéis sus mentiras, ¡no es más que un instrumento del verdadero mal, Acererak!
+
+—¡Patrañas! —contestó el profeta, lleno de furia.
+
+—¡Patrañas son tus palabras! —rugió Malizal con ira y desesperación—. ¡Yo me enfrenté a Acererak! ¡Sacrifiqué todo por vosotros! ¡Él es real y es quien está detrás de esta calamidad!
+
+—¡Nadie te cree, brujo! —replicó el profeta con desprecio—. Sois demasiado débiles y vuestros actos solo sirven a aquellos que tienen poder y riquezas. ¡El nuevo dios traerá la verdadera justicia, no vuestros dioses corruptos y comprados!
+
+La discusión entre ambos continuó por varios minutos, un duelo encendido de creencias y convicciones. Finalmente, frustrado, el profeta descendió de la caja y se alejó, perdiéndose entre la multitud.
+
+Alistar observó a su alrededor, evaluando el impacto de aquella confrontación. Desgraciadamente, pudo notar cómo, a pesar de los esfuerzos, las palabras del fanático habían resonado con demasiada fuerza en algunos corazones, endureciendo aún más las divisiones existentes. Varias personas comenzaron a escupir con desprecio hacia los clérigos de Tyr, rechazando su ayuda y alejándose del templo con miradas llenas de resentimiento.
+
+La tensión en la plaza quedó palpable, un oscuro preludio de las difíciles pruebas que aún aguardaban al grupo.
+
+### _El abismo golpea de nuevo_
+
+La calma relativa tras el intenso enfrentamiento verbal fue abruptamente interrumpida por gritos desesperados provenientes de la plaza.
+
+—¡Ayuda! ¡Han aparecido demonios en el mercado! ¡Por favor, ayudadnos! —clamaban varios ciudadanos aterrorizados, corriendo en dirección al templo de Tyr.
+
+Sin vacilar, Alistar, Vengy y Malizal reaccionaron de inmediato, dirigiéndose a toda velocidad hacia la plaza del Mercado Viejo. Orianna, Ander y Hakuryuu, aún debatiendo sobre la inquietante división social, escucharon los gritos desde el exterior y, sin más demora, corrieron también hacia el caos creciente.
+
+Al llegar, encontraron un escenario dantesco: columnas derribadas, tenderetes destrozados y carros volcados, mientras una niebla oscura como sangre evaporada cubría todo, sofocando el ambiente con un hedor insoportable. Varios civiles yacían heridos, atrapados entre escombros o arrastrándose desesperadamente hacia lugares seguros.
+
+Malizal fue el primero en actuar, conjurando una rápida descarga de energía eldritch contra el demonio más cercano, golpeándolo con violencia. Alistar, invocando el poder divino de Tyr, imbuyó su espada con una brillante energía radiante y avanzó con determinación, propinando dos cortes certeros, uno de ellos potenciado con un castigo divino que hirió profundamente a la bestia.
+
+Vengy, invocando la esencia ancestral de su espíritu dragón, lanzó un poderoso hechizo ofensivo contra el mismo demonio, debilitándolo considerablemente. El monstruo, consciente de su inminente derrota, comenzó a concentrar una energía oscura y siniestra mientras pronunciaba con voz profunda la ominosa palabra:
+
+—¡Sacrificio!
+
+Percatándose del peligro, Alistar cambió su atención rápidamente hacia dos nuevas criaturas demoníacas que se acercaban veloces, interceptándolas junto a Vengy. Atacó con fiereza a una de ellas, destruyéndola con rapidez, aunque al hacerlo reveló que se trataba solo de una ilusión cruel.
+
+Malizal, atento al campo de batalla, lanzó otro feroz ataque contra el demonio restante, y Vengy lo siguió, logrando finalmente derrotarlo. Pero entonces el primer demonio liberó su energía concentrada en una explosión devastadora, infligiendo graves daños tanto a Alistar como a Vengy.
+
+Desde una distancia prudente, un tercer demonio equipado con una ballesta disparó con precisión mortífera. Vengy reaccionó velozmente, usando un conjuro de Misty Step para posicionarse en una azotea cercana, atacando desde allí al peligroso tirador. Mientras, Alistar usó su poder curativo, Lay on Hands, para recuperarse rápidamente antes de enfrentar a otros dos demonios que se aproximaban.
+
+Malizal conjuró entonces un muro de fuego ardiente, forzando a las criaturas a atravesarlo para llegar a Alistar, sufriendo graves quemaduras en el proceso. Aun así, una de ellas consiguió asestar un demoledor golpe al paladín, mientras el demonio con la ballesta lograba herir gravemente a Vengy con otro disparo certero.
+
+Alistar, reuniendo todas sus fuerzas y la voluntad férrea de su fe, atacó con furia divina al demonio que tenía delante, dejando profundas heridas en su cuerpo corrompido. Vengy se volvió invisible, continuando sus ataques desde la distancia mientras su espíritu dragón reforzaba a Alistar.
+
+Finalmente llegaron Orianna, Hakuryuu y Ander. Sin perder tiempo, Orianna y Ander utilizaron sus habilidades curativas para estabilizar y revitalizar a Alistar. Los dos demonios restantes cayeron bajo los ataques combinados del grupo.
+
+Solo quedaba el ballestero, ahora acosado por ataques a distancia y hechizos implacables. En un acto desesperado y oscuro, el demonio utilizó un último ataque psíquico devastador antes de morir, afectando gravemente a Hakuryuu y Ander, quienes colapsaron inconscientes por la abrumadora oleada de dolor.
+
+Cuando el silencio volvió finalmente al mercado, la luz del atardecer se filtraba tenuemente a través de la niebla que aún persistía. Los héroes, exhaustos y heridos, contemplaron con pesadumbre el alcance del daño y la magnitud del desafío que se avecinaba.
+
+La crudeza del combate dejó en el grupo una pregunta inquietante que flotaba en el aire oscuro y espeso:
+
+—¿Seremos realmente capaces de enfrentar esta amenaza, cuando solo seis demonios han bastado para llevarnos al límite de nuestras fuerzas?— susurró Alistar con semblante sombrío.
+
+Nadie respondió, pues cada uno conocía demasiado bien el peso y la incertidumbre de las batallas aún por librar.
+### _La caída de la campana_
+
+![[LaCampanaDeLathander.png]]
+
+Tras el encarnizado combate, la ciudad de Waterdeep quedó sumida en un silencio espeso, casi tangible, interrumpido únicamente por el sonido agónico de los supervivientes intentando recomponerse tras la batalla. Civiles y guardias por igual, conmocionados por la violencia vivida y las pérdidas sufridas, se arrastraban lentamente hacia sus hogares, dejando tras de sí un paisaje de desolación.
+
+Mientras los héroes recuperaban el aliento, un escalofrío inquietante recorrió la plaza del mercado. Algo no estaba bien. Las campanas de los templos, normalmente tan vivas en momentos de crisis, permanecían mudas. Sus miradas se dirigieron instintivamente hacia el templo de Lathander, situado en el risco junto al mar, dominando el puerto con una vista majestuosa pero ahora ominosa.
+
+El aire se tornó pesado y frío, cargado de una expectación sobrenatural. El cielo púrpura y ennegrecido, teñido por el humo persistente de los incendios recientes, comenzó a temblar con destellos anaranjados que atravesaban la penumbra, presagiando un acontecimiento terrible.
+
+Entonces, sin previo aviso, un estruendo metálico, profundo y aterrador, resonó por toda la ciudad, captando inmediatamente la atención de todos. Una explosión violenta sacudió el templo de Lathander, golpeando con fuerza brutal su campanario y proyectando la enorme campana dorada hacia el vacío, directamente sobre el acantilado.
+
+—¡No puede ser! —exclamó Malizal, petrificado, incapaz de apartar la vista del templo que había sido un símbolo de esperanza.
+
+Vengy observaba con impotencia, con los ojos llenos de angustia al ver cómo el campanario, herido por fuerzas oscuras, se derrumbaba hacia el mar en una lenta caída que parecía eterna. Algunos fieles corrieron despavoridos, mientras otros caían de rodillas en oración desesperada. Un sacerdote de Lathander, con desesperación evidente, elevó su símbolo sagrado hacia el cielo en un intento vano por contener lo inevitable.
+
+La majestuosa campana dorada voló con fuerza imparable hasta estrellarse violentamente contra las aguas oscuras del Mar de la Costa de la Espada. Al impactar, una enorme columna de agua se levantó hacia el cielo, iluminada brevemente por la última luz púrpura del crepúsculo, seguida inmediatamente por un campanazo sordo, profundo y resonante, distorsionado por el agua, cuyo eco sombrío pareció reverberar directamente en el corazón de cada espectador.
+
+Un resplandor anómalo cruzó fugazmente el cielo, dejando en todos la terrible certeza de que aquella caída no era un simple accidente. Ese sonido apagado, emanando desde las profundidades del mar, marcaba claramente el cumplimiento de una profecía largamente temida.
+
+Era el eco definitivo del juicio, el anuncio inevitable de que la verdadera prueba acababa de comenzar.
 
 ---
+
+## **Sesion 4**
