@@ -167,6 +167,9 @@ Con ese estruendo final, Orianna comprendió con una claridad devastadora que el
 
 Sabía entonces, con una certeza absoluta, que su tiempo de aislamiento había llegado a su fin, y que la batalla que siempre había temido ya estaba aquí, inevitable e inexorable.
 
+![[Elyzmyrath.png]]
+_[[Elyzmyrath (jugadores)|Elyzmyrath]]_
+
 ### _Malizall – El Pacto que fue_
 
 El aire en la cabaña era espeso y pesado, impregnado por un denso aroma a polvo antiguo y cenizas consumidas. Libros desordenadamente apilados y pergaminos olvidados descansaban sobre estantes precarios, evocando la sensación inquietante de un templo abandonado, un santuario cuyos dioses habían decidido hace tiempo apartar su mirada.
@@ -378,7 +381,7 @@ La noche se había roto, desgarrada por un estallido infernal que aún reverbera
 Desde lo alto de las escalinatas, Harker permanecía rígido, los labios apretados en una línea de acero, los ojos duros como piedras ante el horror que se desplegaba a sus pies. Alistar se giró hacia él, la voz quebrada por urgencia y desesperación.
 
 ![[Harker.png]]
-_Harker_
+_[[Harker (Jugadores)|Harker]]_
 
 —¡Harker! ¡Tenemos que ayudarles! ¡Son inocentes!
 
@@ -442,7 +445,7 @@ Tres miembros del Séquito del Dragón Plateado irrumpieron en la sala con armas
 Eran sus mejores hombres. Kael, al frente, blandía un mandoble envuelto en un leve resplandor azul; Varuun, el más joven, asumió rápidamente una posición defensiva frente a Hakuryuu; y Dareth, silencioso y solemne, murmuraba una plegaria mientras alzaba el escudo adornado con el emblema del clan.
 
 ![[Dragon de plata, Varrum.png]]
-_Varrum_
+_[[Varuun Tyrral (Jugadores)|Varrum]]_
 
 Las criaturas demoníacas se detuvieron abruptamente, como si algo en esta resistencia les intrigara profundamente. La más alta de ellas—una masa de huesos retorcidos, humo negro y garras carmesí—abrió una boca inexistente en un rostro vacío, pronunciando claramente una palabra que resonó ominosamente en los corazones de todos los presentes:
 
@@ -456,18 +459,18 @@ Dareth cayó de rodillas, soltando una risa quebrada, inhumana, que heló la san
 
 
 ![[Dragon de plata, Dareth.png]]
-_Dareth_
+_[[Dareth Silmaer (Jugadores)|Dareth]]_
 
 La oscuridad reaccionó aún más ferozmente, devorando instantáneamente a otra de las criaturas hasta que no quedó rastro alguno salvo una sombra vacía. Hakuryuu, conmocionado pero reafirmando su resolución, cargó hacia la amenaza que aún persistía, su cuerpo movido por la memoria del guerrero que había sido.
 
 El combate se convirtió en un baile desesperado, las criaturas y soldados enfrentándose en medio del caos. Finalmente, con un golpe certero, Hakuryuu hirió gravemente a la última criatura. La bestia, agonizante, soltó un rugido antinatural y, usando sus propias garras, desgarró su pecho. Un crujido grotesco de huesos rotos resonó en la sala, acompañado de un chorro de sangre negra que chisporroteaba como ácido en el aire.
 
 ![[Dragon de plata, Kael.png]]
-_Kael_
+_[[Kael Vhantar (Jugadores)|Kael]]_
 
 Y entonces, de entre la masa pútrida, extrajo algo. Un objeto imposible, brillante incluso bajo la sombra más absoluta. Una punta de espada, retorcida y mellada, pero indudablemente reconocible.
 
-—Myrrym —susurró Hakuryuu, aturdido.
+—Myrym —susurró Hakuryuu, aturdido.
 
 Sin mediar palabra, el demonio lanzó con brutalidad el fragmento contra el suelo. La pieza metálica se clavó violentamente entre las baldosas rotas, enviando una onda de energía antigua y familiar que recorrió la habitación como un latido congelado en el tiempo.
 
@@ -479,7 +482,7 @@ El aire se plegó hacia dentro, las sombras se alargaron, y el sonido se desvane
 
 Ante él apareció una sala que no había visto en años: una cámara circular sumida en penumbra. En el centro, los restos de una cuna de huesos y un altar vacío. Allí, donde alguna vez había luchado por la vida del mundo, descansaba algo que brillaba con un resplandor apagado.
 
-Myrrym.
+Myrym.
 
 Exactamente donde la había dejado.
 
@@ -531,7 +534,8 @@ Malizall comprendió en ese instante lo que significaba. Había sido elegido nue
 
 [[La Profecía del Abismo#Profecía del Vuelo Renacido|La profecía del Abismo - Profecía del vuelo renacido]]
 
-![[ProfeciaFindeWako2.png]]
+![[NoWako.png]]
+_[[NoWako (Jugadores)|Ceniz]]_
 ### _Vengy - Protector del débil_
 
 El eco del trueno resonó aún en los oídos de Vengy mientras la puerta retorcida de su celda caía a un lado, liberándolo de su encierro. Apenas tuvo tiempo de recuperar el aliento cuando la criatura felina, retorcida y envuelta en humo, se lanzó sobre el guardia caído, hiriéndolo gravemente con una facilidad aterradora.
@@ -663,6 +667,8 @@ La noche avanzaba implacable hacia el amanecer, y con ella, la certeza de que la
 ###  _Amanecer púrpura sobre el templo herido_
 
 ![[Eldrin.png]]
+_[[Eldrin (Jugadores)|Eldrin]]_
+
 El templo de Tyr respiraba con dificultad aquella mañana. Sobre el aroma familiar del incienso ahora pesaba una atmósfera sofocante de ceniza y sangre seca, impregnando cada piedra, cada rincón del sagrado recinto. En los pasillos, hombres y mujeres descansaban, vendados y abatidos, con miradas perdidas que buscaban respuestas en las grietas del techo. Las velas sagradas habían dado paso a lámparas de aceite que proyectaban sombras largas, convirtiendo la santidad en un campo improvisado de batalla.
 
 En el interior de la cámara del sumo sacerdote Eldrin Kurthos, la situación era aún más grave. Eldrin yacía inmóvil sobre un lecho frío, envuelto en mantas raídas y vendas empapadas. Una quemadura siniestra recorría desde su frente hasta la mandíbula, negra y profunda como una letra oculta tatuada por la violencia de la noche. A su lado, dos clérigos jóvenes murmuraban oraciones con una desesperación silenciosa, canalizando lo poco que quedaba de su poder divino hacia las runas grabadas en mármol.
@@ -907,6 +913,8 @@ El silencio fue breve, roto pronto por la determinación colectiva.
 
 Todos asintieron, preparándose internamente para el camino arduo que estaba por delante. El reencuentro había concluido; la verdadera batalla estaba a punto de comenzar.
 
+![[Sildar.png]]
+_[[Sildar Hallwinter (Jugadores)|Sildar Hallwinter]]_
 ### _El caballero plateado_
 
 Hakuryuu cabalgaba a lomos de su caballo Drogo hacia el templo de Tyr con impaciente urgencia, cruzando la plaza con rapidez. Sin detenerse, ascendió las escalinatas hasta detenerse en la cima con un repentino movimiento de las patas delanteras del caballo. Un guardia, visiblemente incómodo y evasivo, tomó apresuradamente las riendas del animal para llevarlo a las cuadras. Hakuryuu lo reconoció al instante.
