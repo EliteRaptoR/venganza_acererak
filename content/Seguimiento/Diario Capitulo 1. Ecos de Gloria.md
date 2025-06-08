@@ -2,7 +2,7 @@
 # Diario Capitulo 1: Ecos de Gloria
 
 
-[[#**Sesión 1**]]
+[[Diario Capitulo 1. Ecos de Gloria#**Sesión 1**]]
 
 ## **Sesión 0**
 
