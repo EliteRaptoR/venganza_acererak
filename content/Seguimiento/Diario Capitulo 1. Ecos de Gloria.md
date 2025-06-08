@@ -727,6 +727,8 @@ Solo el bronce hundido hablará por ellos.
 Entonces sabréis:  
 la era del juicio ha comenzado.”
 
+[[La Profecía del Abismo#La última campanada|La profecía del Abismo - La última campanada]]
+
 La figura enloquecida preguntó bruscamente a Alistar: —¿La oyes tú también? ¿La campana?
 
 Y sin esperar respuesta, corrió alejándose de la plaza, dejando caer el pergamino al suelo.
