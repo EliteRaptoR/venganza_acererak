@@ -63,3 +63,20 @@ _Así está escrito. Así será.”_
 *puede surgir una nueva forma de fe.”*
 
 ![[ProfeciaFindeWako2.png]]
+
+### **La última campanada**
+
+*“Cuando el juicio se derrame en las calles*  
+*y el cielo se pinte de vino muerto,*  
+*una campana sonará bajo las aguas*  
+*donde no hay templo ni altar.*  
+*Su eco traerá el final del día,*  
+*y la aurora será tragada por la espuma.*  
+*Los dioses que juraron proteger callarán,*  
+*y en su silencio, la Voz tomará forma.*  
+*No habrá más amanecer.*  
+*No habrá más canto de la luz.*  
+*Solo el bronce hundido hablará por ellos.*  
+*Entonces sabréis:*  
+*la era del juicio ha comenzado.”*
+

@@ -4,10 +4,10 @@
 # Diario Capitulo 1: Ecos de Gloria
 
 ## _Índice:_
-[[Diario Capitulo 1. Ecos de Gloria#Sesión 1|Sesion 1]]
-[[Diario Capitulo 1. Ecos de Gloria#Sesión 2|Sesion 2]]
-[[Diario Capitulo 1. Ecos de Gloria#Sesión 3|Sesion 3]]
-[[Diario Capitulo 1. Ecos de Gloria#Sesión 4|Sesion 4]]
+[[Diario Capitulo 1. Ecos de Gloria#Sesión 1|Sesión 1]]
+[[Diario Capitulo 1. Ecos de Gloria#Sesión 2|Sesión 2]]
+[[Diario Capitulo 1. Ecos de Gloria#Sesión 3|Sesión 3]]
+[[Diario Capitulo 1. Ecos de Gloria#Sesión 4|Sesión 4]]
 
 ---
 ## **Sesión 0**
@@ -90,8 +90,10 @@ Esta creencia radical, aún sin un nombre definido pero ya profundamente arraiga
 
 Al borde de una guerra que amenaza con consumir a toda sociedad, el conflicto entre clases sociales y credos religiosos se profundiza con cada día que pasa. En medio de esta tormenta, aquellos héroes que una vez salvaron al mundo deben reunirse de nuevo. Juntos enfrentarán enemigos internos y externos, poniendo a prueba no solo sus habilidades y valor, sino también descubriendo si pueden mantener intacta su humanidad frente a una adversidad que parece destinada a romperlos.
 
-![[assets/Other/Manos de Hierro.png]]
+**Canción**
+[[Canciones/Manos de Hierro|Manos de Hierro]]
 
+![[assets/Other/Manos de Hierro.png]]
 ### _Hakuryuu – Eco de la Gloria Rota_
 
 La mansión del Clan del Dragón Plateado se alzaba imponente en el corazón del distrito noble de Waterdeep, semejante a un mausoleo erigido en honor a tiempos ya olvidados. Sus columnas corintias, adornadas por hiedras disciplinadas, sostenían pesados techos decorados con frescos que ilustraban glorias y victorias pasadas. A ambos lados de la entrada, dos estatuas majestuosas de dragones plateados vigilaban eternamente, atrapadas en una altivez que ya no reflejaba más que recuerdos marchitos.
@@ -364,6 +366,8 @@ Entonces, arrastrado por el viento nocturno, un papel medio calcinado aterrizó 
 > _‘El Juicio ha comenzado. Vuestra era termina.’_  
 > _Así está escrito. Así será.”_
 
+[[La Profecía del Abismo#Primeros versos|La profecía del Abismo - Primeros Versos]]
+
 Ander sintió un frío más profundo que cualquier noche invernal recorrer su cuerpo. No solo por las palabras leídas, sino por la certeza de que ya sabían exactamente dónde encontrarlo.
 
 ![[ProfeciaVersosIniciales.png]]
@@ -525,6 +529,8 @@ Malizall reconoció algo familiar en la profundidad de aquellos ojos nuevos; no 
 
 Malizall comprendió en ese instante lo que significaba. Había sido elegido nuevamente, destinado a cuidar de esta criatura como una vez cuidó de Wako. La marca invisible del pacto resurgía, distinta pero igualmente poderosa, y supo con absoluta certeza que su camino aún no había terminado.
 
+[[La Profecía del Abismo#Profecía del Vuelo Renacido|La profecía del Abismo - Profecía del vuelo renacido]]
+
 ![[ProfeciaFindeWako2.png]]
 ### _Vengy - Protector del débil_
 
@@ -652,7 +658,7 @@ En el bosque herido, Orianna emergió de las sombras con la determinación feroz
 La noche avanzaba implacable hacia el amanecer, y con ella, la certeza de que la reunión de aquellos viejos compañeros era inevitable. El destino, una vez más, los llamaba a luchar juntos.
 
 ---
-## **Sesion 3**
+## **Sesión 3**
 
 ###  _Amanecer púrpura sobre el templo herido_
 
