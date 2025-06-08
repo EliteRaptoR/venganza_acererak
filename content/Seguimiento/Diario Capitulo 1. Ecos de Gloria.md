@@ -60,7 +60,7 @@
 ---
 ## **Sesión 1**
 
-### _Acererak, El Arquitecto de la Muerte
+### _Acererak, El Arquitecto de la Muerte_
 
 **Cancion**
 [[Acererak, El Arquitecto de la Muerte]]
@@ -72,7 +72,7 @@ La sociedad, fracturada y sumida en la incertidumbre, comenzó a buscar chivos e
 Sin embargo, la amenaza de Acererak aún persiste en los rincones más oscuros del mundo. Fragmentos de su filacteria, peligrosamente activos, alimentan su insaciable sed de venganza. Pronto, los héroes deberán enfrentar una nueva prueba, una que desafiará no solo su fuerza y habilidad, sino que pondrá al límite su misma humanidad.
 
 ![[Acererak.png]]
-### _El Despertar del Pueblo
+### _El Despertar del Pueblo_
 
 Mientras los héroes se debaten en sus conflictos internos, en las calles y aldeas una peligrosa semilla de rebelión ha echado raíces profundas. Aquellos marginados y oprimidos por las desigualdades crecientes han empezado a cuestionar la narrativa oficial. Para ellos, la maldición de la muerte no fue más que un engaño urdido por los poderosos para justificar sus propios privilegios. Dicen que la supuesta maldición solo afectaba a aquellos lo suficientemente ricos para costearse los exclusivos rituales de resurrección, dejando al descubierto la verdad incómoda: que los dioses jamás se preocuparon por ellos.
 
@@ -82,7 +82,7 @@ Esta convicción se ha convertido en un movimiento de resistencia popular que se
 [[Abismo y rabia]]
 
 ![[Abismo y rabia.png]]
-### _La Nueva Fe y la Mano de Hierro
+### _La Nueva Fe y la Mano de Hierro_
 
 En este clima de creciente desesperación y desconfianza, una nueva y perturbadora fe ha emergido con fuerza incendiaria. Sus seguidores predican sobre una entidad suprema, un dios oscuro y desconocido que trasciende cualquier divinidad tradicional. Proclaman que la antigua maldición fue la prueba inequívoca de su existencia, pues ningún dios conocido fue capaz de detenerla o revertir sus efectos por completo.
 
@@ -92,7 +92,7 @@ Al borde de una guerra que amenaza con consumir a toda sociedad, el conflicto en
 
 ![[assets/Other/Manos de Hierro.png]]
 
-### _Hakuryuu – Eco de la Gloria Rota
+### _Hakuryuu – Eco de la Gloria Rota_
 
 La mansión del Clan del Dragón Plateado se alzaba imponente en el corazón del distrito noble de Waterdeep, semejante a un mausoleo erigido en honor a tiempos ya olvidados. Sus columnas corintias, adornadas por hiedras disciplinadas, sostenían pesados techos decorados con frescos que ilustraban glorias y victorias pasadas. A ambos lados de la entrada, dos estatuas majestuosas de dragones plateados vigilaban eternamente, atrapadas en una altivez que ya no reflejaba más que recuerdos marchitos.
 
@@ -126,7 +126,7 @@ _¿Estoy realmente preparado para enfrentar lo que se avecina, ahora que ya no s
 
 ![[Myrym.png]]
 
-### _Orianna – La Guardiana del Bosque
+### _Orianna – La Guardiana del Bosque_
 
 ![[Bosque Intacto.png]]
 _El arbol sagrado_
@@ -165,7 +165,7 @@ Con ese estruendo final, Orianna comprendió con una claridad devastadora que el
 
 Sabía entonces, con una certeza absoluta, que su tiempo de aislamiento había llegado a su fin, y que la batalla que siempre había temido ya estaba aquí, inevitable e inexorable.
 
-### _Malizall – El Pacto que fue
+### _Malizall – El Pacto que fue_
 
 El aire en la cabaña era espeso y pesado, impregnado por un denso aroma a polvo antiguo y cenizas consumidas. Libros desordenadamente apilados y pergaminos olvidados descansaban sobre estantes precarios, evocando la sensación inquietante de un templo abandonado, un santuario cuyos dioses habían decidido hace tiempo apartar su mirada.
 
@@ -194,7 +194,7 @@ Wako graznó alarmado, no por temor, sino con desesperada advertencia. Intentó 
 En un acto reflejo, levantó su brazo, tratando de invocar desesperadamente la magia que antaño había dominado con facilidad, el vínculo sagrado que había sido su fuente de poder y esperanza. Pero no hubo respuesta. Solo un vacío aterrador, un silencio sepulcral donde antes había ardido intensamente la llama de un pacto que ahora parecía olvidado.
 
 Mientras observaba impotente cómo Wako luchaba inútilmente en las garras del demonio, Malizall comprendió con amarga certeza que la batalla que se avecinaba no solo pondría a prueba sus fuerzas, sino que también amenazaba con destruir el último resquicio de humanidad y esperanza que aún permanecía en él.
-### _Alistar – Justicia Divina
+### _Alistar – Justicia Divina_
 
 El Templo de Tyr se alzaba imponente, una fortaleza sagrada tallada en piedra y reforzada en bronce, símbolo tangible de justicia y orden. Pero esa noche, bajo el cielo cubierto de nubes densas y amenazantes, la balanza dorada que coronaba el templo no relucía, sino que temblaba inquieta, reflejando la tensión palpable que impregnaba el ambiente.
 
@@ -233,7 +233,7 @@ Cuando por fin logró incorporarse, el paisaje que conocía había desaparecido 
 En ese instante de absoluto caos, Alistar comprendió con aterradora claridad que la batalla que se avecinaba no solo pondría a prueba su fuerza y su fe, sino que desafiaría hasta el límite más profundo su propia humanidad.
 
 ![[ProfeciaFindeWako.png]]
-### _Vengy – La Llama Encerrada
+### _Vengy – La Llama Encerrada_
 
 La prisión subterránea de Waterdeep era un lugar sombrío y sofocante, donde la humedad impregnaba cada piedra y la justicia parecía haber huido hace tiempo. Dentro de una celda estrecha y fría, Vengy permanecía sentado en la penumbra, la espalda apoyada contra el muro áspero y helado. Aunque no vestía armadura ni capa, y sus piernas, debilitadas por el cautiverio, apenas le respondían, seguía irradiando una fuerza intangible que atraía miradas y murmuraciones.
 
@@ -269,7 +269,7 @@ Pero incluso sin fuerzas en sus piernas, privado de su escudo y despojado de su 
 
 Porque si este era el final, entonces ardería junto con él.
 
-### _Ander – Al compas de la penitencia
+### _Ander – Al compas de la penitencia_
 
 En la esquina más oscura y olvidada de una taberna desprovista de alegría, Ander sostenía la flauta con dedos inseguros, tocando una melodía quebrada que reflejaba el vacío profundo de su alma. La atmósfera estaba impregnada de olores desagradables; cerveza estancada, grasa rancia y desesperanza envolvían cada rincón del lugar, como si las mismas paredes ennegrecidas por el humo hubieran absorbido años de penas acumuladas. El público presente no escuchaba realmente; apenas toleraba su presencia con una indiferencia cruelmente pasiva.
 
@@ -308,7 +308,7 @@ Porque comprendía claramente que, si aquellos seres habían venido buscando alg
 ---
 ## **Sesión 2**
 
-### _Ander - La Huida acompañado
+### _Ander - La Huida acompañado_
 
 Ander corrió con una desesperación animal, huyendo de las sombras que brotaban del portal maldito, sintiendo cómo el frío de la noche se mezclaba con el pánico ardiente que recorría sus venas. En sus brazos, el perro flaco jadeaba, asustado. Con un último esfuerzo, se escondieron juntos en un callejón estrecho y oscuro.
 
@@ -367,7 +367,7 @@ Entonces, arrastrado por el viento nocturno, un papel medio calcinado aterrizó 
 Ander sintió un frío más profundo que cualquier noche invernal recorrer su cuerpo. No solo por las palabras leídas, sino por la certeza de que ya sabían exactamente dónde encontrarlo.
 
 ![[ProfeciaVersosIniciales.png]]
-###  _Alistar – El caos
+###  _Alistar – El caos_
 
 La noche se había roto, desgarrada por un estallido infernal que aún reverberaba en los oídos de Alistar. Frente al templo, la plaza era una herida abierta en la piel de la ciudad, de la que manaba humo negro y gritos desesperados. Su mirada recorrió brevemente el campo de batalla improvisado, distinguiendo entre las llamas y el caos a treinta o quizás cuarenta criaturas demoníacas, sombras retorcidas que avanzaban inexorables, sembrando muerte y miedo.
 
@@ -425,7 +425,7 @@ Aquella noche, sin embargo, la justicia prevaleció sobre el orden
 
 Y mientras su comandante se alejaba en silencio, Alistar contempló el desastre con el corazón pesado, sabiendo que, pese a la victoria efímera, las heridas de esta noche tardarían mucho tiempo en cicatrizar.
 
-### _Hakuryuu - Soledad Interior
+### _Hakuryuu - Soledad Interior_
 
 El suelo tembló bajo sus pies mientras los demonios se deslizaban hacia él, grotescos, emitiendo sonidos que se debatían entre gruñidos animales y ecos de llantos malditos. Hakuryuu se preparó instintivamente, aunque sus garras estaban desnudas y Myrrym brillaba dolorosamente por su ausencia. Verse aferrando un simple candelabro en lugar de su legendaria espada le recordó con mayor intensidad la profundidad de su pérdida.
 
@@ -491,7 +491,7 @@ La visión se desvaneció bruscamente, devolviéndole a la sala destrozada. Pero
 
 ![[MyrymRoto.png]]
 
-### _Malizall - El nuevo amanecer del pacto
+### _Malizall - El nuevo amanecer del pacto_
 
 La cabaña vibró con violencia, resonando como un gong de pesadilla al abrirse paso el demonio. Malizall, afuera en la nieve punzante, apenas tuvo tiempo para reaccionar antes de que la criatura, una masa retorcida de oscuridad y carne corrompida, emergiera en toda su grotesca plenitud. Su corazón se contrajo con una punzada de pánico, sus ojos fijos en Wako, quien desesperadamente extendía sus alas, buscando altura en vano.
 
@@ -526,7 +526,7 @@ Malizall reconoció algo familiar en la profundidad de aquellos ojos nuevos; no 
 Malizall comprendió en ese instante lo que significaba. Había sido elegido nuevamente, destinado a cuidar de esta criatura como una vez cuidó de Wako. La marca invisible del pacto resurgía, distinta pero igualmente poderosa, y supo con absoluta certeza que su camino aún no había terminado.
 
 ![[ProfeciaFindeWako2.png]]
-### _Vengy - Protector del débil
+### _Vengy - Protector del débil_
 
 El eco del trueno resonó aún en los oídos de Vengy mientras la puerta retorcida de su celda caía a un lado, liberándolo de su encierro. Apenas tuvo tiempo de recuperar el aliento cuando la criatura felina, retorcida y envuelta en humo, se lanzó sobre el guardia caído, hiriéndolo gravemente con una facilidad aterradora.
 
@@ -556,7 +556,7 @@ Su mirada se endureció con una determinación férrea; no abandonaría a la gen
 
 Mientras la ciudad ardía a su alrededor, Vengy supo con absoluta claridad que su batalla estaba lejos de haber terminado. Pero mientras tuviera aliento, seguiría luchando por proteger a aquellos que aún no habían perdido la esperanza.
 
-### _Orianna - El latir del abismo
+### _Orianna - El latir del abismo_
 
 La grieta en la tierra siguió expandiéndose lentamente, devorando el suelo con un sonido húmedo y angustioso. Orianna, firme a pesar del temblor bajo sus pies, calculó con horror que al menos cinco criaturas emergían lentamente de aquella fisura maldita. Su corazón latía con furia y determinación, consciente del peligro que amenazaba con consumir el santuario y todo cuanto amaba.
 
@@ -603,7 +603,7 @@ La comprensión llegó con brutal certeza: Acererak había secuestrado a Elyz. S
 El aislamiento había terminado. Ahora comenzaba la verdadera batalla.
 
 ![[Bosque dañado.png]]
-### _Conclusión
+### _Conclusión_
 
 La noche se prolongó en un caos incesante, donde criaturas astutas y oscuras aprovechaban cada sombra para atacar a los incautos y distraídos. Waterdeep ardía bajo un cielo ennegrecido, y el aire estaba impregnado de humo, ceniza y desesperación.
 
