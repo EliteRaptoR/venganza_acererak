@@ -1,8 +1,6 @@
 
-imagen para la profecia de la ultima campanada
-juntar npc y subir a gpt
-subir el diario actualizado a gpt
 añaddir a drogon, el caballo de hakuryu
+
 
 Modificar sesion 0 y sesion 1 para juntarlas en el diario y añadir enlaces de los personajes.
 

@@ -15,19 +15,19 @@
 - [[Orianna]]
 - [[Vengy]]
 
-#### **Relevantes**
-- 
+#### **Principales**
+- [[Sildar Hallwinter]]
 
 ##### **Sequito del dragón de plata**
-- [[Kael Vhantar (Jugadores)]]
-- [[Dareth Silmaer (Jugadores)]]
-- [[Varuun Tyrral (Jugadores)]]
+- [[Kael Vhantar]]
+- [[Dareth Silmaer]]
+- [[Varuun Tyrral]]
 ##### **Orden de Tyr**
-- [[Harker (Jugadores)]]
-- [[Marcus Deren (Jugadores)]]
-- [[Eldrin (Jugadores)]]
+- [[Harker]]
+- [[Marcus Deren]]
+- [[Eldrin]]
 ##### **Dragona Verde**
-- [[Elyzmyrath (jugadores)]]
+- [[Elyzmyrath]]
 
 ---
 ## **Normas** 

@@ -1,4 +1,4 @@
-#Jugadores #NoSubido
+#Jugadores
 ### **Sildar Hallwinter**
 
 ![[Sildar.png]]

@@ -57,7 +57,7 @@ _“La guerra no se gana con acero... sino con claridad.”_
 ### Bitácora de campaña
 #Master
 
-[[Dareth Silmaer (Jugadores)]]
+[[Dareth Silmaer]]
 
 ### Motivaciones ocultas
 
@@ -129,6 +129,138 @@ _“La guerra no se gana con acero... sino con claridad.”_
     
 - **Punto de decisión:** Los jugadores deberán tomar una decisión moral si Dareth se convierte en una amenaza: ¿matar a un antiguo aliado o buscar una solución imposible?
 #Jugadores 
+
+### **Eldrin IV**
+
+![[Eldrin.png]]
+
+**Eldrin**  
+**Raza / Clase:** Humano / Sumo sacerdote de Tyr  
+**Edad:** 62 años  
+**Ubicación conocida:** Templo de Tyr, Waterdeep
+
+---
+
+### Apariencia
+
+- Hombre alto y de complexión delgada, envuelto en vestiduras sagradas de lino blanco y oro, siempre limpias y ordenadas.
+    
+- Lleva la cabeza rapada en señal de humildad y un medallón antiguo de Tyr que cuelga sobre su pecho.
+    
+- Sus ojos, claros y serenos, contrastan con la firmeza de su mandíbula y la profundidad de las arrugas que marcan su rostro.
+    
+- Sus manos, siempre juntas en señal de oración o extendidas en gesto conciliador.
+    
+
+---
+
+### Personalidad
+
+- Calmo, paciente, profundamente compasivo y dispuesto a escuchar todas las voces antes de emitir juicio.
+    
+- Ve el templo como refugio para todos, no solo los fieles. Busca la paz antes que el castigo, pero nunca vacila en recordar el valor del deber y la justicia.
+    
+- Evita la violencia y la retórica incendiaria; cree que la palabra, la compasión y el ejemplo son el camino para reconciliar al pueblo con la fe.
+    
+- Respeta a Alistar y Marcus por su honestidad y servicio; aprecia la firmeza de Harker pero desconfía de los extremos del mando militar.
+    
+
+---
+
+### Rol actual
+
+- Eldrin es la máxima autoridad religiosa del templo de Tyr y figura de referencia moral para la comunidad.
+    
+- Es el primero en acudir ante disturbios, crisis o tensiones sociales, interponiéndose siempre entre los fieles y la violencia.
+    
+- Su caída durante la revuelta en la plaza marca el inicio del verdadero caos y fractura la moral de la guardia y los sacerdotesDiario Capitulo 1. Ecos….
+    
+
+---
+
+### Conexión con el grupo
+
+- Mentor y confidente ocasional para Alistar y Marcus; voz de equilibrio frente a la rigidez de Harker.
+    
+- Respetado incluso por quienes no comparten su fe; su pérdida representa un golpe emocional para el grupo y el pueblo.
+#Master 
+[[Eldrin]]
+
+**Frase oculta de esencia:**  
+_“No temas la cólera de la multitud: solo el silencio tras su ira.”_
+
+---
+
+### Motivaciones ocultas
+
+- Eldrin ha visto el creciente peligro de la división social y religiosa, y teme que la respuesta violenta destruya el templo desde dentro.
+    
+- Ha recibido visiones en sueños en las que el templo arde y la fe es olvidada, pero interpreta estos augurios como advertencias para inspirar humildad y apertura, no miedo.
+    
+- Conoce secretos sobre la financiación del templo y acuerdos tácitos con la nobleza local para mantener el equilibrio social, pero sabe que revelarlos podría poner en peligro a inocentes y desatar un escándalo mayor.
+    
+- Tiene dudas sinceras sobre si Tyr responde todavía a las plegarias, pero guarda ese temor solo para sí.
+    
+
+---
+
+### Ganchos narrativos y evolución
+
+- **Sacrificio:** Puede interponerse físicamente entre la multitud y los soldados, recibiendo la herida (piedra en la cabeza) que desata el caos; este acto puede ser letal o dejarlo en coma según necesidades narrativas.
+    
+- **Última confesión:** Si sobrevive, puede compartir una visión o secreto relevante con Alistar, Marcus o el propio Harker, orientando el rumbo moral de la campaña.
+    
+- **Inspiración post-mortem:** Su muerte puede desencadenar una serie de sueños proféticos o apariciones como espíritu guía, advirtiendo de futuras amenazas o pidiendo misericordia para la ciudad.
+    
+- **Crisis de fe:** Si los personajes investigan a fondo, pueden descubrir cartas privadas de Eldrin en las que expresa sus dudas espirituales y su amor incondicional por el pueblo… incluso cuando siente que Tyr ha enmudecido.
+    
+
+---
+
+### Mecánicas (resumen)
+
+- **Nivel funcional:** Clérigo de Tyr nivel 10 (orientado a curación, protección y adivinación)
+    
+- **PG:** 58 | **CA:** 15
+    
+- **Poderes rituales:**
+    
+    - _Santuario de la Voz_: Puede calmar a multitudes (CD Carisma 18) durante 1d4 minutos.
+        
+    - _Palabra de Consuelo_: Cura 4d8+10 PG a todos los aliados a 20 pies si cae inconsciente.
+        
+    - _Visión Verdadera_: Una vez por semana, puede obtener una visión relevante para la campaña.
+        
+    - _Aura de Autoridad_: Los aliados a 10 pies ganan ventaja en tiradas de salvación contra miedo y confusión.
+        
+
+---
+
+### Interpretación
+
+- Voz cálida y pausada, como quien espera ser interrumpido pero nunca lo es.
+    
+- Usa parábolas y citas de Tyr, pero siempre adaptadas al momento y al público.
+    
+- Frases típicas:
+    
+    - _“Nadie está más allá de la redención, pero todos deben elegir buscarla.”_
+        
+    - _“Una multitud es solo un corazón grande… al que aún no hemos aprendido a escuchar.”_
+        
+    - _“Si la justicia no puede ser compasiva, entonces ya no es justicia, solo castigo.”_
+        
+
+---
+
+### Relevancia futura
+
+- Si muere, el templo de Tyr puede sumirse en una crisis de liderazgo, siendo la ocasión para que el grupo decida el futuro del culto (más humano o más rígido).
+    
+- Si sobrevive, puede ser mentor renovado, guía profético o incluso voz que modera entre facciones enfrentadas en Waterdeep.
+    
+- Sus dudas y secretos pueden dar pie a subtramas de traición, revelación o redención, según lo que los personajes decidan investigar o proteger.
+#Jugadores 
 ### **Elyzmyrath** _(“Elyz” para Orianna)_
 
 ![[Elyzmyrath.png]]
@@ -190,7 +322,7 @@ _“La guerra no se gana con acero... sino con claridad.”_
 ![[Elyzmyrath Aliento.png]]
 #Master 
 
-[[Elyzmyrath (jugadores)]]
+[[Elyzmyrath]]
 
 ### Motivaciones ocultas
 
@@ -311,7 +443,7 @@ _“El saber no salva. Solo deja claro lo que se pierde.”_
 - Ninguna, el grupo no lo conoce, pero el al grupo si.
 #Master 
 
-[[Eranthos, Bibliotecario Perdido (Jugadores)]]
+[[Eranthos, Bibliotecario Perdido]]
 
 ### Motivaciones ocultas
 
@@ -435,7 +567,7 @@ _“Toda visión llega a tiempo… incluso cuando ya es demasiado tarde.”_
 - No abandona su templo, pero extiende su influencia a través de visiones, objetos sagrados y enseñanzas encriptadas.
 #Master 
 
-[[Gran Padre Zitembe (Jugadores)]]
+[[Gran Padre Zitembe]]
 
 ### Motivaciones ocultas
 
@@ -558,7 +690,7 @@ _“Cuando la justicia duda, el deber debe alzar la voz.”_
 - Puede ser una fuente de ayuda logística o recursos… siempre bajo condiciones rígidas.
 #Master 
 
-[[Harker (Jugadores)]]
+[[Harker]]
 
 ### Motivaciones ocultas
 
@@ -688,7 +820,7 @@ _“Un dragón no se arrodilla. Ni ante dioses. Ni ante sombras.”_
 - Puede tolerar, proteger o colaborar con el resto del grupo si Hakuryuu lo ordena… pero no les debe nada.
 #Master 
 
-[[Kael Vhantar (Jugadores)]]
+[[Kael Vhantar]]
 
 **Frase de identidad (versión oscura):**  
 _“Si cae el dragón, no por falta de acero será.”_
@@ -820,7 +952,7 @@ _“Si cae el dragón, no por falta de acero será.”_
 - Puede ganarse la confianza del grupo si lo tratan con respeto y honestidad; odia los juegos de poder.
 #Master 
 
-[[Marcus Deren (Jugadores)]]
+[[Marcus Deren]]
 
 _“No sigo órdenes. Sigo a los hombres en los que creo.”_
 
@@ -952,7 +1084,7 @@ Familiar (cuervo) vinculado a Malizal
 - En los sueños, su sombra puede aparecer como **guía entre recuerdos o visiones**.
 #Master 
 
-[[NoWako (Jugadores)]]
+[[Ceniz]]
 
 ### Origen y naturaleza
 
@@ -1076,7 +1208,7 @@ _“A veces sé cosas que no quiero saber. Pero cuando las digo me siento mejor.
 - Debe ser protegida, pero también escuchada: no es una niña indefensa, sino una voz del destino.
 #Master 
 
-[[Nyah Zitembe (Jugadores)]]
+[[Nyah Zitembe]]
 
 **Frase oculta de esencia:**  
 _“No soy una profeta. Solo soy alguien a quien las visiones no dejan en paz.”_
@@ -1200,7 +1332,7 @@ _“No quiero morir por ustedes. Pero si tengo que hacerlo… lo haré sonriendo
 - Representa el pasado heroico que todos intentan honrar o superar.
 #Master 
 
-[[Sildar Hallwinter (Jugadores)]]
+[[Sildar Hallwinter]]
 
 **Frase oculta de esencia:**  
 _“No me sigan porque yo caí. Sigan porque aún pueden elegir cómo caer.”_
@@ -1321,7 +1453,7 @@ _“¿Me recuerdas? Yo también solía salvar el mundo.”_
    
 - Los personajes lo creían muerto, desaparecido o corrompido.
 #Master 
-[[Terry Black (Jugadores)]]
+[[Terry Black]]
 
 _“No soy esclavo. Solo estoy cansado de perder.”_
 
@@ -1457,7 +1589,7 @@ _“La libertad es el velo favorito del caos.”_
 - Cree que Alistar aún puede ser “reclamado” para la causa, y no oculta su deseo de convertirlo en el “escudo sagrado del nuevo dogma”.
 #Master 
 
-[[Tharvek, Gran inquisidor (Jugadores)]]
+[[Tharvek, Gran inquisidor]]
 
 **Frase oculta de esencia:**  
 _“Yo no soy cruel. El caos lo es. Yo soy su castigo.”_
@@ -1596,7 +1728,7 @@ _“¡Nadie pasará mientras yo esté de pie!”_
 - Podría sacrificarse para proteger a uno de ellos o convertirse en su seguidor ferviente.
 #Master 
 
-[[Varuun Tyrral (Jugadores)]]
+[[Varuun Tyrral]]
 
 **Frase oculta de esencia:**  
 _“Si caigo antes de que me llamen caballero… al menos caí defendiéndolos.”_
@@ -1727,7 +1859,7 @@ _“Puedo darte todo lo que necesitas… salvo certezas.”_
 - Es una figura querida, pero que **representa el equilibrio entre amistad y pragmatismo**.
 #Master 
 
-[[Wakanga O’tamu (Jugadores)]]
+[[Wakanga O’tamu]]
 
 **Frase oculta de esencia:**  
 _“Una mano abierta siempre esconde la otra.”_

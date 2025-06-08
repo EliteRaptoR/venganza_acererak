@@ -1,6 +1,6 @@
 #Master 
 
-[[Harker (Jugadores)]]
+[[Harker]]
 
 ### Motivaciones ocultas
 

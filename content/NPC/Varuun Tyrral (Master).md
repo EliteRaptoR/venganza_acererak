@@ -1,6 +1,6 @@
 #Master 
 
-[[Varuun Tyrral (Jugadores)]]
+[[Varuun Tyrral]]
 
 **Frase oculta de esencia:**  
 _“Si caigo antes de que me llamen caballero… al menos caí defendiéndolos.”_

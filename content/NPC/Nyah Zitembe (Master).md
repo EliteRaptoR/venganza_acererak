@@ -1,6 +1,6 @@
 #Master 
 
-[[Nyah Zitembe (Jugadores)]]
+[[Nyah Zitembe]]
 
 **Frase oculta de esencia:**  
 _“No soy una profeta. Solo soy alguien a quien las visiones no dejan en paz.”_

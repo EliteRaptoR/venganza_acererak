@@ -1,6 +1,6 @@
 #Master 
 
-[[Tharvek, Gran inquisidor (Jugadores)]]
+[[Tharvek, Gran inquisidor]]
 
 **Frase oculta de esencia:**  
 _“Yo no soy cruel. El caos lo es. Yo soy su castigo.”_

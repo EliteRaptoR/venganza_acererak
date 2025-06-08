@@ -1,4 +1,4 @@
-#Jugadores #NoSubido
+#Jugadores
 ### **Terry Black**
 
 ![[Terry Black.png]]

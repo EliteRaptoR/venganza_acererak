@@ -20,7 +20,7 @@
 - [[Eranthos, Bibliotecario Perdido (Master)]]
 - [[Gran Padre Zitembe (Master)]]
 - [[Nyah Zitembe (Master)]]
-- [[NoWako (Master)]]
+- [[Ceniz (Master)]]
 - [[Sildar Hallwinter (Master)]]
 - [[Terry Black (Master)]]
 - [[Tharvek, Gran inquisidor (Master)]]

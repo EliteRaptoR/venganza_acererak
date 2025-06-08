@@ -1,4 +1,4 @@
-#Jugadores #NoSubido
+#Jugadores
 ### **Wakanga O’tamu**
 
 ![[Wakanga O’tamu.png]]

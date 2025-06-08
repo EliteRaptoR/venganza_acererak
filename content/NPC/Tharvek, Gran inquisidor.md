@@ -1,4 +1,4 @@
-#Jugadores #NoSubido 
+#Jugadores 
 ### **Tharvek, Gran inquisidor**
 
 ![[Tharvek.png]]

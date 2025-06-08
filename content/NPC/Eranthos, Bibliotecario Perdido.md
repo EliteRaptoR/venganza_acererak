@@ -1,4 +1,4 @@
-#Jugadores #NoSubido 
+#Jugadores
 ### **Eranthos, Bibliotecario Perdido** 
 
 ![[Eranthos.png]]

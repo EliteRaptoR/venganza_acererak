@@ -1,6 +1,6 @@
 #Master 
 
-[[Elyzmyrath (jugadores)]]
+[[Elyzmyrath]]
 
 ### Motivaciones ocultas
 

@@ -1,6 +1,6 @@
 #Master 
 
-[[Eranthos, Bibliotecario Perdido (Jugadores)]]
+[[Eranthos, Bibliotecario Perdido]]
 
 ### Motivaciones ocultas
 

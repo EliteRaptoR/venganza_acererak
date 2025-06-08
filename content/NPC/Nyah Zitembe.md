@@ -1,4 +1,4 @@
-#Jugadores #NoSubido
+#Jugadores
 ### **Nyah Zitembe**
 
 ![[Nyah.png]]

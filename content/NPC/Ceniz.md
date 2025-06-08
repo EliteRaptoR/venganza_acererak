@@ -1,4 +1,4 @@
-#Jugadores #NoSubido
+#Jugadores 
 
 ![[NoWako.png]]
 _“COOAAH, COOAAH”_

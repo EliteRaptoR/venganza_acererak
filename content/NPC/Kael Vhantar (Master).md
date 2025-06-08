@@ -1,6 +1,6 @@
 #Master 
 
-[[Kael Vhantar (Jugadores)]]
+[[Kael Vhantar]]
 
 **Frase de identidad (versión oscura):**  
 _“Si cae el dragón, no por falta de acero será.”_

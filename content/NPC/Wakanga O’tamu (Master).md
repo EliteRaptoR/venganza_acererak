@@ -1,6 +1,6 @@
 #Master 
 
-[[Wakanga O’tamu (Jugadores)]]
+[[Wakanga O’tamu]]
 
 **Frase oculta de esencia:**  
 _“Una mano abierta siempre esconde la otra.”_

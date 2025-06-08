@@ -1,6 +1,6 @@
 #Master 
 
-[[NoWako (Jugadores)]]
+[[Ceniz]]
 
 ### Origen y naturaleza
 

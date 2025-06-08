@@ -1,4 +1,4 @@
-#Jugadores #NoSubido
+#Jugadores
 ### **Gran Padre Zitembe** 
 
 ![[Zitembe.png]]

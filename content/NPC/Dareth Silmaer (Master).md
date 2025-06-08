@@ -1,6 +1,6 @@
 #Master
 
-[[Dareth Silmaer (Jugadores)]]
+[[Dareth Silmaer]]
 
 ### Motivaciones ocultas
 

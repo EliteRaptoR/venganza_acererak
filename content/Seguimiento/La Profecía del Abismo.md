@@ -80,3 +80,4 @@ _Así está escrito. Así será.”_
 *Entonces sabréis:*  
 *la era del juicio ha comenzado.”*
 
+![[ProfeciaLacampana.png]]

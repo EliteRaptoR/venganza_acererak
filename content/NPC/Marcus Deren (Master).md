@@ -1,6 +1,6 @@
 #Master 
 
-[[Marcus Deren (Jugadores)]]
+[[Marcus Deren]]
 
 _“No sigo órdenes. Sigo a los hombres en los que creo.”_
 

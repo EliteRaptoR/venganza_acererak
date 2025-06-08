@@ -1,6 +1,6 @@
 #Master 
 
-[[Gran Padre Zitembe (Jugadores)]]
+[[Gran Padre Zitembe]]
 
 ### Motivaciones ocultas
 

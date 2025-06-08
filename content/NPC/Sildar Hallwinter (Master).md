@@ -1,6 +1,6 @@
 #Master 
 
-[[Sildar Hallwinter (Jugadores)]]
+[[Sildar Hallwinter]]
 
 **Frase oculta de esencia:**  
 _“No me sigan porque yo caí. Sigan porque aún pueden elegir cómo caer.”_
