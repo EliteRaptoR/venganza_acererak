@@ -5,8 +5,6 @@
 
 ![[Alistar2.png]]
 
-![[Alistar.png]]
-
 ### **Rasgos principales**
 #### **Raza/Clase:** Humano / Paladín de Tyr.
 
