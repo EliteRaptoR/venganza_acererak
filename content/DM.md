@@ -15,8 +15,7 @@
 - [[Malizall]]
 - [[Orianna]]
 - [[Vengy]]
-
-#### **Relevantes**
+#### **Principales**
 - [[Eranthos, Bibliotecario Perdido (Master)]]
 - [[Gran Padre Zitembe (Master)]]
 - [[Nyah Zitembe (Master)]]
@@ -25,6 +24,11 @@
 - [[Terry Black (Master)]]
 - [[Tharvek, Gran inquisidor (Master)]]
 - [[Wakanga O’tamu (Master)]]
+##### **La Mano de Hierro**]]
+- [[Apóstol Marvyn Taul (Master)]]
+- [[Derian Farse (Master)]]
+##### **Waterdeep**
+- [[Jayla Rynn (Master)]]
 ##### **Sequito del dragón de plata**
 - [[Dareth Silmaer (Master)]]
 - [[Varuun Tyrral (Master)]]

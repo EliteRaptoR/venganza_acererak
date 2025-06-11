@@ -171,7 +171,7 @@ La plaza, normalmente bulliciosa con vendedores y músicos, está extrañamente 
     _Motivación:_ Quiere impresionar a sus superiores en la Mano; aún no es un fanático, pero disfruta el poder de su nuevo cargo.  
     _Frase típica:_ “La ley es para todos, incluso para los que se creen por encima de ella. Vuestra presencia no pasa desapercibida.”
     
-
+[[Derian Farse (Master)]]
 ![[Derian.png]]
 
 ### **Secundarios:**
@@ -213,7 +213,7 @@ Una pequeña multitud se agolpa ante la fuente. Un joven subido a un cajón sost
     _Motivación:_ Devoción por el profeta. 
     _Frase:_ “El Juicio está entre nosotros. No confiéis en magos ni sacerdotes: solo la Voz puede guiaros.”
     
-
+[[Apóstol Marvyn Taul (Master)]]
 ![[Apóstol Marvyn Taul.png]]
 ### **Secundarios:**
 
@@ -254,7 +254,11 @@ Al abrir las puertas, media docena de **guardias de la Mano de Hierro** entra en
     Mujer joven, rostro redondo y pecoso, sonrisa nerviosa pero voz firme. Lleva una capa verde con dados dorados bordados.  
     _Motivación:_ Proteger a los fieles y el símbolo de la fortuna, evitando enfrentamientos abiertos.  
     _Frase:_ “La suerte favorece a los valientes… pero hoy, incluso la suerte parece temerosa.”
-    
+
+[[Jayla Rynn (Master)]]
+
+![[Jayla Rynn.png]]
+
 - **Inspector Havian Grett**  
     Joven delgado, capa roja, gesto satisfecho por su autoridad, no muestra compasión ni crueldad.  
     _Frase:_ “Toda magia y objeto ritual debe ser entregado. No resistáis o vuestra mala fortuna será el menor de vuestros problemas.”
