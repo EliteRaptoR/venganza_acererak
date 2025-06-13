@@ -24,15 +24,19 @@
 - [[Terry Black (Master)]]
 - [[Tharvek, Gran inquisidor (Master)]]
 - [[Wakanga O’tamu (Master)]]
-##### **La Mano de Hierro**]]
+##### **La Mano de Hierro**
 - [[Apóstol Marvyn Taul (Master)]]
-- [[Derian Farse (Master)]]
+- [[Apóstol Hederic Alorn (Master)]]
+- [[Sargento Derian Farse (Master)]]
+- [[Capitana Soriah Durn (Master)]]
 ##### **Waterdeep**
-- [[Jayla Rynn (Master)]]
+- [[Clériga Jayla Rynn (Master)]]
+- [[Gobernador Varn Dosic (Master)]]
+- [[Padre Relion (Master)]]
 ##### **Sequito del dragón de plata**
 - [[Dareth Silmaer (Master)]]
 - [[Varuun Tyrral (Master)]]
--  [[Kael Vhantar (Master)]]
+- [[Kael Vhantar (Master)]]
 ##### **Orden de Tyr**
 - [[Harker (Master)]]
 - [[Marcus Deren (Master)]]

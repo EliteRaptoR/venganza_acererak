@@ -1,7 +1,7 @@
 #Master 
 
 # Sesión 4
-## **LISTA DE OPCIONES DE PREPARATIVOS (sin la Mano de Hierro)**
+## **LISTA DE OPCIONES DE PREPARATIVOS** 
 
 ---
 
@@ -171,7 +171,7 @@ La plaza, normalmente bulliciosa con vendedores y músicos, está extrañamente 
     _Motivación:_ Quiere impresionar a sus superiores en la Mano; aún no es un fanático, pero disfruta el poder de su nuevo cargo.  
     _Frase típica:_ “La ley es para todos, incluso para los que se creen por encima de ella. Vuestra presencia no pasa desapercibida.”
     
-[[Derian Farse (Master)]]
+[[Sargento Derian Farse (Master)]]
 ![[Derian.png]]
 
 ### **Secundarios:**
@@ -255,7 +255,7 @@ Al abrir las puertas, media docena de **guardias de la Mano de Hierro** entra en
     _Motivación:_ Proteger a los fieles y el símbolo de la fortuna, evitando enfrentamientos abiertos.  
     _Frase:_ “La suerte favorece a los valientes… pero hoy, incluso la suerte parece temerosa.”
 
-[[Jayla Rynn (Master)]]
+[[Clériga Jayla Rynn (Master)]]
 
 ![[Jayla Rynn.png]]
 

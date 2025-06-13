@@ -1,5 +1,5 @@
 
-[[Jayla Rynn]]
+[[Clériga Jayla Rynn]]
 #### **Esencia y Motivación**
 
 - Jayla es protectora, pero no temeraria: sabe que un templo destruido no puede acoger a nadie.

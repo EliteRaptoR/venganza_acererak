@@ -1,4 +1,4 @@
-[[Derian Farse]]
+[[Sargento Derian Farse]]
 #### **Esencia y Motivación**
 
 - Derian no es fanático religioso ni ideológico: su verdadera ambición es ascender y demostrar competencia ante sus superiores.
