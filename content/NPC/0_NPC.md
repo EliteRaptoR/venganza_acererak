@@ -1,60 +1,684 @@
+[[Apóstol Hederic Alorn]]
+
+### **Esencia y Motivación**
+
+- Hederic cree ciegamente en el destino marcado por la Voz (el Profeta), pero teme que el milagro no baste para doblegar el caos.
+    
+- Siente que es el verdadero “sacerdote del cambio”, dispuesto a sacrificar todo —incluso su alma— para que la profecía se cumpla.
+    
+- Está obsesionado con los símbolos y espejos: busca alinearlos para canalizar poder, aunque no comprende del todo la magia que manipula.
+    
+- Sufre sueños febriles y visiones en las que su rostro se funde con el de la luna, lo que interpreta como señal de su destino.
+    
+
+---
+
+### **Ganchos Narrativos, Secretos y Mecánicas**
+
+- **Gancho de escena:** Puede desatar milagros (como el oscurecimiento de la luna) en presencia de multitudes, canalizando energías que no controla plenamente.
+    
+- **Fanatismo peligroso:** Si un personaje lo desafía en público, Hederic responderá con condena ritual, exponiendo a los personajes al juicio de la multitud o a fenómenos sobrenaturales.
+    
+- **Debilidad oculta:** Si se enfrenta a una contradicción flagrante en la profecía o si el Profeta muestra dudas, Hederic puede desmoronarse o caer en trance catatónico.
+    
+- **Rituales de espejo:** Sus rituales pueden crear portales menores, reflejar ataques mágicos o captar fragmentos de visiones importantes para la campaña (útil para pistas o presagios).
+    
+- **Destino trágico:** Está dispuesto a morir como mártir si el milagro fracasa; si muere públicamente, sus seguidores pueden radicalizarse aún más.
+    
+
+---
+
+### **Reacciones y Consecuencias**
+
+- Si los personajes interrumpen o desacreditan uno de sus milagros, puede volverse vengativo y desencadenar linchamientos o persecuciones.
+    
+- Si sobrevive al fracaso de un milagro, puede convertirse en profeta errante, buscando restaurar la luna o expiar su “fracaso”.
+    
+- Si la Voz (Profeta) lo traiciona o desautoriza, Hederic puede sufrir un colapso mental o intentar forzar un milagro mayor por desesperación.
+    
+- Si es persuadido o testigo de verdadera compasión, podría (en rarísimo caso) renunciar públicamente, desencadenando una crisis interna en la Mano de Hierro.
+    
+
+---
+
+### **Mecánicas y Utilidad en Juego**
+
+- **Nivel funcional:** Clérigo/Fanático nivel 7–8 (PG: 44 | CA: 13)
+    
+- **Equipo:** Espejo ritual (puede canalizar conjuros de adivinación o ilusiones a gran escala), pergamino profético (puede inspirar o aterrorizar multitudes), amuleto de plata de la luna.
+    
+- **Habilidades especiales:**
+    
+    - _Oráculo de los Espejos:_ Puede lanzar una visión o crear un reflejo ilusorio que revele pistas o confunda a los personajes.
+        
+    - _Palabra de la Profecía:_ Otorga ventaja a aliados en rituales colectivos (concentración masiva, resistencia al miedo).
+        
+    - _Luz del Sacrificio:_ Si es herido mortalmente durante un ritual, su muerte puede desencadenar un efecto sobrenatural mayor (oscurecimiento temporal, locura, o incluso una bendición maldita).
+        
+
+---
+
+### **Interpretación**
+
+- Voz potente, rítmica, modulada para la oratoria. Su tono se vuelve casi hipnótico al recitar versos proféticos.
+    
+- Utiliza el espejo y el pergamino como objetos de poder: alza el espejo al cielo en los momentos culminantes de la ceremonia.
+    
+- Mira a los personajes con mezcla de lástima y desprecio, convencido de su papel central en el destino de la ciudad.
+    
+- Frases recurrentes:
+    
+    - _“La luna juzga… y hoy ha decidido apartar su rostro.”_
+        
+    - _“Mirad vuestro reflejo, pues ahí hallaréis la verdad.”_
+        
+    - _“Nada puede ocultarse a la Voz, ni siquiera en la noche eterna.”_
+        
+
+---
+
+### **Frase oculta de esencia**
+
+> _“El destino no se tuerce: sólo los débiles dudan ante el espejo.”_
 #Jugadores
-### **Dareth Silmaer**
 
-![[Dragon de plata, Dareth.png]]
-_“La guerra no se gana con acero... sino con claridad.”_
+### **Gran Apóstol Hederic Alorn**
 
-**Dareth Silmaer**  
-**Título:** El Voto Silente  
-**Raza / Clase:** Elfo lunar / Clérigo de la guerra  
-**Edad:** 180 años  
-**Lugar de origen:** Templos ancestrales del Loto Argénteo, en la Luna Élfica (Selûne)
+![[ApóstolHedericAlorn.png]]
+
+**Frase de identidad:**  
+_“Cuando la luna se devore a sí misma, la Voz hablará en la oscuridad.”_
+
+- **Raza/Clase:** Humano / Apóstol mayor de la Mano de Hierro
+    
+- **Edad:** 38 años
+    
+- **Ubicación frecuente:** Plazas, altares improvisados, eventos multitudinarios y ceremonias públicas.
+    
+
+---
+
+### **Apariencia**
+
+- Hombre alto y delgado, de piel clara y facciones angulosas, con barba negra trenzada sobre el pecho.
+    
+- Ojos de gris acerado, intensos, casi hipnóticos por el brillo del fanatismo.
+    
+- Cabello oscuro, recogido hacia atrás, con frente amplia y surcada de líneas profundas.
+    
+- Viste túnica larga de tonos grises y granates, ricamente decorada con runas y símbolos triangulares de la Mano de Hierro; sobre los hombros, estola escarlata bordada en plata.
+    
+- Sostiene un grueso pergamino con versos proféticos y un espejo de plata bruñida que usa en rituales.
+    
+- Su expresión es solemne y poderosa, la boca en media sonrisa profética, la mirada dirigida hacia la multitud o el cielo.
+    
+- Suele estar en altares improvisados o tarimas, rodeado de fieles, velas y banderas en penumbra ceremonial.
+    
+
+---
+
+### **Personalidad y Rumores**
+
+- Orador carismático y fanático, capaz de arengar a las masas o sembrar el miedo con la misma eficacia.
+    
+- Aparenta absoluta seguridad, aunque en privado muestra señales de tensión y agotamiento.
+    
+- Considerado por muchos el “brazo derecho del Profeta” y la voz ejecutora de los milagros anunciados.
+    
+- Algunos murmuran que sus espejos son reliquias malditas o portales a poderes oscuros; otros creen que él mismo está “tocado por la luna”.
+    
+
+---
+
+### **Rol Narrativo Abierto**
+
+- **Gancho inmediato:** Hederic puede convocar a los personajes a rituales masivos, proclamar juicios proféticos o desatar milagros públicos de gran impacto.
+    
+- **Papel recurrente:** Antagonista carismático en escenas multitudinarias, ejecutor de profecías o actor clave en fenómenos sobrenaturales.
+    
+- **Interacción destacada:** Es fuente de información codificada sobre la profecía, pero nunca responde de forma directa; desafía a los personajes con acertijos y desafíos públicos.
+    
+
+---
+
+### **Frase característica**
+
+> _“Cuando la luna se devore a sí misma, la Voz hablará en la oscuridad.”_
+
+[[Apóstol Marvyn Taul]]
+#### **Esencia y Motivación**
+
+- Marvyn es un converso reciente, atrapado entre su propia inseguridad y el deseo ferviente de pertenecer a algo trascendente.
+    
+- Su devoción hacia el Profeta roza el fanatismo: sería capaz de traicionar, sacrificar o incluso morir por la causa si cree que la Voz lo exige.
+    
+- No posee un verdadero carisma de líder; su poder radica en la fe ciega y en cómo canaliza el descontento popular.
+    
+
+---
+
+#### **Ganchos Narrativos, Secretos y Mecánicas**
+
+- **Gancho de escena:** Puede ser el desencadenante de disturbios en la ciudad. Su sola presencia puede encender el fervor de la multitud… o desatar un linchamiento.
+    
+- **Conflicto interno:** Marvyn duda en privado de sus propias visiones y teme profundamente fracasar ante el Profeta. Si un personaje logra sembrar la duda, puede colapsar emocionalmente.
+    
+- **Relación con el Profeta:** Nunca ha visto el rostro real del Profeta; lo idealiza y teme a partes iguales. Si descubre que la Voz es una farsa, podría convertirse en mártir o traidor.
+    
+- **Importancia en la campaña:** Puede ser utilizado como chivo expiatorio (por la Mano de Hierro o por los antagonistas) o como testigo clave de un ritual mayor.
+    
+- **Poder latente:** Aunque carece de poderes mágicos propios, ocasionalmente actúa como canal involuntario de energías proféticas o de corrupción. Puede servir para presagiar sucesos sobrenaturales en el entorno.
+    
+
+---
+
+#### **Reacciones y Consecuencias**
+
+- Si los personajes lo enfrentan en público, la multitud puede volverse violenta a favor o en contra de Marvyn, según las acciones del grupo.
+    
+- Si es capturado, se resquebrajará bajo presión, pero una intervención del Profeta podría rescatarlo de forma espectacular.
+    
+- Si muere públicamente, se convierte en mártir, avivando el fuego fanático de la Mano de Hierro y desestabilizando la ciudad.
+    
+- Si se le muestra compasión o se le ofrece un nuevo propósito, puede revelar información vital sobre rituales, la ubicación de líderes, o secretos internos del culto.
+    
+
+---
+
+#### **Interpretación**
+
+- Voz aguda pero temblorosa, especialmente en privado o bajo presión.
+    
+- Frases entrecortadas, repite mantras del Profeta como mecanismo de defensa.
+    
+- En situaciones de extrema tensión, puede entrar en trance, pronunciando palabras que no recuerda después.
+    
+
+---
+
+#### **Frase oculta de esencia**
+
+> _“El miedo es la única fe que nunca se apaga. Si la Voz calla… ¿quién me quedará?”_
+#Jugadores 
+
+### **Apóstol Marvyn Taul**
+
+![[Apóstol Marvyn Taul.png]]
+### **Apóstol Marvyn Taul**
+
+_"El Juicio está entre nosotros. No confiéis en magos ni sacerdotes: solo la Voz puede guiaros."_
+
+- **Raza/Clase:** Humano / Apóstol de la Mano de Hierro
+    
+- **Edad:** 23 años
+    
+- **Ubicación frecuente:** Plazas y calles de Waterdeep, especialmente cerca de templos y zonas de protesta.
+    
+- **Relación:** Figura pública y líder visible de la secta fanática, objeto de rumores y temores.
+    
+
+---
+
+#### **Apariencia**
+
+- Joven de complexión delgada, piel pálida y mandíbula marcada.
+    
+- Barba oscura incipiente, cabello castaño liso cayendo en flequillo, cejas gruesas y expresión intensa.
+    
+- Ojos claros, vidriosos por la falta de sueño o el exceso de fervor.
+    
+- Viste túnica de lino blanco, con el símbolo triangular de la Mano de Hierro en el pecho (hilo gris oscuro).
+    
+- Lleva siempre consigo un pergamino enrollado y una pequeña campana oxidada colgando de una cuerda en el cuello.
+    
+- Su porte transmite nerviosismo y un ardor casi febril.
+    
+
+---
+
+#### **Personalidad y Rumores**
+
+- Voz firme, aunque se nota la tensión de quien se esfuerza por convencerse a sí mismo tanto como a su público.
+    
+- Extremadamente devoto a su fe y a la figura del Profeta; se muestra intransigente con la duda.
+    
+- Famoso por hablar en público contra los magos, clérigos y toda autoridad mágica o tradicional.
+    
+- Se le atribuyen milagros menores o sucesos inexplicables durante sus sermones (aunque nunca comprobados).
+    
+- Los seguidores lo ven como el heraldo del Juicio, mientras sus detractores lo consideran un peligroso fanático.
+    
+
+---
+
+#### **Rol Narrativo Abierto**
+
+- **Gancho inmediato:** Puede abordar al grupo en cualquier plaza, ofreciendo profecías ambiguas o amenazas veladas, dependiendo del contexto.
+    
+- **Papel recurrente:** Es un agitador social, capaz de provocar multitudes o calmar revueltas con su palabra.
+    
+- **Interacción destacada:** Si los personajes buscan información sobre la Mano de Hierro, Marvyn puede ser tanto fuente de pistas como obstáculo político.
+    
+
+---
+
+#### **Frase característica**
+
+> _“El Juicio está entre nosotros. No confiéis en magos ni sacerdotes: solo la Voz puede guiaros.”_
+#Jugadores 
+
+[[Capitana Soriah Durn]]
+### **Esencia y Motivación**
+
+- Soriah es el epítome del mando profesional: cree en la disciplina, el deber y el orden como valores supremos.
+    
+- Desconfía de las justificaciones emocionales; ve en la debilidad de mando la raíz de la ruina de las antiguas guardias.
+    
+- Guarda en su fuero interno el peso de las vidas que ha perdido, pero nunca lo admite en público. Teme que la compasión visible debilite la estructura de mando.
+    
+- No es fanática, pero está convencida de que la Mano de Hierro es lo único que mantiene la ciudad lejos del abismo.
+    
+
+---
+
+### **Ganchos Narrativos, Secretos y Mecánicas**
+
+- **Gancho de escena:** Puede ofrecer condiciones estrictas de rendición; si es testigo de un acto de piedad extraordinaria, podría ordenar un alto el fuego temporal.
+    
+- **Dilema del mando:** Si uno de sus soldados duda, Soriah actúa con severidad; si un civil suplica por misericordia, su reacción será fría, pero puede cambiar si ve que la situación pone en jaque la disciplina de la tropa.
+    
+- **Vulnerabilidad oculta:** Si queda a solas con un personaje carismático o antiguo aliado, podría mostrar brevemente cansancio, admitir la carga de su puesto… o negociar en secreto.
+    
+- **Consecuencias:** Si es humillada o derrotada en público, la moral de la Mano de Hierro puede tambalear; si muere heroicamente, se convierte en mártir y endurece la represión de la ciudad.
+    
+- **Armadura y armas:** Su alabarda está bendecida para atravesar protecciones mágicas simples, y su capa roja es símbolo de mando absoluto (da ventaja a soldados aliados a 20 pies contra miedo).
+    
+
+---
+
+### **Reacciones y Consecuencias**
+
+- Si se le desafía en público, responde con autoridad inapelable y despliegue militar.
+    
+- Si se le ofrece una rendición digna o muestra de honor, puede conceder un gesto de respeto (tregua, retirada ordenada).
+    
+- Si percibe dudas en sus superiores, podría tomar el mando por su cuenta, endureciendo aún más las operaciones.
+    
+- Si sobrevive a una derrota, puede buscar redención o venganza como PNJ recurrente en el exilio.
+    
+
+---
+
+### **Mecánicas y Utilidad en Juego**
+
+- **Nivel funcional:** Guerrero/Comandante nivel 9–10 (PG: 87 | CA: 18)
+    
+- **Equipo:** Armadura negra completa, alabarda de mando (daño cortante +1d4 radiante contra objetivos de fe opuesta), capa roja de comandante (ventaja moral).
+    
+- **Habilidades especiales:**
+    
+    - _Mandato de Hierro:_ Puede ordenar a un pelotón entero repetir una tirada de salvación fallida por miedo/confusión (1/descanso largo).
+        
+    - _Autoridad Inquebrantable:_ Los PNJ aliados a su mando no desertan ni se rinden mientras esté presente.
+        
+    - _Presión táctica:_ Puede negar la retirada de un adversario (debe superar una tirada opuesta de Carisma).
+        
+
+---
+
+### **Interpretación**
+
+- Voz grave, firme, cortante; nunca sube el tono más de lo necesario.
+    
+- Gestos medidos y precisos, mirada fija, rara vez desvía los ojos del interlocutor.
+    
+- Si es interrogada, responde sin rodeos; si se le pide misericordia, elige el silencio antes que el titubeo.
+    
+- Frases recurrentes:
+    
+    - _“No existe autoridad sin responsabilidad. La compasión se reserva para los vencedores.”_
+        
+    - _“No temo al juicio, solo al caos.”_
+        
+    - _“Que la ciudad vea cómo mueren los que resisten; los que obedecen, vivirán.”_
+        
+
+---
+
+### **Frase oculta de esencia**
+
+> _“Lo que no puede doblarse, debe resistir o romperse. Elijo resistir.”_
+#Jugadores 
+
+![[Soriah Durn.png]]
+### **Capitana Soriah Durn, _La Mano de Hierro que no Tiembla_**
+
+**Frase de identidad:**  
+_“El deber no espera a la compasión. La ley es clara. Y yo la cumplo.”_
+
+- **Raza/Clase:** Humana / Comandante de la Mano de Hierro
+    
+- **Edad:** 41 años
+    
+- **Ubicación:** Al mando de las fuerzas de la Mano de Hierro, suele estar en primera línea durante operaciones críticas (templos, plazas, asedios urbanos).
+    
+
+---
+
+### **Apariencia**
+
+- Mujer de mediana edad, piel oscura y tersa, marcada por una cicatriz diagonal en la mejilla izquierda.
+    
+- Ojos negros, insondables, que denotan férrea disciplina y ausencia de titubeo.
+    
+- Cabello trenzado hacia atrás, bajo un yelmo negro ornamentado con el símbolo triangular de la Mano de Hierro.
+    
+- Armadura negra mate con grabados geométricos, filos metálicos que capturan la luz.
+    
+- Capa roja corta con el emblema de la Mano de Hierro bordado en gris.
+    
+- Suele portar el yelmo en una mano, y en la otra su alabarda de hoja ancha, ambas con marcas de uso real.
+    
+- Suele verse rodeada de soldados perfectamente alineados, en escenarios de tensión: templos, plazas asediadas, columnas caídas.
+    
+
+---
+
+### **Personalidad y Rumores**
+
+- Implacable, directa, absolutamente leal al deber por encima de la empatía o la duda.
+    
+- No se deja manipular ni provocar, y rara vez pierde la calma, incluso bajo presión extrema.
+    
+- Su reputación es la de una comandante intachable, admirada por la tropa y temida por civiles y adversarios.
+    
+- Algunos soldados murmuran que en privado carga con el peso de sus órdenes, aunque jamás lo muestra.
+    
+- Es la figura pública de la Mano de Hierro en las operaciones más delicadas o simbólicas.
+    
+
+---
+
+### **Rol Narrativo Abierto**
+
+- **Gancho inmediato:** Es la voz de las proclamaciones, ultimátums y negociaciones durante asedios y asaltos a lugares sagrados.
+    
+- **Papel recurrente:** Obstáculo insalvable si se desafía la autoridad de la Mano; puede permitir treguas o negociar rendiciones si la situación lo exige.
+    
+- **Interacción destacada:** Un enfrentamiento abierto con Soriah suele derivar en combate brutal… o en consecuencias sociales muy severas para los personajes.
+    
+
+---
+
+### **Frase característica**
+
+> _“Por decreto del Profeta y el Consejo, toda resistencia será tratada como herejía. Vuestro destino depende de vuestra obediencia.”_
+#Master 
+
+[[Ceniz]]
+
+### Origen y naturaleza
+
+- Esta criatura no proviene de ningún plano convencional. Surgió tras la **liberación de Wako**, como si una grieta no pudiera cerrarse del todo.
+    
+- Representa el **velo entre lo que fue y lo que no se atrevió a ser**, la memoria que persiste incluso cuando el pacto termina.
+    
+- No es demoníaco ni celestial. Es **crepuscular**, y su existencia está ligada a la voluntad inconsciente de Malizal: su necesidad de conexión.
+    
+
+---
+
+### Ganchos narrativos y evolución
+
+- **Profecía en silencio:** En ciertos sueños, puede actuar como guía. No habla, pero su entorno (la posición de velas, sombras o incluso el vuelo) revela pistas.
+    
+- **Despertar parcial:** En una escena clave, puede manifestar una voz débil (una palabra, un nombre) si la vida de Malizal o el grupo está en peligro.
+    
+- **Fragmento de Wako:** En una visión o ritual, el cuervo puede abrir un recuerdo reprimido de Wako, o incluso hablar con su tono durante unos segundos.
+    
+- **Sacrificio invertido:** Puede interponerse entre Malizal y una maldición mortal, disolviéndose en sombra si lo hace. Esto podría ser reversible si Malizal acepta “dejar entrar la luz de nuevo”.
+    
+
+---
+
+### Mecánicas (resumen)
+
+- Familiar no combatiente (como cuervo base, pero con propiedades especiales).
+    
+- **Poderes únicos:**
+    
+    - _Presagio Silente (pasivo):_ Malizal tiene ventaja en la primera tirada de iniciativa del día si el cuervo está presente.
+        
+    - _Ojo del Velo (1/día):_ Puede señalar un objeto o criatura marcada por una maldición, corrupción o energía extraplanar.
+        
+    - _Desplazamiento Sombrío:_ No provoca ataques de oportunidad, y puede atravesar barreras no mágicas (solo para sí mismo).
+        
+
+---
+
+### Interpretación
+
+- No usa sonido. Sus acciones son gestos rituales:
+    
+    - Se posa sobre símbolos.
+        
+    - Ladea la cabeza como si respondiera a una pregunta no formulada.
+        
+    - Mueve el pico como si susurrara… pero nunca emite un sonido.
+        
+- Ocasionalmente gira en espiral sobre un lugar, como marcando un “centro olvidado”.
+    
+- Si es herido, no chilla. Solo se desvanece temporalmente como niebla oscura.
+    
+
+---
+
+### Relevancia futura
+
+- Puede ser **la única conexión entre Malizal y su antigua esperanza**.
+    
+- Si Malizal muere, el cuervo puede quedarse sobre su cuerpo y emitir una sola palabra: el verdadero nombre del hechicero o un fragmento de visión para el grupo.
+    
+- También puede servir como guía hacia un **templo perdido de Lathander**, donde el pacto de Malizal podría ser restaurado… o sellado para siempre.
+#Jugadores 
+
+![[NoWako.png]]
+_“COOAAH, COOAAH”_
+
+Familiar (cuervo) vinculado a Malizal  
+**Raza/Plano:** Criatura crepuscular – no del todo viva, no del todo muerta  
+**Edad aparente:** Joven  
+**Vínculo:** Sustituto espiritual de Wako. Compañero, espejo, sombra benigna.
 
 ---
 
 ### Apariencia
 
-- De estatura alta y figura esbelta, se mueve con la gracia de un sacerdote danzante.
+- Cuervo más pequeño de lo habitual, con plumas que reflejan **tonos violáceos y azul oscuro** al moverse.
     
-- Sus ojos azul claro tienen un brillo suave, pero a veces se tornan opacos, como si observara algo que no está ahí.
+- Sus ojos grandes brillan con una luz suave, con un **anillo blanco en el iris** que recuerda una luna lejana.
     
-- Porta una maza y un escudo grabados con geometrías sagradas: espirales dracónicas, triángulos entrelazados, y runas astrales.
+- En penumbra, su silueta se difumina, como si estuviera a medio paso entre planos.
     
-- Su vestimenta está compuesta por capas plateadas y celestes, que evocan el cielo nocturno y los reflejos lunares.
+- Su presencia no perturba ni asusta a los animales del bosque ni a los fieles de Lathander… pero tampoco les reconforta del todo.
     
 
 ---
 
 ### Personalidad
 
-- Silencioso, introspectivo y firme. No alza la voz, pero sus palabras llevan peso.
+- No emite graznidos ni chillidos. Se comunica a través de gestos, miradas y acciones sutiles.
     
-- Su fe no se dirige a un dios tradicional, sino a una fuerza superior que llama “la geometría del destino”.
+- Observador paciente, incluso en medio del caos. No reacciona con miedo, sino con análisis.
     
-- Honra los pactos del linaje dracónico, especialmente los que vinculan a los elfos lunares con entidades estelares.
+- Cuando Malizal duda o sufre, se posa cerca de él. No como consuelo, sino como recordatorio.
     
-- Tiene una relación reverencial con Hakuryuu, al que considera “la manifestación imperfecta de una profecía mayor”.
+- Rechaza contacto físico si no es deseado. Cuando se aleja, lo hace con **dignidad callada**.
     
 
 ---
 
 ### Rol actual
 
-- Dareth es un aliado espiritual y táctico, que rara vez lidera, pero siempre observa.
+- Funciona como familiar arcano, canal de pequeñas magias y conexión emocional.
+    
+- Puede recoger objetos, señalar símbolos, posarse en libros importantes o apagar velas cercanas a textos prohibidos.
+    
+- Su existencia sugiere que el vínculo de Malizal con el mundo espiritual **aún no se ha roto del todo**.
+    
 
 ---
 
 ### Conexión con el grupo
 
-- Cercano a Hakuryuu por motivos religiosos y místicos.
+- Solo Malizal parece entenderlo o notarlo realmente. A veces los demás olvidan que está allí.
     
-- Visto como un sabio enigmático por el resto del grupo.
+- Podría ser el primero en detectar un peligro sobrenatural, presintiendo a Acererak o a una corrupción oculta.
     
-- Puede servir como oráculo o intérprete de visiones si sobrevive.
+- En los sueños, su sombra puede aparecer como **guía entre recuerdos o visiones**.
+
+[[Clériga Jayla Rynn]]
+#### **Esencia y Motivación**
+
+- Jayla es protectora, pero no temeraria: sabe que un templo destruido no puede acoger a nadie.
+    
+- Siente una gran presión interna por estar a la altura del símbolo de la fortuna y teme decepcionar tanto a Tymora como a los fieles.
+    
+- Guarda un profundo respeto (y algo de temor) hacia los aventureros y héroes legendarios, a quienes ve como ejemplos imposibles de alcanzar.
+    
+- Tiene dudas sobre la fe cuando la suerte parece esquiva, pero nunca lo admite en público.
+    
 
 ---
 
-### Bitácora de campaña
+#### **Ganchos Narrativos, Secretos y Mecánicas**
+
+- **Gancho de escena:** Puede pedir ayuda al grupo para proteger reliquias del templo, ocultar a perseguidos por la Mano de Hierro, o negociar una tregua entre fieles y fuerzas del orden.
+    
+- **Portadora de un secreto:** Jayla es custodia de un dado antiguo que se dice puede conceder milagros… o desgracias irreparables. Sabe, por una visión, que este dado podría decidir el destino de Waterdeep en una sola tirada.
+    
+- **Dilema personal:** Si los personajes le piden ayuda en acciones abiertamente peligrosas, Jayla vacilará, debatiéndose entre la prudencia y la responsabilidad de actuar por su fe.
+    
+- **Bendición oculta:** Puede conferir “suerte” (ventaja en una tirada menor) a un personaje una vez por aventura, pero cada uso hace que la suya propia se vuelva más errática durante días.
+    
+
+---
+
+#### **Reacciones y Consecuencias**
+
+- Si ve a fieles o niños en peligro, actuará incluso en contra de órdenes superiores.
+    
+- Si el templo es atacado o profanado, Jayla puede perder momentáneamente su fe o arriesgarse en actos de valentía desesperada.
+    
+- Si la suerte abandona por completo al templo (varias tiradas fallidas seguidas), puede suplicar en oración, provocando una escena de epifanía… o de crisis total.
+    
+
+---
+
+#### **Mecánicas y Utilidad en Juego**
+
+- **Nivel funcional:** Clériga de Tymora, nivel 4 (PG: 32 | CA: 14)
+    
+- **Equipo:** Dado de Tymora (efecto: una vez por día, rerollear una tirada fallida para un aliado), amuletos bendecidos, poción menor de curación, bolsa de monedas de la suerte.
+    
+- **Habilidades especiales:**
+    
+    - _Bendición de la Fortuna:_ Puede conferir ventaja a un aliado en una prueba de azar o persuasión (1/día).
+        
+    - _Juego de fe:_ Si oficia un ritual de dados, puede cambiar el curso de un pequeño evento narrativo.
+        
+    - _Protección tímida:_ Gana resistencia a miedo si está rodeada de fieles.
+        
+
+---
+
+#### **Interpretación**
+
+- Voz suave, pero capaz de ganar fuerza inesperada al hablar de la fe o la esperanza.
+    
+- Usa frases de juegos de azar como parábolas (“El dado no miente, solo revela la mano del destino”).
+    
+- Tics nerviosos cuando la suerte falla; acaricia el dado antiguo en la mano.
+    
+- Frases recurrentes:
+    
+    - _“Hoy no es un buen día para apostar… o sí, depende de cómo lo veas.”_
+        
+    - _“Tymora sonríe… pero hay días en los que sólo nos observa.”_
+        
+    - _“La fortuna se da, pero también se esconde.”_
+        
+
+---
+
+#### **Frase oculta de esencia**
+
+> _“No pido milagros. Solo que la suerte no nos olvide del todo.”_
+#Jugadores 
+![[Jayla Rynn.png]]
+### **Clériga Jayla Rynn**
+
+_"La suerte favorece a los valientes… pero hoy, incluso la suerte parece temerosa."_
+
+- **Raza/Clase:** Humana / Clériga de Tymora
+    
+- **Edad:** 24 años
+    
+- **Ubicación frecuente:** Templo de Tymora en Waterdeep, zonas de reunión de fieles, plazas y refugios improvisados.
+    
+- **Relación:** Figura espiritual joven y querida por los devotos, apoyo visible de los desesperanzados durante las crisis recientes.
+    
+
+---
+
+#### **Apariencia**
+
+- Mujer joven, rostro redondo, pecoso y piel clara con rubor natural.
+    
+- Ojos grandes, verdes esmeralda, con una mirada que transmite mezcla de inquietud y esperanza.
+    
+- Sonrisa nerviosa pero voz sorprendentemente firme cuando habla de su fe.
+    
+- Cabello castaño claro, ondulado, recogido en trenza sobre el hombro izquierdo.
+    
+- Capa verde bordada con dados dorados y símbolos de Tymora; túnica blanca sencilla.
+    
+- Pulsera de la fortuna con cuentas multicolores; dado grande de hueso en la mano derecha y bolsa de monedas de la suerte atada a la cintura.
+    
+- El entorno que suele rodearla es el templo de Tymora: cintas, luz dorada, fieles atando lazos, lanzando monedas a fuentes.
+    
+
+---
+
+#### **Personalidad y Rumores**
+
+- Amable, cálida y prudente; antepone la seguridad de los suyos a la confrontación directa.
+    
+- Posee un coraje discreto: no busca el heroísmo, pero está dispuesta a arriesgarse por proteger a los suyos.
+    
+- Su voz, aunque temblorosa al principio, gana fuerza en momentos de necesidad.
+    
+- Es conocida por bendecir dados y amuletos, y escuchar pacientemente los problemas de los fieles.
+    
+- Algunos murmuran que su suerte es inconstante, pero pocos niegan que trae consuelo a quienes la rodean.
+    
+
+---
+
+#### **Rol Narrativo Abierto**
+
+- **Gancho inmediato:** Puede ayudar a los personajes con información, refugio o pequeñas bendiciones de fortuna, pero evita verse envuelta en confrontaciones abiertas.
+    
+- **Papel recurrente:** Mediadora entre fieles y autoridades durante disturbios, fuente de rumores sobre sucesos mágicos o proféticos en el templo.
+    
+- **Interacción destacada:** Si la suerte abandona a un personaje, Jayla puede oficiar un pequeño rito o juego de dados para restaurar la confianza (y quizá, secretamente, la bendición de Tymora).
+    
+
+---
+
+#### **Frase característica**
+
+> _“La suerte favorece a los valientes… pero hoy, incluso la suerte parece temerosa.”_
 #Master
 
 [[Dareth Silmaer]]
@@ -128,61 +752,63 @@ _“La guerra no se gana con acero... sino con claridad.”_
 - **Puente espiritual:** Si se mantiene vivo, puede actuar como **nexo entre Myrrym y el plano espiritual**. El grupo puede recibir visiones a través de él.
     
 - **Punto de decisión:** Los jugadores deberán tomar una decisión moral si Dareth se convierte en una amenaza: ¿matar a un antiguo aliado o buscar una solución imposible?
-#Jugadores 
+#Jugadores
+### **Dareth Silmaer**
 
-### **Eldrin IV**
+![[Dragon de plata, Dareth.png]]
+_“La guerra no se gana con acero... sino con claridad.”_
 
-![[Eldrin.png]]
-
-**Eldrin**  
-**Raza / Clase:** Humano / Sumo sacerdote de Tyr  
-**Edad:** 62 años  
-**Ubicación conocida:** Templo de Tyr, Waterdeep
+**Dareth Silmaer**  
+**Título:** El Voto Silente  
+**Raza / Clase:** Elfo lunar / Clérigo de la guerra  
+**Edad:** 180 años  
+**Lugar de origen:** Templos ancestrales del Loto Argénteo, en la Luna Élfica (Selûne)
 
 ---
 
 ### Apariencia
 
-- Hombre alto y de complexión delgada, envuelto en vestiduras sagradas de lino blanco y oro, siempre limpias y ordenadas.
+- De estatura alta y figura esbelta, se mueve con la gracia de un sacerdote danzante.
     
-- Lleva la cabeza rapada en señal de humildad y un medallón antiguo de Tyr que cuelga sobre su pecho.
+- Sus ojos azul claro tienen un brillo suave, pero a veces se tornan opacos, como si observara algo que no está ahí.
     
-- Sus ojos, claros y serenos, contrastan con la firmeza de su mandíbula y la profundidad de las arrugas que marcan su rostro.
+- Porta una maza y un escudo grabados con geometrías sagradas: espirales dracónicas, triángulos entrelazados, y runas astrales.
     
-- Sus manos, siempre juntas en señal de oración o extendidas en gesto conciliador.
+- Su vestimenta está compuesta por capas plateadas y celestes, que evocan el cielo nocturno y los reflejos lunares.
     
 
 ---
 
 ### Personalidad
 
-- Calmo, paciente, profundamente compasivo y dispuesto a escuchar todas las voces antes de emitir juicio.
+- Silencioso, introspectivo y firme. No alza la voz, pero sus palabras llevan peso.
     
-- Ve el templo como refugio para todos, no solo los fieles. Busca la paz antes que el castigo, pero nunca vacila en recordar el valor del deber y la justicia.
+- Su fe no se dirige a un dios tradicional, sino a una fuerza superior que llama “la geometría del destino”.
     
-- Evita la violencia y la retórica incendiaria; cree que la palabra, la compasión y el ejemplo son el camino para reconciliar al pueblo con la fe.
+- Honra los pactos del linaje dracónico, especialmente los que vinculan a los elfos lunares con entidades estelares.
     
-- Respeta a Alistar y Marcus por su honestidad y servicio; aprecia la firmeza de Harker pero desconfía de los extremos del mando militar.
+- Tiene una relación reverencial con Hakuryuu, al que considera “la manifestación imperfecta de una profecía mayor”.
     
 
 ---
 
 ### Rol actual
 
-- Eldrin es la máxima autoridad religiosa del templo de Tyr y figura de referencia moral para la comunidad.
-    
-- Es el primero en acudir ante disturbios, crisis o tensiones sociales, interponiéndose siempre entre los fieles y la violencia.
-    
-- Su caída durante la revuelta en la plaza marca el inicio del verdadero caos y fractura la moral de la guardia y los sacerdotesDiario Capitulo 1. Ecos….
-    
+- Dareth es un aliado espiritual y táctico, que rara vez lidera, pero siempre observa.
 
 ---
 
 ### Conexión con el grupo
 
-- Mentor y confidente ocasional para Alistar y Marcus; voz de equilibrio frente a la rigidez de Harker.
+- Cercano a Hakuryuu por motivos religiosos y místicos.
     
-- Respetado incluso por quienes no comparten su fe; su pérdida representa un golpe emocional para el grupo y el pueblo.
+- Visto como un sabio enigmático por el resto del grupo.
+    
+- Puede servir como oráculo o intérprete de visiones si sobrevive.
+
+---
+
+### Bitácora de campaña
 #Master 
 [[Eldrin]]
 
@@ -261,65 +887,60 @@ _“No temas la cólera de la multitud: solo el silencio tras su ira.”_
     
 - Sus dudas y secretos pueden dar pie a subtramas de traición, revelación o redención, según lo que los personajes decidan investigar o proteger.
 #Jugadores 
-### **Elyzmyrath** _(“Elyz” para Orianna)_
 
-![[Elyzmyrath.png]]
+### **Eldrin IV**
 
+![[Eldrin.png]]
 
-**Elyzmyrath**  
-**Apodo:** “Elyz” (uso exclusivo de Orianna)  
-**Tipo de criatura:** Dragona verde joven (inteligente y mágica)  
-**Edad aparente:** Equivalente a una joven adulta  
-**Ubicación:** Bosque sagrado, en simbiosis con Orianna
+**Eldrin**  
+**Raza / Clase:** Humano / Sumo sacerdote de Tyr  
+**Edad:** 62 años  
+**Ubicación conocida:** Templo de Tyr, Waterdeep
 
 ---
 
 ### Apariencia
 
-- Escamas de un verde intenso, con reflejos que brillan como el follaje bajo el sol o se oscurecen como sombras bajo la lluvia.
+- Hombre alto y de complexión delgada, envuelto en vestiduras sagradas de lino blanco y oro, siempre limpias y ordenadas.
     
-- Alas amplias de membranas casi vegetales, moteadas de motas doradas como polen.
+- Lleva la cabeza rapada en señal de humildad y un medallón antiguo de Tyr que cuelga sobre su pecho.
     
-- Cuernos delgados, en espiral hacia atrás como ramas entrelazadas.
+- Sus ojos, claros y serenos, contrastan con la firmeza de su mandíbula y la profundidad de las arrugas que marcan su rostro.
     
-- Ojos ámbar vivos, que parecen analizar no solo lo visible, sino lo que se oculta tras los actos.
+- Sus manos, siempre juntas en señal de oración o extendidas en gesto conciliador.
     
 
 ---
 
 ### Personalidad
 
-- Serena y sabia. Orgullosa como los árboles centenarios, pero sin arrogancia.
+- Calmo, paciente, profundamente compasivo y dispuesto a escuchar todas las voces antes de emitir juicio.
     
-- No habla a los humanos salvo en casos extremos. Con Orianna se comunica a través de la mirada, la emoción o sueños compartidos.
+- Ve el templo como refugio para todos, no solo los fieles. Busca la paz antes que el castigo, pero nunca vacila en recordar el valor del deber y la justicia.
     
-- Desprecia la corrupción y a quienes la esparcen, sin importar su razón.
+- Evita la violencia y la retórica incendiaria; cree que la palabra, la compasión y el ejemplo son el camino para reconciliar al pueblo con la fe.
     
-- Cree que la verdadera justicia es la restauración del ciclo natural.
+- Respeta a Alistar y Marcus por su honestidad y servicio; aprecia la firmeza de Harker pero desconfía de los extremos del mando militar.
     
 
 ---
 
 ### Rol actual
 
-- Compañera inseparable de Orianna. Su vínculo es espiritual más que físico.
+- Eldrin es la máxima autoridad religiosa del templo de Tyr y figura de referencia moral para la comunidad.
     
-- Observadora de los eventos mágicos que perturban el bosque. Su silencio es juicio, su rugido es veredicto.
+- Es el primero en acudir ante disturbios, crisis o tensiones sociales, interponiéndose siempre entre los fieles y la violencia.
     
-- Puede acudir en ayuda directa solo si el equilibrio está en grave peligro.
+- Su caída durante la revuelta en la plaza marca el inicio del verdadero caos y fractura la moral de la guardia y los sacerdotesDiario Capitulo 1. Ecos….
     
 
 ---
 
 ### Conexión con el grupo
 
-- No se vincula con otros personajes más allá de Orianna, a quien considera “raíz hermana”.
+- Mentor y confidente ocasional para Alistar y Marcus; voz de equilibrio frente a la rigidez de Harker.
     
-- Es símbolo viviente de que la Naturaleza aún no ha sido derrotada.
-    
-- Algunos druidas, elfos o sabios pueden reconocerla como un presagio favorable… o como un aviso.
-
-![[Elyzmyrath Aliento.png]]
+- Respetado incluso por quienes no comparten su fe; su pérdida representa un golpe emocional para el grupo y el pueblo.
 #Master 
 
 [[Elyzmyrath]]
@@ -387,60 +1008,66 @@ _“No temas la cólera de la multitud: solo el silencio tras su ira.”_
 - Si muere, **el bosque se marchita**, los caminos druidicos se cierran, y Orianna sufrirá una caída emocional importante (puede afectar su Cordura).
     
 - Si sobrevive hasta el final, puede **guiar al grupo al plano de la Vida Primigenia**, una dimensión opcional donde podrían sellar los últimos rastros del Abismo.
-#Jugadores #NoSubido 
-### **Eranthos, Bibliotecario Perdido** 
+#Jugadores 
+### **Elyzmyrath** _(“Elyz” para Orianna)_
 
-![[Eranthos.png]]
-_“El saber no salva. Solo deja claro lo que se pierde.”_
+![[Elyzmyrath.png]]
 
-**Eranthos**  
-**Epíteto conocido:** El Bibliotecario Perdido  
-**Raza / Clase:** Elfo / Archimago  
-**Edad aparente:** Más de 300 años  
-**Ubicación conocida:** Tumba de la Aniquilación, cámaras ocultas del archivo olvidado
+
+**Elyzmyrath**  
+**Apodo:** “Elyz” (uso exclusivo de Orianna)  
+**Tipo de criatura:** Dragona verde joven (inteligente y mágica)  
+**Edad aparente:** Equivalente a una joven adulta  
+**Ubicación:** Bosque sagrado, en simbiosis con Orianna
 
 ---
 
 ### Apariencia
 
-- Un elfo anciano de porte encorvado, con cabello blanco y largo enmarañado como pergaminos olvidados.
+- Escamas de un verde intenso, con reflejos que brillan como el follaje bajo el sol o se oscurecen como sombras bajo la lluvia.
     
-- Viste túnicas oscuras y desgastadas, más útiles que elegantes, marcadas por el polvo de siglos y manchas de tinta y magia.
+- Alas amplias de membranas casi vegetales, moteadas de motas doradas como polen.
     
-- Porta un cinturón lleno de pergaminos, frascos, cristales y runas flotantes que giran alrededor de sus muñecas cuando conjura.
+- Cuernos delgados, en espiral hacia atrás como ramas entrelazadas.
     
-- Sus ojos verde esmeralda reflejan una sabiduría antigua, pero también una tristeza que no se borra.
+- Ojos ámbar vivos, que parecen analizar no solo lo visible, sino lo que se oculta tras los actos.
     
 
 ---
 
 ### Personalidad
 
-- Habla con frases poéticas y acertijos, como si cada palabra estuviera encadenada a múltiples significados.
+- Serena y sabia. Orgullosa como los árboles centenarios, pero sin arrogancia.
     
-- Cauta neutralidad: no juzga ni apoya sin antes entender las consecuencias del conocimiento en juego.
+- No habla a los humanos salvo en casos extremos. Con Orianna se comunica a través de la mirada, la emoción o sueños compartidos.
     
-- Tiene un profundo respeto por quienes buscan la verdad, pero desprecia a los que la usan con arrogancia.
+- Desprecia la corrupción y a quienes la esparcen, sin importar su razón.
     
-- Su lema no declarado: “Guardar el saber es proteger el mundo, incluso del mismo saber.”
+- Cree que la verdadera justicia es la restauración del ciclo natural.
     
 
 ---
 
 ### Rol actual
 
-- Fue hallado por el grupo en las profundidades de la Tumba de la Aniquilación, donde residía voluntariamente desde hacía más de un siglo.
+- Compañera inseparable de Orianna. Su vínculo es espiritual más que físico.
     
-- Entregó información críptica sobre la filacteria de Acererak y la existencia del Cráneo Rúnico.
+- Observadora de los eventos mágicos que perturban el bosque. Su silencio es juicio, su rugido es veredicto.
     
-- Ofrece ayuda bajo la condición de preservar ciertos textos prohibidos y no destruir reliquias sin registrarlas primero.
+- Puede acudir en ayuda directa solo si el equilibrio está en grave peligro.
     
 
 ---
 
 ### Conexión con el grupo
 
-- Ninguna, el grupo no lo conoce, pero el al grupo si.
+- No se vincula con otros personajes más allá de Orianna, a quien considera “raíz hermana”.
+    
+- Es símbolo viviente de que la Naturaleza aún no ha sido derrotada.
+    
+- Algunos druidas, elfos o sabios pueden reconocerla como un presagio favorable… o como un aviso.
+
+![[Elyzmyrath Aliento.png]]
 #Master 
 
 [[Eranthos, Bibliotecario Perdido]]
@@ -508,63 +1135,207 @@ _“El saber no salva. Solo deja claro lo que se pierde.”_
 - Si sobrevive, puede convertirse en **el último guía antes del capítulo final**, entregando mapas antiguos de la Catedral de las Cadenas o métodos alternativos para destruir la filacteria… por un precio.
 
 
-#Jugadores #NoSubido
-### **Gran Padre Zitembe** 
+#Jugadores
+### **Eranthos, Bibliotecario Perdido** 
 
-![[Zitembe.png]]
-_“Toda visión llega a tiempo… incluso cuando ya es demasiado tarde.”_
+![[Eranthos.png]]
+_“El saber no salva. Solo deja claro lo que se pierde.”_
 
-**Gran Padre Zitembe**  
-**Raza / Clase:** Humano / Clérigo de Savras  
-**Edad:** 60 años  
-**Ubicación conocida:** Templo de Savras, Puerto Nyanzaru, Chult
+**Eranthos**  
+**Epíteto conocido:** El Bibliotecario Perdido  
+**Raza / Clase:** Elfo / Archimago  
+**Edad aparente:** Más de 300 años  
+**Ubicación conocida:** Tumba de la Aniquilación, cámaras ocultas del archivo olvidado
 
 ---
 
 ### Apariencia
 
-- Figura alta y delgada, casi etérea, envuelta en túnicas de vivos colores y patrones caleidoscópicos que hipnotizan la vista.
+- Un elfo anciano de porte encorvado, con cabello blanco y largo enmarañado como pergaminos olvidados.
     
-- Su bastón termina en un cristal transparente que emite pulsos de luz suave al pronunciar oraciones.
+- Viste túnicas oscuras y desgastadas, más útiles que elegantes, marcadas por el polvo de siglos y manchas de tinta y magia.
     
-- Su rostro es anguloso, con arrugas marcadas por años de meditación y visión constante de verdades ajenas al presente.
+- Porta un cinturón lleno de pergaminos, frascos, cristales y runas flotantes que giran alrededor de sus muñecas cuando conjura.
     
-- Su mirada es profunda, penetrante, como si pudiera ver la pregunta antes de que se formule.
+- Sus ojos verde esmeralda reflejan una sabiduría antigua, pero también una tristeza que no se borra.
     
 
 ---
 
 ### Personalidad
 
-- Sereno, preciso, casi profético al hablar. Nunca se apresura a responder.
+- Habla con frases poéticas y acertijos, como si cada palabra estuviera encadenada a múltiples significados.
     
-- Cree en la visión como herramienta de responsabilidad, no de poder.
+- Cauta neutralidad: no juzga ni apoya sin antes entender las consecuencias del conocimiento en juego.
     
-- Amable con los inocentes y los sabios, pero inflexible con los mentirosos, manipuladores o impacientes.
+- Tiene un profundo respeto por quienes buscan la verdad, pero desprecia a los que la usan con arrogancia.
     
-- Considera que **toda visión debe ser ofrecida al tiempo correcto**, no antes.
+- Su lema no declarado: “Guardar el saber es proteger el mundo, incluso del mismo saber.”
     
 
 ---
 
 ### Rol actual
 
-- Zitembe es el primer guía que los personajes encuentran en su viaje, y el primero en interpretar fragmentos de la profecía.
+- Fue hallado por el grupo en las profundidades de la Tumba de la Aniquilación, donde residía voluntariamente desde hacía más de un siglo.
     
-- Preside el ritual inicial que conecta los personajes con sus visiones personales.
+- Entregó información críptica sobre la filacteria de Acererak y la existencia del Cráneo Rúnico.
     
-- Es un punto de anclaje emocional y espiritual en Chult, al que los jugadores pueden acudir en busca de orientación.
+- Ofrece ayuda bajo la condición de preservar ciertos textos prohibidos y no destruir reliquias sin registrarlas primero.
     
 
 ---
 
 ### Conexión con el grupo
 
-- Actúa como maestro espiritual de su nieta Nyah, y por extensión, protector indirecto del grupo.
+- Ninguna, el grupo no lo conoce, pero el al grupo si.
+[[Gobernador Varn Dosic]]
+### **Esencia y Motivación**
+
+- Varn Dosic ve el orden como la última muralla ante el caos absoluto: su motivación principal es evitar una guerra civil o la caída total del tejido urbano.
     
-- Tiene respeto profundo por la historia de los héroes, pero les recuerda constantemente que **el destino no se obedece: se elige**.
+- No es malvado ni fanático, pero está dispuesto a sacrificar principios e incluso inocentes si cree que eso salvará a la mayoría.
     
-- No abandona su templo, pero extiende su influencia a través de visiones, objetos sagrados y enseñanzas encriptadas.
+- Mantiene una alianza incómoda con la Mano de Hierro y el Profeta por puro pragmatismo, no por convicción.
+    
+- En privado, teme que sus decisiones lo lleven a ser recordado como “el verdugo de la fe” en lugar de “el salvador de la ciudad”.
+    
+
+---
+
+### **Ganchos Narrativos, Secretos y Mecánicas**
+
+- **Gancho de escena:** Puede exigir al grupo que medie entre facciones, imponga la paz por cualquier medio o realice misiones diplomáticas a cambio de favores legales.
+    
+- **Secreto de presión:** Recibe amenazas y chantajes de poderosos clanes mercantiles y agentes extranjeros; sabe que su cargo pende de un hilo.
+    
+- **Dilema público:** Si se enfrenta a un motín o asalto inminente, Dosic puede ordenar una represión violenta… o buscar desesperadamente un acuerdo de última hora.
+    
+- **Conflicto emocional:** Si es testigo de una masacre o la muerte de un inocente por orden suya, puede tener una crisis pública (pérdida de control, dimisión temporal, o súplica de perdón).
+    
+- **Potencial de redención:** Si un personaje apela a su humanidad, Dosic puede conceder indultos o apoyar discretamente la resistencia si ve que la Mano de Hierro se ha vuelto incontrolable.
+    
+
+---
+
+### **Reacciones y Consecuencias**
+
+- Si es presionado o humillado públicamente, puede volverse más severo y paranoico, delegando más poder a la Mano de Hierro.
+    
+- Si siente que el grupo puede restaurar la paz, les otorgará recursos o inmunidad temporal.
+    
+- Si sobrevive a la crisis, puede convertirse en un reformista o en símbolo de la “vieja guardia”, buscando reconciliación.
+    
+- Si cae (asesinato, destitución o huida), su ausencia dejará un vacío de poder que otros (quizá mucho peores) llenarán rápidamente.
+    
+
+---
+
+### **Mecánicas y Utilidad en Juego**
+
+- **Nivel funcional:** Líder civil (no combatiente), influente en decisiones políticas y sociales.
+    
+- **Equipo:** Bastón ceremonial, amuleto de amplificación de voz, capa de mando (otorga ventaja a aliados en tiradas sociales durante asedios o negociaciones).
+    
+- **Habilidades especiales:**
+    
+    - _Decreto de Emergencia:_ Puede cerrar barrios, templos o mercados con una sola orden, forzando a PNJ a dispersarse.
+        
+    - _Palabra de Autoridad:_ Ventaja en Persuasión e Intimidación al dirigirse a multitudes o autoridades.
+        
+    - _Cadena de Favores:_ Puede ofrecer ayuda legal, acceso a recursos o anular consecuencias legales menores si el grupo actúa como sus agentes.
+        
+
+---
+
+### **Interpretación**
+
+- Voz firme y sonora, marcada por el cansancio y el peso de la responsabilidad.
+    
+- Habla en términos de “bien común” y “necesidad social”, rara vez en nombre propio.
+    
+- Gestos amplios, suele apoyar ambas manos sobre el bastón mientras proclama o escucha.
+    
+- Frases recurrentes:
+    
+    - _“La historia juzgará mis actos, pero hoy, yo debo juzgar por la ciudad.”_
+        
+    - _“Si no contengo el caos, ¿quién lo hará?”_
+        
+    - _“No soy enemigo de la fe, pero Waterdeep no puede permitirse un nuevo incendio.”_
+        
+
+---
+
+### **Frase oculta de esencia**
+
+> _“Prefiero el rencor de los vivos al llanto de los muertos.”_
+#Jugadores 
+
+![[Varn Dosic.png]]
+
+### **Gobernador Varn Dosic**
+
+**Frase de identidad:**  
+_“¡Ciudadanos! ¡Os exhorto a la cordura! El caos traerá muerte. Este templo será sellado por el bien común.”_
+
+- **Raza/Clase:** Humano / Gobernador de Waterdeep
+    
+- **Edad:** 56 años
+    
+- **Ubicación:** Ayuntamiento de Waterdeep, en audiencias públicas o durante las crisis urbanas.
+    
+
+---
+
+### **Apariencia**
+
+- Hombre de complexión robusta, rostro ancho y rojizo, con barba tupida y perfectamente recortada.
+    
+- Ojos castaños, pequeños e intensos, cargados de cansancio y una férrea voluntad.
+    
+- Cabello oscuro y corto, con canas en las patillas y cejas espesas que subrayan su ceño fruncido.
+    
+- Viste capa de terciopelo púrpura con ribetes dorados y broche en forma de torre (símbolo de la ciudad).
+    
+- Bajo la capa, túnica azul noche de cuello alto, insignias de mando civil y una gruesa cadena de autoridad.
+    
+- Sus manos, grandes y curtidas, descansan sobre el pomo de un bastón ceremonial de cabeza de león labrada en plata.
+    
+- Suele estar rodeado de guardias, con la plaza o el ayuntamiento de fondo, estandartes ondeando en colores apagados.
+    
+
+---
+
+### **Personalidad y Rumores**
+
+- Severidad y control: prioriza la estabilidad de la ciudad ante todo, aunque implique medidas impopulares.
+    
+- Voz áspera, acostumbrada a las proclamas y a calmar multitudes, aunque el nerviosismo lo traiciona en momentos críticos.
+    
+- Es visto como un gobernante duro pero necesario, “el único capaz de mantener la ciudad unida en tiempos de crisis”.
+    
+- Se rumorea que sufre insomnio y que ha envejecido una década desde el inicio de las revueltas.
+    
+- Algunos lo ven como un héroe cívico, otros como un oportunista que se apoya en la Mano de Hierro y el Profeta para no perder el control.
+    
+
+---
+
+### **Rol Narrativo Abierto**
+
+- **Gancho inmediato:** Puede decretar estados de emergencia, negociar treguas, imponer toques de queda o buscar intermediarios para calmar disturbios.
+    
+- **Papel recurrente:** Es la autoridad civil máxima; puede convocar al grupo a audiencias públicas o usarlos como emisarios para evitar una catástrofe social.
+    
+- **Interacción destacada:** Puede ser tanto aliado incómodo como antagonista, según los intereses y acciones de los personajes.
+    
+
+---
+
+### **Frase característica**
+
+> _“¡Padre Rellon, por última vez: ceda el santuario, o Waterdeep sangrará!”_
 #Master 
 
 [[Gran Padre Zitembe]]
@@ -633,61 +1404,63 @@ _“Toda visión llega a tiempo… incluso cuando ya es demasiado tarde.”_
     
 - Su desaparición o corrupción sería una señal clara de que el equilibrio cósmico está siendo alterado definitivamente.
 
-#Jugadores 
-### **Comandante Harker** 
+#Jugadores
+### **Gran Padre Zitembe** 
 
-![[Harker.png]]
-_“Cuando la justicia duda, el deber debe alzar la voz.”_
+![[Zitembe.png]]
+_“Toda visión llega a tiempo… incluso cuando ya es demasiado tarde.”_
 
-**Comandante Harker**  
-**Raza / Clase:** Humano / Paladín retirado de Tyr  
-**Edad:** 51 años  
-**Ubicación conocida:** Cuarteles y alto mando del Templo de Tyr, Waterdeep
+**Gran Padre Zitembe**  
+**Raza / Clase:** Humano / Clérigo de Savras  
+**Edad:** 60 años  
+**Ubicación conocida:** Templo de Savras, Puerto Nyanzaru, Chult
 
 ---
 
 ### Apariencia
 
-- Hombre de porte firme, de los que nunca parecen relajarse.
+- Figura alta y delgada, casi etérea, envuelta en túnicas de vivos colores y patrones caleidoscópicos que hipnotizan la vista.
     
-- Cabello gris recogido en una trenza militar corta, rostro cincelado por los años y el deber.
+- Su bastón termina en un cristal transparente que emite pulsos de luz suave al pronunciar oraciones.
     
-- Lleva armadura ceremonial siempre impecable, con grabados del martillo de Tyr en el pecho.
+- Su rostro es anguloso, con arrugas marcadas por años de meditación y visión constante de verdades ajenas al presente.
     
-- Su tabardo está siempre perfectamente doblado y ajustado. Nada en su presencia es dejado al azar.
+- Su mirada es profunda, penetrante, como si pudiera ver la pregunta antes de que se formule.
     
 
 ---
 
 ### Personalidad
 
-- Frío, preciso, inquebrantable en sus órdenes.
+- Sereno, preciso, casi profético al hablar. Nunca se apresura a responder.
     
-- Cree en una justicia estructurada: la ley, la obediencia, el sacrificio por el bien mayor.
+- Cree en la visión como herramienta de responsabilidad, no de poder.
     
-- No le interesan los sentimientos si interrumpen el funcionamiento del orden.
+- Amable con los inocentes y los sabios, pero inflexible con los mentirosos, manipuladores o impacientes.
     
-- Admira a Alistar por su potencial, pero desconfía de su creciente empatía. Para Harker, la compasión es una grieta en la muralla.
+- Considera que **toda visión debe ser ofrecida al tiempo correcto**, no antes.
     
 
 ---
 
 ### Rol actual
 
-- Harker actúa como cabeza militar del templo de Tyr, y como supervisor directo de sus paladines en tiempo de crisis.
+- Zitembe es el primer guía que los personajes encuentran en su viaje, y el primero en interpretar fragmentos de la profecía.
     
-- Ha contenido revueltas, dirigido campañas contra herejías, y mantenido intacta la fe… a un precio.
+- Preside el ritual inicial que conecta los personajes con sus visiones personales.
     
-- En tiempos de inestabilidad, es visto como el rostro de la autoridad divina y terrenal, incluso si eso significa aplastar disidencia.
+- Es un punto de anclaje emocional y espiritual en Chult, al que los jugadores pueden acudir en busca de orientación.
     
 
 ---
 
 ### Conexión con el grupo
 
-- Superior de **Alistar**, con quien comparte historia, entrenamiento y un vínculo de respeto tenso.
+- Actúa como maestro espiritual de su nieta Nyah, y por extensión, protector indirecto del grupo.
     
-- Puede ser una fuente de ayuda logística o recursos… siempre bajo condiciones rígidas.
+- Tiene respeto profundo por la historia de los héroes, pero les recuerda constantemente que **el destino no se obedece: se elige**.
+    
+- No abandona su templo, pero extiende su influencia a través de visiones, objetos sagrados y enseñanzas encriptadas.
 #Master 
 
 [[Harker]]
@@ -763,61 +1536,61 @@ _“Cuando la justicia duda, el deber debe alzar la voz.”_
 - Si muere, sus últimas palabras deberían ser una advertencia brutal o una condena contra Alistar o el grupo:
     
     - _“El caos no se combate con bondad… y cuando todo arda, recordaréis que os lo advertí.”_
-#Jugadores
-### **Kael Vhantar**
+#Jugadores 
+### **Comandante Harker** 
 
-![[Dragon de plata, Kael.png]]
-_“Un dragón no se arrodilla. Ni ante dioses. Ni ante sombras.”_
+![[Harker.png]]
+_“Cuando la justicia duda, el deber debe alzar la voz.”_
 
-**Kael Vhantar**  
-**Raza / Clase:** Humano / Guerrero veterano  
-**Edad:** 42 años  
-**Ubicación conocida:** Mansión del Clan del Dragón Plateado, Waterdeep
+**Comandante Harker**  
+**Raza / Clase:** Humano / Paladín retirado de Tyr  
+**Edad:** 51 años  
+**Ubicación conocida:** Cuarteles y alto mando del Templo de Tyr, Waterdeep
 
 ---
 
 ### Apariencia
 
-- Hombre de complexión sólida y actitud férrea.
+- Hombre de porte firme, de los que nunca parecen relajarse.
     
-- Cabello castaño con canas, barba corta y cuidada, mirada firme.
+- Cabello gris recogido en una trenza militar corta, rostro cincelado por los años y el deber.
     
-- Su armadura, adornada con símbolos del Dragón Plateado, luce heridas de batalla restauradas con orgullo.
+- Lleva armadura ceremonial siempre impecable, con grabados del martillo de Tyr en el pecho.
     
-- Porta un mandoble de hoja azulada, de forja única, entregado por Hakuryuu tras su primer sacrificio en combate.
+- Su tabardo está siempre perfectamente doblado y ajustado. Nada en su presencia es dejado al azar.
     
 
 ---
 
 ### Personalidad
 
-- Reservado y disciplinado. Cada palabra que dice ha sido pensada con anticipación.
+- Frío, preciso, inquebrantable en sus órdenes.
     
-- Su lealtad hacia Hakuryuu no es ciega, pero sí absoluta: ve en él un símbolo que no debe caer.
+- Cree en una justicia estructurada: la ley, la obediencia, el sacrificio por el bien mayor.
     
-- Cree que el deber justifica el dolor, y que mostrar emociones es algo que se hace **en privado, o después de morir**.
+- No le interesan los sentimientos si interrumpen el funcionamiento del orden.
+    
+- Admira a Alistar por su potencial, pero desconfía de su creciente empatía. Para Harker, la compasión es una grieta en la muralla.
     
 
 ---
 
 ### Rol actual
 
-- Kael es el comandante del séquito personal de Hakuryuu, y su protector silencioso.
+- Harker actúa como cabeza militar del templo de Tyr, y como supervisor directo de sus paladines en tiempo de crisis.
     
-- Supervisa la seguridad de la mansión, los viajes del clan y los movimientos estratégicos del grupo.
+- Ha contenido revueltas, dirigido campañas contra herejías, y mantenido intacta la fe… a un precio.
     
-- Es visto como una figura de respeto, miedo y autoridad por todos los sirvientes y seguidores del Dragón Plateado.
+- En tiempos de inestabilidad, es visto como el rostro de la autoridad divina y terrenal, incluso si eso significa aplastar disidencia.
     
 
 ---
 
 ### Conexión con el grupo
 
-- Con Hakuryuu tiene un vínculo forjado en sangre y acero. Lo ve no solo como líder, sino como redención encarnada.
+- Superior de **Alistar**, con quien comparte historia, entrenamiento y un vínculo de respeto tenso.
     
-- Desconfía de aquellos que se acercan demasiado al señor sin haber probado su valor.
-    
-- Puede tolerar, proteger o colaborar con el resto del grupo si Hakuryuu lo ordena… pero no les debe nada.
+- Puede ser una fuente de ayuda logística o recursos… siempre bajo condiciones rígidas.
 #Master 
 
 [[Kael Vhantar]]
@@ -893,63 +1666,61 @@ _“Si cae el dragón, no por falta de acero será.”_
 - Puede ser **el mártir que inicia la redención de Hakuryuu**, o **el último obstáculo que impide que el grupo descubra la verdad**.
     
 - Si sobrevive hasta el final, podría ser el último miembro del clan dispuesto a cargar con la culpa y los secretos… para preservar la leyenda del Dragón Plateado.
-#Jugadores 
-### **Marcus Deren**
+#Jugadores
+### **Kael Vhantar**
 
-![[Marcus.png]]
-“Morir por un ideal es fácil. Lo difícil es vivir con él.”
+![[Dragon de plata, Kael.png]]
+_“Un dragón no se arrodilla. Ni ante dioses. Ni ante sombras.”_
 
-**Marcus Deren**  
+**Kael Vhantar**  
 **Raza / Clase:** Humano / Guerrero veterano  
-**Edad:** 39 años  
-**Ubicación conocida:** Templo de Tyr, Waterdeep (cuartel de guardias)
+**Edad:** 42 años  
+**Ubicación conocida:** Mansión del Clan del Dragón Plateado, Waterdeep
 
 ---
 
 ### Apariencia
 
-- Hombre corpulento y recto, con rostro cuadrado marcado por el deber.
+- Hombre de complexión sólida y actitud férrea.
     
-- Cabello castaño oscuro peinado con orden militar, cicatriz cruzando la mandíbula.
+- Cabello castaño con canas, barba corta y cuidada, mirada firme.
     
-- Viste armadura ligera funcional, con el símbolo de Tyr sobre el corazón.
+- Su armadura, adornada con símbolos del Dragón Plateado, luce heridas de batalla restauradas con orgullo.
     
-- Lleva siempre una capa azul gastada que perteneció a su hermano, caído durante una revuelta. Nunca la reemplazó.
+- Porta un mandoble de hoja azulada, de forja única, entregado por Hakuryuu tras su primer sacrificio en combate.
     
 
 ---
 
 ### Personalidad
 
-- Hombre de principios, pero realista: no idolatra la fe, sino que la pone en práctica.
+- Reservado y disciplinado. Cada palabra que dice ha sido pensada con anticipación.
     
-- Inquebrantable en su lealtad a Alistar, pero con voz propia cuando la situación lo requiere.
+- Su lealtad hacia Hakuryuu no es ciega, pero sí absoluta: ve en él un símbolo que no debe caer.
     
-- Cree que las acciones valen más que los símbolos, y que la compasión no es debilidad.
-    
-- No habla mucho, pero cuando lo hace, suele ser para calmar, disuadir… o clavar la verdad como una lanza.
+- Cree que el deber justifica el dolor, y que mostrar emociones es algo que se hace **en privado, o después de morir**.
     
 
 ---
 
 ### Rol actual
 
-- Marcus es el segundo al mando de la guardia del templo y mano derecha de Alistar.
+- Kael es el comandante del séquito personal de Hakuryuu, y su protector silencioso.
     
-- Es quien transmite las órdenes, media entre el templo y los soldados, y mantiene el honor del cuerpo.
+- Supervisa la seguridad de la mansión, los viajes del clan y los movimientos estratégicos del grupo.
     
-- Algunos lo consideran el verdadero puente entre el pueblo y la fe, más que el propio clero.
+- Es visto como una figura de respeto, miedo y autoridad por todos los sirvientes y seguidores del Dragón Plateado.
     
 
 ---
 
 ### Conexión con el grupo
 
-- Tiene profunda confianza en Alistar, al que sigue no solo por respeto, sino por convicción personal.
+- Con Hakuryuu tiene un vínculo forjado en sangre y acero. Lo ve no solo como líder, sino como redención encarnada.
     
-- Conoce a Sildar desde los viejos tiempos, y lamenta su caída.
+- Desconfía de aquellos que se acercan demasiado al señor sin haber probado su valor.
     
-- Puede ganarse la confianza del grupo si lo tratan con respeto y honestidad; odia los juegos de poder.
+- Puede tolerar, proteger o colaborar con el resto del grupo si Hakuryuu lo ordena… pero no les debe nada.
 #Master 
 
 [[Marcus Deren]]
@@ -1026,186 +1797,63 @@ _“No sigo órdenes. Sigo a los hombres en los que creo.”_
 - Si muere, su capa azul puede convertirse en un símbolo de resistencia dentro del templo o en una pieza clave para inspirar a los soldados fieles.
     
 - Su diario oculto puede servir como gancho narrativo más adelante para desvelar secretos del templo o como carta póstuma.
-#Jugadores #NoSubido
+#Jugadores 
+### **Marcus Deren**
 
-![[NoWako.png]]
-_“COOAAH, COOAAH”_
+![[Marcus.png]]
+“Morir por un ideal es fácil. Lo difícil es vivir con él.”
 
-Familiar (cuervo) vinculado a Malizal  
-**Raza/Plano:** Criatura crepuscular – no del todo viva, no del todo muerta  
-**Edad aparente:** Joven  
-**Vínculo:** Sustituto espiritual de Wako. Compañero, espejo, sombra benigna.
+**Marcus Deren**  
+**Raza / Clase:** Humano / Guerrero veterano  
+**Edad:** 39 años  
+**Ubicación conocida:** Templo de Tyr, Waterdeep (cuartel de guardias)
 
 ---
 
 ### Apariencia
 
-- Cuervo más pequeño de lo habitual, con plumas que reflejan **tonos violáceos y azul oscuro** al moverse.
+- Hombre corpulento y recto, con rostro cuadrado marcado por el deber.
     
-- Sus ojos grandes brillan con una luz suave, con un **anillo blanco en el iris** que recuerda una luna lejana.
+- Cabello castaño oscuro peinado con orden militar, cicatriz cruzando la mandíbula.
     
-- En penumbra, su silueta se difumina, como si estuviera a medio paso entre planos.
+- Viste armadura ligera funcional, con el símbolo de Tyr sobre el corazón.
     
-- Su presencia no perturba ni asusta a los animales del bosque ni a los fieles de Lathander… pero tampoco les reconforta del todo.
+- Lleva siempre una capa azul gastada que perteneció a su hermano, caído durante una revuelta. Nunca la reemplazó.
     
 
 ---
 
 ### Personalidad
 
-- No emite graznidos ni chillidos. Se comunica a través de gestos, miradas y acciones sutiles.
+- Hombre de principios, pero realista: no idolatra la fe, sino que la pone en práctica.
     
-- Observador paciente, incluso en medio del caos. No reacciona con miedo, sino con análisis.
+- Inquebrantable en su lealtad a Alistar, pero con voz propia cuando la situación lo requiere.
     
-- Cuando Malizal duda o sufre, se posa cerca de él. No como consuelo, sino como recordatorio.
+- Cree que las acciones valen más que los símbolos, y que la compasión no es debilidad.
     
-- Rechaza contacto físico si no es deseado. Cuando se aleja, lo hace con **dignidad callada**.
-    
-
----
-
-### Rol actual
-
-- Funciona como familiar arcano, canal de pequeñas magias y conexión emocional.
-    
-- Puede recoger objetos, señalar símbolos, posarse en libros importantes o apagar velas cercanas a textos prohibidos.
-    
-- Su existencia sugiere que el vínculo de Malizal con el mundo espiritual **aún no se ha roto del todo**.
-    
-
----
-
-### Conexión con el grupo
-
-- Solo Malizal parece entenderlo o notarlo realmente. A veces los demás olvidan que está allí.
-    
-- Podría ser el primero en detectar un peligro sobrenatural, presintiendo a Acererak o a una corrupción oculta.
-    
-- En los sueños, su sombra puede aparecer como **guía entre recuerdos o visiones**.
-#Master 
-
-[[Ceniz]]
-
-### Origen y naturaleza
-
-- Esta criatura no proviene de ningún plano convencional. Surgió tras la **liberación de Wako**, como si una grieta no pudiera cerrarse del todo.
-    
-- Representa el **velo entre lo que fue y lo que no se atrevió a ser**, la memoria que persiste incluso cuando el pacto termina.
-    
-- No es demoníaco ni celestial. Es **crepuscular**, y su existencia está ligada a la voluntad inconsciente de Malizal: su necesidad de conexión.
-    
-
----
-
-### Ganchos narrativos y evolución
-
-- **Profecía en silencio:** En ciertos sueños, puede actuar como guía. No habla, pero su entorno (la posición de velas, sombras o incluso el vuelo) revela pistas.
-    
-- **Despertar parcial:** En una escena clave, puede manifestar una voz débil (una palabra, un nombre) si la vida de Malizal o el grupo está en peligro.
-    
-- **Fragmento de Wako:** En una visión o ritual, el cuervo puede abrir un recuerdo reprimido de Wako, o incluso hablar con su tono durante unos segundos.
-    
-- **Sacrificio invertido:** Puede interponerse entre Malizal y una maldición mortal, disolviéndose en sombra si lo hace. Esto podría ser reversible si Malizal acepta “dejar entrar la luz de nuevo”.
-    
-
----
-
-### Mecánicas (resumen)
-
-- Familiar no combatiente (como cuervo base, pero con propiedades especiales).
-    
-- **Poderes únicos:**
-    
-    - _Presagio Silente (pasivo):_ Malizal tiene ventaja en la primera tirada de iniciativa del día si el cuervo está presente.
-        
-    - _Ojo del Velo (1/día):_ Puede señalar un objeto o criatura marcada por una maldición, corrupción o energía extraplanar.
-        
-    - _Desplazamiento Sombrío:_ No provoca ataques de oportunidad, y puede atravesar barreras no mágicas (solo para sí mismo).
-        
-
----
-
-### Interpretación
-
-- No usa sonido. Sus acciones son gestos rituales:
-    
-    - Se posa sobre símbolos.
-        
-    - Ladea la cabeza como si respondiera a una pregunta no formulada.
-        
-    - Mueve el pico como si susurrara… pero nunca emite un sonido.
-        
-- Ocasionalmente gira en espiral sobre un lugar, como marcando un “centro olvidado”.
-    
-- Si es herido, no chilla. Solo se desvanece temporalmente como niebla oscura.
-    
-
----
-
-### Relevancia futura
-
-- Puede ser **la única conexión entre Malizal y su antigua esperanza**.
-    
-- Si Malizal muere, el cuervo puede quedarse sobre su cuerpo y emitir una sola palabra: el verdadero nombre del hechicero o un fragmento de visión para el grupo.
-    
-- También puede servir como guía hacia un **templo perdido de Lathander**, donde el pacto de Malizal podría ser restaurado… o sellado para siempre.
-#Jugadores #NoSubido
-### **Nyah Zitembe**
-
-![[Nyah.png]]
-_“A veces sé cosas que no quiero saber. Pero cuando las digo me siento mejor.”_
-
-**Nyah**  
-**Raza / Clase:** Humana / Aprendiz de Savras  
-**Edad:** 16 años  
-**Ubicación conocida:** Templo de Savras, Puerto Nyanzaru
-
----
-
-### Apariencia
-
-- Adolescente de piel caramelo, con cabello rizado decorado con cuentas de marfil, madera y pequeñas conchas.
-    
-- Sus ojos marrones son intensos y atentos, como si buscaran verdades más allá de las palabras.
-    
-- Viste túnicas livianas en tonos vivos, siempre con el símbolo de Savras colgando al pecho.
-    
-- Suele andar descalza por los pasillos del templo, como si buscara una conexión más directa con la tierra y el flujo del destino.
-    
-
----
-
-### Personalidad
-
-- Curiosa, empática y valiente, aunque no siempre prudente.
-    
-- Desea demostrar su valor más allá del rol de "hija del templo".
-    
-- Posee un sentido de justicia muy desarrollado, y no tolera el abuso de poder o la mentira.
-    
-- Su dulzura es natural, pero no es ingenua: ha visto cosas que nadie debería ver a su edad.
+- No habla mucho, pero cuando lo hace, suele ser para calmar, disuadir… o clavar la verdad como una lanza.
     
 
 ---
 
 ### Rol actual
 
-- Nyah es la principal fuente de visiones nuevas de la profecía tras el ritual inicial.
+- Marcus es el segundo al mando de la guardia del templo y mano derecha de Alistar.
     
-- Tiene una sensibilidad especial hacia los artefactos, y su sola presencia puede provocar ecos o recuerdos.
+- Es quien transmite las órdenes, media entre el templo y los soldados, y mantiene el honor del cuerpo.
     
-- Aunque no combate, su intuición es muchas veces más útil que cualquier conjuro.
+- Algunos lo consideran el verdadero puente entre el pueblo y la fe, más que el propio clero.
     
 
 ---
 
 ### Conexión con el grupo
 
-- Establece lazos emocionales fuertes con los personajes, especialmente aquellos que han perdido algo o dudan de su camino.
+- Tiene profunda confianza en Alistar, al que sigue no solo por respeto, sino por convicción personal.
     
-- Acompaña al grupo durante parte de la campaña, funcionando como brújula espiritual o testigo de momentos clave.
+- Conoce a Sildar desde los viejos tiempos, y lamenta su caída.
     
-- Debe ser protegida, pero también escuchada: no es una niña indefensa, sino una voz del destino.
+- Puede ganarse la confianza del grupo si lo tratan con respeto y honestidad; odia los juegos de poder.
 #Master 
 
 [[Nyah Zitembe]]
@@ -1278,58 +1926,356 @@ _“No soy una profeta. Solo soy alguien a quien las visiones no dejan en paz.�
 - Si muere, su visión final puede marcar el siguiente paso del grupo o revelar una verdad terrible.
     
 - Si sobrevive, puede convertirse en la nueva oráculo de Savras, o incluso en la **portadora de un artefacto purificado**, libre de maldición.
-#Jugadores #NoSubido
-### **Sildar Hallwinter**
+#Jugadores
+### **Nyah Zitembe**
 
-![[Sildar.png]]
-_“No quiero morir por ustedes. Pero si tengo que hacerlo… lo haré sonriendo.”_
+![[Nyah.png]]
+_“A veces sé cosas que no quiero saber. Pero cuando las digo me siento mejor.”_
 
-**Sildar Hallwinter**  
-**Raza / Clase:** Humano / Paladín de Tyr  
-**Edad:** 55 años  
+**Nyah**  
+**Raza / Clase:** Humana / Aprendiz de Savras  
+**Edad:** 16 años  
+**Ubicación conocida:** Templo de Savras, Puerto Nyanzaru
 
 ---
 
 ### Apariencia
 
-- Hombre de estatura media, robusto aún pese al paso de los años y las batallas.
+- Adolescente de piel caramelo, con cabello rizado decorado con cuentas de marfil, madera y pequeñas conchas.
     
-- Cabello gris recortado, bigote cuidado, rostro surcado por cicatrices.
+- Sus ojos marrones son intensos y atentos, como si buscaran verdades más allá de las palabras.
     
-- Su armadura está desgastada por el uso, con abolladuras reparadas a mano, pero siempre limpia y digna.
+- Viste túnicas livianas en tonos vivos, siempre con el símbolo de Savras colgando al pecho.
     
-- El símbolo de Tyr en su pecho está grabado, no pintado: una marca permanente, como su fe.
+- Suele andar descalza por los pasillos del templo, como si buscara una conexión más directa con la tierra y el flujo del destino.
     
 
 ---
 
 ### Personalidad
 
-- Firme pero cercano, combina autoridad con humanidad.
+- Curiosa, empática y valiente, aunque no siempre prudente.
     
-- Su humor seco sirve tanto para calmar tensiones como para desafiar solemnidad innecesaria.
+- Desea demostrar su valor más allá del rol de "hija del templo".
     
-- Trata a los personajes como una mezcla de pupilos, camaradas… e hijos.
+- Posee un sentido de justicia muy desarrollado, y no tolera el abuso de poder o la mentira.
     
-- Es plenamente consciente de su vulnerabilidad actual, pero la oculta para no quebrar el ánimo del grupo.
+- Su dulzura es natural, pero no es ingenua: ha visto cosas que nadie debería ver a su edad.
     
 
 ---
 
 ### Rol actual
 
-- Sildar es la chispa que reúne al grupo. Su mensaje inicial lanza la aventura y los vincula con la profecía.
+- Nyah es la principal fuente de visiones nuevas de la profecía tras el ritual inicial.
     
-- Ofrece información clave, pero también confianza y sentido de propósito.
+- Tiene una sensibilidad especial hacia los artefactos, y su sola presencia puede provocar ecos o recuerdos.
+    
+- Aunque no combate, su intuición es muchas veces más útil que cualquier conjuro.
     
 
 ---
 
 ### Conexión con el grupo
 
-- Fue mentor, compañero o salvador de varios personajes en eventos pasados (según trasfondos).
+- Establece lazos emocionales fuertes con los personajes, especialmente aquellos que han perdido algo o dudan de su camino.
     
-- Representa el pasado heroico que todos intentan honrar o superar.
+- Acompaña al grupo durante parte de la campaña, funcionando como brújula espiritual o testigo de momentos clave.
+    
+- Debe ser protegida, pero también escuchada: no es una niña indefensa, sino una voz del destino.
+#Jugadores 
+
+[[Padre Relion]]
+### **Esencia y Motivación**
+
+- La motivación de Rellon es proteger a los fieles y preservar el templo como símbolo de esperanza, aún sabiendo que la resistencia puede costarle la vida.
+    
+- Cree en la redención de todos, incluso de los soldados enemigos; ve la fe como luz, no como arma.
+    
+- Está dispuesto a sacrificarse, pero nunca a negociar los principios de su fe.
+    
+- No es ingenuo: comprende los riesgos y sabe que su ejemplo puede desatar tanto valentía como tragedia.
+    
+
+---
+
+### **Ganchos Narrativos, Secretos y Mecánicas**
+
+- **Gancho de escena:** Puede resistir la entrega del templo, organizar una resistencia no violenta, o negociar un pacto temporal si cree que salvará vidas.
+    
+- **Sacrificio mayor:** Si la situación se vuelve insostenible, puede ofrecerse como prisionero a cambio de la seguridad de los acólitos o de un grupo de refugiados.
+    
+- **Milagro o epifanía:** Si los jugadores o los fieles caen en la desesperación, Rellon puede realizar un acto milagroso (una curación masiva, luz divina que bloquea a la Mano de Hierro temporalmente, etc.) a coste de su vida o de sus poderes.
+    
+- **Secreto emocional:** Guarda cartas y registros sobre la historia del templo, con confesiones de dudas y temores, que pueden inspirar a los personajes o revelar debilidades ocultas del enemigo.
+    
+- **Potencial de mártir:** Su muerte o captura puede desencadenar un levantamiento popular, una serie de visiones proféticas o una bendición especial sobre el lugar donde caiga.
+    
+
+---
+
+### **Reacciones y Consecuencias**
+
+- Si el templo es tomado por la fuerza, Rellon liderará una retirada ordenada o se interpondrá físicamente para impedir violencia directa.
+    
+- Si los personajes lo ayudan, puede encomendarles reliquias sagradas o secretos del culto, pidiéndoles proteger la esperanza fuera del templo.
+    
+- Si es traicionado por algún aliado, lo perdonará públicamente, reforzando el tono de misericordia de su fe.
+    
+- Si sobrevive, puede convertirse en símbolo de reconciliación tras la guerra, o en líder de una fe clandestina.
+    
+
+---
+
+### **Mecánicas y Utilidad en Juego**
+
+- **Nivel funcional:** Clérigo de Lathander, nivel 10–12 (PG: 75 | CA: 16)
+    
+- **Equipo:** Medallón sagrado, libro de oraciones (puede otorgar inspiración), candelabro de la aurora (produce Luz del Día 1/día).
+    
+- **Habilidades especiales:**
+    
+    - _Aura de Esperanza:_ Aliados a 20 pies obtienen ventaja contra miedo y desesperación si Rellon está presente.
+        
+    - _Oración de la Aurora:_ Puede curar a todos los aliados presentes una vez por día (4d8+10 PG).
+        
+    - _Último Resplandor:_ Si cae, el templo se baña en luz dorada, bloqueando la entrada de enemigos durante 1d4 minutos.
+        
+    - _Milagro menor (a discreción del DM):_ Puede realizar un acto milagroso si la fe colectiva es suficientemente fuerte (por ejemplo, levantar un herido grave, iluminar la ciudad, desarmar a un atacante).
+        
+
+---
+
+### **Interpretación**
+
+- Voz cálida, profunda, pausada y solemne. Capaz de consolar a un niño o desafiar a un gobernador con igual firmeza.
+    
+- Usa parábolas del alba, frases sobre la esperanza y el renacimiento, nunca amenazas.
+    
+- Cuando desafía a la autoridad, lo hace de pie y con la frente alta, mirando a los ojos de sus adversarios.
+    
+- Frases recurrentes:
+    
+    - _“El verdadero amanecer no depende de puertas ni decretos.”_
+        
+    - _“No os arrodilléis ante el miedo: la luz siempre encuentra rendijas para colarse.”_
+        
+    - _“No sacrificamos la fe para sobrevivir. Sobrevivimos porque no la sacrificamos.”_
+        
+
+---
+
+### **Frase oculta de esencia**
+
+> _“Mejor ser ceniza de esperanza que llama de rencor.”_
+#Jugadores 
+
+![[Padre Relion.png]]
+### **Padre Rellon, _El Faro de la Aurora_**
+
+**Frase de identidad:**  
+_“El alba no es propiedad de ningún rey ni profeta. Solo el amor puede echar raíces en estas piedras. No daremos un paso atrás.”_
+
+- **Raza/Clase:** Humano / Sumo sacerdote de Lathander
+    
+- **Edad:** Más de 70 años
+    
+- **Ubicación:** Gran Templo de Lathander, Waterdeep
+    
+
+---
+
+### **Apariencia**
+
+- Hombre de avanzada edad, erguido y de porte digno, rostro noble marcado por arrugas profundas de sabiduría y compasión.
+    
+- Cabello largo, plateado, peinado hacia atrás; barba recortada que enmarca su rostro solemne.
+    
+- Ojos azul celeste, grandes y claros, capaces de transmitir bondad y determinación serena.
+    
+- Viste túnica blanca impoluta, bordada en dorado con símbolos del sol naciente, estola dorada sobre los hombros.
+    
+- Porta un medallón de Lathander, libro de oraciones abierto y un candelabro encendido.
+    
+- Suele estar rodeado por la luz cálida del amanecer, fieles arrodillados y pétalos dorados sobre los escalones del altar.
+    
+
+---
+
+### **Personalidad y Rumores**
+
+- Carismático y compasivo, su voz reconforta tanto como desafía.
+    
+- Nunca levanta la voz por rabia, sino por esperanza y dignidad.
+    
+- Es un símbolo de resistencia pacífica en la ciudad: se niega a abandonar a los suyos, aun ante amenazas de violencia.
+    
+- Es querido por sus fieles, temido por sus enemigos y respetado por muchos fuera de su culto.
+    
+- Algunos dicen que ha realizado milagros menores durante asedios y épocas oscuras, aunque él lo atribuye siempre a la fe colectiva.
+    
+
+---
+
+### **Rol Narrativo Abierto**
+
+- **Gancho inmediato:** Puede inspirar a los personajes o la multitud durante asaltos, negociaciones o escenas de desesperación.
+    
+- **Papel recurrente:** Figura central en la defensa del templo, negociador con autoridades, mentor de acólitos y jóvenes fieles.
+    
+- **Interacción destacada:** Puede ofrecer refugio, guía espiritual y curación a los personajes; también los pondrá a prueba, pidiéndoles que se arriesguen por el bien común antes que por la gloria personal.
+    
+
+---
+
+### **Frase característica**
+
+> _“El alba no es propiedad de ningún rey ni profeta. Solo el amor puede echar raíces en estas piedras. No daremos un paso atrás.”_
+
+
+[[Sargento Derian Farse]]
+#### **Esencia y Motivación**
+
+- Derian no es fanático religioso ni ideológico: su verdadera ambición es ascender y demostrar competencia ante sus superiores.
+    
+- Admira la estructura y disciplina de la Mano de Hierro, pero no se siente parte del núcleo duro.
+    
+- Siente cierto desprecio por los nobles y magos que, en su visión, siempre han estado “por encima de la ley”.
+    
+- Guarda resentimiento oculto hacia comandantes anteriores que no reconocieron su mérito en la guardia tradicional.
+    
+
+---
+
+#### **Ganchos Narrativos, Secretos y Mecánicas**
+
+- **Gancho de escena:** Puede ser usado como obstáculo legal (detención, registro, multas) o como inesperado aliado si se convence de la injusticia de una orden.
+    
+- **Duda latente:** En privado, Derian cuestiona las órdenes que implican excesos o brutalidad, pero rara vez lo muestra en público. Si un jugador apela a su sentido de justicia, puede dudar antes de aplicar un castigo.
+    
+- **Red de influencia:** Mantiene contactos dentro de la vieja guardia y en el bajo mundo. Puede ser sobornado, aunque con gran dificultad y riesgo.
+    
+- **Ambición peligrosa:** Si el grupo lo humilla o desobedece abiertamente, buscará venganza, usando todos los recursos legales y su red de informantes.
+    
+
+---
+
+#### **Reacciones y Consecuencias**
+
+- Si se le confronta en público, buscará mantener la calma y no perder autoridad, aunque se vea superado.
+    
+- Si es presionado en privado, puede confesar dudas sobre la Mano de Hierro, pero solo si ve un beneficio personal o un riesgo grave para su posición.
+    
+- Si la Mano de Hierro cae en desgracia, Derian puede cambiar de bando para salvarse, ofreciendo información a cambio de protección o un nuevo puesto.
+    
+
+---
+
+#### **Mecánicas y Utilidad en Juego**
+
+- **Nivel funcional:** Guerrero nivel 5 / Líder de patrulla (PG: 48 | CA: 16)
+    
+- **Equipo:** Espada reglamentaria, escudo pequeño con el símbolo de la Mano de Hierro, silbato para pedir refuerzos, brazalete identificativo.
+    
+- **Habilidades especiales:**
+    
+    - _Orden de Alto:_ Puede forzar una tirada de Persuasión o Intimidación para evitar un enfrentamiento directo en la calle.
+        
+    - _Red de Informantes:_ Recibe rumores sobre el grupo si cometen delitos o desafían la ley en la ciudad (puede llegar en 1d4 horas a su ubicación).
+        
+    - _Defensa de la Ley:_ Si combate en presencia de civiles, gana ventaja en tiradas de salvación.
+        
+
+---
+
+#### **Interpretación**
+
+- Voz firme, fría, con autoridad natural, pero no cruel.
+    
+- Puede alternar entre el rigor del mando y la cortesía forzada, según el público y la situación.
+    
+- Frases recurrentes:
+    
+    - _“¿Acaso la ley es distinta para los héroes?”_
+        
+    - _“No me obliguéis a elegir entre la justicia y mi deber.”_
+        
+    - _“Un hombre solo es leal mientras le convenga. Yo aún no he decidido a quién servir.”_
+        
+
+---
+
+#### **Frase oculta de esencia**
+
+> _“El miedo hace fanáticos. El poder, traidores. Yo aún elijo la ley.”_
+#Jugadores 
+
+### **Sargento Derian Farse**
+
+![[Derian.png]]
+### **Sargento Derian Farse**
+
+_"La ley es para todos, incluso para los que se creen por encima de ella. Vuestra presencia no pasa desapercibida."_
+
+- **Raza/Clase:** Humano / Sargento de la Mano de Hierro
+    
+- **Edad:** 40 años
+    
+- **Ubicación frecuente:** Calles principales y zonas de vigilancia de Waterdeep, en operaciones o retenes de la Mano de Hierro.
+    
+- **Relación:** Representante de la autoridad reciente y rostro visible del nuevo orden urbano.
+    
+
+---
+
+#### **Apariencia**
+
+- Hombre de complexión fuerte, mandíbula cuadrada y cabello militar muy corto, oscuro con mechones grises.
+    
+- Cicatriz fina y recta cruza su pómulo izquierdo bajo el ojo azul acero, siempre alerta.
+    
+- Su piel clara denota años de servicio exterior.
+    
+- Viste cota de malla impecable bajo un abrigo de cuero negro con ribetes metálicos y el brazalete de la Mano de Hierro al antebrazo izquierdo, símbolo triangular siempre visible.
+    
+- Sus botas están tan pulidas que reflejan la luz de las antorchas.
+    
+- Suele mantener una mano sobre el pomo de su espada reglamentaria y la otra cruzada al pecho, adoptando una pose de vigilancia y autoridad.
+    
+- Suele verse rodeado de guardias subalternos, con antorchas de luz azulada.
+    
+
+---
+
+#### **Personalidad y Rumores**
+
+- Autoritario, cortés pero implacable en el cumplimiento de órdenes.
+    
+- No es aún un fanático, pero disfruta el poder y la admiración de su nuevo rango.
+    
+- Habla de la ley como un absoluto, pero su tono revela orgullo y cierta inseguridad ante el caos reciente.
+    
+- Es conocido por actuar con rigor, pero también por evitar excesos de violencia salvo que sus superiores lo exijan.
+    
+- Algunos dicen que es más justo que la mayoría de sus colegas, otros lo ven como un oportunista dispuesto a venderse si la Mano de Hierro pierde poder.
+    
+
+---
+
+#### **Rol Narrativo Abierto**
+
+- **Gancho inmediato:** Puede confrontar al grupo en registros, patrullas o escenas públicas, exigiendo documentación, revisión de pertenencias, o aclaraciones sobre su presencia.
+    
+- **Papel recurrente:** Es el contacto o enemigo recurrente en cualquier asunto legal, interrogatorio o escena de detención urbana.
+    
+- **Interacción destacada:** Puede servir como mediador entre la Mano de Hierro y otras autoridades, o bien perseguir al grupo si infringen la ley de forma notoria.
+    
+
+---
+
+#### **Frase característica**
+
+> _“La ley es para todos, incluso para los que se creen por encima de ella. Vuestra presencia no pasa desapercibida.”_
 #Master 
 
 [[Sildar Hallwinter]]
@@ -1404,54 +2350,58 @@ _“No me sigan porque yo caí. Sigan porque aún pueden elegir cómo caer.”_
 - Puede ser la base para que un personaje reconsidere su fe, su camino o su rol en la profecía.
     
 - Si no muere, puede desaparecer, convertirse en un espíritu guía, o incluso en un **vínculo emocional con una reliquia futura**.
-#Jugadores #NoSubido
-### **Terry Black**
+#Jugadores
+### **Sildar Hallwinter**
 
-![[Terry Black.png]]
-_“¿Me recuerdas? Yo también solía salvar el mundo.”_
+![[Sildar.png]]
+_“No quiero morir por ustedes. Pero si tengo que hacerlo… lo haré sonriendo.”_
 
-**Terry Black**  
-**Raza / Clase:** Humano / Mago (antes aliado del grupo)  
-**Edad:** 40 años  
-**Ubicación conocida:** Desaparecido desde los eventos posteriores a la Tumba de la Aniquilación
+**Sildar Hallwinter**  
+**Raza / Clase:** Humano / Paladín de Tyr  
+**Edad:** 55 años  
 
 ---
 
 ### Apariencia
 
-- Hombre de complexión delgada, piel pálida, cabello negro desordenado.
+- Hombre de estatura media, robusto aún pese al paso de los años y las batallas.
     
-- Sus ojos están hundidos, con un brillo verdoso que no parece del todo humano.
+- Cabello gris recortado, bigote cuidado, rostro surcado por cicatrices.
     
-- Viste túnicas grises raídas, con restos de símbolos arcanos corruptos.
+- Su armadura está desgastada por el uso, con abolladuras reparadas a mano, pero siempre limpia y digna.
     
-- Su bastón está hecho de una aleación desconocida, tallado con espirales que giran lentamente como si tuvieran vida propia.
+- El símbolo de Tyr en su pecho está grabado, no pintado: una marca permanente, como su fe.
     
 
 ---
 
 ### Personalidad
 
-- Antes era bromista, valiente, sarcástico, siempre dispuesto a lanzarse al peligro para ayudar a sus amigos.
+- Firme pero cercano, combina autoridad con humanidad.
     
-- Ahora es una sombra de eso: irónico, pero con amargura; distante, como si hablara desde el fondo de un pozo.
+- Su humor seco sirve tanto para calmar tensiones como para desafiar solemnidad innecesaria.
     
-- A veces parece querer ayudar… otras, actúa con frialdad casi mecánica.
+- Trata a los personajes como una mezcla de pupilos, camaradas… e hijos.
     
-- Su mayor contradicción es que **sigue recordando** a los personajes con afecto, incluso mientras actúa en contra de ellos.
+- Es plenamente consciente de su vulnerabilidad actual, pero la oculta para no quebrar el ánimo del grupo.
     
 
 ---
 
 ### Rol actual
 
-- Se perdió tras los eventos de la Tumba. En realidad, fue capturado, tentado y finalmente **doblado por Acererak**.
+- Sildar es la chispa que reúne al grupo. Su mensaje inicial lanza la aventura y los vincula con la profecía.
+    
+- Ofrece información clave, pero también confianza y sentido de propósito.
+    
 
 ---
 
 ### Conexión con el grupo
-   
-- Los personajes lo creían muerto, desaparecido o corrompido.
+
+- Fue mentor, compañero o salvador de varios personajes en eventos pasados (según trasfondos).
+    
+- Representa el pasado heroico que todos intentan honrar o superar.
 #Master 
 [[Terry Black]]
 
@@ -1530,63 +2480,54 @@ _“No soy esclavo. Solo estoy cansado de perder.”_
     - ¿Ejecución? La victoria se logra… pero con el sabor amargo de matar a quien los ayudó a ser héroes.
         
     - ¿Fracaso? Terry se transforma en el recipiente definitivo de Acererak… y el mundo arde.
-#Jugadores #NoSubido 
-### **Tharvek, Gran inquisidor**
+#Jugadores
+### **Terry Black**
 
-![[Tharvek.png]]
-_“La libertad es el velo favorito del caos.”_
+![[Terry Black.png]]
+_“¿Me recuerdas? Yo también solía salvar el mundo.”_
 
-**Tharvek**  
-**Raza / Clase:** Humano / Paladín Caído  
-**Edad:** 50 años  
-**Ubicación conocida:** Fortaleza de Mano de Hierro en la Ciudadela de la Devoción, Waterdeep
+**Terry Black**  
+**Raza / Clase:** Humano / Mago (antes aliado del grupo)  
+**Edad:** 40 años  
+**Ubicación conocida:** Desaparecido desde los eventos posteriores a la Tumba de la Aniquilación
 
 ---
 
 ### Apariencia
 
-- Figura imponente, siempre de pie como si estuviera en juicio constante.
+- Hombre de complexión delgada, piel pálida, cabello negro desordenado.
     
-- Armadura negra ornamentada, con grabados de cadenas y cruces. Brilla con una luz antinatural.
+- Sus ojos están hundidos, con un brillo verdoso que no parece del todo humano.
     
-- Rostro anguloso, con una cicatriz cruzando la mejilla izquierda.
+- Viste túnicas grises raídas, con restos de símbolos arcanos corruptos.
     
-- Ojos grises, severos, como si nunca parpadeara. Siempre lleva un amuleto brillante que vibra cerca de la magia.
+- Su bastón está hecho de una aleación desconocida, tallado con espirales que giran lentamente como si tuvieran vida propia.
     
 
 ---
 
 ### Personalidad
 
-- Inflexible, carismático, impasible. Cada palabra que dice suena como un mandamiento.
+- Antes era bromista, valiente, sarcástico, siempre dispuesto a lanzarse al peligro para ayudar a sus amigos.
     
-- Cree en la pureza a través del control, la estabilidad a través del miedo.
+- Ahora es una sombra de eso: irónico, pero con amargura; distante, como si hablara desde el fondo de un pozo.
     
-- Su desprecio por los magos y las criaturas sobrenaturales es absoluto, pero no personal: los ve como **riesgos, no individuos**.
+- A veces parece querer ayudar… otras, actúa con frialdad casi mecánica.
     
-- Ve al grupo como herejes funcionales. Especialmente odia a Malizal y Ander, por su poder desordenado y su pasado impuro.
+- Su mayor contradicción es que **sigue recordando** a los personajes con afecto, incluso mientras actúa en contra de ellos.
     
 
 ---
 
 ### Rol actual
 
-- Tharvek lidera la **Mano de Hierro**, una fuerza político-religiosa que gana poder tras la crisis mágica mundial.
-    
-- Encabeza campañas contra practicantes de magia sin regulación, templos antiguos y héroes del pasado.
-    
-- Es considerado por muchos como el verdadero defensor del pueblo… incluso si ese pueblo **sangra en nombre del orden**.
-    
+- Se perdió tras los eventos de la Tumba. En realidad, fue capturado, tentado y finalmente **doblado por Acererak**.
 
 ---
 
 ### Conexión con el grupo
-
-- Es el principal antagonista durante los eventos sociales y urbanos.
-    
-- Representa la amenaza legal, moral y social: **puede deslegitimar, encarcelar o ejecutar al grupo con apoyo popular.**
-    
-- Cree que Alistar aún puede ser “reclamado” para la causa, y no oculta su deseo de convertirlo en el “escudo sagrado del nuevo dogma”.
+   
+- Los personajes lo creían muerto, desaparecido o corrompido.
 #Master 
 
 [[Tharvek, Gran inquisidor]]
@@ -1669,63 +2610,63 @@ _“Yo no soy cruel. El caos lo es. Yo soy su castigo.”_
 - Si sobrevive, podría convertirse en **líder de facto de Waterdeep**, iniciando una era de represión mágica que altere el epílogo del mundo.
     
 - Si muere redimido (por palabras de Alistar o un sacrificio mutuo), puede dejar una carta secreta… revelando que **sabía que su cruzada era injusta, pero no veía otra salida**.
-#Jugadores
-### **Varuun Tyrral**
+#Jugadores 
+### **Tharvek, Gran inquisidor**
 
-![[Dragon de plata, Varrum.png]]
-_“¡Nadie pasará mientras yo esté de pie!”_
+![[Tharvek.png]]
+_“La libertad es el velo favorito del caos.”_
 
-**Varuun Tyrral**  
-**Raza / Clase:** Semiorco / Guerrero defensor  
-**Edad:** 22 años  
-**Ubicación conocida:** Mansión del Clan del Dragón Plateado, o donde Hakuryuu combata
+**Tharvek**  
+**Raza / Clase:** Humano / Paladín Caído  
+**Edad:** 50 años  
+**Ubicación conocida:** Fortaleza de Mano de Hierro en la Ciudadela de la Devoción, Waterdeep
 
 ---
 
 ### Apariencia
 
-- Semiorco de complexión poderosa, con músculos de entrenamiento más que de raza.
+- Figura imponente, siempre de pie como si estuviera en juicio constante.
     
-- Su piel verde oliva muestra heridas menores y marcas de esfuerzo constante.
+- Armadura negra ornamentada, con grabados de cadenas y cruces. Brilla con una luz antinatural.
     
-- Cabello oscuro y corto, usualmente húmedo de sudor por las rondas de vigilancia o sparring.
+- Rostro anguloso, con una cicatriz cruzando la mejilla izquierda.
     
-- Viste una cota de mallas nueva (regalo de Kael), un escudo redondo con el emblema del Dragón Plateado, y una espada corta bien mantenida.
+- Ojos grises, severos, como si nunca parpadeara. Siempre lleva un amuleto brillante que vibra cerca de la magia.
     
 
 ---
 
 ### Personalidad
 
-- Entusiasta, orgulloso y tremendamente leal.
+- Inflexible, carismático, impasible. Cada palabra que dice suena como un mandamiento.
     
-- Su ímpetu a veces lo hace imprudente, especialmente cuando busca impresionar a Hakuryuu o a Kael.
+- Cree en la pureza a través del control, la estabilidad a través del miedo.
     
-- Cree en la protección por encima del ataque, y considera que morir por otro es el máximo honor.
+- Su desprecio por los magos y las criaturas sobrenaturales es absoluto, pero no personal: los ve como **riesgos, no individuos**.
     
-- Admira a todos los veteranos del clan, pero **idolatra especialmente a Hakuryuu**, a quien ve como un semidiós viviente.
+- Ve al grupo como herejes funcionales. Especialmente odia a Malizal y Ander, por su poder desordenado y su pasado impuro.
     
 
 ---
 
 ### Rol actual
 
-- Escudero oficial del Clan del Dragón Plateado, bajo tutela directa de Kael.
+- Tharvek lidera la **Mano de Hierro**, una fuerza político-religiosa que gana poder tras la crisis mágica mundial.
     
-- Participa en la defensa de la mansión, entrenamientos del séquito y eventualmente misiones menores junto al grupo.
+- Encabeza campañas contra practicantes de magia sin regulación, templos antiguos y héroes del pasado.
     
-- Su mera presencia representa **la juventud que aún cree en el honor puro**… y lo que puede perderse si la corrupción lo alcanza.
+- Es considerado por muchos como el verdadero defensor del pueblo… incluso si ese pueblo **sangra en nombre del orden**.
     
 
 ---
 
 ### Conexión con el grupo
 
-- Tiene admiración reverente por los héroes del grupo, aunque se intimida si le hablan directamente.
+- Es el principal antagonista durante los eventos sociales y urbanos.
     
-- Con el tiempo puede establecer un vínculo más fuerte con un personaje que lo trate con respeto o mentoría (Alistar, Orianna o Vengy son buenas opciones).
+- Representa la amenaza legal, moral y social: **puede deslegitimar, encarcelar o ejecutar al grupo con apoyo popular.**
     
-- Podría sacrificarse para proteger a uno de ellos o convertirse en su seguidor ferviente.
+- Cree que Alistar aún puede ser “reclamado” para la causa, y no oculta su deseo de convertirlo en el “escudo sagrado del nuevo dogma”.
 #Master 
 
 [[Varuun Tyrral]]
@@ -1805,58 +2746,63 @@ _“Si caigo antes de que me llamen caballero… al menos caí defendiéndolos.�
 - Si vive y es nombrado caballero, podría asumir el rol de Kael si este cae.
     
 - Si es corrompido, sería un golpe devastador a la moral del clan, y un recordatorio de que incluso la fe puede ser desviada sin guía.
-#Jugadores #NoSubido
-### **Wakanga O’tamu**
+#Jugadores
+### **Varuun Tyrral**
 
-![[Wakanga O’tamu.png]]
-_“Puedo darte todo lo que necesitas… salvo certezas.”_
+![[Dragon de plata, Varrum.png]]
+_“¡Nadie pasará mientras yo esté de pie!”_
 
-**Wakanga O’tamu**  
-**Raza / Clase:** Humano / Príncipe Mercader  
-**Edad:** 48 años  
-**Ubicación conocida:** Mansión de Wakanga, Puerto Nyanzaru, Chult
+**Varuun Tyrral**  
+**Raza / Clase:** Semiorco / Guerrero defensor  
+**Edad:** 22 años  
+**Ubicación conocida:** Mansión del Clan del Dragón Plateado, o donde Hakuryuu combata
 
 ---
 
 ### Apariencia
 
-- Hombre de piel oscura, mirada brillante y sonrisa siempre lista.
+- Semiorco de complexión poderosa, con músculos de entrenamiento más que de raza.
     
-- Cabello rizado, con mechones grises que refuerzan su imagen de sabiduría y experiencia.
+- Su piel verde oliva muestra heridas menores y marcas de esfuerzo constante.
     
-- Viste con exquisitez: túnicas de seda, collares con piedras locales, un bastón ceremonial lleno de gemas y un anillo mágico.
+- Cabello oscuro y corto, usualmente húmedo de sudor por las rondas de vigilancia o sparring.
     
-- Su porte es elegante pero relajado: la seguridad de quien siempre sabe cómo entrar y salir de cualquier trato.
+- Viste una cota de mallas nueva (regalo de Kael), un escudo redondo con el emblema del Dragón Plateado, y una espada corta bien mantenida.
     
 
 ---
 
 ### Personalidad
 
-- Carismático, generoso, siempre atento a los matices sociales.
+- Entusiasta, orgulloso y tremendamente leal.
     
-- Negociador nato, pero nunca abiertamente manipulador: **prefiere influir desde la simpatía**.
+- Su ímpetu a veces lo hace imprudente, especialmente cuando busca impresionar a Hakuryuu o a Kael.
     
-- Cree en el valor de las alianzas, no en la devoción ciega.
+- Cree en la protección por encima del ataque, y considera que morir por otro es el máximo honor.
     
-- Tiene afecto real por los personajes, pero **también tiene una red de intereses que mantener**.
+- Admira a todos los veteranos del clan, pero **idolatra especialmente a Hakuryuu**, a quien ve como un semidiós viviente.
     
 
 ---
 
 ### Rol actual
 
-- Wakanga es el anfitrión del grupo en Chult. Su mansión es un santuario diplomático y social.
+- Escudero oficial del Clan del Dragón Plateado, bajo tutela directa de Kael.
     
-- Proporciona alojamiento, contactos, objetos mágicos menores, y enlaces con guías y exploradores locales.
+- Participa en la defensa de la mansión, entrenamientos del séquito y eventualmente misiones menores junto al grupo.
+    
+- Su mera presencia representa **la juventud que aún cree en el honor puro**… y lo que puede perderse si la corrupción lo alcanza.
+    
 
 ---
 
 ### Conexión con el grupo
 
-- Aliado veterano del pasado (desde la Tumba de la Aniquilación), uno de los pocos que no los ha traicionado o abandonado.
+- Tiene admiración reverente por los héroes del grupo, aunque se intimida si le hablan directamente.
     
-- Es una figura querida, pero que **representa el equilibrio entre amistad y pragmatismo**.
+- Con el tiempo puede establecer un vínculo más fuerte con un personaje que lo trate con respeto o mentoría (Alistar, Orianna o Vengy son buenas opciones).
+    
+- Podría sacrificarse para proteger a uno de ellos o convertirse en su seguidor ferviente.
 #Master 
 
 [[Wakanga O’tamu]]
@@ -1931,3 +2877,55 @@ _“Una mano abierta siempre esconde la otra.”_
 - Si muere (por culpa o descuido del grupo), su caída puede provocar la ruptura del apoyo chultano y una crisis diplomática.
     
 - Si sobrevive hasta el final y mantiene su alianza, puede coronarse como **regente de un nuevo orden diplomático**, siendo una pieza clave en el epílogo del mundo restaurado.
+#Jugadores
+### **Wakanga O’tamu**
+
+![[Wakanga O’tamu.png]]
+_“Puedo darte todo lo que necesitas… salvo certezas.”_
+
+**Wakanga O’tamu**  
+**Raza / Clase:** Humano / Príncipe Mercader  
+**Edad:** 48 años  
+**Ubicación conocida:** Mansión de Wakanga, Puerto Nyanzaru, Chult
+
+---
+
+### Apariencia
+
+- Hombre de piel oscura, mirada brillante y sonrisa siempre lista.
+    
+- Cabello rizado, con mechones grises que refuerzan su imagen de sabiduría y experiencia.
+    
+- Viste con exquisitez: túnicas de seda, collares con piedras locales, un bastón ceremonial lleno de gemas y un anillo mágico.
+    
+- Su porte es elegante pero relajado: la seguridad de quien siempre sabe cómo entrar y salir de cualquier trato.
+    
+
+---
+
+### Personalidad
+
+- Carismático, generoso, siempre atento a los matices sociales.
+    
+- Negociador nato, pero nunca abiertamente manipulador: **prefiere influir desde la simpatía**.
+    
+- Cree en el valor de las alianzas, no en la devoción ciega.
+    
+- Tiene afecto real por los personajes, pero **también tiene una red de intereses que mantener**.
+    
+
+---
+
+### Rol actual
+
+- Wakanga es el anfitrión del grupo en Chult. Su mansión es un santuario diplomático y social.
+    
+- Proporciona alojamiento, contactos, objetos mágicos menores, y enlaces con guías y exploradores locales.
+
+---
+
+### Conexión con el grupo
+
+- Aliado veterano del pasado (desde la Tumba de la Aniquilación), uno de los pocos que no los ha traicionado o abandonado.
+    
+- Es una figura querida, pero que **representa el equilibrio entre amistad y pragmatismo**.
