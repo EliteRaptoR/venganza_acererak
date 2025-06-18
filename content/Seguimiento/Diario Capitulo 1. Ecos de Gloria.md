@@ -98,10 +98,6 @@ Orianna estaba arrodillada junto al majestuoso árbol milenario, guardián del e
 ![[Bosque Intacto.png]]
 _El arbol sagrado_
 
-A su lado, Elyzmyrath, la joven dragona verde, mantenía una alerta vigilante. Sus ojos agudos se movían inquietos, rastreando señales ocultas en la brisa, cada músculo tenso y preparado para actuar.
-
-—Algo no está bien —susurró Orianna, su voz apenas audible pero cargada de inquietud—. Las raíces están susurrando, y su voz está enferma.
-
 A su lado, Elyzmyrath, la joven dragona verde, permanecía inmóvil, vigilante y alerta. Sus ojos agudos rastreaban inquietos señales ocultas en la brisa; cada músculo tenso, cada escama reluciente preparada para la acción inmediata. Ambos contemplaban, inquietos, marcas recientes en el suelo: huellas profundas y grotescas, ajenas al bosque, impregnadas de una corrupción que no pertenecía a ese lugar sagrado.
 
 —Algo no está bien —susurró Orianna con inquietud apenas audible—. Las raíces están susurrando, y su voz está enferma.
