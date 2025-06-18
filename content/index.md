@@ -1,3 +1,8 @@
+---
+title: "La Profecía del Abismo"
+slug: "inicio" # (Opcional. Solo si quieres cambiar la URL)
+---
+
 # La Profecía del Abismo
 ---
 ![[Portada.png]]
