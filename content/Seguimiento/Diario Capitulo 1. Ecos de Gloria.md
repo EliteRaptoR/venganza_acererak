@@ -12,15 +12,23 @@
 ---
 ## **Sesión 1**
 
-### _Acererak, El Arquitecto de la Muerte_
+###  _La Sombra de Acererak_
 **Canción**
 [[Acererak, El Arquitecto de la Muerte]]
 
-Hace años, la sombra ominosa de Acererak y su terrible maldición cayeron sobre nuestro mundo. Luchamos y vencimos, desterrando al atroz Atropal y frustrando los oscuros designios del temible lich. En aquellos días fuimos héroes, cubiertos por la efímera gloria que acompaña a los salvadores del mundo. Pero con el tiempo, esa gloria se deshizo como ceniza en el viento, dejando solo el amargo residuo de la duda y el temor.
+Hace años, un grupo de valerosos aventureros descendió a las profundidades de la temible **Tumba de la Aniquilación**, enfrentándose a Acererak, el infame lich conocido como el Arquitecto de la Muerte. Tras superar horrores inimaginables, consiguieron destruir al Atropal, una criatura grotesca destinada a devorar las almas del mundo, frustrando así los oscuros designios del lich.
 
-La sociedad, fracturada y sumida en la incertidumbre, comenzó a buscar chivos expiatorios entre las sombras, culpando a sus propios héroes por los cataclismos naturales, los inquietantes disturbios mágicos y la creciente presencia de rituales paganos bañados en sangre inocente. Ahora, cada uno de esos héroes vive aislado, arrastrando el pesado fardo de un pasado que se niega a descansar.
+Sin embargo, la victoria tuvo un alto precio. Los héroes descubrieron demasiado tarde que, aunque Acererak había sido derrotado, su esencia maligna permanecía fragmentada en poderosos artefactos, cada uno conteniendo una parte vital de su filacteria. Estas reliquias, dispersas y ocultas, continúan irradiando corrupción y amenazan con devolver al mundo al abismo.
 
-Sin embargo, la amenaza de Acererak aún persiste en los rincones más oscuros del mundo. Fragmentos de su filacteria, peligrosamente activos, alimentan su insaciable sed de venganza. Pronto, los héroes deberán enfrentar una nueva prueba, una que desafiará no solo su fuerza y habilidad, sino que pondrá al límite su misma humanidad.
+### _El Eco de la Gloria_
+
+El tiempo ha pasado, y el mundo salvado por los héroes se encuentra ahora sumido en la incertidumbre. La gloria efímera de su victoria se ha desvanecido, reemplazada por el temor y la sospecha. Los desastres naturales, disturbios mágicos y una creciente oleada de rituales paganos han llevado a la sociedad a buscar culpables. Los mismos héroes que salvaron al mundo son ahora señalados como responsables del caos que parece engullirlo todo. Aislados y perseguidos, cargan con el peso de un pasado que nunca logró descansar en paz.
+
+### _Una Nueva Amenaza_
+
+La amenaza de Acererak sigue viva, oculta en las sombras del mundo. Los fragmentos activos de su filacteria susurran con voces corruptas, esperando pacientemente ser reunidos para permitir al lich renacer con mayor fuerza. La presencia oscura se hace cada vez más evidente, manifestándose en lugares sagrados mancillados, bosques corruptos y templos en ruinas.
+
+Pronto, los héroes deberán reunirse una vez más para enfrentar una nueva prueba. Esta vez, la batalla no solo exigirá fuerza y habilidad, sino que desafiará hasta el límite su humanidad, forzándolos a elegir entre salvar al mundo nuevamente o salvarse a sí mismos.
 
 ![[Acererak.png]]
 ### _El Despertar del Pueblo_
