@@ -12,47 +12,47 @@
 ---
 ## **Sesión 1**
 
-###  _La Sombra de Acererak_
+## **Ecos de la Aniquilación**
+
+### _La Caída de la Maldición_
 **Canción**
 [[Acererak, El Arquitecto de la Muerte]]
 
-Hace años, un grupo de valerosos aventureros descendió a las profundidades de la temible **Tumba de la Aniquilación**, enfrentándose a Acererak, el infame lich conocido como el Arquitecto de la Muerte. Tras superar horrores inimaginables, consiguieron destruir al Atropal, una criatura grotesca destinada a devorar las almas del mundo, frustrando así los oscuros designios del lich.
+Faerûn entero languidecía bajo una oscura y atroz maldición: la Maldición de la Muerte. Las resurrecciones habían dejado de funcionar, y las almas, atrapadas y atraídas inexorablemente hacia un objeto nefasto conocido como el Almero, eran consumidas sin remedio. La desesperación se extendió por los reinos, empujando a cada rincón del mundo conocido en una frenética búsqueda de soluciones. Fue entonces cuando Valindra, sabia y misteriosa emisaria, reunió a un grupo de héroes para revelarles la sombría verdad: el origen de la maldición descansaba en la distante y peligrosa tierra de Chult.
 
-Sin embargo, la victoria tuvo un alto precio. Los héroes descubrieron demasiado tarde que, aunque Acererak había sido derrotado, su esencia maligna permanecía fragmentada en poderosos artefactos, cada uno conteniendo una parte vital de su filacteria. Estas reliquias, dispersas y ocultas, continúan irradiando corrupción y amenazan con devolver al mundo al abismo.
+Los héroes, impulsados por la necesidad imperiosa de salvar a toda vida en Faerûn, cruzaron mares, junglas impenetrables y ruinas olvidadas, hasta descubrir Omu, la ciudad prohibida. Al internarse en las entrañas malditas de la Tumba de la Aniquilación, enfrentaron y vencieron a las tres guardianas, brujas de un poder siniestro que custodiaban la última puerta hacia el horror definitivo. Al abrir aquella estancia, contemplaron con espanto al Atropal, un ser inconcluso deforme y abominable, una criatura que emanaba corrupción pura, suspendida sobre un abismo en medio de vapores necróticos. En una batalla titánica, épica y desesperada, cuyas repercusiones resonarán eternamente en las leyendas de Faerûn, los héroes lucharon con todas sus fuerzas hasta destruir al Atropal antes de que alcanzara su temible destino divino.
 
-### _El Eco de la Gloria_
-
-El tiempo ha pasado, y el mundo salvado por los héroes se encuentra ahora sumido en la incertidumbre. La gloria efímera de su victoria se ha desvanecido, reemplazada por el temor y la sospecha. Los desastres naturales, disturbios mágicos y una creciente oleada de rituales paganos han llevado a la sociedad a buscar culpables. Los mismos héroes que salvaron al mundo son ahora señalados como responsables del caos que parece engullirlo todo. Aislados y perseguidos, cargan con el peso de un pasado que nunca logró descansar en paz.
-
-### _Una Nueva Amenaza_
-
-La amenaza de Acererak sigue viva, oculta en las sombras del mundo. Los fragmentos activos de su filacteria susurran con voces corruptas, esperando pacientemente ser reunidos para permitir al lich renacer con mayor fuerza. La presencia oscura se hace cada vez más evidente, manifestándose en lugares sagrados mancillados, bosques corruptos y templos en ruinas.
-
-Pronto, los héroes deberán reunirse una vez más para enfrentar una nueva prueba. Esta vez, la batalla no solo exigirá fuerza y habilidad, sino que desafiará hasta el límite su humanidad, forzándolos a elegir entre salvar al mundo nuevamente o salvarse a sí mismos.
+Cuando Acererak irrumpió en la escena, ya era demasiado tarde para su monstruosa creación. Enfurecido y decidido a vengarse, el lich descargó toda su ira y poder contra los héroes. Pero en ese instante decisivo, el grupo decidió darlo todo en un sacrificio heroico y coordinado para destruir el Almero. En medio del caos y la destrucción, Orianna dio el golpe final al artefacto oscuro, aceptando su destino y cayendo junto al Almero en las llamas ardientes del volcán. Acererak, en un acto de despiadada venganza, acabó con los héroes restantes, dejando solo devastación. Milagrosamente, Orianna fue rescatada de su ardiente destino por Artus Cimber, llevada hasta Waterdeep donde poderosos rituales le devolvieron la vida. El resto del grupo fue revivido posteriormente mediante el conjuro ancestral y costoso de Resurrección Real.
 
 ![[Acererak.png]]
-### _El Despertar del Pueblo_
+_Acererak_
+### *El Eco de la Victoria*
 
-Mientras los héroes se debaten en sus conflictos internos, en las calles y aldeas una peligrosa semilla de rebelión ha echado raíces profundas. Aquellos marginados y oprimidos por las desigualdades crecientes han empezado a cuestionar la narrativa oficial. Para ellos, la maldición de la muerte no fue más que un engaño urdido por los poderosos para justificar sus propios privilegios. Dicen que la supuesta maldición solo afectaba a aquellos lo suficientemente ricos para costearse los exclusivos rituales de resurrección, dejando al descubierto la verdad incómoda: que los dioses jamás se preocuparon por ellos.
+Pero la gloria es una luz efímera, y su brillo pronto se desvaneció. A medida que las heridas del mundo parecían sanar, otras cicatrices comenzaron a emerger. Los héroes, inicialmente celebrados, pronto fueron perseguidos por la sombra del miedo y la sospecha. Las catástrofes naturales y disturbios mágicos comenzaron a desgarrar el tejido social, y aquellos que una vez salvaron al mundo fueron señalados como los causantes del caos emergente. La misma sociedad que los elevó ahora los acusaba, y los héroes, aislados y marcados, debieron cargar con el peso amargo de la ingratitud y la incertidumbre.
 
-Esta convicción se ha convertido en un movimiento de resistencia popular que se expande rápidamente, alimentado por un resentimiento antiguo hacia los héroes y las instituciones que alguna vez juraron protegerlos. Para estos ciudadanos, la verdad es clara y devastadora: la opresión ha durado demasiado tiempo, y cada relato oficial no es más que una herramienta más del abuso sistemático de quienes ostentan el poder.
+### *Sombras del Pasado*
 
+En medio de este tumulto, se reveló una terrible verdad: aunque Acererak fue derrotado, su esencia maligna aún persistía, fragmentada y oculta en poderosos artefactos dispersos por el mundo. Estos objetos, cada uno con un fragmento vital de su filacteria, resonaban con un poder oscuro, corrompiendo lugares sagrados y provocando el resurgir de horrores olvidados. La amenaza del lich persistía en cada susurro, en cada sombra, aguardando pacientemente el momento de renacer con más fuerza que antes.
+
+### *La Rebelión del Pueblo*
 **Cancion**
 [[Abismo y rabia]]
 
+Mientras los héroes lidiaban con sus conflictos internos, una semilla oscura echó raíces en el corazón de las gentes comunes. La desigualdad, el resentimiento y la desesperación se convirtieron en combustible para un movimiento popular que cuestionaba la verdad oficial. Para ellos, la Maldición de la Muerte no había sido más que un engaño de los poderosos, quienes usaban los rituales de resurrección como un privilegio exclusivo. El pueblo comenzó a alzarse, exigiendo respuestas y justicia, y rápidamente este movimiento se convirtió en una fuerza imparable que amenazaba con desestabilizar toda Faerûn.
+
 ![[Abismo y rabia.png]]
-### _La Nueva Fe y la Mano de Hierro_
-
-En este clima de creciente desesperación y desconfianza, una nueva y perturbadora fe ha emergido con fuerza incendiaria. Sus seguidores predican sobre una entidad suprema, un dios oscuro y desconocido que trasciende cualquier divinidad tradicional. Proclaman que la antigua maldición fue la prueba inequívoca de su existencia, pues ningún dios conocido fue capaz de detenerla o revertir sus efectos por completo.
-
-Esta creencia radical, aún sin un nombre definido pero ya profundamente arraigada, ha dado lugar a una Inquisición despiadada, decidida a eliminar cualquier forma de magia poderosa, acusándola de herejía y de ser una amenaza para el orden natural del mundo. Los templos y clérigos de Waterdeep, dedicados a veneradas deidades como Lathander y Tyr, ahora se encuentran bajo el asedio de la sospecha popular y el fanatismo inquisitorial.
-
-Al borde de una guerra que amenaza con consumir a toda sociedad, el conflicto entre clases sociales y credos religiosos se profundiza con cada día que pasa. En medio de esta tormenta, aquellos héroes que una vez salvaron al mundo deben reunirse de nuevo. Juntos enfrentarán enemigos internos y externos, poniendo a prueba no solo sus habilidades y valor, sino también descubriendo si pueden mantener intacta su humanidad frente a una adversidad que parece destinada a romperlos.
-
+### *La Nueva Fe y la Mano de Hierro*
 **Canción**
 [[Canciones/Manos de Hierro|Manos de Hierro]]
 
+En medio del creciente caos, surgió una nueva y siniestra fe, centrada en una entidad oscura y desconocida. Sus seguidores predicaban que la Maldición era prueba de la existencia de este nuevo dios, un ser más poderoso y despiadado que cualquier divinidad conocida. Esta creencia radical se extendió como una plaga, dando lugar a una despiadada Inquisición dedicada a purgar la magia poderosa y a perseguir a los clérigos y templos tradicionales. La sociedad, al borde del colapso, se encontraba atrapada entre el fanatismo religioso y la rebelión popular.
+
 ![[assets/Other/Manos de Hierro.png]]
+### *El Retorno de los Héroes*
+
+Ahora, los héroes que una vez salvaron al mundo deben reunirse una vez más. El destino los llama a enfrentar un desafío aún más grande, uno que pondrá a prueba no solo su coraje y fuerza, sino su humanidad misma. Deberán decidir si luchar por un mundo que ya no los quiere o salvarse a sí mismos del abismo que amenaza con consumirlos. La profecía se cumple, la oscuridad se acerca y el eco de la aniquilación resuena nuevamente.
+
+Los héroes han vuelto a entrar en juego, y esta vez, la batalla será definitiva.
 ### _Hakuryuu – Eco de la Gloria Rota_
 **Canción**
 [[Hakuryu, El Orgullo del Dragón]]
