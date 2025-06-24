@@ -10,9 +10,7 @@
 [[Diario Capitulo 1. Ecos de Gloria#Sesión 4|Sesión 4]]
 
 ---
-## **Sesión 1**
-
-## **Ecos de la Aniquilación**
+## **Prologo**
 
 ### _La Caída de la Maldición_
 **Canción**
@@ -53,6 +51,9 @@ En medio del creciente caos, surgió una nueva y siniestra fe, centrada en una e
 Ahora, los héroes que una vez salvaron al mundo deben reunirse una vez más. El destino los llama a enfrentar un desafío aún más grande, uno que pondrá a prueba no solo su coraje y fuerza, sino su humanidad misma. Deberán decidir si luchar por un mundo que ya no los quiere o salvarse a sí mismos del abismo que amenaza con consumirlos. La profecía se cumple, la oscuridad se acerca y el eco de la aniquilación resuena nuevamente.
 
 Los héroes han vuelto a entrar en juego, y esta vez, la batalla será definitiva.
+
+---
+## **Sesión 1**
 ### _Hakuryuu – Eco de la Gloria Rota_
 **Canción**
 [[Hakuryu, El Orgullo del Dragón]]

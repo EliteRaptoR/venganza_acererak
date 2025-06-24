@@ -5,6 +5,10 @@
 
 ---
 
+**Usar Chat OGT**
+**Decircir que tiene cada jugador uno a uno.**
+
+
 ### **1. Armas mágicas y equipo ofensivo**
 
 - Armería de gremio (compra normal, encargo especial o buscar armas guardadas en la trastienda).
