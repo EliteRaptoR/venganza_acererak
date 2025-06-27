@@ -2,8 +2,6 @@
 title: "La Profecía del Abismo"
 slug: "inicio" # (Opcional. Solo si quieres cambiar la URL)
 ---
-
-# La Profecía del Abismo
 ---
 ![[Portada.png]]
 ## **Diario**
@@ -19,10 +17,18 @@ slug: "inicio" # (Opcional. Solo si quieres cambiar la URL)
 - [[Malizall]]
 - [[Orianna]]
 - [[Vengy]]
-
 #### **Principales**
 - [[Sildar Hallwinter]]
-
+- [[Ceniz]]
+##### **La Mano de Hierro**
+- [[Apóstol Marvyn Taul]]
+- [[Apóstol Hederic Alorn]]
+- [[Sargento Derian Farse]]
+- [[Capitana Soriah Durn]]
+##### **Waterdeep**
+- [[Clériga Jayla Rynn]]
+- [[Gobernador Varn Dosic]]
+- [[Padre Relion]]
 ##### **Sequito del dragón de plata**
 - [[Kael Vhantar]]
 - [[Dareth Silmaer]]
