@@ -37,6 +37,7 @@ slug: "inicio" # (Opcional. Solo si quieres cambiar la URL)
 - [[Harker]]
 - [[Marcus Deren]]
 - [[Eldrin]]
+- [[Eredin]]
 ##### **Dragona Verde**
 - [[Elyzmyrath]]
 

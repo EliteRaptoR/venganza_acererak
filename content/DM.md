@@ -41,6 +41,7 @@
 - [[Harker (Master)]]
 - [[Marcus Deren (Master)]]
 - [[Eldrin (Master)]]
+- [[Eredin (Master)]]
 ##### **Dragon Verde**
 - [[Elyzmyrath (master)]]
 

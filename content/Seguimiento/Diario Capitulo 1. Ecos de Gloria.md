@@ -1128,3 +1128,372 @@ Era el eco definitivo del juicio, el anuncio inevitable de que la verdadera prue
 ---
 
 ## **Sesión 4**
+
+### _El Cumplimiento de las Señales_
+
+La atmósfera de Waterdeep era la de un cuadro desolado: una ciudad habituada a la vida vibrante y el movimiento constante permanecía ahora sumergida en un silencio tan denso como ominoso. El mercado, otrora corazón bullicioso de la urbe, no era más que un despojo arquitectónico devastado por la batalla que recién había concluido. Las calles, usualmente repletas de ciudadanos y comerciantes, estaban vacías y sombrías; apenas ecos distantes y murmullos atemorizados escapaban de puertas firmemente cerradas.
+
+En medio de esta escena desoladora, Hakuryuu y Ander yacían tendidos en el suelo frío del mercado. Ambos respiraban con dificultad, marcados por heridas invisibles que hacían brotar lentamente hilos de sangre de sus narices y oídos; rastros inequívocos de un brutal daño psíquico.
+
+Vengy fue el primero en reaccionar, abalanzándose apresuradamente hacia el pequeño bardo, cuyas ropas desgastadas ahora estaban manchadas con su propia sangre. Lo cargó con sumo cuidado, consciente de su fragilidad actual. A su lado, Alistar y Malizal hicieron lo propio con Hakuryuu, cuyo cuerpo pesado yacía casi sin resistencia alguna en sus brazos.
+
+Sin necesidad de palabras, comprendieron que solo existía un lugar seguro en medio de aquella incertidumbre creciente: el templo de Tyr. Marcharon con rapidez, sus pisadas resonando en las calles vacías con un eco angustiante que enfatizaba aún más el vacío anormal de la ciudad.
+
+Al llegar al templo, depositaron cuidadosamente a sus compañeros heridos en improvisados camastros de paja y tela. Mientras sus amigos descansaban, Alistar sintió la necesidad de aclarar su mente agitada. Extrajo cuidadosamente de su bolsa dos pergaminos desgastados que contenían los textos sagrados de la profecía, su rostro sombrío mientras repasaba una y otra vez las palabras allí escritas. Finalmente, con voz profunda pero decidida, rompió el silencio:
+
+—Mirad este fragmento. Orianna, tú fuiste testigo directo de la primera señal. Y la segunda acaba de ocurrir frente a nuestros ojos con la caída del templo de Lathander. Está claro que la tercera también ocurrirá pronto. Debemos averiguar cuándo exactamente, para estar preparados esta vez. No podemos permitir que nos tome por sorpresa nuevamente. ¿Qué pensáis sobre ello?
+
+Malizal respondió sin vacilación, con una convicción que resonó en la estancia:
+
+—"La luna será devorada por su reflejo"… Es evidente. Significa que, cuando la luna se oculte en el horizonte, sucederá. Podría ocurrir incluso esta misma noche.
+
+Aunque Alistar sabía que las palabras de Malizal eran probablemente ciertas, un ligero atisbo de incertidumbre lo llevó a buscar una confirmación más allá de las deducciones inmediatas. Decidió que era crucial contar con toda la información posible y optó por consultar al maestro Eredin, un erudito del templo experto en cosmología. Con un asentimiento firme hacia sus compañeros, indicó su intención de partir en busca de respuestas definitivas.
+
+Mientras se alejaba hacia las cámaras internas del templo en busca de Eredin, el silencio opresivo de Waterdeep parecía intensificarse aún más, advirtiendo que aquel breve momento de calma no era más que un preludio a la tormenta definitiva que estaba a punto de desatarse.
+
+### _La Consulta al Maestro Eredin_
+
+Alistar avanzó rápidamente por los corredores silenciosos del templo de Tyr, dirigiéndose con decisión hacia el ala dedicada a los estudios cosmológicos. Al llegar a la puerta del aula del maestro Eredin, se detuvo un instante al escuchar voces enérgicas provenientes del interior. Tomó un respiro y abrió la puerta suavemente.
+
+El aula, usualmente marcada por un orden meticuloso, se mostraba hoy caótica. Las pizarras cubrían casi todas las paredes, saturadas con complejos diagramas, símbolos astrales y anotaciones en tiza que escapaban a la comprensión inmediata de Alistar. Mesas repletas de pergaminos y libros abiertos daban testimonio del frenesí intelectual que se desarrollaba en su interior.
+
+En el centro de esta escena destacaba la figura de Eredin, con su delgada silueta cubierta por una túnica azul oscura salpicada de polvo de tiza y diagramas celestiales bordados en plata. Sus gafas redondas, marcadas con huellas de tiza, reflejaban el brillo de la pasión dialéctica con la que discutía frente a sus discípulos, quienes le escuchaban con expresiones variadas entre el respeto y la duda.
+
+—¡Ya os he dicho que es absolutamente imposible que ocurra un eclipse en los próximos días! —proclamó Eredin con la vehemencia característica de un académico exasperado—. Si fuese así, tendríamos que haber visto claramente en el firmamento la constelación de Arvandis hace tres semanas.
+
+Justo en ese instante, Alistar aclaró su garganta discretamente, reclamando la atención del maestro. Eredin se giró con rapidez, sorprendido inicialmente pero enseguida mostrando su habitual escepticismo:
+
+—¿Alistar? ¿Qué haces tú por aquí?
+
+—Maestro Eredin —comenzó Alistar respetuosamente—, he venido a consultarte sobre un asunto importante. Se trata de la profecía.
+
+Eredin suspiró con desgana, ajustándose las gafas.
+
+—Ah, sí, sí… Estoy al tanto de esas supersticiones. ¿Qué quieres saber exactamente?
+
+—He escuchado parte de tu discusión —respondió Alistar—. ¿Cuál es tu teoría al respecto?
+
+El maestro agitó una mano en señal de desdén, aunque su voz mantenía un tono paciente.
+
+—Mi teoría, querido Alistar, es que todo esto es una completa y absoluta sarta de tonterías.
+
+—Sin embargo, dos de las señales ya se han cumplido —insistió Alistar, extendiendo hacia él los dos pergaminos que portaba—. De hecho, nuestra compañera Orianna fue testigo directo del sangrado del árbol, y todos presenciamos la caída de la campana de Lathander.
+
+Eredin arqueó una ceja con cierta irritación, observando los documentos.
+
+—¿Esta noche? ¿Pretendes decirme que crees que el tercer evento podría ocurrir esta misma noche?
+
+—Así es como lo interpretamos inicialmente —admitió Alistar con sinceridad.
+
+Eredin negó con la cabeza con firmeza, mostrando ahora un nuevo pergamino que extrajo con rapidez de una de las mesas.
+
+—No, no. Dice claramente que la luna será devorada en el sexto día. Lee bien, por favor.
+
+Alistar tomó la nota que Eredin le ofrecía y comenzó a leer en voz alta, mientras el maestro comentaba irónicamente:
+
+—¿Lo ves? Esto ocurre cuando se toman demasiado en serio las profecías. ¡Falta de atención en los detalles cruciales!
+
+Mientras Alistar leía, varios discípulos intercambiaron miradas inquietas, claramente no tan seguros como su maestro de la imposibilidad del evento anunciado.
+
+—¿El comandante Harker está al tanto de esta nueva información? —preguntó Alistar al concluir su lectura.
+
+—No sabría decirte con certeza, aunque imagino que sí —replicó Eredin con indiferencia—. Después de todo, Sildar se ha ocupado de repartir suficientes copias de estos papeles.
+
+Alistar asintió con agradecimiento, preparado para regresar junto a sus compañeros con esta nueva y valiosa información. Al retirarse del aula, los comentarios sarcásticos de Eredin sobre la estrecha amistad entre Sildar y él mismo resonaron en sus oídos, provocándole una leve sonrisa resignada. Sabía que, a pesar del escepticismo del maestro, el destino de Waterdeep pendía ahora, más que nunca, de una precisa interpretación del firmamento.
+
+### _Preparativos en el Hospicio_
+
+Ander, Vengy y Malizal emprendieron su camino hacia el hospicio, lugar que habitualmente estaría lleno de actividad frenética en preparación para el cierre del día, pero que ahora reflejaba una quietud pesada y cargada de agotamiento. Las calles de Waterdeep, habitualmente bulliciosas incluso al anochecer, lucían inusualmente vacías y silenciosas. Ni siquiera la presencia ocasional de delincuentes o mendigos perturbaba el desolado ambiente de la ciudad.
+
+Al llegar al hospicio, la sensación de cansancio era palpable tanto en el personal como en los residentes. Rostros demacrados y miradas perdidas revelaban el profundo agotamiento que parecía haber infectado incluso este bastión de refugio y cuidado.
+
+La habitación de Vengy destacaba por su simplicidad austera. Algunos símbolos religiosos de Lathander adornaban discretamente el cuarto, con una pequeña estatuilla que presidía sobriamente un rincón. Vengy extendió una mano hacia el techo, pronunciando suavemente una palabra que hizo que un objeto allí colgado brillase con la familiar luz mágica que habitualmente iluminaba sus noches en el hospicio. Sin embargo, esta vez el gesto le provocó una punzada de melancolía profunda, al tomar conciencia de que podrían transcurrir largos días antes de que volviese a tener un lugar que realmente pudiese llamar hogar.
+
+—Me acabo de dar cuenta de que estaremos un tiempo sin tener un lugar al que llamar hogar —murmuró Vengy con una tristeza latente—. Más vale que volvamos, ¿verdad?
+
+Malizal respondió con un tono firme, lleno de convicción:
+
+—Volveremos. Siempre hay un nuevo amanecer.
+
+El brujo, desviando su atención hacia el bardo, añadió con preocupación:
+
+—Ander, estás muy callado.
+
+Ander esbozó una leve sonrisa, intentando aligerar la tensión con humor.
+
+—La sacudida de energía negativa aún me tiene aturdido, nada más. Pero no os preocupéis, estoy acostumbrado a recuperarme de cosas peores, como noches de tragos demasiado intensas.
+
+Vengy le lanzó una mirada seria, reprendiéndolo con suavidad:
+
+—Deberías dejar de beber tanto, Ander. Es peligroso, ya lo sabes. No puedo permitir que tu vida termine de esa manera.
+
+Ander, con una sonrisa entre traviesa y resignada, replicó:
+
+—Prefiero morir en combate que a causa de una botella, especialmente con lo que se nos viene encima.
+
+Vengy suspiró profundamente, consciente del peso sombrío que cargaban sus palabras. Decidió aligerar un poco más la situación, sacando una bolsa de monedas de oro y entregando cuatrocientas piezas a cada uno de sus compañeros.
+
+—Sé que vais escasos de oro. Tomad, quizás necesitemos esto más adelante.
+
+Tras recoger sus pertenencias cuidadosamente preparadas—una reluciente armadura de placas forrada en mithral ligero, su espada larga de guerra forjada en acero del Dragón de Fuego, el escudo grabado con runas protectoras, las veloces botas encantadas y su capa crepuscular—Vengy contempló una última vez la habitación ahora vacía. Salieron del hospicio, encaminándose decididos hacia el templo de Tyr.
+
+### _La Consulta con el Comandante Harker_
+
+Mientras tanto, Alistar avanzó con paso decidido hacia las dependencias del comandante Harker. Antes de presentarse frente a él, intentó encontrar a Marcus, pero otros miembros de la orden le informaron que había partido en una misión confidencial. Resignado, prosiguió hacia el despacho del comandante, donde encontró a dos guardias descansando, vigilantes pese a su evidente agotamiento.
+
+Uno de ellos levantó la vista, reconociéndole de inmediato:
+
+—Alistar, ¿vienes a ver al comandante?
+
+—Así es —respondió Alistar con seriedad—. Tengo información importante y no estoy seguro de que el comandante esté al tanto.
+
+Los guardias intercambiaron una breve mirada de duda antes de responder:
+
+—El comandante ha pedido expresamente no ser molestado… Pero, si consideras que es realmente importante, podemos avisarle.
+
+—Lo es —insistió Alistar con determinación.
+
+Uno de los guardias llamó suavemente a la puerta. Tras unos segundos, esta se abrió para revelar la imponente figura del comandante Harker. Su armadura, aún puesta, mostraba señales evidentes de las batallas recientes, desgastada y marcada con rastros de sangre. Pese a su fatiga evidente, Harker observó a Alistar con respeto, saludándolo brevemente.
+
+—Comandante, disculpe que le moleste a estas horas, pero tengo información crítica respecto a la profecía —comenzó Alistar con formalidad.
+
+Harker suspiró ligeramente, demostrando una fatiga más allá de la física.
+
+—Ah, sí… francamente, empiezo a estar bastante harto de esa profecía.
+
+—Lo entiendo perfectamente, comandante, pero dos de las tres señales ya se han cumplido. Hemos recibido estos nuevos textos —continuó Alistar, entregándole la hoja proporcionada por Eredin—. Indican claramente que el tercer evento tendrá lugar el sexto día, cuando la luna se oculte en el horizonte al oeste de Waterdeep.
+
+Harker examinó con atención el documento, su expresión tornándose más seria al terminar la lectura.
+
+—No estaba al tanto de esta información —admitió finalmente el comandante con gravedad.
+
+—Quería asegurarme de que lo supiese para que la orden, y toda la ciudad, puedan prepararse adecuadamente —añadió Alistar con preocupación genuina—. No podemos permitir que nos tome por sorpresa nuevamente.
+
+Harker asintió con solemnidad, devolviéndole el papel.
+
+—Te agradezco que hayas venido, Alistar. Estaremos preparados cuando llegue el momento. Esos monstruos nunca prevalecerán sobre el poder de Tyr.
+
+—He pensado que, cuando llegue la hora, los paladines y clérigos podrían emplear el ritual del círculo mágico para fortificar el templo —propuso Alistar.
+
+—Una excelente sugerencia —coincidió Harker—. Convertiremos el templo en un verdadero bastión. La tendré en cuenta.
+
+Alistar, antes de retirarse, recordó el estado delicado del sumo sacerdote.
+
+—Comandante, ¿cómo se encuentra el sumo sacerdote Eldrin?
+
+La expresión de Harker se ensombreció aún más.
+
+—Por la gracia de Tyr, finalmente ha despertado. Sin embargo, su condición sigue siendo crítica. Mantiene intacta su fe, pero en sus ojos pude ver… —la voz del comandante se quebró ligeramente, incapaz de completar la frase.
+
+Alistar entendió de inmediato la palabra que Harker no había logrado pronunciar: "miedo".
+
+—No le molesto más, comandante —dijo Alistar respetuosamente, ofreciendo el saludo tradicional de la orden antes de retirarse.
+
+Con un gesto de aprobación y agradecimiento, Harker observó cómo Alistar abandonaba sus dependencias para reunirse nuevamente con sus compañeros, consciente de que la sombra de lo inevitable ya se cernía sobre Waterdeep.
+### _Revelaciones en la Posada_
+
+Al llegar Vengy, Ander y Malizall al templo de Tyr, encontraron a Orianna y Hakuryuu aguardándolos con seriedad, justo en ese momento también aparecía Alistar. Sin perder tiempo, compartieron la importante información que habían recabado.
+
+—La luna se pondrá en el oeste sobre el mar de Waterdeep en el sexto día —informó Orianna con gravedad—. Es algo extraordinario; la luna nunca desaparece así, siempre se desvanece lentamente al amanecer.
+
+Orianna y Hakuryuu intercambiaron una mirada preocupada. Hakuryuu, habitualmente reservado en tales discusiones, asintió lentamente mientras su mente brillante procesaba rápidamente la gravedad de aquella revelación. El grupo permaneció en silencio durante unos instantes, consciente de que se acercaban inevitablemente hacia el cumplimiento de la última señal de la profecía y el destino incierto que ello conllevaba.
+
+Tras una noche de tensión y agotamiento, el grupo decidió retirarse a una posada cercana, buscando un breve respiro para recomponer fuerzas. Al llegar, la posadera, una elfa con más de ciento cuarenta años, los recibió con inicial recelo. Sin embargo, al reconocer sus rostros, su expresión se suavizó considerablemente.
+
+—Veros es como escuchar las canciones de leyenda —comentó con una sonrisa amable, aunque cansada—. Nunca, en todos mis años, había visto a Waterdeep en este estado. Imagino que vosotros estaréis aún más exhaustos.
+
+Malizal respondió con un gesto de serena empatía:
+
+—Quien más quien menos, todos hemos sufrido esta noche por igual. Hemos tratado de proteger a cuantos pudimos, con un éxito relativo y un considerable coste personal.
+
+Alistar suspiró, tomando asiento en una mesa próxima.
+
+—Una copa no nos vendría mal.
+
+Sin decir más, la posadera se apresuró a traer una botella de hidromiel y las copas más elegantes que tenía, dejando al grupo con privacidad para sus asuntos.
+
+Mientras compartían la bebida, Malizal decidió abordar un tema pendiente con Vengy, su voz impregnada de una ligera ironía.
+
+—Vengy, me intriga saber cómo alguien tan importante terminó en prisión. Debo decir que, al parecer, necesitabas un Malizal en tu vida. Y, sobre todo, un plan. Con mi presencia aquí, al menos la parte del plan ya está resuelta.
+
+Vengy bajó la mirada, evidentemente avergonzado.
+
+—Fui engañado por alguien que consideraba un amigo. Fiarme fue mi error.
+
+Malizal asintió con una expresión más seria.
+
+—La venganza no te ayudará en nada. Deja a esa persona atrás y enfócate en el mañana.
+
+Vengy negó suavemente con la cabeza:
+
+—No busco venganza. Pero cuando encuentre a esa persona, la llevaré ante la justicia.
+
+Tras esta conversación, todos se retiraron finalmente a descansar, agotados por los eventos recientes.
+
+Al despertar bien entrada la mañana, el grupo se reunió en la sala principal para desayunar. Mientras la mayoría optó por comidas ligeras, Ander pidió un contundente estofado, ansioso por disfrutar de un plato abundante después de tanto tiempo de privaciones.
+
+Durante el desayuno, Alistar sacó nuevamente la profecía, reflexionando en voz alta.
+
+—Hay algo en esta última hoja que me intriga. Dice claramente que "la fortuna será robada". Podría referirse a los diamantes que permiten realizar resurrecciones. Quizás ese sea el gran objetivo del enemigo.
+
+La discusión subió de tono, atrayendo la atención de algunos parroquianos que comenzaron a retirarse nerviosos. De pronto, una anciana encorvada se acercó lentamente a Orianna. Su cabello era una maraña gris, su rostro surcado por profundas arrugas, y unos ojos de color azul pálido la observaban con penetrante intensidad.
+
+—Aléjate de ellos —le susurró la anciana, su voz ronca y cargada de urgencia—. Ellos huelen a muerte. ¡A muerte! Pero tú no. Aléjate mientras puedas.
+
+Orianna la miró desconcertada.
+
+—¿Cómo sabe usted eso?
+
+La anciana retrocedió lentamente unos pasos antes de darse la vuelta y huir con sorprendente rapidez para alguien de su edad, dejando a Orianna perpleja.
+
+Alistar, con una expresión sombría, recordó al grupo:
+
+—Todos nosotros, excepto Orianna, hemos sido revividos. Quizás eso sea lo que percibió.
+
+Orianna dirigió su mirada preocupada hacia Ander.
+
+—¿Has cantado alguna vez sobre nuestra muerte?
+
+Ander dudó brevemente antes de admitir:
+
+—Sí, lo he hecho.
+
+Malizal intervino con firmeza, consciente del riesgo:
+
+—No deberíamos continuar esta conversación aquí. Es peligroso.
+
+Hakuryuu asintió con seriedad, proponiendo con su característica inteligencia y pragmatismo:
+
+—Vayamos entonces a mi mansión. Allí estaremos seguros.
+
+Sin más discusión, el grupo se levantó apresuradamente, abandonando la posada con rapidez y determinación hacia el refugio que Hakuryuu les ofrecía, conscientes ahora más que nunca de que el peligro los acechaba con una precisión inquietante.
+
+### _La Mano de Hierro en la Plaza de los Puentes_
+
+El grupo avanzó en dirección a la mansión de Hakuryuu, cruzando la Plaza de los Puentes, un lugar habitualmente lleno de vida, con bardos animando a los transeúntes, comerciantes pregonando sus mercancías y ciudadanos recorriendo sus caminos. Ahora, sin embargo, un silencio opresivo dominaba el lugar. Apenas tres puestos de fruta mantenían cierta actividad, mientras el eco de las pisadas de los héroes resonaba inquietante.
+
+En su recorrido observaron numerosas patrullas de soldados, uniformados meticulosamente con armaduras reforzadas cubiertas por capas que los protegían del frío. Todas ellas portaban un mismo emblema distintivo: un triángulo oscuro, símbolo inequívoco de la Mano de Hierro, la orden que ahora imponía su rigor sobre la ciudad. Los soldados vigilaban cada rincón de la plaza, organizados en parejas o tríos, con los antebrazos protegidos por placas de ébano brillante que reflejaban la tenue luz matutina.
+
+Intrigado por la inesperada presencia militar, Alistar decidió acercarse discretamente a un puesto de frutas atendido por una mujer de piel morena y largas trenzas oscuras.
+
+—Saludos, señora —dijo Alistar amablemente.
+
+—Buenos días, caballero. ¿Desea algo de fruta? —respondió la mercader con una sonrisa cansada.
+
+—Esos mangos se ven deliciosos. Póngame uno, y también unas fresas, por favor —contestó Alistar mientras aprovechaba para preguntar—: Por cierto, ¿sabe por qué hay tantos soldados de la Mano de Hierro patrullando hoy la plaza?
+
+La mujer bajó un poco la voz, mirando de reojo hacia los guardias más cercanos.
+
+—No estoy segura del todo, pero he escuchado que han cerrado un templo de Tymora a un par de calles de aquí. También se dice que han visto a personas del gobierno reuniéndose con ellos.
+
+Alistar agradeció la información, entregando discretamente una moneda de oro antes de reunirse con sus compañeros y relatarles lo escuchado.
+
+Al dirigirse hacia el templo mencionado por la mercader, un soldado de la Mano de Hierro les interceptó, mostrando una sonrisa claramente fingida.
+
+—Disculpen, necesito que se identifiquen.
+
+Alistar frunció el ceño ligeramente.
+
+—¿Hay algún motivo por el que estén vigilando tan estrictamente esta calle?
+
+—No cortamos el paso —respondió el soldado manteniendo su actitud artificial—, simplemente queremos registrar quién transita por aquí.
+
+Mientras los miembros del grupo iban revelando sus nombres a regañadientes, Ander aprovechó la ocasión para romper la tensión con su habitual teatralidad exagerada:
+
+—¡Amable soldado! Ya que nos estás preguntando nuestros nombres, ¿no sería justo que también compartieras el tuyo?
+
+El soldado dudó un instante antes de responder con tono firme:
+
+—Sargento Derian Farse.
+
+—¡Excelente! Estoy seguro de que habrás oído hablar de mí, ya que pareces alguien que frecuenta buenos espectáculos —continuó Ander con una pausa dramática—. ¡Soy el más famoso de los bardos, el gran…!
+
+Al ver que el sargento no reaccionaba, Ander suspiró teatralmente y concluyó:
+
+—Ander Colinaalta.
+
+Tras anotar cuidadosamente sus nombres, Derian los dejó continuar su camino.
+
+El templo de Tymora resultó ser una estructura modesta, apenas distinguible entre las viviendas circundantes. Dos guardias custodiaban sus puertas de madera. Alistar propuso a Malizal enviar a Ceniz para inspeccionar el interior, pero tras un intento fallido de convencer a su compañero, Orianna intervino con pragmatismo:
+
+—Si Ceniz no está dispuesto, yo puedo hacerlo.
+
+Transformándose rápidamente en una lagartija, Orianna se deslizó discretamente al interior del templo. Encontró una estancia austera, con dos columnas de bancos, seis filas cada una y un pequeño altar donde pendían unos dados atados por una cuerda, símbolo tradicional de Tymora. De pronto, las puertas se abrieron y dos figuras entraron: un soldado de la Mano de Hierro y otra figura que parecía un funcionario gubernamental portando un extraño orbe. Al activarlo, una luz mágica destacó la presencia de Orianna.
+
+—¡Aquí hay alguien! —exclamó el funcionario.
+
+Al sentir el peligro inminente, Orianna se transformó en mosca justo a tiempo para esquivar un proyectil mágico que pasó rozándola, escapando rápidamente y reuniéndose con el grupo.
+
+—¡Tenemos que salir de aquí inmediatamente! —advirtió con urgencia.
+
+Avanzaron deprisa pero con precaución, tratando de no llamar la atención hasta sentirse seguros. Al atravesar otro puente, observaron a lo lejos una formación de soldados portando estandartes tanto de la Mano de Hierro como del gobierno de Waterdeep. Alistar se detuvo un instante, observando la inquietante alianza.
+
+—Esto confirma nuestras sospechas —dijo con gravedad—. La Mano de Hierro está colaborando estrechamente con el gobierno de la ciudad. Debemos mantenernos aún más alerta.
+
+Sin más, el grupo continuó con determinación hacia la mansión de Hakuryuu, plenamente conscientes del complejo entramado político y mágico en el que se encontraban ahora inmersos.
+
+### _La Mansión de Hakuryuu_
+
+Finalmente, tras cruzar la ciudad y enfrentar las inquietantes señales de cambios drásticos en Waterdeep, el grupo llegó a la mansión de Hakuryuu. Las huellas de la reciente explosión aún eran evidentes: la parte derecha del edificio se encontraba gravemente dañada, con árboles quebrados y escombros esparcidos, impregnando el aire con un persistente olor a polvo y humo.
+
+En la entrada los recibió Kael, cuyo rostro reflejaba tanto preocupación como alivio al ver llegar a su señor y sus compañeros. Hakuryuu solicitó a Kael acomodar al grupo, mientras dentro, el semiorco Varrum, visiblemente agotado, se levantó de manera apresurada intentando recomponer su postura formal y respetuosa al saludar al señor de la mansión. La visión era un tanto cómica, ya que Varrum siempre intentaba parecer un dragón implacable, aunque ahora estaba claramente desgastado. Ander, con su habitual desparpajo, aprovechó para pedirle que cuidara y diera un buen baño a su nuevo compañero canino. Varrum aceptó, incapaz de negarse tras un gesto de aprobación de Hakuryuu. Sin saber cómo tratar al perro, lo tomó con las dos manos extendidas hacia adelante, mostrando una expresión de incomodidad cuando el animal comenzó a lamerle las manos.
+
+Al adentrarse en los aposentos de Hakuryuu, la ostentación del lugar contrastaba con la desolación exterior. Orianna observó con tristeza los lujos que rodeaban al dragón plateado, consciente de que ni siquiera aquellos placeres materiales podían compensar la profunda pérdida que había sufrido.
+
+Ander, con humor punzante, comentó:
+
+—Bonita chabola tienes aquí, Hakuryuu. ¿Has podido comprar una espada mejor que la anterior con todo el oro que manejas?
+
+La reacción de Hakuryuu fue inmediata y visceral. Levantó a Ander del suelo, mirándolo fijamente con ira contenida.
+
+—¡No se puede comprar ninguna espada como Myrym! —rugió antes de depositarlo nuevamente en el suelo.
+
+Orianna intervino suavemente, intentando reconfortarlo:
+
+—La recuperaremos, Hakuryuu, no lo dudes.
+
+Ander añadió, buscando apaciguar la tensión:
+
+—Tal vez sea posible reparar la espada, cueste lo que cueste.
+
+Hakuryuu guardó silencio, sabiendo en su interior que Ander no comprendía realmente la magnitud de lo que había sido destruido; la belleza y magia de Myrym jamás podrían restaurarse completamente.
+
+Sin embargo, Hakuryuu decidió equiparse con lo mejor que aún poseía en sus dependencias. Su armadura, una elegante coraza de escamas del Dragón Plateado, resplandecía suavemente bajo la luz. Con cuidado se colocó el Escudo del Aegis Plateado, resistente al daño necrótico. De un soporte cercano, tomó la Espada Larga "Aliento Plateado", cuya hoja irradiaba un tenue brillo radiante. Finalmente, deslizó en su dedo el Anillo del Vínculo Dracónico, sintiendo inmediatamente la fuerza y protección adicionales que este artefacto le otorgaba.
+
+Una vez calmados los ánimos, el grupo retomó la discusión sobre los acontecimientos recientes. Orianna planteó con claridad:
+
+—Creo que la Mano de Hierro está destruyendo deliberadamente todo lo relacionado con la capacidad de resurrección. Debemos descubrir cómo Acererak está manipulando estos eventos.
+
+Malizal intervino con precaución:
+
+—Tal vez Acererak esté simplemente utilizándolos como señuelo para distraernos de su verdadero objetivo, que es destruirnos directamente a nosotros.
+
+Alistar reflexionó profundamente antes de agregar:
+
+—Independientemente de cuán implicado esté Acererak en las decisiones específicas de la Mano, su propósito claro es eliminar el poder divino, que es la principal defensa contra él. Si la Mano alcanza plenamente el poder, Acererak podría liberar sus fuerzas con escasa resistencia.
+
+Vengy, revisando los textos proféticos, hizo una revelación preocupante:
+
+—Podría ser que Acererak intente revivir al Atropal. La profecía lo sugiere con claridad.
+
+Finalmente, Alistar trazó un plan concreto y firme para actuar en los próximos días:
+
+—Debemos contactar con los otros templos y prepararlos, además de acercarnos al gobierno para intentar alertarlos. También necesitamos averiguar con exactitud cómo se conecta el gobierno con la Mano de Hierro.
+
+De pronto, un golpe suave en la puerta anunció la entrada de Sildar, quien entró visiblemente agitado, con una ausencia inusual de su habitual sonrisa.
+
+—¡Finalmente ha ocurrido! El gobierno ha emitido el "Edicto de la Resurrección", prohibiendo oficialmente toda magia relacionada con revivir a los muertos. La Mano de Hierro ejerce una influencia mucho mayor de lo que pensábamos.
+
+Sildar tomó aire, mirando directamente a Alistar, sabiendo que sería el único en comprender plenamente la gravedad de lo que iba a decir a continuación:
+
+—Además, apóstoles cada vez más influyentes hablan de una "voz", un "profeta" que parece estar moviendo los hilos. Pero eso no es lo peor. Alistar, la Capitana Soria, incluso ella, ha caído bajo su influencia. La vi con mis propios ojos.
+
+Alistar sintió una profunda frustración y desconcierto.
+
+—¿Un paladín de Tyr abandonando su fe? No puede ser… ¿Cómo ha sucedido esto?
+
+—No lo comprendo tampoco —respondió Sildar con evidente pesar.
+
+Esta revelación impulsó al grupo a la necesidad urgente de averiguar la procedencia exacta de las profecías y la identidad de esa misteriosa "voz" o profeta al que aludían.
+
+La escena terminó con la visión aérea ascendiendo lentamente desde la mansión dañada, extendiéndose sobre la ciudad. Donde antes reinaba un vacío inquietante, ahora emergían tumultos de ciudadanos que, con antorchas encendidas y voces enérgicas, llenaban las calles de Waterdeep, sus consignas resonando con fuerza en la noche.
