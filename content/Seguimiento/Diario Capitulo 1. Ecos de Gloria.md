@@ -1153,6 +1153,9 @@ Mientras se alejaba hacia las cámaras internas del templo en busca de Eredin, e
 
 ### _La Consulta al Maestro Eredin_
 
+![[Eredin.png]]
+_[[Eredin]]_
+
 Alistar avanzó rápidamente por los corredores silenciosos del templo de Tyr, dirigiéndose con decisión hacia el ala dedicada a los estudios cosmológicos. Al llegar a la puerta del aula del maestro Eredin, se detuvo un instante al escuchar voces enérgicas provenientes del interior. Tomó un respiro y abrió la puerta suavemente.
 
 El aula, usualmente marcada por un orden meticuloso, se mostraba hoy caótica. Las pizarras cubrían casi todas las paredes, saturadas con complejos diagramas, símbolos astrales y anotaciones en tiza que escapaban a la comprensión inmediata de Alistar. Mesas repletas de pergaminos y libros abiertos daban testimonio del frenesí intelectual que se desarrollaba en su interior.
@@ -1235,7 +1238,7 @@ Vengy suspiró profundamente, consciente del peso sombrío que cargaban sus pala
 
 —Sé que vais escasos de oro. Tomad, quizás necesitemos esto más adelante.
 
-Tras recoger sus pertenencias cuidadosamente preparadas—una reluciente armadura de placas forrada en mithral ligero, su espada larga de guerra forjada en acero del Dragón de Fuego, el escudo grabado con runas protectoras, las veloces botas encantadas y su capa crepuscular—Vengy contempló una última vez la habitación ahora vacía. Salieron del hospicio, encaminándose decididos hacia el templo de Tyr.
+Tras recoger sus pertenencias cuidadosamente preparadas—una reluciente armadura de placas forrada en mithral ligero, su espada larga de guerra forjada en acero del Dragón de Fuego, las veloces botas encantadas y su capa crepuscular—Vengy contempló una última vez la habitación ahora vacía. Salieron del hospicio, encaminándose decididos hacia el templo de Tyr.
 
 ### _La Consulta con el Comandante Harker_
 
@@ -1270,7 +1273,6 @@ Harker examinó con atención el documento, su expresión tornándose más seria
 —Quería asegurarme de que lo supiese para que la orden, y toda la ciudad, puedan prepararse adecuadamente —añadió Alistar con preocupación genuina—. No podemos permitir que nos tome por sorpresa nuevamente.
 
 Harker asintió con solemnidad, devolviéndole el papel.
-
 —Te agradezco que hayas venido, Alistar. Estaremos preparados cuando llegue el momento. Esos monstruos nunca prevalecerán sobre el poder de Tyr.
 
 —He pensado que, cuando llegue la hora, los paladines y clérigos podrían emplear el ritual del círculo mágico para fortificar el templo —propuso Alistar.
@@ -1290,6 +1292,9 @@ Alistar entendió de inmediato la palabra que Harker no había logrado pronuncia
 —No le molesto más, comandante —dijo Alistar respetuosamente, ofreciendo el saludo tradicional de la orden antes de retirarse.
 
 Con un gesto de aprobación y agradecimiento, Harker observó cómo Alistar abandonaba sus dependencias para reunirse nuevamente con sus compañeros, consciente de que la sombra de lo inevitable ya se cernía sobre Waterdeep.
+
+![[Harker2.png]]
+_[[Harker]]_
 ### _Revelaciones en la Posada_
 
 Al llegar Vengy, Ander y Malizall al templo de Tyr, encontraron a Orianna y Hakuryuu aguardándolos con seriedad, justo en ese momento también aparecía Alistar. Sin perder tiempo, compartieron la importante información que habían recabado.
@@ -1340,6 +1345,8 @@ La discusión subió de tono, atrayendo la atención de algunos parroquianos que
 
 —Aléjate de ellos —le susurró la anciana, su voz ronca y cargada de urgencia—. Ellos huelen a muerte. ¡A muerte! Pero tú no. Aléjate mientras puedas.
 
+![[Bruja de la taberna.png]]
+
 Orianna la miró desconcertada.
 
 —¿Cómo sabe usted eso?
@@ -1388,6 +1395,9 @@ La mujer bajó un poco la voz, mirando de reojo hacia los guardias más cercanos
 
 Alistar agradeció la información, entregando discretamente una moneda de oro antes de reunirse con sus compañeros y relatarles lo escuchado.
 
+![[Derian.png]]
+_[[Sargento Derian Farse]]_
+
 Al dirigirse hacia el templo mencionado por la mercader, un soldado de la Mano de Hierro les interceptó, mostrando una sonrisa claramente fingida.
 
 —Disculpen, necesito que se identifiquen.
@@ -1433,6 +1443,8 @@ Avanzaron deprisa pero con precaución, tratando de no llamar la atención hasta
 Sin más, el grupo continuó con determinación hacia la mansión de Hakuryuu, plenamente conscientes del complejo entramado político y mágico en el que se encontraban ahora inmersos.
 
 ### _La Mansión de Hakuryuu_
+
+![[MansionHAku.png]]
 
 Finalmente, tras cruzar la ciudad y enfrentar las inquietantes señales de cambios drásticos en Waterdeep, el grupo llegó a la mansión de Hakuryuu. Las huellas de la reciente explosión aún eran evidentes: la parte derecha del edificio se encontraba gravemente dañada, con árboles quebrados y escombros esparcidos, impregnando el aire con un persistente olor a polvo y humo.
 

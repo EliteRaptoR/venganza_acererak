@@ -1,5 +1,6 @@
 ## **Eredin, Maestro de las Constelaciones**
 
+![[Eredin.png]]
 _"Las estrellas no mienten; los hombres, siempre."_
 
 ---
@@ -46,9 +47,6 @@ _"Las estrellas no mienten; los hombres, siempre."_
 - Es la mayor autoridad en astronomía predictiva de la ciudad.
     
 - Es consultado en busca de explicación racional sobre la profecía del Juicio y los signos astronómicos, y ofrece interpretación lógica frente a la histeria popular.
-    
-- Suministra fragmentos de la profecía menos conocidos, corrige errores de interpretación y desacredita teorías infundadas sobre el inminente eclipse.
-    
 
 #### **Relación con el grupo**
 

@@ -1,4 +1,4 @@
-resumen sesion 4, 
+
 poner imagenes en resumen sesion 4.
 imprimir profecia, hacer pdf para imprimri en curro, con papel destruido
 musica accion
@@ -9,7 +9,6 @@ Porque la capitana se ha convertido? hay que trabajrlo bien y hacer un encuentro
 Preparar agente de la mano a nivel combate.
 revisar siguientes dias, el tema no es solo que la mano se haga mas fuerte, si no que ellos estaran mas vigilados. Deben sentirse asfixiados.
 hacer al nuevo npc elderin, falta foto.
-necesitaremos a una personaje para lathander, sumo o no sumo sacerdote, por si van al templo.
 subir el indice vigilando que no haya spoilers.
 revisar toda la profecia, buscan sentido a cada frase.
 

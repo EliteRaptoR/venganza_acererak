@@ -47,17 +47,6 @@ _“El alba no es propiedad de ningún rey ni profeta. Solo el amor puede echar 
 
 ---
 
-### **Rol Narrativo Abierto**
-
-- **Gancho inmediato:** Puede inspirar a los personajes o la multitud durante asaltos, negociaciones o escenas de desesperación.
-    
-- **Papel recurrente:** Figura central en la defensa del templo, negociador con autoridades, mentor de acólitos y jóvenes fieles.
-    
-- **Interacción destacada:** Puede ofrecer refugio, guía espiritual y curación a los personajes; también los pondrá a prueba, pidiéndoles que se arriesguen por el bien común antes que por la gloria personal.
-    
-
----
-
 ### **Frase característica**
 
 > _“El alba no es propiedad de ningún rey ni profeta. Solo el amor puede echar raíces en estas piedras. No daremos un paso atrás.”_

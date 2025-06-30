@@ -30,9 +30,9 @@
 - [[Sargento Derian Farse (Master)]]
 - [[Capitana Soriah Durn (Master)]]
 ##### **Waterdeep**
-- [[Clériga Jayla Rynn (Master)]]
+- [[Clériga Jayla Rynn (Master)]] (Tymora)
 - [[Gobernador Varn Dosic (Master)]]
-- [[Padre Relion (Master)]]
+- [[Padre Relion (Master)]] (Lathander)
 ##### **Sequito del dragón de plata**
 - [[Dareth Silmaer (Master)]]
 - [[Varuun Tyrral (Master)]]

@@ -30,10 +30,6 @@ _"La ley es para todos, incluso para los que se creen por encima de ella. Vuestr
     
 - Sus botas están tan pulidas que reflejan la luz de las antorchas.
     
-- Suele mantener una mano sobre el pomo de su espada reglamentaria y la otra cruzada al pecho, adoptando una pose de vigilancia y autoridad.
-    
-- Suele verse rodeado de guardias subalternos, con antorchas de luz azulada.
-    
 
 ---
 
@@ -46,19 +42,6 @@ _"La ley es para todos, incluso para los que se creen por encima de ella. Vuestr
 - Habla de la ley como un absoluto, pero su tono revela orgullo y cierta inseguridad ante el caos reciente.
     
 - Es conocido por actuar con rigor, pero también por evitar excesos de violencia salvo que sus superiores lo exijan.
-    
-- Algunos dicen que es más justo que la mayoría de sus colegas, otros lo ven como un oportunista dispuesto a venderse si la Mano de Hierro pierde poder.
-    
-
----
-
-#### **Rol Narrativo Abierto**
-
-- **Gancho inmediato:** Puede confrontar al grupo en registros, patrullas o escenas públicas, exigiendo documentación, revisión de pertenencias, o aclaraciones sobre su presencia.
-    
-- **Papel recurrente:** Es el contacto o enemigo recurrente en cualquier asunto legal, interrogatorio o escena de detención urbana.
-    
-- **Interacción destacada:** Puede servir como mediador entre la Mano de Hierro y otras autoridades, o bien perseguir al grupo si infringen la ley de forma notoria.
     
 
 ---
