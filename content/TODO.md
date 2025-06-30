@@ -1,5 +1,5 @@
 
-poner imagenes en resumen sesion 4.
+Poner nuevas canciones
 imprimir profecia, hacer pdf para imprimri en curro, con papel destruido
 musica accion
 musica ominosa.
