@@ -1,65 +1,79 @@
 #Jugadores 
 
 ![[Soriah Durn.png]]
-### **Capitana Soriah Durn, _La Mano de Hierro que no Tiembla_**
+# **Capitana Soriah Durn, _La Mano de Hierro que no Tiembla_**
 
-**Frase de identidad:**  
-_“El deber no espera a la compasión. La ley es clara. Y yo la cumplo.”_
+_"El deber no espera a la compasión. La ley es clara. Y yo la cumplo."_
+
+---
+
+## **Hoja Abierta (Información para los Jugadores)**
+
+### **Descripción General**
 
 - **Raza/Clase:** Humana / Comandante de la Mano de Hierro
     
 - **Edad:** 41 años
     
-- **Ubicación:** Al mando de las fuerzas de la Mano de Hierro, suele estar en primera línea durante operaciones críticas (templos, plazas, asedios urbanos).
+- **Ubicación:** Siempre en la primera línea de cualquier operación crítica: templos sitiados, plazas asediadas o en las marchas públicas de la Mano de Hierro.
+    
+- **Frase característica:**  
+    _“La compasión no dicta el orden. El deber, sí.”_
     
 
 ---
 
 ### **Apariencia**
 
-- Mujer de mediana edad, piel oscura y tersa, marcada por una cicatriz diagonal en la mejilla izquierda.
+- Mujer de mediana edad, piel oscura y tersa, de constitución atlética.
     
-- Ojos negros, insondables, que denotan férrea disciplina y ausencia de titubeo.
+- Una cicatriz fina atraviesa su mejilla izquierda, herencia de antiguas batallas.
     
-- Cabello trenzado hacia atrás, bajo un yelmo negro ornamentado con el símbolo triangular de la Mano de Hierro.
+- Su cabello negro, con hebras plateadas, recogido en trenzas apretadas bajo el yelmo negro mate, grabado con el símbolo triangular de la Mano de Hierro.
     
-- Armadura negra mate con grabados geométricos, filos metálicos que capturan la luz.
+- Ojos de negro profundo, cuya mirada transmite disciplina férrea y ausencia de vacilación.
     
-- Capa roja corta con el emblema de la Mano de Hierro bordado en gris.
+- Armadura negra completa, adornada con geometrías discretas y filos metálicos que brillan a contraluz. Capa roja corta con el emblema de la Mano.
     
-- Suele portar el yelmo en una mano, y en la otra su alabarda de hoja ancha, ambas con marcas de uso real.
-    
-- Suele verse rodeada de soldados perfectamente alineados, en escenarios de tensión: templos, plazas asediadas, columnas caídas.
+- Suele portar el yelmo en la mano y la alabarda en la otra, con ambos objetos marcados por el uso real.
     
 
 ---
 
-### **Personalidad y Rumores**
+### **Personalidad**
 
-- Implacable, directa, absolutamente leal al deber por encima de la empatía o la duda.
+- Implacable, directa, absolutamente leal al deber.
     
-- No se deja manipular ni provocar, y rara vez pierde la calma, incluso bajo presión extrema.
+- No se deja manipular ni provocar, rara vez pierde la calma incluso bajo presión extrema.
     
-- Su reputación es la de una comandante intachable, admirada por la tropa y temida por civiles y adversarios.
+- Admirada por la tropa, temida por civiles y adversarios; considerada el arquetipo del mando profesional, para bien o para mal.
     
-- Algunos soldados murmuran que en privado carga con el peso de sus órdenes, aunque jamás lo muestra.
+- Respeta la fuerza y el valor incluso en el adversario; no tolera la crueldad ni el fanatismo gratuito.
     
-- Es la figura pública de la Mano de Hierro en las operaciones más delicadas o simbólicas.
+- Algunos paladines y clérigos la consideran traidora; otros, mártir de la ley.
     
 
 ---
 
 ### **Rol Narrativo Abierto**
 
-- **Gancho inmediato:** Es la voz de las proclamaciones, ultimátums y negociaciones durante asedios y asaltos a lugares sagrados.
+- Voz de proclamaciones, ultimátums y negociaciones durante asedios y ocupaciones.
     
-- **Papel recurrente:** Obstáculo insalvable si se desafía la autoridad de la Mano; puede permitir treguas o negociar rendiciones si la situación lo exige.
+- Obstáculo insalvable si se desafía la autoridad de la Mano, aunque puede conceder treguas o negociar rendiciones dignas si se le da motivo.
     
-- **Interacción destacada:** Un enfrentamiento abierto con Soriah suele derivar en combate brutal… o en consecuencias sociales muy severas para los personajes.
+- Suele ofrecer una advertencia antes del uso de la fuerza.
+    
+- Puede mostrarse inusualmente respetuosa si reconoce en los personajes ideales que ella misma sacrificó.
     
 
 ---
 
-### **Frase característica**
+### **Ganchos de Escena**
 
-> _“Por decreto del Profeta y el Consejo, toda resistencia será tratada como herejía. Vuestro destino depende de vuestra obediencia.”_
+- Es quien proclama los edictos, dicta los términos de rendición y lidera los despliegues militares ante los templos.
+    
+- En situaciones de tensión, nunca ordena la crueldad gratuita y castiga la indisciplina o el abuso.
+    
+- Si ve un acto extraordinario de piedad u honor, puede ordenar un alto el fuego temporal.
+    
+- Siempre busca que el orden prevalezca, aunque ello signifique tomar decisiones dolorosas.
