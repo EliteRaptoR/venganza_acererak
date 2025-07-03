@@ -1,10 +1,10 @@
 ## **RELOJ DE OPRESIÓN DE LA MANO DE HIERRO**
 
-|Fase|Efectos y ambiente en la ciudad|Opciones bloqueadas/obstaculizadas|Recursos aún accesibles (con dificultad)|
-|---|---|---|---|
-|**Día 1**|Primeros rumores. Guardias de la Mano patrullan templos, la gente está nerviosa.|Ninguna opción bloqueada aún.|Todo accesible, pero hay rumores de registros.|
-|**Día 2**|Se publican edictos: prohibida la magia divina fuera de templos. Aparecen apóstoles.|Requisan objetos mágicos en tiendas públicas.|Mercado negro; contactos de confianza.|
-|**Día 3**|Confiscación abierta en templos y tiendas de magia. Primeros arrestos a clérigos.|No se puede comprar armas mágicas o pociones en tiendas, ni entrar a templos sin riesgo.|Solo clandestinidad, robo, soborno alto.|
-|**Día 4**|Vigilancia a herbolarios, bibliotecas y bazares. Mercado negro vigilado, emboscadas.|Difícil conseguir pergaminos, mapas o equipo raro; bibliotecas cerradas.|Solo a través de contactos personales.|
-|**Día 5**|Toque de queda parcial, arresto de sospechosos, templos sellados, puertos controlados.|Imposible alquilar barco o acceder a puertos sin documentos falsos; teletransporte sólo en secreto absoluto.|Guías y aliados ocultos, rituales arriesgados.|
-|**Día 6+**|Ley marcial, represión violenta, caza de “herejes”. La ciudad es un estado policial.|Casi todo bloqueado: solo mercado negro muy limitado, robo directo o ayuda de aliados dispuestos a arriesgarlo todo.|Aliados clandestinos o ruta de huida urgente.|
+| Fase       | Efectos y ambiente en la ciudad                                                        | Opciones bloqueadas/obstaculizadas                                                                                   | Recursos aún accesibles (con dificultad)       |
+| ---------- | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
+| **Día 1**  | Primeros rumores. Guardias de la Mano patrullan templos, la gente está nerviosa.       | Ninguna opción bloqueada aún.                                                                                        | Todo accesible, pero hay rumores de registros. |
+| **Día 2**  | Se publican edictos: prohibida la magia divina fuera de templos. Aparecen apóstoles.   | Requisan objetos mágicos en tiendas públicas.                                                                        | Mercado negro; contactos de confianza.         |
+| **Día 3**  | Confiscación abierta en templos y tiendas de magia. Primeros arrestos a clérigos.      | No se puede comprar armas mágicas o pociones en tiendas, ni entrar a templos sin riesgo.                             | Solo clandestinidad, robo, soborno alto.       |
+| **Día 4**  | Vigilancia a herbolarios, bibliotecas y bazares. Mercado negro vigilado, emboscadas.   | Difícil conseguir pergaminos, mapas o equipo raro; bibliotecas cerradas.                                             | Solo a través de contactos personales.         |
+| **Día 5**  | Toque de queda parcial, arresto de sospechosos, templos sellados, puertos controlados. | Imposible alquilar barco o acceder a puertos sin documentos falsos; teletransporte sólo en secreto absoluto.         | Guías y aliados ocultos, rituales arriesgados. |
+| **Día 6+** | Ley marcial, represión violenta, caza de “herejes”. La ciudad es un estado policial.   | Casi todo bloqueado: solo mercado negro muy limitado, robo directo o ayuda de aliados dispuestos a arriesgarlo todo. | Aliados clandestinos o ruta de huida urgente.  |

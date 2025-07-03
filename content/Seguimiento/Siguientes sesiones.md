@@ -2,533 +2,451 @@
 
 # Sesión 5
 
-## **Día 2: Edictos y Primeros Apóstoles**
+## **Escena Detallada: El Decreto de la Luz Verdadera (Día 2, Mañana)**
 
-## **Escena: El Sermón Público**
+### **Lugar**
 
-### **Lugar:**
+Plaza de la Fuente del Hierro, umbral entre la Calle de los Mercaderes y la Vía del Obispo.
 
-Fuente de las Sirenas, tarde.
+### **Hora**
 
-### **Ambiente:**
+Mañana del segundo día, poco antes del mediodía. La luz solar cae oblicua entre los tejados y las torres, y la ciudad respira con un pulso contenido, expectante.
 
-Una pequeña multitud se agolpa ante la fuente. Un joven subido a un cajón sostiene un pergamino y viste una túnica de lino blanco con el símbolo de un triángulo de hierro. Dos guardias de la Mano flanquean la escena, firmes.
+---
 
-### **PNJ Clave:**
+### **Ambiente**
 
-- **Apóstol Marvyn Taul**  
-    Joven pálido, ojos claros y voz firme, barba incipiente, parece más fanático que líder natural.  
-    _Motivación:_ Devoción por el profeta. 
-    _Frase:_ “El Juicio está entre nosotros. No confiéis en magos ni sacerdotes: solo la Voz puede guiaros.”
+Mientras los personajes cruzan la plaza para continuar sus compras y preparativos, notan cómo una multitud contenida se congrega ante un estrado decorado con tapices blancos y grises. Algunos devotos portan amuletos sencillos con el triángulo de hierro, y hay familias enteras esperando en silencio. A un lado del estrado, dos miembros de la Mano de Hierro vigilan la escena, no con rigidez militar, sino con una quietud solemne que evoca devoción más que fuerza.
+
+Los puestos de los comerciantes siguen abiertos, pero algunos detienen sus ventas mientras se aproxima el momento del pregón.
+
+---
+
+### **PNJ Clave: Apóstol Marvyn Taul**
+
+- **Presencia:** Joven de voz clara y mirada intensa, con una túnica de lino blanco bordada en gris pálido. Lleva un medallón con el símbolo del triángulo sobre el pecho.
     
-[[Apóstol Marvyn Taul (Master)]]
-![[Apóstol Marvyn Taul.png]]
-### **Secundarios:**
-
-- **Anciana Hila Rutt**  
-    Mujer menuda, rostro arrugado, bastón de madera, escucha atenta y murmura bendiciones antiguas.  
-    _Motivación:_ Apegada a las antiguas tradiciones, duda del Profeta pero tiene miedo de hablar.  
-    _Frase:_ “Las aguas no entienden de juicios. Pero la ciudad sí… Siempre paga el inocente.”
+- **Tono:** Sereno pero inquebrantable, como quien transmite no una orden, sino una verdad revelada.
+    
+- **Acción inicial:** Alza las manos abiertas hacia la multitud, invitando al silencio con el gesto más que con la palabra.
     
 
-### **Narrativa sugerida:**
+---
 
-Marvyn proclama el edicto:
+### **Discurso del Apóstol**
 
-> “Por orden de la Mano, queda prohibido el uso de cualquier hechizo clerical fuera del templo y toda magia no declarada será castigada. Sed fieles. El tiempo de los falsos ídolos ha terminado.”
+> “Amados hijos de Waterdeep…
+> 
+> El Dios Verdadero nos ha hablado con voz clara.  
+> Y esa voz, que resuena a través de la Mano, no viene a castigar, sino a proteger.
+> 
+> En estos días de tribulación, cuando la muerte se disfraza de milagro, debemos cerrar la puerta al engaño.
+> 
+> A partir de hoy, y por mandato tanto sagrado como civil:
+> 
+> — Toda magia de resurrección queda prohibida fuera de los Altares Sagrados, pues interferir con el destino impuesto por el Verdadero es una profanación.  
+> — Ningún conjuro de origen divino podrá ser invocado en la calle, en los hogares ni en los mercados. Las energías de los falsos dioses solo alimentan el caos.
+> 
+> Esta no es una condena, sino una cura. No es un castigo, sino una señal de fe.
+> 
+> La Voz no os exige sacrificios, sino obediencia; no os quita consuelo, sino que os guía hacia el verdadero.
+> 
+> Que la paz del Dios Verdadero descienda sobre esta ciudad… y que la Mano, como siempre, os sostenga.”
 
-Algunos jóvenes aplauden, otros miran a los personajes en busca de reacción. Hila se santigua y murmura un rezo antiguo. Los guardias vigilan, atentos a cualquier mago, clérigo o persona "extraña".
+---
 
-**Gancho:**  
-Si los personajes cuestionan públicamente el edicto, Marvyn puede señalarles como “herejes” y los guardias tomarán nota. Si los apoyan en secreto, Hila puede bendecirlos discretamente (un amuleto sencillo, “por si los dioses antiguos aún miran…”).
+### **Reacciones del Público**
 
+- **Aprobación cauta:** Algunos fieles inclinan la cabeza con respeto. Un grupo de jóvenes repite en voz baja una frase aprendida: “El ciclo no debe romperse”.
+    
+- **Desconcierto:** Un par de comerciantes de hierbas se miran entre sí, inquietos. Una madre tapa el símbolo de Tymora que cuelga del cuello de su hija.
+    
+- **Silencio respetuoso:** Nadie grita, nadie discute. El miedo no es físico, sino doctrinal.
+    
+
+---
+
+### **Personajes Secundarios y Detalles Notables**
+
+- **Hila Rutt**
+    
+    - Anciana devota. Al escuchar la prohibición, saca un rosario viejo de madera y lo aprieta, como si dudase.
+        
+    - _Frase susurrada al pasar junto a los personajes:_ “Yo he visto milagros que curaban sin castigo… ¿qué dios prohibiría sanar?”
+        
+- **Novicia Althea**
+    
+    - Reparte discretamente pergaminos con el texto del edicto. A los personajes les entrega uno con una ligera reverencia.
+        
+    - _Susurro tímido:_ “Solo intentamos evitar más muerte. Que la fe os guíe en vuestros caminos.”
+        
+- **Sargento Derian Farse**
+    
+    - Vigila sin hostilidad. Al ver a los personajes, asiente con gesto respetuoso.
+        
+    - _Comenta en voz baja, sin ironía:_ “Mientras os mantengáis dentro del nuevo marco, tendréis nuestra protección. Este decreto evitará caos innecesario… o eso espero.”
+        
+
+---
+
+### **Gancho para los Personajes**
+
+- **Reacción moral o teológica:** ¿Se sienten implicados, traicionados, vigilados?
+    
+- **Guardar el pergamino:** Tener el texto oficial del edicto podría ser útil más adelante (para evitar arrestos, para falsificar versiones, etc).
+    
+- **Responder a Hila:** Puede llevarlos a un pequeño grupo que aún reza a los antiguos dioses, pidiendo orientación.
+    
+- **Interpelar a Althea o Derian:** Según el tono, puede derivar en una conversación sincera o en una advertencia velada.
 ## **Día 3: Confiscación en el Templo de Tymora**
 
 ### **Lugar:**
 
-Templo de Tymora, Calle de los Dados de Plata, primeras horas de la mañana.
+Templo de Tymora, Calle de los Dados de Plata. Madrugada templada, apenas pasada la aurora.
 
 ### **Ambiente:**
 
-Un templo alegre, pequeño pero animado, decorado con cintas de colores, dados de metal colgando del techo y estandartes verdes y dorados. Hay un bullicio inusual: algunos fieles lanzan monedas a una fuente, otros atan lazos de la suerte. El aire huele a hierba fresca y pan dulce.
+El templo resplandece con su acostumbrado colorido: cintas verdes y doradas ondean al viento, pequeños dados de latón cuelgan de las lámparas, y las paredes exudan un leve aroma a mirra y hierba fresca. Fieles se agrupan para las bendiciones de la mañana, arrojando monedas al estanque ritual mientras murmuran plegarias ligeras, a medio camino entre lo devoto y lo festivo.
 
-Al abrir las puertas, media docena de **guardias de la Mano de Hierro** entra en formación, seguidos por el **inspector civil Havian Grett**, que desenrolla un pergamino oficial.
+Pero el bullicio se detiene abruptamente cuando se abren las puertas con firmeza medida. **Seis guardias de la Mano de Hierro**, con armaduras grises y capas negras marcadas con el triángulo de hierro, entran en formación. Tras ellos, con paso pausado y seguro, avanza el **Inspector Civil Havian Grett**, enrollando un pergamino con el sello de la Voz.
 
 ---
 
 ### **PNJ Clave:**
 
 - **Clériga Jayla Rynn**  
-    Mujer joven, rostro redondo y pecoso, sonrisa nerviosa pero voz firme. Lleva una capa verde con dados dorados bordados.  
-    _Motivación:_ Proteger a los fieles y el símbolo de la fortuna, evitando enfrentamientos abiertos.  
-    _Frase:_ “La suerte favorece a los valientes… pero hoy, incluso la suerte parece temerosa.”
-
-[[Clériga Jayla Rynn (Master)]]
-
-![[Jayla Rynn.png]]
-
+    Juventud templada por la piedad. Rostro pecoso, voz cálida y vestidura verde con hilos dorados.  
+    _Motivación:_ Proteger a los fieles sin provocar un derramamiento de sangre.  
+    _Frase:_ “La suerte favorece a los valientes… pero incluso la fortuna teme al fanatismo.”
+    
 - **Inspector Havian Grett**  
-    Joven delgado, capa roja, gesto satisfecho por su autoridad, no muestra compasión ni crueldad.  
-    _Frase:_ “Toda magia y objeto ritual debe ser entregado. No resistáis o vuestra mala fortuna será el menor de vuestros problemas.”
+    Hombre de rostro afilado, capa roja con ribetes blancos, tono de voz mesurado pero indiscutiblemente autoritario.  
+    _Frase:_ “Hoy no venimos a destruir vuestra fe, sino a corregirla. La fortuna verdadera no necesita dados.”
     
 
 ---
 
 ### **Narrativa Detallada:**
 
-Mientras los fieles murmuran, Jayla se adelanta, el dado sagrado de Tymora en la palma:
+Jayla, al verlos entrar, da un paso al frente y extiende las manos como señal de paz. Sostiene en una de ellas el dado sagrado, una pieza de obsidiana pulida con cifras arcanas.
 
-> **Jayla (voz trémula):** “¿Os lleváis nuestros dados, nuestras monedas…? ¿También pensáis confiscar los deseos y la esperanza?”
+**Jayla (voz controlada):**
 
-> **Inspector Grett:** “Por mandato del Profeta, se erradica toda superstición peligrosa. Nada de lanzamientos, talismanes, ni pócimas de la suerte. Solo quedará la obediencia.”
+> “¿Qué necesidad hay de violencia en un lugar de juego y esperanza?”
 
-Los guardias revisan:
+**Grett (tranquilo):**
 
-- Dados rituales, amuletos de la suerte, bolsas de monedas benditas.
+> “Por mandato del Profeta y en nombre del Consejo Espiritual, toda manifestación de magia supersticiosa, objetos rituales, símbolos de suerte o invocaciones menores deberá ser registrada y entregada. Vuestra fe será respetada mientras no desafíe el orden verdadero.”
+
+**Jayla:**
+
+> “¿También nos quitarán la suerte?”
+
+**Grett (casi sonriendo):**
+
+> “La suerte no es un don; es una ilusión peligrosa que distrae del camino recto. Y las ilusiones deben disiparse.”
+
+---
+
+Los guardias comienzan la requisa:
+
+- Recogen dados rituales, frascos de aceite consagrado, monedas bendecidas.
     
-- Cintas de colores con nombres escritos, frascos de aceite de fortuna, diarios de apuestas y juegos.
+- Arrancan discretamente cintas con nombres escritos, talismanes personales, diarios de oración.
     
-- Una gran moneda dorada (símbolo mayor del templo).
+- Rodean el altar mayor donde se guarda la **Gran Moneda de Tymora**, símbolo del templo.
     
 
-Algunos fieles, llorosos, arrojan su última moneda a la fuente, pidiendo un milagro en voz baja.
+Los fieles se retiran en silencio. Algunos lloran. Otros arrojan su última moneda al agua con una plegaria apenas audible.
+
+---
+
+### **Tensión y Confrontación:**
+
+Una **anciana**, **Maela Torran**, de cabello blanco trenzado y mirada firme, se aferra a un pequeño saquito de dados de madera gastados.
+
+**Maela:**
+
+> “No valen nada, pero son míos. Me acompañaron cuando nadie más lo hizo.”
+
+**Guardia Ollik Marn** la despoja sin violencia, pero sin respeto, y entrega el saquito al inspector.  
+**Grett alza la voz, para todos:**
+
+> “Toda resistencia al Edicto será considerada desacato a la Voz. No toleraremos que los templos perpetúen el caos a través de objetos corruptos.”
+
+**Jayla (con súplica):**
+
+> “¡Por favor! No es una criminal. Es una fiel asustada. No castiguéis la devoción sencilla.”
+
+**Grett:**
+
+> “La compasión es un privilegio, no un derecho. Y la Voz la otorga cuando es merecida. Lleváosla.”
+
+Maela es escoltada fuera. No grita. No se resiste. Pero al cruzar el umbral mira a Jayla… y a los personajes, si están presentes. Con una tristeza que pesa más que la vergüenza.
 
 ---
 
 ### **Opciones de Intervención:**
 
-- **Si los personajes protestan:** Grett levanta una ceja, anota nombres, y un guardia da un paso al frente, advirtiendo que pueden ser arrestados como “instigadores”.
+- **Si protestan abiertamente:** Grett los nombra por su rango o filiación, y los advierte de estar interfiriendo con una operación legal.
     
-- **Si ayudan a esconder amuletos o desvían la atención:** Jayla les entrega discretamente una moneda de la suerte y agradece después, recordándoles que “la fortuna puede cambiar de bando en la noche más oscura”.
+- **Si ayudan en secreto:** pueden ocultar talismanes entre cestas de ofrendas o desviar la atención de Ollik. Jayla los bendecirá con un pequeño dado de ónice, oculto en una bolsa.
     
-- **Si negocian, pueden conseguir que algunos fieles se marchen antes de la requisa, salvando objetos personales o pequeños talismanes familiares.**
+- **Si negocian diplomáticamente:** pueden convencer a Grett de que algunos fieles salgan discretamente con pertenencias menores, siempre que lo presenten como un “gesto de cooperación”.
     
-
-
-Tras la tensa revisión de amuletos y monedas, uno de los guardias —**Ollik Marn**, fornido, mirada severa— se acerca a una mujer mayor que se niega a entregar un saquito de dados gastados, los dedos temblando.
-
-**Mujer:**
-
-> “Estos dados son de mi padre… Me trajeron suerte cuando caí enferma, ¡no son de brujería!”
-
-**Ollik** la arrebata el saquito, lo arroja al cesto de objetos confiscados y se vuelve al inspector Grett:
-
-> “Esta mujer se resiste, señor. Ha ocultado material ritual y protestado en público.”
-
-Grett se vuelve hacia todos, amplificando la voz para asegurarse de que nadie olvide la lección:
-
-> “La resistencia a la voluntad del Profeta no será tolerada. Todo aquel que oculte talismanes, amuletos o símbolos de la falsa fortuna será detenido y juzgado.”
-
-Dos guardias sujetan suavemente, pero con firmeza, a la mujer (puedes nombrarla **Maela Torran**, cabello blanco recogido, ropas humildes). La multitud murmura, algunos fieles intentan intervenir pero un gesto de Ollik los detiene.
-
-**Jayla** (la clériga):
-
-> “¡Por favor, no es una criminal! Solo… solo tenía miedo. Os ruego piedad, por Tymora y por la ciudad.”
-
-**Grett**:
-
-> “La compasión es una fortuna que sólo reparte la Voz. Llévensela.”
-
-Maela, temblando, mira a Jayla y a los personajes. Si alguno la defiende activamente, Grett advierte que serán arrestados también. Si intervienen abiertamente, los guardias usan la fuerza mínima, pero la Mano puede llamar refuerzos.
-
-La mujer es conducida fuera, mientras el inspector termina la requisa en silencio. El ambiente en el templo pasa de tenso a gélido.
 
 ---
 
-### **Posibles ganchos y consecuencias:**
+### **Consecuencias Narrativas:**
 
-- Los personajes pueden intentar seguir a Maela, hablar con guardias compasivos para obtener información sobre su paradero (quizá un calabozo temporal).
+- El templo queda **silenciado y despojado de toda simbología exterior**.
     
-- Jayla puede pedir ayuda a los personajes para liberarla, sobornar a un carcelero o pedir la intercesión de alguien influyente.
+- Jayla mantiene el rostro en alto, pero está visiblemente derrotada.
     
-- El rumor de la detención se extiende por el distrito, sembrando miedo: “Si arrestan a una anciana en el templo, ¿quién está a salvo?”
+- El rumor se extiende: “Si en Tymora ya no hay suerte, ¿quién protegerá al resto?”
     
-- Los fieles de Tymora comienzan a rezar en secreto o esconden símbolos de la suerte, aumentando la paranoia y el resentimiento hacia la Mano.
+- La **Mano gana autoridad simbólica**, demostrando que incluso las deidades del azar deben someterse.
+    
+- La **fe se vuelve clandestina**, y las primeras oraciones se susurran entre callejones y sótanos.
+    
 
 ---
 
-### **Epílogo del día:**
+### **Posibles Ganchos**
 
-- Por la tarde, la noticia corre como pólvora:  
-    “¡Han robado la suerte a Waterdeep!”
+- **Seguir el rastro de Maela**: llevaría a un centro de detención espiritual, donde se interroga a los “resistentes pacíficos”.
     
-- Jugadores, comerciantes y taberneros se muestran desmoralizados y supersticiosos, muchos guardan silencio o hacen gestos de protección al ver a los guardias.
+- **Ayudar a Jayla**: iniciar una red discreta de santuarios ocultos, utilizando reliquias salvadas.
     
-- La Mano se ufana de que la ciudad “ya no necesita dados ni oraciones para sobrevivir, sólo obediencia”.
+- **Observar a Ollik Marn o Grett**: podrían descubrir conexiones con otros templos en la mira, o incluso con el culto directo al Profeta.
+    
 
-## **Día 4: Bibliotecas Cerradas y Herbolarios Vigilados**
+---
 
-## **Escena: Biblioteca Sellada**
+### **Epílogo del Día:**
+
+Por la tarde, los dados han desaparecido de todos los puestos de juego en Waterdeep. Los niños los ocultan. Los adultos no los nombran. En cambio, se ven más triángulos de hierro en capillas improvisadas.
+
+Pero **una oración** garabateada con carbón aparece en la pared del templo requisado, casi invisible:
+
+> _“La fortuna vuelve con la noche. No jugamos por azar, sino por esperanza.”_
+
+---
+
+## **Día 4: El Consejo de la Cámara Silente**
+
+### _Escena: La Voz del Oro_
+
+---
 
 ### **Lugar:**
 
-Escalinata de la Gran Biblioteca, mediodía.
+**Sala del Espiral de Ámbar**, interior del Edificio del Consorcio del Oro Silente. Una cámara circular, silenciosa, sin ventanas, donde las decisiones importantes nunca se gritan. Las paredes de madera de iroko están esculpidas con bajorrelieves de barcos, columnas de oro y caravanas de especias. En el centro, una mesa de ónice con grabados arcanos de contabilidad flotante.  
+Aquí no se debate: aquí se decide.
+
+---
 
 ### **Ambiente:**
 
-Las puertas de la biblioteca están selladas con cera roja y el símbolo de la Mano. Una joven aprendiz, **Naria Vole**, está sentada llorando en los escalones, con libros a sus pies. Dos guardias conversan a un lado. Un hombre bien vestido, **Maese Dorlan**, bibliotecario mayor, discute acaloradamente con el oficial a cargo.
+Un mayordomo sin rostro habla con voz neutral:
 
-### **PNJ Clave:**
+> “Que entren los fundadores. Lady Velnarë aguarda.”
 
-- **Maese Dorlan Trenn**  
-    Humano mayor, barba blanca, toga de académico, portador de anillos.  
-    _Motivación:_ Defender la biblioteca como bastión del saber. Está dispuesto a negociar, pero jamás delatará a un amigo.  
-    _Frase:_ “¿Cerrar los libros? ¿Ahora que más falta hace la verdad? Barbarie…”
-    
-- **Oficial Elira Morn**  
-    Mujer alta, armadura negra, rostro imperturbable, mirada helada.  
-    _Motivación:_ Seguir órdenes, pero desprecia la ignorancia. Sabe que esto es política, no fe.  
-    _Frase:_ “La sabiduría puede esperar, Maese. Es la voluntad del Profeta.”
-    
-
-### **Narrativa sugerida:**
-
-Naria suplica que le dejen entrar a por “el libro de mi hermano, está dentro, prometí devolvérselo…”.  
-Dorlan trata de razonar:
-
-> “La biblioteca ha sobrevivido a guerras, plagas y dragones. ¿Ahora sucumbirá a un sello de cera?”
-
-Elira, fría:
-
-> “Ya han robado suficiente verdad los que se creían superiores. Hoy guardamos el saber para el pueblo.”
-
-**Gancho:**  
-Si los personajes ayudan a Naria o Dorlan, pueden conseguir acceso secreto a la biblioteca o mapas raros. Si son vistos por la Mano, quedarán en la lista de sospechosos.
-
-
-## **Día 5: Asalto al Templo de Lathander **
+Afuera, Waterdeep tiembla bajo rumores, marchas y censuras. Aquí dentro, solo se escucha el suave tintinear de copas de cristal y el pasar de plumas de escritura.
 
 ---
 
-### **Contexto y llegada**
+### **Lady Shadari Velnarë**
 
-El alba aún no ha roto del todo la niebla fría de Waterdeep. Las calles que rodean el gran templo de Lathander están desiertas, salvo por algunos fieles que, al saber de los rumores, han venido a rezar su última plegaria. Al doblar la esquina hacia la plaza de los Siete Pétalos, los personajes ven un espectáculo insólito:  
-— Una marea de luz dorada emana de las vidrieras del templo, bañando la neblina en tonos rosados y anaranjados, como si el propio amanecer se resistiera a ser expulsado.  
-— Decenas de acólitos y sacerdotes, de todas las edades, han salido a los escalones. Toman las manos de los fieles, algunos lloran, otros cantan en voz baja.  
-— Un coro de voces infantiles entona el _Cántico de la Aurora_, la melodía se quiebra en lágrimas pero se sostiene como un eco de esperanza.
-
----
-
-### **Despliegue militar**
-
-Por el lado opuesto, el sonido del metal golpeando piedra se hace presente.  
-— Columnas de la Mano de Hierro marchan en formación perfecta. Armaduras de placas negras, yelmos sin escudo, rostros serios, estandartes oscuros con triángulos de hierro grabados.  
-— Tras ellos, la guardia de la ciudad, con uniformes azul y plata, portan lanzas y ballestas, miran a los ciudadanos con nerviosismo: **son muchos, pero no parecen convencidos**.  
-— El gobernador Varn Dosic desciende de un carro de guerra: lleva una capa de terciopelo púrpura, la insignia de la ciudad en la pechera, y escoltas a ambos lados.
+**Matriarca del Consorcio del Oro Silente**  
+**Elfa lunar — eladrin invernal**  
+**Edad real desconocida. Presunta más de tres siglos.**
 
 ---
 
-### **Sensaciones y sonidos**
+### **Apariencia:**
 
-- El aire huele a incienso, sudor y ozono, como antes de una tormenta.
+- Vestido largo de seda azul noche, ribeteado con finas vetas de platino.
     
-- El rumor de la multitud: “¿Van a profanar la casa del alba?” “¿Dónde está Lathander ahora?” “¿Se atreverán a cruzar la puerta?”
+- Cabello níveo trenzado con finos hilos de perlas negras.
     
-- El repicar apagado de una campana interna marca los minutos finales de oración.
+- Dos anillos: uno de ónice tallado, otro de oricalco que solo brilla cuando da órdenes.
+    
+- No lleva armas visibles. No las necesita.
+    
+- Su voz es suave como un vino caro, pero su tono no invita al desacuerdo.
+    
+- Su perfume huele a biblioteca, pólvora y la primera lluvia.
     
 
 ---
 
-### **Diálogo de tensión**
+### **Inicio de la escena:**
 
-**Capitana Soriah Durn** (alzando una proclama, su voz resuena con eco metálico):
+Los fundadores de gremio toman asiento. Algunos carraspean. Lady Shadari permanece de pie. No porque deba, sino porque quiere.
 
-> “Por decreto del Profeta y el Consejo de Waterdeep, toda actividad del culto de Lathander queda suspendida. Entregad las llaves del templo, despojados de vuestras magias y reliquias, y marchad en paz. Resistid, y la ciudad conocerá vuestra herejía.”
+> “El orden se ha descompuesto en las esquinas. Las tiendas se vacían. El puerto murmura superstición. Y el Consejo aún debate como si tuviera tiempo.”
+> 
+> “Yo no debato. Yo sostengo el techo bajo el que todos coméis.”
 
-Un grupo de acólitos se arrodilla en los escalones, algunos lloran. Una madre aprieta a sus hijos contra el pecho, los pequeños repiten la plegaria temblorosa.
-
-**Padre Rellon** (avanza solo, erguido, su túnica blanca reluce con la luz de la aurora. Sus ojos se detienen en cada soldado, luego alza la voz):
-
-> “El alba no es propiedad de ningún rey ni profeta. Solo el amor puede echar raíces en estas piedras. No daremos un paso atrás.”
-
-Un murmullo de admiración y miedo recorre la multitud.  
-Algunos fieles gritan:
-
-> “¡No nos moveremos!”  
-> “¡Lathander ilumina nuestro juicio!”
-
-**Gobernador Dosic** (usando un amuleto que amplifica la voz, nervioso, voz áspera):
-
-> “¡Ciudadanos! ¡Os exhorto a la cordura! El caos traerá muerte. Este templo será sellado por el bien común. ¡Padre Rellon, por última vez: ceda el santuario, o Waterdeep sangrará!”
-
-Un momento de absoluto silencio, roto sólo por un sollozo.
+Silencio. Nadie la interrumpe.
 
 ---
 
-### **Posibles acciones y consecuencias**
+### **Diálogo Clave:**
 
-#### **Si los personajes negocian/piden clemencia:**
+> “El pueblo teme. Y el miedo es costoso. Alimento almacenado que no se vende. Obreros que rezan en lugar de trabajar. Monedas que duermen bajo colchones.”
+> 
+> “He revisado los registros. En tres días hemos perdido el 14% del movimiento fiscal flotante, y el 27% de las rutas exteriores han quedado paralizadas. ¿Y el Consejo qué ofrece? Rezos, banderas y edictos.”
 
-El gobernador escucha, incluso titubea. Si aportan argumentos sólidos (p. ej., "dejad al menos que los enfermos y los niños permanezcan dentro hasta la tarde"), pueden ganar tiempo o permitir la salvación de reliquias menores (libros, iconos, instrumentos musicales).
+Se gira hacia un armador que intenta replicar:
 
-#### **Si intentan una defensa abierta:**
+> “Querida señora, quizás aún es pronto pa—”
 
-La Mano de Hierro avanza sin piedad.
+Ella lo corta sin elevar la voz:
 
-- La guardia de la ciudad duda unos segundos; puede que algunos soldados “fallen” a propósito sus ataques, otros simplemente detienen a los fieles sin violencia letal.
-    
-- La Capitana Soriah da la orden final:
-    
-    > “¡Expulsad a todos los herejes! ¡No matéis sin orden expresa, pero quien resista será castigado!”
-    
-- El combate sería desigual: un breve estallido de magia defensiva, algunos acólitos lanzan conjuros de luz o escudos, pero pronto son superados.
-    
-- Un personaje destacado puede verse frente a un grupo de niños o ancianos: la Mano no dudará en usar la fuerza, pero los jugadores podrían proteger a inocentes.
-    
+> “¿Pronto para qué? ¿Para que la Mano de Hierro declare toque de queda en los muelles? ¿Para que nos llamen impíos por importar mirra de Calimshan? ¿O para que un apóstol adolescente decida qué grimorio es aceptable en la contabilidad de mi casa?”
 
-#### **Si intentan un gesto simbólico o ritual:**
-
-El Padre Rellon (o los propios personajes, si lo sugieren) puede guiar a los fieles a encender la última luz de Lathander:
-
-- Todos levantan velas, iluminando la nave central hasta que la Mano de Hierro atraviesa las puertas.
-    
-- En el momento en que la Capitana Soriah entra, una luz sobrenatural baña a todos los presentes (puede dar inspiración, sanación leve, o incluso desatar una visión profética para algún jugador).
-    
+> “No. Aceptaremos lo inevitable.”
 
 ---
 
-### **Escena de expulsión**
+### **Propuesta Contundente:**
 
-Finalmente, el Padre Rellon baja los ojos, y con voz temblorosa dice:
-
-> “Nos arrebatan las piedras, no la fe. Cuando el alba vuelva, seremos testigos de vuestra caída.”
-
-- Los fieles y sacerdotes son escoltados a la fuerza fuera del templo, entre sollozos, himnos ahogados, miradas de odio y miedo de la multitud.
-    
-- La Capitana Soriah y la Mano sellan las puertas con cera roja y hierro frío.
-    
-- El gobernador ordena silencio total, y la plaza queda vacía salvo por los restos de flores y velas apagadas.
-    
+> “Presionaremos al gobernador para que acepte los puntos doctrinales del Profeta.  
+> Si la ciudad quiere rezar, que rece.  
+> Si necesita mártires, que los tenga.  
+> Pero que no se detenga el flujo.  
+> Nosotros permitiremos la fe… mientras nos permitan facturar.”
 
 ---
 
-### **Epílogo inmediato**
+### **Epílogo del discurso:**
 
-- En las calles se difunden rumores (“En Lathander la luz cayó, ¿quién será el próximo?”).
-    
-- Los personajes reciben miradas de compasión, miedo o admiración según su papel.
-    
-- Algunos clérigos buscan refugio; otros se despiden con un abrazo tembloroso, dejando en manos de los héroes reliquias, secretos o peticiones de ayuda para el futuro.
-    
-- El cielo se nubla aún más: parece que la ciudad ha entrado en una noche prolongada, aunque el día apenas empieza.
+> “Nos llamarán cobardes. Nos llamarán oportunistas.
+> 
+> Pero cuando los templos se derrumben, nosotros aún tendremos ladrillos.  
+> Y cuando el Profeta haya desaparecido, nuestra red de caravanas seguirá ahí, reconstruyendo la ciudad… una moneda a la vez.”
 
-# **Día 6, Amanecer: El Juicio Bajo la Lluvia**
-
-## **Lugar:**
-
-Avenida de la Esperanza, barrio popular junto al antiguo templo de Tymora.  
-Las primeras luces del alba apenas atraviesan una cortina de lluvia fina y constante. El empedrado está cubierto de barro, y cada paso suena como un suspiro ahogado.
+Se sienta.  
+Cruza las piernas.  
+Sirve vino.  
+La escena termina.
 
 ---
 
-## **Ambiente:**
+### **Gancho para los personajes:**
 
-- **El aire es denso, húmedo, cargado de miedo:** Huele a leña mojada, sudor y grasa fría. Las fachadas de las casas han sido pintarrajeadas con **triángulos rojos**, la marca de la Mano de Hierro, y frases como “La Voz es Ley” y “Sin suerte, sin herejía”.
+- Si alguno de los personajes está relacionado con la nobleza, el comercio o el gobierno, podría ser **invitado discretamente a una reunión con ella** esa misma noche.
     
-- **Llamas rojas y naranjas** parpadean al fondo, consumiendo una pila de amuletos, dados y talismanes confiscados frente al templo sellado; el humo tiene un aroma metálico y dulzón que empapa la ropa y los cabellos.
+- Si están implicados en templos, podrían recibir una **advertencia velada**:
     
-- **Una multitud silenciosa** observa desde los soportales o asoma la cara por cortinas raídas: ojos de ancianos temerosos, niños con lágrimas y madres abrazando a sus pequeños.
-    
+    > “Defended vuestras creencias. Pero no pongáis en peligro mis rutas.”
+
 
 ---
 
-## **El Juicio:**
+## **Día 4: La Mano y el Silencio**
 
-- Un **grupo de cinco figuras encapuchadas**, atadas con sogas, es arrastrado por el barro por seis guardias de la Mano de Hierro.
-    
-- Cada prisionero lleva al cuello un cartel de madera: “Suerte prohibida”, “Talismán oculto”, “Apuesta con los dioses”.
-    
-- **El barro se mezcla con la sangre:** Uno de los prisioneros cojea, otro tose y escupe agua, otro camina con la cabeza gacha, rezando entre dientes.
-    
-- Delante marcha la **Apóstol Suprema Verda Noon**, mujer alta y delgada, capa carmesí y máscara de hierro. En una mano sostiene un espejo de bronce, en la otra un bastón adornado con símbolos proféticos.
-    
+### **Escena: El Decreto de Cierre en la Gran Biblioteca**
 
 ---
 
-## **Narrativa detallada:**
+### **Lugar:**
 
-La Apóstol se detiene frente a la hoguera, mira a la multitud y habla con voz potente, clara y sin compasión:
-
-> “El alba trae juicio para los rebeldes. El Profeta nos ha mostrado la mentira de la suerte, la corrupción de la esperanza falsa. Hoy arden los amuletos; mañana, quien los porte.”
-
-Uno de los prisioneros, un hombre joven, grita con rabia:
-
-> “¡Esto no es justicia! ¡Solo miedo y mentira!”
-
-Un guardia lo golpea en la espalda, haciéndolo caer de rodillas en el barro.
-
-La Apóstol no se inmuta. Levanta el espejo y deja que la débil luz del amanecer lo atraviese, reflejándolo sobre los rostros de los prisioneros.
-
-> “Mírate en el espejo, hijo de la falsa fortuna. Deja que la Voz borre tu reflejo, porque hoy tu suerte se acaba.”
-
-A su señal, los guardias arrojan los amuletos de los prisioneros a la hoguera. El fuego silba y chisporrotea; un humo verdoso se alza, arrancando un coro de toses.
+Escalinata de la Gran Biblioteca de Waterdeep, mediodía.
 
 ---
 
-## **Fragmentos de diálogo y acción:**
+### **Ambiente:**
 
-- **Un niño de la multitud:**  
-    _“¿Mamá, van a quemar a la gente también?”_  
-    La madre lo abraza, calla y mira al suelo.
-    
-- **Vieja Callyn (de antes), desde un portal:**  
-    _“Ya no rezamos por milagros. Rezamos para que sobrevivan los nuestros.”_
-    
-- **Un guardia joven, al ver a los personajes pasar:**  
-    Les lanza una mirada de súplica, casi miedo, y susurra en voz baja:  
-    _“No os quedéis… Hoy se castiga a los héroes igual que a los herejes.”_
-    
-- La Apóstol, paseando la mirada sobre la muchedumbre:  
-    _“El Profeta vendrá con la noche. Mirad bien, porque hoy es el último alba que verá el pecado en Waterdeep.”_
-    
+El aire vibra de calor seco. Pocas gaviotas cruzan el cielo. Las calles cercanas están extrañamente vacías para la hora. Frente a la biblioteca, las puertas están cerradas y selladas con **cera negra**, no roja, y con el símbolo de la Mano reforzado con un segundo emblema —una runa geométrica de vigilancia.
+
+Guardias flanquean las escaleras en doble formación. No son soldados comunes: **estos llevan capas rojas cortas** con ribetes metálicos, armaduras sin brillo, ojos clavados en los civiles que se detienen a mirar. Una sensación de juicio inminente flota en el aire.
+
+En la cima de la escalinata, en pie y sin el yelmo, la **Capitana Soriah Durn** sostiene un pergamino sellado con plomo. Su voz, cuando se alza, no necesita amplificación mágica.
 
 ---
 
-## **Opciones para los personajes:**
+### **Discurso de la Capitana Soriah:**
 
-- **Intervenir es casi suicida:** Los guardias están listos, la multitud asustada. Si los personajes se arriesgan, pueden intentar liberar a un prisionero en el caos (quizá un PNJ conocido, como la anciana Maela Torran), pero deben huir inmediatamente o enfrentar una caza despiadada.
-    
-- **Ofrecer consuelo o resistencia silenciosa:** Un simple gesto (dejar una moneda a escondidas, lanzar una mirada de desafío, tomar la mano de un prisionero) puede levantar el ánimo de los oprimidos y sembrar semillas para la resistencia.
-    
-- **Recoger información:** Un anciano de la multitud, con voz temblorosa, susurra que “esta noche… el Profeta tomará el cielo. No habrá luna, no habrá salvación. Si podéis huir… huid.”
-    
-- **Semilla para la noche:** Algún fiel se acerca a los personajes tras la escena y, temblando, les entrega una reliquia oculta (“La última moneda de Tymora. Que os dé suerte… la vais a necesitar”).
-    
+> “Por orden del Consejo y de la Voz, en cumplimiento del Decreto Segundo de Salvaguarda Cívica,
+> 
+> **la Gran Biblioteca queda clausurada indefinidamente.**
+> 
+> El saber contenido en su interior será evaluado, registrado y purificado de toda influencia herética.
+> 
+> Los ciudadanos que hayan tenido acceso reiterado a grimorios, rituales, cartas náuticas, tratados de magia o liturgia no aprobada, **deberán presentarse a revisión ante el Consejo de Conformidad Arcana.**
+> 
+> El incumplimiento de esta orden será considerado colaboración con la disidencia mágica.”
 
----
-
-## **Epílogo de la escena:**
-
-- La hoguera arde mientras los guardias conducen a los prisioneros al interior de una casa reconvertida en prisión temporal.
-    
-- La lluvia arrecia, borrando parte de los lemas pintados… pero no los triángulos rojos ni el miedo en los rostros.
-    
-- El humo se mezcla con la niebla matinal, anunciando un día largo, pesado, en el que toda la ciudad espera —en silencio o resignación— el milagro negro de la noche.
-
-## **La Noche Sin Luna**
-
-## **Prólogo — El Ambiente**
-
-- **Waterdeep está en silencio absoluto.** Desde el atardecer, patrullas dobles de la Mano de Hierro han despejado las calles; toda actividad se detiene. Las tabernas cierran antes del anochecer, los templos permanecen sellados, y la ciudad parece contener la respiración.
-    
-- **Los fieles se encierran en sus casas**, muchos encendiendo velas, algunos rezando en secreto, otros abrazando talismanes escondidos.
-    
-- **Por los barrios más humildes**, los rumores vuelan: _“Hoy la luna va a morir”_, _“El Profeta lo anunció: después de la suerte, cae la noche”_, _“Dicen que la Mano tomará todo el control si el milagro ocurre”_.
-    
-
-## **Lugar: Plaza de la Luna**
-
-(La plaza mayor de Waterdeep, rebautizada así por los apóstoles para la ocasión; los personajes pueden hallarse aquí o acercarse al escuchar el clamor.)
+Sus palabras son nítidas. No hay ira, no hay amenaza. Solo certeza.  
+Solo deber.
 
 ---
 
-### **Montaje Narrativo:**
+### **PNJs Reaccionando:**
 
-- Un millar de personas llena la plaza: algunos devotos, muchos curiosos, otros sencillamente temerosos.
+- **Maese Dorlan Trenn** (anciano bibliotecario), al pie de la escalinata, no grita:
     
-- **Guardias de la Mano** cierran todas las salidas; hay barricadas en las bocacalles, antorchas y faroles azules titilando con magia inquieta.
+    > “¿Y si mañana necesitáis un mapa para encontrar a vuestros hijos? ¿O una crónica para recordar quiénes fuimos?”  
+    > Mira a Soriah con decepción genuina.  
+    > “Tú sabías leer antes de portar ese estandarte, Soriah. ¿Ya olvidaste lo que enseñaba la Orden del Códice?”
     
-- **Sobre una tarima de madera,** decorada con símbolos triangulares de hierro y un gran espejo circular, varios apóstoles reparten hojas con los versos de la profecía.
+- **Soriah**, sin alterar su voz ni su postura, responde:
     
-- El ambiente está cargado de electricidad; la multitud murmura, mira al cielo y luego al reflejo de la luna en la gran fuente de la plaza, que brilla extrañamente plateada.
+    > “No he olvidado nada, Maese. Por eso sé que algunos libros enseñan a incendiar ciudades. Y otros, a construirlas en silencio.”
     
+- **Naria Vole**, sollozando en las escaleras, balbucea:
+    
+    > “Mi hermano escribió un diario de campaña... lo prometí… no tiene magia, no tiene herejía…”
+    
+
+Soriah la mira un instante. No con ternura, pero sí con humanidad:
+
+> “¿Y si no fuera así? ¿Qué precio pagarías por haber estado equivocada?”  
+> Hace un gesto a un guardia.  
+> “Entregadle uno de los volúmenes del archivo de campaña, revisado. Solo uno. Lo demás, no es asunto suyo.”
 
 ---
 
-### **PNJ Clave:**
+### **Posibles Intervenciones de los Personajes:**
 
-- **Gran Apóstol Hederic Alorn**  
-    Hombre alto, barba negra trenzada, ojos fanáticos. Voz potente, repite los versos proféticos:  
-    _“Cuando la luna se devore a sí misma, la Voz hablará en la oscuridad.”_
+1. **Enfrentar a Soriah verbalmente:**
     
-- **Terry Black (El Profeta)**  
-    Aparece cubierto con túnica gris oscuro y máscara de plata. Nadie, salvo los personajes, reconoce su verdadera identidad al principio. Sus gestos son pausados, la voz profunda y calmada, casi hipnótica.
-    
-    - _Frase:_ “Hoy, la suerte ha muerto. Hoy, la esperanza será arrancada del cielo.”
+    - Ella responde con calma, pero si los personajes son conocidos, **no los arrestará de inmediato**.
         
-- **Soriah Durn (capitana de la Mano)**  
-    Dirige a los guardias, observa a la multitud y a los personajes con atención.  
-    _Frase:_ “Nadie abandona la plaza sin la bendición del Profeta.”
-    
-
----
-
-## **El Milagro / Fenómeno Sobrenatural**
-
-- Al sonar la última campanada de la noche, todos los apóstoles levantan espejos y los orientan hacia la luna llena, que brilla sobre el puerto y se refleja con nitidez en la fuente.
-    
-- Un **resplandor antinatural** brota del reflejo en el agua: el brillo se eleva lentamente, como un segundo orbe plateado, flotando hacia el cielo.
-    
-- El aire se enfría de golpe; una brisa recorre la plaza, apaga la mayoría de las velas y antorchas.
-    
-- Cuando el orbe reflejado alcanza la luna real, ambos se superponen… y un **destello cegador** inunda la plaza.  
-    Durante un latido interminable, no hay sonido, ni color, ni luz.
-    
-- Cuando la oscuridad se disipa, la luna **ha desaparecido** del cielo. Ni una sola estrella brilla. El mundo parece quedar sumido en una tiniebla sobrenatural.
-    
-
----
-
-## **El Discurso del Profeta**
-
-En medio del asombro y el terror, Terry Black avanza al centro de la tarima, se quita la máscara plateada y revela su rostro ante los personajes.
-
-- Sus ojos arden con un brillo antinatural.
-    
-- Su voz resuena sobrehumana, amplificada por magia:
-    
-
-> “¡Ha llegado el Juicio!  
-> ¡Los dioses han callado!  
-> Vuestra suerte, vuestra fe y vuestro pasado son ceniza.  
-> Sólo la Voz —mi Voz— os guiará en la oscuridad.”
-
-- **Las masas caen de rodillas**, algunos lloran, otros gritan, unos pocos se desmayan.
-    
-- Los apóstoles repiten: “¡El Profeta! ¡El Profeta ha hablado!”
-
-
-    
-
----
-
-## **Opciones para los personajes**
-
-- **Si están ocultos en la plaza:** pueden ver cómo la ciudad se rinde, o intentar desvelar la trampa mágica (quizá con una tirada de perspicacia o magia descubran la intervención de Acererak).
-    
-- **Si deciden actuar:** pueden enfrentarse a los apóstoles o intentar llegar hasta Terry. La Mano de Hierro intervendrá con violencia si alguien desafía al Profeta.
-    
-- **Si llaman a Terry por su nombre real:** por un instante vacila, los mira con dolor y odio mezclados. Puede hablarles en voz baja, solo para ellos:
-    
-    > “No me habéis entendido nunca. Ahora, por fin, todos me escuchan.”
-    
-- **Si provocan combate:** Terry no lucha hasta morir, pero puede dejarse vencer dramáticamente, sabiendo que su resurrección está asegurada. Los guardias intentan linchar a los personajes, la plaza se vuelve un caos.
-    
-
----
-
-## **Clímax y Escape**
-
-- Con la ciudad sumida en la oscuridad total y el pánico, los personajes deben huir:
-    
-    - Callejones, persecuciones, puertas selladas, la Mano bloqueando salidas.
+    - En su lugar, puede lanzar una advertencia:
         
-    - Un aliado perdido puede guiarlos a una ruta secreta: alcantarillas, viejo túnel, barco preparado, círculo de teletransporte clandestino.
+        > “Sois parte de una historia que aún no se ha escrito. Os aconsejo que no se convierta en tragedia.”
         
-    - Los últimos sonidos de la noche: rezos, sollozos, gritos de “¡Blasfemos! ¡Sacrificadlos!”.
-        
-- Si logran escapar, dejan atrás la Waterdeep más rota y fanática que hayan conocido:
+2. **Interceder por Naria o Dorlan:**
     
-    - Los templos han caído, la esperanza ha sido “devorada”, y solo el horizonte lejano de Chult parece ofrecer algún futuro.
+    - Si lo hacen con respeto, podrían obtener una **audiencia secreta con un censor neutral** para revisar qué libros pueden “salvar”.
+        
+    - Si presionan demasiado, Soriah levanta su mano: una señal, no una amenaza.
+        
+3. **Observar discretamente:**
+    
+    - Verán cómo los guardias anotan nombres y rostros. Hay un cuaderno de vigilancia: **cualquier gesto cuenta.**
         
 
 ---
 
-## **Epílogo y Primeros Ecos**
+### **Consecuencias y Ganchos:**
 
-- En las horas siguientes, los rumores lo confirman:  
-    “La luna ha muerto”, “El Profeta es invencible”, “Los antiguos héroes son perseguidos”.
+- **Los personajes marcados por la Capitana** serán seguidos en los próximos días.
     
-- Algunos PNJ fieles pueden enviar mensajes secretos, pidiendo ayuda o prometiendo resistir en la sombra.
+- **Si consiguen libros o mapas** de contrabando desde la biblioteca, podrían usarlos en futuras misiones, pero serán rastreables.
     
-- El capítulo cierra con la visión de la ciudad oscurecida, y la certeza de que **el Juicio ha comenzado**.
+- **Una orden secreta firmada por Soriah** se puede encontrar si investigan sus documentos: contiene una lista de libros que ella misma desea proteger… y esconder del Profeta.
+    
+
+---
+
+### **Epílogo Visual de Escena:**
+
+Al caer la tarde, cuando la plaza se vacía, un grupo de niños juega en las escalinatas vacías. Uno de ellos encuentra, entre las grietas de un peldaño, una pluma de escriba rota.  
+La alza como si fuera una espada.  
+Los otros aplauden.  
+Nadie les dice que eso también está prohibido.
