@@ -1196,6 +1196,19 @@ Alistar tomó la nota que Eredin le ofrecía y comenzó a leer en voz alta, mien
 
 —¿Lo ves? Esto ocurre cuando se toman demasiado en serio las profecías. ¡Falta de atención en los detalles cruciales!
 
+> *"Cuando la campana de la ciudad caiga y el hierro marque la primera noche,*
+> *el espejo y la Voz recorrerán la sangre y la piedra.*
+> *Contad seis lunas sin perdón,*
+> *pues al sexto amanecer,*
+> *la fortuna será robada,*
+> *y la luna devorada.*
+> *Entonces, en la más negra de las noches,*
+> *la Voz hablará y la esperanza será quebrada.*
+> *Solo los que no teman la sombra*
+> *podrán ver el regreso del alba."*
+
+[[La Profecía del Abismo]]
+
 Mientras Alistar leía, varios discípulos intercambiaron miradas inquietas, claramente no tan seguros como su maestro de la imposibilidad del evento anunciado.
 
 —¿El comandante Harker está al tanto de esta nueva información? —preguntó Alistar al concluir su lectura.

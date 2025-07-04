@@ -1,5 +1,7 @@
 ## **Inspector Havian Grett**
 
+![[Inspector Havian Grett.png]]
+
 **Frase de identidad:**  
 _“Hoy no venimos a destruir vuestra fe, sino a corregirla. La fortuna verdadera no necesita dados.”_
 
@@ -58,11 +60,3 @@ _“Hoy no venimos a destruir vuestra fe, sino a corregirla. La fortuna verdader
     
 
 ---
-
-### Conexión con el grupo
-
-- Puede ofrecer treguas, condiciones de entrega o mediación, pero siempre desde una posición de fuerza.
-    
-- Si el grupo intenta ocultar reliquias o desafiar el edicto, Grett los marcará para vigilancia y futuros interrogatorios.
-    
-- Es fuente de rumores sobre el funcionamiento interno de la Mano, si es presionado con habilidad.

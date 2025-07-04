@@ -2,7 +2,7 @@
 
 # Sesión 5
 
-## **Escena Detallada: El Decreto de la Luz Verdadera (Día 2, Mañana)**
+## **Dia 2: El Decreto de la Luz Verdadera**
 
 ### **Lugar**
 
@@ -21,7 +21,10 @@ Mientras los personajes cruzan la plaza para continuar sus compras y preparativo
 Los puestos de los comerciantes siguen abiertos, pero algunos detienen sus ventas mientras se aproxima el momento del pregón.
 
 ---
-
+[[Apóstol Marvyn Taul]]
+[[Apóstol Marvyn Taul (Master)]]
+[[Sargento Derian Farse]]
+[[Sargento Derian Farse (Master)]]
 ### **PNJ Clave: Apóstol Marvyn Taul**
 
 - **Presencia:** Joven de voz clara y mirada intensa, con una túnica de lino blanco bordada en gris pálido. Lleva un medallón con el símbolo del triángulo sobre el pecho.
@@ -29,7 +32,8 @@ Los puestos de los comerciantes siguen abiertos, pero algunos detienen sus venta
 - **Tono:** Sereno pero inquebrantable, como quien transmite no una orden, sino una verdad revelada.
     
 - **Acción inicial:** Alza las manos abiertas hacia la multitud, invitando al silencio con el gesto más que con la palabra.
-    
+
+**“Cuando Marvyn alza las manos, un zumbido sordo emana de sus manos y se extiende en ondas. Alistar y Vengy notan como su conexión mágica es perturbada.**
 
 ---
 
@@ -48,6 +52,9 @@ Los puestos de los comerciantes siguen abiertos, pero algunos detienen sus venta
 > — Ningún conjuro de origen divino podrá ser invocado en la calle, en los hogares ni en los mercados. Las energías de los falsos dioses solo alimentan el caos.
 > 
 > Esta no es una condena, sino una cura. No es un castigo, sino una señal de fe.
+>
+	— Y **pronto**, todo acto de **sanación** —ya sea conjuros, rituales o pociones mágicas— será **sacrilegio**, reservado exclusivamente a las manos consagradas de los Altares Oficiales, para que solo ellos determinen quién vive o muere
+	Pero para conseguir esto necesito de vuestra ayuda, debeis exigir este edicto al gobierno de forma incansable.
 > 
 > La Voz no os exige sacrificios, sino obediencia; no os quita consuelo, sino que os guía hacia el verdadero.
 > 
@@ -98,6 +105,8 @@ Los puestos de los comerciantes siguen abiertos, pero algunos detienen sus venta
 - **Responder a Hila:** Puede llevarlos a un pequeño grupo que aún reza a los antiguos dioses, pidiendo orientación.
     
 - **Interpelar a Althea o Derian:** Según el tono, puede derivar en una conversación sincera o en una advertencia velada.
+---
+
 ## **Día 3: Confiscación en el Templo de Tymora**
 
 ### **Lugar:**
@@ -108,10 +117,18 @@ Templo de Tymora, Calle de los Dados de Plata. Madrugada templada, apenas pasada
 
 El templo resplandece con su acostumbrado colorido: cintas verdes y doradas ondean al viento, pequeños dados de latón cuelgan de las lámparas, y las paredes exudan un leve aroma a mirra y hierba fresca. Fieles se agrupan para las bendiciones de la mañana, arrojando monedas al estanque ritual mientras murmuran plegarias ligeras, a medio camino entre lo devoto y lo festivo.
 
+**Orrery de la Fortuna:** en el centro del atrio, una delicada rueda de bronce sostiene dos dados pulidos que giran lentamente en perfecta simetría, impulsados por magia divina.
+**Suspensión súbita:** al abrirse las puertas, el orrery emite un chirrido metálico y se detiene en seco; los dados quedan inmóviles, compartiendo el asombro de los fieles: la magia ya no fluye.
+**Luz marchita:** los amuletos, herraduras y dados colgantes emiten un tenue resplandor amarillento, como si hubieran perdido su brío interior.
+**Gracia Vedada:** un murmullo frío recorre el templo; la conexion espiritual interrumpida.
+
 Pero el bullicio se detiene abruptamente cuando se abren las puertas con firmeza medida. **Seis guardias de la Mano de Hierro**, con armaduras grises y capas negras marcadas con el triángulo de hierro, entran en formación. Tras ellos, con paso pausado y seguro, avanza el **Inspector Civil Havian Grett**, enrollando un pergamino con el sello de la Voz.
 
----
+Podéis notar como los amuletos de la suerte, dados de latón y herraduras colgantes, emiten un **fulgor amarillento** y pálido, como si su esencia de buena ventura fuera drenada
 
+---
+[[Clériga Jayla Rynn (Master)]]
+[[Inspector Havian Grett (Master)]]
 ### **PNJ Clave:**
 
 - **Clériga Jayla Rynn**  
@@ -155,7 +172,8 @@ Los guardias comienzan la requisa:
 - Arrancan discretamente cintas con nombres escritos, talismanes personales, diarios de oración.
     
 - Rodean el altar mayor donde se guarda la **Gran Moneda de Tymora**, símbolo del templo.
-    
+- Ollik Marn recorre los puestos, arrebatando frascos de pociones curativas y rollos de bendiciones. Cada vez que se lleva uno, el aire emite un gemido perdido. - - _Ollik (murmurando):_ “La fortuna de pocos no debe torcer el destino de muchos.”
+
 
 Los fieles se retiran en silencio. Algunos lloran. Otros arrojan su última moneda al agua con una plegaria apenas audible.
 
@@ -236,6 +254,8 @@ Pero **una oración** garabateada con carbón aparece en la pared del templo req
 ## **Día 4: El Consejo de la Cámara Silente**
 
 ### _Escena: La Voz del Oro_
+
+[[Lady Shadari Velnarë (Master)]]
 
 ---
 
@@ -351,6 +371,8 @@ La escena termina.
 ### **Escena: El Decreto de Cierre en la Gran Biblioteca**
 
 ---
+[[Capitana Soriah Durn (Master)]]
+
 
 ### **Lugar:**
 

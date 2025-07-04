@@ -81,3 +81,18 @@ _Así está escrito. Así será.”_
 *la era del juicio ha comenzado.”*
 
 ![[ProfeciaLacampana.png]]
+
+### **La luna devorada**
+
+*"Cuando la campana de la ciudad caiga y el hierro marque la primera noche,*
+*el espejo y la Voz recorrerán la sangre y la piedra.*
+*Contad seis lunas sin perdón,*
+*pues al sexto amanecer,*
+*la fortuna será robada,*
+*y la luna devorada.*
+*Entonces, en la más negra de las noches,*
+*la Voz hablará y la esperanza será quebrada.*
+*Solo los que no teman la sombra*
+*podrán ver el regreso del alba."*
+
+![[ProfeciaLunaDevorada.png]]

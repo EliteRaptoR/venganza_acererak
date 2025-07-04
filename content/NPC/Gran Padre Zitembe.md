@@ -47,11 +47,3 @@ _“Toda visión llega a tiempo… incluso cuando ya es demasiado tarde.”_
     
 
 ---
-
-### Conexión con el grupo
-
-- Actúa como maestro espiritual de su nieta Nyah, y por extensión, protector indirecto del grupo.
-    
-- Tiene respeto profundo por la historia de los héroes, pero les recuerda constantemente que **el destino no se obedece: se elige**.
-    
-- No abandona su templo, pero extiende su influencia a través de visiones, objetos sagrados y enseñanzas encriptadas.

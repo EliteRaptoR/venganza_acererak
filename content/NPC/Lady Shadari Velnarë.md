@@ -1,5 +1,6 @@
 ## **Lady Shadari Velnarë**
 
+![[Lady Shadari.png]]
 **Frase de identidad:**  
 _“La devoción no paga los salarios. El orden, sí.”_
 
@@ -53,6 +54,3 @@ _“La devoción no paga los salarios. El orden, sí.”_
 - Puede contratar al grupo para proteger rutas de caravanas, evitar disturbios o investigar sabotajes económicos.
     
 - Es fuente de información privilegiada sobre la evolución real del poder civil y mercantil en la ciudad.
-    
-- Si el grupo muestra habilidad diplomática, puede ser su mecenas encubierta; si la desafían, será un enemigo silencioso y letal.
-    
