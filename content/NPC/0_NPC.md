@@ -1189,7 +1189,7 @@ _“El saber no salva. Solo deja claro lo que se pierde.”_
 ### Conexión con el grupo
 
 - Ninguna, el grupo no lo conoce, pero el al grupo si.
-[[Gobernador Varn Dosic]]
+[[Gobernador Varn Dorsic]]
 ### **Esencia y Motivación**
 
 - Varn Dosic ve el orden como la última muralla ante el caos absoluto: su motivación principal es evitar una guerra civil o la caída total del tejido urbano.

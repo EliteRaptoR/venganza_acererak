@@ -48,19 +48,5 @@ _“¡Ciudadanos! ¡Os exhorto a la cordura! El caos traerá muerte. Este templo
 - Algunos lo ven como un héroe cívico, otros como un oportunista que se apoya en la Mano de Hierro y el Profeta para no perder el control.
     
 
----
-
-### **Rol Narrativo Abierto**
-
-- **Gancho inmediato:** Puede decretar estados de emergencia, negociar treguas, imponer toques de queda o buscar intermediarios para calmar disturbios.
-    
-- **Papel recurrente:** Es la autoridad civil máxima; puede convocar al grupo a audiencias públicas o usarlos como emisarios para evitar una catástrofe social.
-    
-- **Interacción destacada:** Puede ser tanto aliado incómodo como antagonista, según los intereses y acciones de los personajes.
-    
 
 ---
-
-### **Frase característica**
-
-> _“¡Padre Rellon, por última vez: ceda el santuario, o Waterdeep sangrará!”_

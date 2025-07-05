@@ -1,4 +1,4 @@
-[[Gobernador Varn Dosic]]
+[[Gobernador Varn Dorsic]]
 ### **Esencia y Motivación**
 
 - Varn Dosic ve el orden como la última muralla ante el caos absoluto: su motivación principal es evitar una guerra civil o la caída total del tejido urbano.

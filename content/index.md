@@ -26,7 +26,7 @@ slug: "inicio" # (Opcional. Solo si quieres cambiar la URL)
 - [[Capitana Soriah Durn]]
 ##### **Waterdeep**
 - [[Clériga Jayla Rynn]]
-- [[Gobernador Varn Dosic]]
+- [[Gobernador Varn Dorsic]]
 - [[Lady Shadari Velnarë]]
 - [[Inspector Havian Grett]]
 - [[Padre Relion]]
