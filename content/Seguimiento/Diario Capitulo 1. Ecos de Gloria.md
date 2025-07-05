@@ -20,7 +20,7 @@ Faerûn entero languidecía bajo una oscura y atroz maldición: la Maldición de
 
 Los héroes, impulsados por la necesidad imperiosa de salvar a toda vida en Faerûn, cruzaron mares, junglas impenetrables y ruinas olvidadas, hasta descubrir Omu, la ciudad prohibida. Al internarse en las entrañas malditas de la Tumba de la Aniquilación, enfrentaron y vencieron a las tres guardianas, brujas de un poder siniestro que custodiaban la última puerta hacia el horror definitivo. Al abrir aquella estancia, contemplaron con espanto al Atropal, un ser inconcluso deforme y abominable, una criatura que emanaba corrupción pura, suspendida sobre un abismo en medio de vapores necróticos. En una batalla titánica, épica y desesperada, cuyas repercusiones resonarán eternamente en las leyendas de Faerûn, los héroes lucharon con todas sus fuerzas hasta destruir al Atropal antes de que alcanzara su temible destino divino.
 
-Cuando Acererak irrumpió en la escena, ya era demasiado tarde para su monstruosa creación. Enfurecido y decidido a vengarse, el lich descargó toda su ira y poder contra los héroes. Pero en ese instante decisivo, el grupo decidió darlo todo en un sacrificio heroico y coordinado para destruir el Almero. En medio del caos y la destrucción, Orianna dio el golpe final al artefacto oscuro, aceptando su destino y cayendo junto al Almero en las llamas ardientes del volcán. Acererak, en un acto de despiadada venganza, acabó con los héroes restantes, dejando solo devastación. Milagrosamente, Orianna fue rescatada de su ardiente destino por Artus Cimber, llevada hasta Waterdeep donde poderosos rituales le devolvieron la vida. El resto del grupo fue revivido posteriormente mediante el conjuro ancestral y costoso de Resurrección Real.
+Cuando Acererak irrumpió en la escena, ya era demasiado tarde para su monstruosa creación. Enfurecido y decidido a vengarse, el lich descargó toda su ira y poder contra los héroes. Pero en ese instante decisivo, el grupo decidió darlo todo en un sacrificio heroico y coordinado para destruir el Almero. En medio del caos y la destrucción, Orianna dio el golpe final al artefacto oscuro, aceptando su destino y cayendo junto al Almero en las llamas ardientes del volcán. Acererak, en un acto de despiadada venganza, acabó con los héroes restantes, dejando solo devastación. Milagrosamente, Orianna fue rescatada de su ardiente destino por Artus Cimber, llevada hasta Waterdeep donde poderosos rituales le devolvieron las partes de su cuerpo que habían sido calcinadas. El resto del grupo fue revivido posteriormente mediante el conjuro ancestral y costoso de Resurrección verdadera.
 
 ![[Acererak.png]]
 _Acererak_
@@ -1195,6 +1195,19 @@ Eredin negó con la cabeza con firmeza, mostrando ahora un nuevo pergamino que e
 Alistar tomó la nota que Eredin le ofrecía y comenzó a leer en voz alta, mientras el maestro comentaba irónicamente:
 
 —¿Lo ves? Esto ocurre cuando se toman demasiado en serio las profecías. ¡Falta de atención en los detalles cruciales!
+
+> *"Cuando la campana de la ciudad caiga y el hierro marque la primera noche,*
+> *el espejo y la Voz recorrerán la sangre y la piedra.*
+> *Contad seis lunas sin perdón,*
+> *pues al sexto amanecer,*
+> *la fortuna será robada,*
+> *y la luna devorada.*
+> *Entonces, en la más negra de las noches,*
+> *la Voz hablará y la esperanza será quebrada.*
+> *Solo los que no teman la sombra*
+> *podrán ver el regreso del alba."*
+
+[[La Profecía del Abismo]]
 
 Mientras Alistar leía, varios discípulos intercambiaron miradas inquietas, claramente no tan seguros como su maestro de la imposibilidad del evento anunciado.
 

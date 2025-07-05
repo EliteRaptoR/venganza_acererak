@@ -23,7 +23,13 @@ slug: "inicio" # (Opcional. Solo si quieres cambiar la URL)
 ##### **La Mano de Hierro**
 - [[Apóstol Marvyn Taul]]
 - [[Sargento Derian Farse]]
-
+- [[Capitana Soriah Durn]]
+##### **Waterdeep**
+- [[Clériga Jayla Rynn]]
+- [[Gobernador Varn Dosic]]
+- [[Lady Shadari Velnarë]]
+- [[Inspector Havian Grett]]
+- [[Padre Relion]]
 ##### **Sequito del dragón de plata**
 - [[Kael Vhantar]]
 - [[Dareth Silmaer]]

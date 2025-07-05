@@ -33,6 +33,8 @@
 - [[Clériga Jayla Rynn (Master)]] (Tymora)
 - [[Gobernador Varn Dosic (Master)]]
 - [[Padre Relion (Master)]] (Lathander)
+- [[Lady Shadari Velnarë (Master)]] (Mercader)
+- [[Inspector Havian Grett (Master)]]
 ##### **Sequito del dragón de plata**
 - [[Dareth Silmaer (Master)]]
 - [[Varuun Tyrral (Master)]]

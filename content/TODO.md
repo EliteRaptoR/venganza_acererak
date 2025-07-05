@@ -1,16 +1,31 @@
+imprimir edicto1, con papel destruido
+imprimir profecia,  con papel destruido
 
-Poner nuevas canciones
-imprimir profecia, hacer pdf para imprimri en curro, con papel destruido
+poner equipacion a los personajes.
+Poner todo lo de gpt en el obsidian
+
+Tener un listado de objetos magicos que darles a los personajes cuando vayan a conseguirlos, como la espada electrica de vengy.
+
 musica accion
 musica ominosa.
 musica fondo de la mano??
-volver a hacer la imagen de la capitana soriah, ahora es ex paladina de tyr.
-Porque la capitana se ha convertido? hay que trabajrlo bien y hacer un encuentro con alistar.
-Preparar agente de la mano a nivel combate.
-revisar siguientes dias, el tema no es solo que la mano se haga mas fuerte, si no que ellos estaran mas vigilados. Deben sentirse asfixiados.
-hacer al nuevo npc elderin, falta foto.
-subir el indice vigilando que no haya spoilers.
-revisar toda la profecia, buscan sentido a cada frase.
+Poner nuevas canciones
+
+diario sesion 5
+subir imagenes a public
+preparar sesion 6
+faltara preparar el dia 5 y 6 con sus escenas. Yo creo que sera sesion 6.
+estos dias hay que meter los rituales de cosecha para sembrar las pistas.
+
+
+
+
+
+
+
+
+
+
 
 
 
