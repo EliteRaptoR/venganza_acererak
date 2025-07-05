@@ -2,6 +2,7 @@ imprimir edicto1, con papel destruido
 imprimir profecia,  con papel destruido
 
 poner equipacion a los personajes.
+Poner todo lo de gpt en el obsidian
 
 Tener un listado de objetos magicos que darles a los personajes cuando vayan a conseguirlos, como la espada electrica de vengy.
 
