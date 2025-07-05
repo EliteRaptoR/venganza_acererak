@@ -163,12 +163,14 @@ Acererak, arconte de la no-muerte y artífice de la corrupción, busca propiciar
 
 ## III. Implementación en la Aventura
 
-| Elemento               | Descripción                                                                                     |
-| ---------------------- | ----------------------------------------------------------------------------------------------- |
-| **Objetos afectables** | - Amuletos de Tymora  <br>- Láminas de molde clerical  <br>- Fragmentos de filacteria extraídos |
-| **Disparador**         | La activación de un gran “Entierro Sagrado” o al paso por un lugar corrupto                     |
-| **Efecto inmediato**   | Todas las reliquias brillan con un fulgor amarillento y débil durante 1 minuto                  |
-| **Mecánica de juego**  | En ese minuto, conjuros de curación y bendición fallan automáticamente                          |
+| Elemento               | Descripción                                                                               |
+| ---------------------- | ----------------------------------------------------------------------------------------- |
+| **Objetos afectables** | Amuletos de Tymora  <br>Láminas de molde clerical  <br>Fragmentos de filacteria extraídos |
+| **Disparador**         | La activación de un gran “Entierro Sagrado” o al paso por un lugar corrupto               |
+| **Efecto inmediato**   | Todas las reliquias brillan con un fulgor amarillento y débil durante 1 minuto            |
+| **Mecánica de juego**  | En ese minuto, conjuros de curación y bendición fallan automáticamente                    |
+|                        |                                                                                           |
+
 ## IV. Ejemplo de Escena “El Altar Marchito”
 
 1. **Preparación**  
@@ -222,11 +224,11 @@ Acererak, arconte de la no-muerte y artífice de la corrupción, busca propiciar
 
 ## III. Mecánica de Juego
 
-| Fase                          | Efecto de Juego                                                                                       |
-|-------------------------------|-------------------------------------------------------------------------------------------------------|
-| **Al entrar al aura**         | El lanzador debe superar una **Tirada de Sabiduría (CD 16)** o perder la concentración en el conjuro. |
-| **Durante el aura**           | Conjuros divinos de nivel ≤5º fallan. Canalizaciones de paladín/clérigo ≤2º nivel se reducen a meras palabras sin efecto. |
-| **Al salir del aura**         | Conjuros pendientes lanzados fuera del aura se restauran normalmente.                                  |
+| Fase                  | Efecto de Juego                                                                                                           |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| **Al entrar al aura** | El lanzador debe superar una **Tirada de Sabiduría (CD 16)** o perder la concentración en el conjuro.                     |
+| **Durante el aura**   | Conjuros divinos de nivel ≤5º fallan. Canalizaciones de paladín/clérigo ≤2º nivel se reducen a meras palabras sin efecto. |
+| **Al salir del aura** | Conjuros pendientes lanzados fuera del aura se restauran normalmente.                                                     |
 
 ---
 
@@ -363,3 +365,4 @@ Para restablecer la ventura antes de la Luna Devora­da, los héroes deben:
     - Profanar o destruir la estructura de hierro antes de que el pulso necrótico se estabilice.
 
 ---
+
