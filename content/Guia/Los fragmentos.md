@@ -1,4 +1,4 @@
-#GPT #Master
+
 Los siete artefactos que forman la filacteria de Acererak son objetos únicos, cada uno imbuido con un fragmento de su alma. Estos objetos están malditos, ofreciendo grandes poderes pero también peligrosas consecuencias. Cada artefacto está protegido por desafíos y revela fragmentos de la profecía que ayudan a los jugadores a avanzar en su misión.
 
 ---

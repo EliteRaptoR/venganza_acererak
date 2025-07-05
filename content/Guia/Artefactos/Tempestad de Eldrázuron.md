@@ -1,10 +1,11 @@
+# **Tempestad de Eldrázuron**
 
 ![[Tempestad de Eldrázuron.png]]
-## **Tempestad de Eldrázuron**
 
 _Arma cuerpo a cuerpo (gran espada), legendaria (requiere sintonización)_
 
-### Estadísticas Básicas
+
+## Estadísticas Básicas
 
 - **Bono mágico:** +2 al ataque y al daño.
     
@@ -21,12 +22,11 @@ _Arma cuerpo a cuerpo (gran espada), legendaria (requiere sintonización)_
 
 ---
 
-### Habilidades Especiales
+## Habilidades Especiales
 
 #### Furia del Dragón de Trueno
 
 Cuando el portador obtenga un golpe crítico con Tempestad de Eldrázuron, inflige **2d6** puntos de daño adicional de trueno.
-
 #### Resonancia Dracónica
 
 Solo si el portador es hechicero de linaje dracónico (sangre de trueno):
@@ -34,12 +34,9 @@ Solo si el portador es hechicero de linaje dracónico (sangre de trueno):
 - Gana **resistencia al daño de relámpago**.
     
 - Puede usar su **reacción** para transformar el daño de un ataque exitoso con la espada en daño de relámpago en lugar de cortante.
-    
 
 ---
 
-### Trasfondo y Notas del DM
+## Trasfondo 
 
 - **Origen:** Forjada en los altos hornos de Tymanther por los clérigos-artífices de Hlal, en honor al legendario dragón azul de trueno.
-    
-- **Destino narrativo:** Aún no en posesión de Vengy.
