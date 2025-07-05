@@ -8,6 +8,7 @@
 [[Diario Capitulo 1. Ecos de Gloria#Sesión 2|Sesión 2]]
 [[Diario Capitulo 1. Ecos de Gloria#Sesión 3|Sesión 3]]
 [[Diario Capitulo 1. Ecos de Gloria#Sesión 4|Sesión 4]]
+[[Diario Capitulo 1. Ecos de Gloria#Sesión 5|Sesion 5]]
 
 ---
 ## **Prologo**
@@ -1522,3 +1523,8 @@ Alistar sintió una profunda frustración y desconcierto.
 Esta revelación impulsó al grupo a la necesidad urgente de averiguar la procedencia exacta de las profecías y la identidad de esa misteriosa "voz" o profeta al que aludían.
 
 La escena terminó con la visión aérea ascendiendo lentamente desde la mansión dañada, extendiéndose sobre la ciudad. Donde antes reinaba un vacío inquietante, ahora emergían tumultos de ciudadanos que, con antorchas encendidas y voces enérgicas, llenaban las calles de Waterdeep, sus consignas resonando con fuerza en la noche.
+
+---
+
+## **Sesión 5**
+

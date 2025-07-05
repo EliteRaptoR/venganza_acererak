@@ -48,17 +48,6 @@ _“Cuando la luna se devore a sí misma, la Voz hablará en la oscuridad.”_
 
 ---
 
-### **Rol Narrativo Abierto**
-
-- **Gancho inmediato:** Hederic puede convocar a los personajes a rituales masivos, proclamar juicios proféticos o desatar milagros públicos de gran impacto.
-    
-- **Papel recurrente:** Antagonista carismático en escenas multitudinarias, ejecutor de profecías o actor clave en fenómenos sobrenaturales.
-    
-- **Interacción destacada:** Es fuente de información codificada sobre la profecía, pero nunca responde de forma directa; desafía a los personajes con acertijos y desafíos públicos.
-    
-
----
-
 ### **Frase característica**
 
 > _“Cuando la luna se devore a sí misma, la Voz hablará en la oscuridad.”_

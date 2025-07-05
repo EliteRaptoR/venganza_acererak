@@ -1,4 +1,16 @@
 [[Inspector Havian Grett]]
+
+### Rol Narrativo Abierto
+
+- Es el responsable de las confiscaciones rituales, registros y cierre de templos, en nombre del orden y la “verdadera fe”.
+    
+- Puede negociar con personajes inteligentes, pero nunca transige con la insubordinación o el desafío abierto.
+    
+- Puede convertirse en antagonista moderado: la voz de la razón implacable frente al fanatismo o el caos.
+    
+- Sus acciones marcan un antes y un después en la fe pública: lo que confisca rara vez regresa, pero nunca arrasa sin dejar alternativas.
+    
+
 ### Motivaciones y Secretos
 
 - Havian Grett no es un fanático religioso, sino un burócrata de convicciones férreas. Cree que la estabilidad y el orden lo justifican casi todo.

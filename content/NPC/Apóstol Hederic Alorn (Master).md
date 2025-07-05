@@ -1,5 +1,14 @@
 [[Apóstol Hederic Alorn]]
 
+### **Rol Narrativo Abierto**
+
+- **Gancho inmediato:** Hederic puede convocar a los personajes a rituales masivos, proclamar juicios proféticos o desatar milagros públicos de gran impacto.
+    
+- **Papel recurrente:** Antagonista carismático en escenas multitudinarias, ejecutor de profecías o actor clave en fenómenos sobrenaturales.
+    
+- **Interacción destacada:** Es fuente de información codificada sobre la profecía, pero nunca responde de forma directa; desafía a los personajes con acertijos y desafíos públicos.
+    
+
 ### **Esencia y Motivación**
 
 - Hederic cree ciegamente en el destino marcado por la Voz (el Profeta), pero teme que el milagro no baste para doblegar el caos.
