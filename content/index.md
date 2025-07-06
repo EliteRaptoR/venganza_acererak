@@ -20,13 +20,13 @@ slug: "inicio" # (Opcional. Solo si quieres cambiar la URL)
 #### **Principales**
 - [[Sildar Hallwinter]]
 - [[Ceniz]]
+- [[Elyzmyrath]]
 ##### **La Mano de Hierro**
 - [[Apóstol Marvyn Taul]]
 - [[Apóstol Hederic Alorn]]
 - [[Sargento Derian Farse]]
 - [[Capitana Soriah Durn]]
 ##### **Waterdeep**
-- [[Clériga Jayla Rynn]]
 - [[Gobernador Varn Dorsic]]
 - [[Padre Relion]]
 ##### **Sequito del dragón de plata**
@@ -38,8 +38,6 @@ slug: "inicio" # (Opcional. Solo si quieres cambiar la URL)
 - [[Marcus Deren]]
 - [[Eldrin]]
 - [[Eredin]]
-##### **Dragona Verde**
-- [[Elyzmyrath]]
 
 ---
 ## **Normas** 
