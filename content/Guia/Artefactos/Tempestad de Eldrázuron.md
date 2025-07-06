@@ -3,8 +3,6 @@
 ![[Tempestad de Eldrázuron.png]]
 
 _Arma cuerpo a cuerpo (gran espada), legendaria (requiere sintonización)_
-
-
 ## Estadísticas Básicas
 
 - **Bono mágico:** +2 al ataque y al daño.
