@@ -1,4 +1,4 @@
-# **Armadura Piel del Ocaso
+# **Armadura Piel del Ocaso**
 
 ![[Piel del Ocaso.png]]
 
