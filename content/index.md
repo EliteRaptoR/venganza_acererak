@@ -28,8 +28,6 @@ slug: "inicio" # (Opcional. Solo si quieres cambiar la URL)
 ##### **Waterdeep**
 - [[Clériga Jayla Rynn]]
 - [[Gobernador Varn Dorsic]]
-- [[Lady Shadari Velnarë]]
-- [[Inspector Havian Grett]]
 - [[Padre Relion]]
 ##### **Sequito del dragón de plata**
 - [[Kael Vhantar]]

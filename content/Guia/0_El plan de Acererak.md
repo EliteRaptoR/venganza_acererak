@@ -160,17 +160,7 @@ Acererak, arconte de la no-muerte y artífice de la corrupción, busca propiciar
     
 3. **Eco de la Maldición**  
     Este fulgor mustio es un síntoma más de la red necrótica de Acererak: incluso los objetos más puros son afectados por la corrupción que avanza.
-
-## III. Implementación en la Aventura
-
-| Elemento               | Descripción                                                                               |
-| ---------------------- | ----------------------------------------------------------------------------------------- |
-| **Objetos afectables** | Amuletos de Tymora  <br>Láminas de molde clerical  <br>Fragmentos de filacteria extraídos |
-| **Disparador**         | La activación de un gran “Entierro Sagrado” o al paso por un lugar corrupto               |
-| **Efecto inmediato**   | Todas las reliquias brillan con un fulgor amarillento y débil durante 1 minuto            |
-| **Mecánica de juego**  | En ese minuto, conjuros de curación y bendición fallan automáticamente                    |
-|                        |                                                                                           |
-
+    
 ## IV. Ejemplo de Escena “El Altar Marchito”
 
 1. **Preparación**  

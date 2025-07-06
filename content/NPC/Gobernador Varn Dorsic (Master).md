@@ -1,7 +1,7 @@
 [[Gobernador Varn Dorsic]]
 ### **Esencia y Motivación**
 
-- Varn Dosic ve el orden como la última muralla ante el caos absoluto: su motivación principal es evitar una guerra civil o la caída total del tejido urbano.
+- Varn Dorsic ve el orden como la última muralla ante el caos absoluto: su motivación principal es evitar una guerra civil o la caída total del tejido urbano.
     
 - No es malvado ni fanático, pero está dispuesto a sacrificar principios e incluso inocentes si cree que eso salvará a la mayoría.
     
@@ -18,11 +18,11 @@
     
 - **Secreto de presión:** Recibe amenazas y chantajes de poderosos clanes mercantiles y agentes extranjeros; sabe que su cargo pende de un hilo.
     
-- **Dilema público:** Si se enfrenta a un motín o asalto inminente, Dosic puede ordenar una represión violenta… o buscar desesperadamente un acuerdo de última hora.
+- **Dilema público:** Si se enfrenta a un motín o asalto inminente, Dorsic puede ordenar una represión violenta… o buscar desesperadamente un acuerdo de última hora.
     
 - **Conflicto emocional:** Si es testigo de una masacre o la muerte de un inocente por orden suya, puede tener una crisis pública (pérdida de control, dimisión temporal, o súplica de perdón).
     
-- **Potencial de redención:** Si un personaje apela a su humanidad, Dosic puede conceder indultos o apoyar discretamente la resistencia si ve que la Mano de Hierro se ha vuelto incontrolable.
+- **Potencial de redención:** Si un personaje apela a su humanidad, Dorsic puede conceder indultos o apoyar discretamente la resistencia si ve que la Mano de Hierro se ha vuelto incontrolable.
     
 
 ---

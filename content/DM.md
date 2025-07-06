@@ -31,7 +31,7 @@
 - [[Capitana Soriah Durn (Master)]]
 ##### **Waterdeep**
 - [[Clériga Jayla Rynn (Master)]] (Tymora)
-- [[Gobernador Varn Dosic (Master)]]
+- [[Gobernador Varn Dorsic (Master)]]
 - [[Padre Relion (Master)]] (Lathander)
 - [[Lady Shadari Velnarë (Master)]] (Mercader)
 - [[Inspector Havian Grett (Master)]]

@@ -1,8 +1,8 @@
 #Jugadores 
 
-![[Varn Dosic.png]]
+![[Varn Dorsic.png]]
 
-### **Gobernador Varn Dosic**
+### **Gobernador Varn Dorsic**
 
 **Frase de identidad:**  
 _“¡Ciudadanos! ¡Os exhorto a la cordura! El caos traerá muerte. Este templo será sellado por el bien común.”_
