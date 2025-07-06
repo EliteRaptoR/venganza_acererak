@@ -85,3 +85,4 @@ Ahora, Alistar se encuentra en una posición complicada dentro de su orden. Las 
 
 ### Artefactos
 
+[[Castigo Divino]]
