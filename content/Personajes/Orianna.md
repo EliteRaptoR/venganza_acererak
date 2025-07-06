@@ -123,4 +123,4 @@ Sorprendentemente, Orianna no cambiaría nada de su pasado. Acepta cada parte de
 
 
 ---
-###  **Bitácora**
+### Artefactos

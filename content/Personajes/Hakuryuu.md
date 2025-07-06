@@ -89,5 +89,17 @@ Durante su viaje, en el que buscaba respuestas y una manera de redimir la traici
 Kuryruu continuó adelante bajo el nombre de Hakuryuu, luchando no solo en batallas físicas, sino también con la carga de la mentira y la rival
 
 
+---
+
+### Artefactos
+
+
+
+
+---
+
+
 ![[Drogon.png]]
 ***Drogon***
+
+

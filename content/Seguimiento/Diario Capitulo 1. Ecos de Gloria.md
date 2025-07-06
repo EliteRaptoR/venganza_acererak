@@ -1528,3 +1528,18 @@ La escena terminó con la visión aérea ascendiendo lentamente desde la mansió
 
 ## **Sesión 5**
 
+![[Piel del Ocaso.png]]
+
+![[Templo de Lathander.png]]
+
+![[Templo de Lathander2.png]]
+
+
+
+![[Bendición del amanecer.png]]
+
+
+
+
+
+![[Luz de la Aurora.png]]

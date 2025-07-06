@@ -77,9 +77,6 @@ Vengy ahora lucha por limpiar su nombre y recuperar el honor perdido. Aunque el 
 
 ---
 
-### **El pasado de Vengy**
+### Artefactos
 
-
-
----
-###  **Bitácora**
+[[Bendición del amanecer]]

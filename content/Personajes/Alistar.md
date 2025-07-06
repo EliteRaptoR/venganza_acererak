@@ -83,5 +83,5 @@ Ahora, Alistar se encuentra en una posición complicada dentro de su orden. Las 
 
 ---
 
-###  **Bitácora**
+### Artefactos
 

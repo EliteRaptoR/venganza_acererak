@@ -123,6 +123,8 @@ Sus recuerdos del pasado son una de las pocas cosas que aún le traen alegría. 
 
 Malizal no siente que Lathander lo haya abandonado; por el contrario, es él quien se ha distanciado de la luz del dios del amanecer en los últimos años. Sus poderes aún permanecen, una prueba de que el celestial que le otorgó el pacto sigue creyendo en él, incluso cuando él mismo no lo hace. Sin embargo, esta desconexión lo deja en un estado de incertidumbre, incapaz de reconectar completamente con su propósito.
 
-
 ---
-###  **Bitácora**
+
+### Artefactos
+
+[[Luz de la Aurora]]
