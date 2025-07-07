@@ -1,4 +1,4 @@
-# **Tempestad de Eldrázuron**
+# **Espada Tempestad de Eldrázuron**
 
 ![[Tempestad de Eldrázuron.png]]
 

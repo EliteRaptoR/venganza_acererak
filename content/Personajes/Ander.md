@@ -141,4 +141,4 @@ Incluso cuando se siente al borde del colapso, Ander encuentra fuerza en sus ami
 
 ### Artefactos
 
-[[Piel del Ocaso]]
+[[Armadura Piel del Ocaso]]

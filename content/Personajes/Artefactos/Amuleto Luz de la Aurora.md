@@ -1,4 +1,4 @@
-# **Luz de la Aurora Silente**
+# **Amuleto Luz de la Aurora Silente**
 
 ![[Luz de la Aurora.png]]
 _Amuleto sagrado, poco común (requiere sintonización por un lanzador divino o fiel de Lathander)_

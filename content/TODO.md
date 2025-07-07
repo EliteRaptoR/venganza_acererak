@@ -3,18 +3,23 @@ imprimir profecia,  con papel destruido
 
 diario sesion 5
 
-poner equipacion a los personajes, detallarla y hacer imagenes.
+poner equipación a los personajes, detallarla y hacer imágenes.
 Ander, su flauta
-Haku, espada, escudo y armadura.
-Alistar, espada y escudo, quizas el foco arcano tambien.
-Vengy (vale la pena la espada o espero a la nueva), armadura?
-orianna, tiene algo? el foco arcano
-Malizall, su grimorio tal vez, quie debe ser el foco arcano
+Haku (ya esta, la armadura de escamas).
+Alistar (ya esta, su espada). (faltaria su foco arcano)
+Vengy, armadura
+orianna, (ya esta, su foco, corteza de arbol)
+Malizall (ya esta, su grimorio)
 
 Orianna cree que la frase de la profecía que habla de la sangre y la piedra habla del corazon del abismo, incorporar esto en las notas.
 
-Tener un listado de objetos magicos que darles a los personajes cuando vayan a conseguirlos, como la espada electrica de vengy.
-
+Tener un listado de objetos magicos que darles a los personajes cuando vayan a conseguirlos:
+Vengy, su espada (en un mercado)
+Orianna su vara (ir a visitar la grieta del bosque)
+Hakuryuu (Un escudo de espejo, sin hacer)
+Malizall (ya lo tiene, su amuleto de Relion)
+Ander (ya la tiene, su armadura)
+Alistar (???)
 
 musica accion
 musica ominosa.

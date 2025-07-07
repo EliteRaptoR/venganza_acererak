@@ -1,4 +1,4 @@
-# **Bendición del Amanecer**
+# **Amuleto Bendición del Amanecer**
 
 ![[Bendición del amanecer.png]]
 

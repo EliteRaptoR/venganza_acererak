@@ -1,4 +1,4 @@
-# **Castigo Divino**
+# **Espada Castigo Divino**
 
 ![[Castigo Divino.jpg]]
 _Espada larga, muy rara (requiere sintonización por un paladín o clérigo de alineamiento legal bueno)_
