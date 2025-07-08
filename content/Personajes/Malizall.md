@@ -127,4 +127,6 @@ Malizal no siente que Lathander lo haya abandonado; por el contrario, es él qui
 
 ### Artefactos
 
-[[Luz de la Aurora]]
+[[Amuleto Luz de la Aurora]]
+[[Grimorio Prohibido de la Luz Sellada]]
+[[Pulsera de las Siete Auroras]]

@@ -1,7 +1,12 @@
-## **LISTA DE OPCIONES DE PREPARATIVOS** 
+
+## Listado de artefactos a repartir
+
+Vengy, su espada (en un mercado)
+Orianna su vara (ir a visitar la grieta del bosque)
+Hakuryuu (Un escudo de espejo, en su mansion)
 
 ---
-
+## **LISTA DE OPCIONES DE PREPARATIVOS** 
 
 ### **1. Armas mágicas y equipo ofensivo**
 

@@ -3,7 +3,6 @@
 
 ---
 ![[Hakuryuu.png]]
-![[Hakuryuu2.png]]
 ### **Rasgos principales**
 
 #### **Raza/Clase:** Dragonborn de plata / Guerrero.
@@ -93,10 +92,13 @@ Kuryruu continuó adelante bajo el nombre de Hakuryuu, luchando no solo en batal
 
 ### Artefactos
 
-
-
+[[Armadura Escamas de Argentis]]
+[[Espada Colmillo de Escarcha]]
+Escudo +2
 
 ---
+
+![[HakuryuuArmadura.png]]
 
 
 ![[Drogon.png]]

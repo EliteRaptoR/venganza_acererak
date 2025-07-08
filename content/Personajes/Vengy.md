@@ -79,4 +79,7 @@ Vengy ahora lucha por limpiar su nombre y recuperar el honor perdido. Aunque el 
 
 ### Artefactos
 
-[[Bendición del amanecer]]
+- [[Amuleto Bendición del amanecer]]
+- Espada forjada por el fuego del dragón rojo, +2
+- [[Armadura de la Luz Renovada]]
+- Una poción de Heroísmo.

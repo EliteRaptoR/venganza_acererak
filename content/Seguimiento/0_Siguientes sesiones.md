@@ -107,6 +107,9 @@ Los puestos de los comerciantes siguen abiertos, pero algunos detienen sus venta
 - **Interpelar a Althea o Derian:** Según el tono, puede derivar en una conversación sincera o en una advertencia velada.
 ---
 
+
+
+
 ## **Día 3: Confiscación en el Templo de Tymora**
 
 ### **Lugar:**

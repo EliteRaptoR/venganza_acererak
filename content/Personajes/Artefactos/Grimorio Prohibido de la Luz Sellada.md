@@ -23,5 +23,5 @@ Mientras el grimorio esté abierto y Malizall lance un conjuro de abjuración o 
 
 ## Trasfondo
 
-- **Origen:**  
-    Creado en el monasterio oculto de las Llamas del Alba, este grimorio contiene secretos arrebatados a demonios y ángeles caídos, encadenados con sellos de luz y plegarias para evitar que caigan en malas manos. Solo un elegido de un pacto celestial puede desvelar sus páginas sin temor a la condenación.
+#### Origen:
+Creado en el monasterio oculto de las Llamas del Alba, este grimorio contiene secretos arrebatados a demonios y ángeles caídos, encadenados con sellos de luz y plegarias para evitar que caigan en malas manos. Solo un elegido de un pacto celestial puede desvelar sus páginas sin temor a la condenación.
