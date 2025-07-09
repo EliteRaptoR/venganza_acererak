@@ -85,7 +85,7 @@ Ahora, Alistar se encuentra en una posición complicada dentro de su orden. Las 
 
 ### Artefactos
 
-[[Espada Castigo Divino]]
-Escudo baliza de la equidad, puede generar aura de paz
-Armadura de placas +1
-Anillo de protección +1AC y +1ST
+- [[Espada Castigo Divino]]
+- Escudo baliza de la equidad, puede generar aura de paz
+- Armadura de placas +1
+- Anillo de protección +1AC y +1ST

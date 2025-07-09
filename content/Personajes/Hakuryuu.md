@@ -92,9 +92,9 @@ Kuryruu continuó adelante bajo el nombre de Hakuryuu, luchando no solo en batal
 
 ### Artefactos
 
-[[Armadura Escamas de Argentis]]
-[[Espada Colmillo de Escarcha]]
-Escudo +2
+- [[Armadura Escamas de Argentis]]
+- [[Espada Colmillo de Escarcha]]
+- Escudo +2
 
 ---
 

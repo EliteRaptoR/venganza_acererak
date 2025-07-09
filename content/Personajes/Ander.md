@@ -141,5 +141,5 @@ Incluso cuando se siente al borde del colapso, Ander encuentra fuerza en sus ami
 
 ### Artefactos
 
-[[Armadura Piel del Ocaso]]
-[[Flauta del Callejón]]
+- [[Armadura Piel del Ocaso]]
+- [[Flauta del Callejón]]
