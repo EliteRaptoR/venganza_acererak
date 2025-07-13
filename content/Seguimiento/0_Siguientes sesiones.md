@@ -266,6 +266,175 @@ Pero **una oración** garabateada con carbón aparece en la pared del templo req
 
 ---
 
+
+## **Día 4: El Murmullo de las Calles**
+
+### **Lugar:**
+
+Un cruce bullicioso en el distrito del Puerto de Waterdeep, al caer la tarde. Las sombras se alargan entre los puestos cerrados, y el murmullo de la multitud sustituye a la música habitual.
+
+### **Contexto:**
+
+Los personajes caminan por una ruta conocida, quizá de regreso de una reunión o en busca de provisiones. Pero notan algo diferente: las miradas. La forma en que los rostros se giran demasiado rápido. La manera en que las voces bajan de tono cuando pasan.
+
+---
+
+### **Escena Desencadenante:**
+
+Una niña suelta una piedra que rebota junto a los pies de uno de los personajes. La madre la reprende… pero no por lanzar la piedra, sino por hacerlo tan cerca de los soldados de la Mano.
+
+> **Madre (en voz baja, creyendo que no la oyen):**  
+> “No mires a los héroes, Kera. Son los que atraen la muerte. Como las moscas al fuego.”
+
+Un anciano, con voz rasposa, añade desde un portal:
+
+> “¡Desde que llegaron, no ha habido paz! ¡Profetas, apóstoles, demonios… siempre donde pisan ellos!”
+
+Un grupo de comerciantes murmura entre dientes:
+
+> “Si se marcharan, quizás la Voz tendría clemencia. Quizás…”
+
+Una mujer joven los mira fijamente, con rabia contenida:
+
+> “¿Cuántos templos arderían si no anduvierais siempre en medio? ¿A cuántos arrastraréis con vosotros?”
+
+---
+
+### **Ambiente:**
+
+- El viento agita pañuelos con símbolos de la Nueva Fe.
+    
+- Hay puestos vacíos, persianas echadas, olor a incienso agrio.
+    
+- Guardias de la Mano de Hierro están presentes, pero no interfieren… observan.
+    
+- Un apóstol menor (quizá Marvyn Taul) da un discurso a unas decenas de vecinos, pronunciando:  
+    _“¡Aquellos que traen promesas vacías… también traen el juicio sobre sus cabezas!”_
+    
+
+La multitud aplaude. Algunos miran directamente a los personajes.
+
+---
+
+### **Oportunidades de Juego:**
+
+- **Prueba de Sabiduría o Intuición:** Para captar que una parte de la multitud está nerviosa… pero otra está lista para acusar, delatar o incluso atacar.
+    
+- **Intervención Narrativa:** Un niño con una muñeca rota se acerca y pregunta a Orianna:  
+    _“¿Por qué el templo de mi mamá se cerró? Ella curaba gente…”_  
+    El silencio pesa más que cualquier respuesta.
+    
+
+---
+
+### **Gancho Emocional:**
+
+En una esquina, una anciana (quizá **Maela Torran**, si fue liberada anteriormente) susurra al pasar:
+
+> “No os odiamos… solo tenemos miedo. Pero el miedo en manos de otros… se vuelve furia.”
+
+---
+
+### **Desenlace Posible:**
+
+- Si los personajes hablan, pueden calmar o incendiar más la situación.
+    
+- Si ignoran, el desprecio crece: hay quien escupe al suelo tras su paso.
+    
+- Si se muestran bondadosos, un niño les entrega una flor… pero su madre lo abofetea y lo arrastra.
+    
+
+---
+
+### **Consecuencias Narrativas:**
+
+- Refuerza el dilema moral de los personajes: ¿proteger a una ciudad que parece rechazarlos? ¿Luchar por un pueblo que los teme?
+    
+- Puede iniciarse una conversación interna entre ellos (o contigo, como narrador) sobre si deben quedarse.
+    
+- Establece que la Voz y la Mano ya no necesitan solo soldados: ahora tienen al miedo como aliado.
+
+## **Día 4/Noche: El Banquete de Carne**
+
+### **Escena: Gritos en la Penumbra**
+
+---
+
+### **Lugar:**
+
+Un callejón oscuro en el distrito de las Agujas Silenciosas, cerca de una plaza secundaria abandonada. Las farolas están apagadas. Solo la luna oculta tras nubes ilumina tenuemente los tejados. El hedor es fétido: carne, humo, hierro oxidado.
+
+---
+
+### **Inicio de la Escena:**
+
+Los personajes avanzan por las calles semidesiertas, en dirección a su refugio o quizás en ronda de vigilancia, cuando **un grito desgarrador rompe la quietud**, seguido de sonidos húmedos, como carne desgarrándose y huesos rompiéndose.
+
+Una voz femenina suplica, ya sin aliento. Luego, silencio.
+
+> **Opcional:** Tirada de Percepción (CD 13) para ubicar con precisión el origen.  
+> **Si superan CD 17:** Escuchan gruñidos guturales, conversaciones en un idioma infernal mezclado con carcajadas grotescas.
+
+---
+
+### **Al llegar al lugar:**
+
+Una **plaza secundaria**, encajada entre dos edificios colapsados, sirve de escenario. En el centro hay una pila de piedra rota —antiguamente una fuente—, y sobre ella, **dos demonios obesos y de piel rojiza**, cubiertos de grasa, vísceras y sangre fresca, se agachan sobre el cuerpo desgarrado de una mujer aún convulsa.
+
+Sus bocas abiertas son pozos circulares llenos de dientes desordenados. Uno arranca una pierna de un tirón. El otro chilla de placer mientras mastica.  
+La sangre empapa los adoquines.
+
+---
+
+### **Enemigos:**
+
+### **2 Gluttonas del Abismo (tipo demonio personalizado)**
+
+**Inspiración mecánica:** basado en _Hezrou_ o _Bulettes infernales_, pero con habilidades centradas en **debilitar por hedor, atrapar, y regenerarse al devorar carne**.
+
+#### Rasgos especiales:
+
+- **Aura de Corrupción Gástrica (6 m):** al principio del turno, CON CD 14 o sufren Desventaja en ataques hasta el siguiente turno.
+    
+- **Festín Voraz (acción):** Si muerden a una criatura inconsciente o muerta, recuperan 10 PV y ganan +2 CA durante 1 ronda.
+    
+- **Panza Iracunda (reacción):** si reciben daño radiante, gritan y entran en frenesí, ganando un ataque extra en su próximo turno.
+    
+
+---
+
+### **Narrativa del Combate:**
+
+Al ver a los personajes, uno de los demonios alza la cabeza, los ojos inyectados en grasa y gozo:
+
+> **Demonio 1 (voz gutural):**  
+> “¿Queréis un trozo? Esta aún estaba caliente…”
+
+> **Demonio 2 (ronco, babeando):**  
+> “Más música. Más carne viva. ¡Danzad para el festín!”
+
+Acto seguido, se lanzan con violencia brutal, con garras como garfios y aliento pestilente.
+
+---
+
+### **Opciones Tácticas del Escenario:**
+
+- **Terreno difícil:** sangre en los adoquines, ruinas, fuego en pequeños braseros.
+    
+- **Cuerpos cercanos:** hay una segunda víctima aún viva pero inconsciente (un niño o un viejo). Salvarlo puede ser una acción heroica… o un anzuelo trampa.
+    
+- **Aparición de refuerzos (opcional):** si el combate se prolonga, un tercer demonio más pequeño puede aparecer: un “Sabueso estomacal” (tipo dretche) que rastrea la carne de los vivos.
+    
+
+---
+
+### **Final del Combate:**
+
+Si los personajes vencen, hallan restos irreconocibles de la mujer, tatuajes o ropas que podrían vincularla a un templo, un gremio o un civil inocente.
+
+Uno de los demonios, al morir, suelta una carcajada asfixiada y susurra en abisal:
+
+> “El Abismo se ha sentado a la mesa. ¡Y la Voz nos ha abierto la puerta!”
 ## **Día 4: El Consejo de la Cámara Silente**
 
 ### _Escena: La Voz del Oro_

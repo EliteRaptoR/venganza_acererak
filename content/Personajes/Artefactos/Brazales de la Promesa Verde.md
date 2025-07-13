@@ -9,7 +9,7 @@ _Brazales mágicos, raros (requieren sintonización por un druida, guardián o l
 
 - **Tipo:** Brazales (protección mágica, objeto sintonizado)
     
-- **Clase de Armadura:** +1 CA (este bonificador se suma a armadura natural o mágica)
+- **Clase de Armadura:** +2 CA (este bonificador se suma a armadura natural o mágica)
     
 - **Propiedades:** mágico, dracónico, natural
     

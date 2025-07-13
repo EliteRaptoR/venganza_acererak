@@ -24,7 +24,7 @@ _Arma cuerpo a cuerpo (gran espada), legendaria (requiere sintonización)_
 
 #### Furia del Dragón de Trueno
 
-Cuando el portador obtenga un golpe crítico con Tempestad de Eldrázuron, inflige **2d6** puntos de daño adicional de trueno.
+Cuando el portador obtenga un golpe crítico con Tempestad de Eldrázuron, inflige **4d6** puntos de daño adicional de trueno.
 #### Resonancia Dracónica
 
 Solo si el portador es hechicero de linaje dracónico (sangre de trueno):
