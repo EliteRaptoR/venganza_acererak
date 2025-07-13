@@ -2,3 +2,4 @@ public !text !filter !merge !diff
 . !text !filter !merge !diff
 * !text !filter !merge !diff
 * text=auto
+*.md text eol=lf
