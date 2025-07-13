@@ -23,7 +23,7 @@ Una vez por descanso largo, puedes invocar la **Aurora Protectora**: rodeas a ti
 
 #### Corazón Inquebrantable
 
-Mientras portes el amuleto, tienes **ventaja en todas las pruebas de Coredura**
+Mientras portes el amuleto, tienes **ventaja en todas las pruebas de Cordura**
 
 ## Trasfondo
 
