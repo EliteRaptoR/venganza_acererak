@@ -19,7 +19,7 @@ _Espada larga mágica +1 (requiere sintonización por un personaje de alineamien
 
 ### Frío Heredado
 
-- Cuando Colmillo de Escarcha asesta un **golpe crítico**, inflige **1d6 puntos de daño de frío adicional**.
+- Cuando Colmillo de Escarcha asesta un **golpe crítico**, inflige **2d6 puntos de daño de frío adicional**.
 
 ---
 ## Trasfondo
