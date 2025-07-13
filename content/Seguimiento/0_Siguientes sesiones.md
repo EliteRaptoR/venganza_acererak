@@ -110,6 +110,18 @@ Los puestos de los comerciantes siguen abiertos, pero algunos detienen sus venta
 
 
 
+
+## **Orianna
+
+Las primeras luces del alba apenas rozan el bosque cuando Orianna avanza entre los altos helechos y las raíces húmedas. Su silueta se recorta entre la niebla matinal, envuelta en el perfume de romero y lavanda que exhala su talismán. Cada paso la acerca a ese umbral prohibido, donde la tierra se ha abierto como una herida y el susurro del abismo resuena bajo las cortezas agrietadas.
+
+Al borde de la grieta, el aire cambia: es más frío, denso y antiguo, cargado de un eco que no es de este mundo. Orianna siente cómo el musgo de sus brazaletes tiembla, y las escamas verdes palpitan al compás de un peligro inminente. La luz del sol lucha por penetrar la bruma, pero en el interior de la grieta sólo reina la penumbra, salpicada aquí y allá por destellos de savia corrupta que rezuma de las raíces partidas.
+
+La tierra se abre ante ella en un boquete de pesadilla, sus bordes dentados como mandíbulas abiertas. El abismo exhala vapores oscuros que se enredan en las ramas, y de lo más profundo asciende un murmullo, un cántico de voces rotas y promesas olvidadas.
+
+Al fondo, Orianna distingue el tronco partido del árbol sagrado, aún aferrado al borde como si luchara por no caer. Allí, una vara de savia y escama, mezcla de corrupción y pureza, crece entre las raíces: un capullo a medio formar, crisálida de poder y enigma.
+
+La druida respira hondo, sintiendo el palpitar de la magia antigua y la mirada invisible de Elyz, y sabe que, en ese umbral, todo acto resonará en el bosque durante generaciones. Es el momento de elegir entre el miedo y el coraje, entre la huida y la transformación.
 ## **Día 3: Confiscación en el Templo de Tymora**
 
 ### **Lugar:**
