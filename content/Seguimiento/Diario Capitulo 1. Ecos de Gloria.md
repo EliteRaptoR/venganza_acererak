@@ -4,11 +4,12 @@
 # Diario Capitulo 1: Ecos de Gloria
 
 ## _Índice:_
-[[Diario Capitulo 1. Ecos de Gloria#Sesión 1|Sesión 1]]
-[[Diario Capitulo 1. Ecos de Gloria#Sesión 2|Sesión 2]]
-[[Diario Capitulo 1. Ecos de Gloria#Sesión 3|Sesión 3]]
-[[Diario Capitulo 1. Ecos de Gloria#Sesión 4|Sesión 4]]
-[[Diario Capitulo 1. Ecos de Gloria#Sesión 5|Sesion 5]]
+- [[Diario Capitulo 1. Ecos de Gloria#Sesión 1|Sesión 1]]
+- [[Diario Capitulo 1. Ecos de Gloria#Sesión 2|Sesión 2]]
+- [[Diario Capitulo 1. Ecos de Gloria#Sesión 3|Sesión 3]]
+- [[Diario Capitulo 1. Ecos de Gloria#Sesión 4|Sesión 4]]
+- [[Diario Capitulo 1. Ecos de Gloria#Sesión 5|Sesión 5]]
+- [[Diario Capitulo 1. Ecos de Gloria#Sesión 6|Sesión 6]]
 
 ---
 ## **Prologo**
@@ -1528,18 +1529,425 @@ La escena terminó con la visión aérea ascendiendo lentamente desde la mansió
 
 ## **Sesión 5**
 
+### _Ceniza y agua_
+
+Un suave y persistente susurro de lluvia envolvía la ciudad en un manto melancólico. Las calles, habitualmente bulliciosas y vibrantes, amanecían ahora silenciosas, cubiertas por una mezcla pegajosa de cenizas, polvo y sangre diluida que formaba un barro oscuro y ominoso bajo las pisadas cautelosas de los escasos transeúntes. Waterdeep respiraba tensión, expectante, aguardando un desenlace aún incierto.
+
+En el interior de la mansión de Hakuryuu, el grupo debatía sobre sus próximos movimientos, sopesando la necesidad urgente de descanso frente a la premura de sus obligaciones. Ander, aún visiblemente agotado, contemplaba con duda la posibilidad de permanecer en la mansión, buscando una tregua en su estado. Fue entonces cuando Sildar, decidido, sacó de entre sus pertenencias una brillante poción de curación mayor, ofreciéndosela con gesto firme.
+
+—Ander, esto debería bastar para ponerte en pie —aseguró Sildar con una calma resolutiva—. No podemos permitirnos perder ni un solo día más.
+
+Hakuryuu, aunque convencido desde el inicio de que no era momento para ceder al cansancio, observaba en silencio, otorgando espacio a la determinación del grupo. Ander finalmente cedió, animado por las palabras y la confianza de sus compañeros. Una vez que todos recuperaron parcialmente sus fuerzas mediante diversas pociones de curación, Orianna, Vengy, Alistar, Sildar, Ander, Hakuryuu y Malizall salieron juntos, dirigiéndose hacia el templo de Lathander para advertir a sus aliados y realizar algunas compras necesarias para equipar a Ander.
+
+La mansión de Hakuryuu, situada en el prestigioso distrito del mar, era una muestra palpable de riqueza y poder. Sea Ward, la joya resplandeciente de Waterdeep, lucía ahora extrañamente sombría, envuelta por la lluvia y vigilada con férrea precisión por soldados y mercenarios contratados por la nobleza local. Cada mansión parecía una fortaleza vigilada celosamente, y las calles rectilíneas se extendían bajo la luz pálida de faroles mágicos, resaltando las magníficas fachadas de mármol blanco que reflejaban el gris melancólico del cielo.
+
+![[Distrito del Mar.png]]
+
+Mientras avanzaban, el grupo pudo percibir cómo las miradas juiciosas y desconfiadas que solían acompañarles en días anteriores se habían transformado notablemente. Los soldados apostados en las calles, ataviados con armaduras relucientes, lanzaban ahora miradas de aprobación y respeto, reconociendo en aquellos héroes de Chult la fuerza y determinación necesarias para enfrentar los tiempos difíciles que se cernían sobre la ciudad.
+
+Al pasar por un mercado pequeño y poco concurrido, Ander detuvo al grupo con un gesto rápido.
+
+—Dadme un momento —pidió, señalando con una sonrisa al pequeño puesto—. Necesito equiparme adecuadamente. Después de todo, nunca se sabe cuándo podríamos necesitar algo más que suerte.
+
+El resto del grupo asintió, conscientes de que cada detalle importaba ahora más que nunca, mientras la lluvia continuaba cayendo, implacable, sobre Waterdeep.
+### _Compras Necesarias en Waterdeep_
+
+Mientras el grupo avanzaba por las calles semidesiertas en dirección al templo de Lathander, la atención de Ander quedó cautivada por un pequeño puesto de ropa, notablemente solitario y en calma. Con una sonrisa traviesa y ánimo ligero, el halfling se dirigió al mercader, que parecía sumido en una aburrida contemplación del vacío.
+
+—¡Buenas tardes, buen hombre! —saludó Ander con tono jocoso—. ¡Veo que está desbordado de trabajo hoy! ¿Tendrá algo adecuado para alguien de mi talla?
+
+El tendero, con una ceja arqueada pero sonriente ante la broma, contestó con rapidez:
+
+—¿Crees acaso que eres el primer halfling que precisa renovar su vestuario? Ven, mira lo que tengo para ti.
+
+Ander inspeccionó con entusiasmo las prendas modestas que le fueron mostradas, y sin dudar exclamó alegremente:
+
+—¡Me encanta! Sin duda será mejor que lo que llevo puesto.
+
+El vendedor, con una mirada cargada de ironía, agregó:
+
+—Y además, estará limpio.
+
+Sin mayor ceremonia, Ander comenzó a desvestirse allí mismo, ignorando el frío punzante que de inmediato mordió su piel desnuda. La satisfacción era tal que decidió ofrecer una generosa propina al tendero, llamando con impaciencia a Vengy para que desembolsara el dinero necesario.
+
+—Serán veinte piezas de oro —informó el mercader, sorprendido y agradecido al recibir veinticinco.
+
+Observando a Vengy con atención, el tendero frunció ligeramente el ceño y comentó con curiosidad:
+
+—Juraría que le conozco... Su rostro me resulta familiar. ¿Es usted de por aquí? Aunque esas ropas no son obra mía, desde luego.
+
+Vengy, ligeramente incómodo por la atención inesperada, se despidió cortésmente y se retiró del puesto.
+
+Tras esta breve pausa, el grupo reparó en que equipar adecuadamente a Ander con una armadura era una prioridad absoluta, incluso antes de llegar al templo. Rápidamente localizaron un bazar cercano, otro espacio sumido en una calma inquietante. El dependiente, que se mostró inmediatamente animado por su llegada, les recibió con notable alivio:
+
+—¡Ah, por fin! ¡Mis primeros clientes del día! ¿Qué buscan? ¿Quizás prepararse para una aventura?
+
+Ander, directo y entusiasta, respondió:
+
+—Precisamente vengo a buscar la mejor armadura ligera que tenga para mí.
+
+El mercader les mostró algunas armaduras de buena calidad, pero justo en ese momento, Hakuryuu intervino, atrayendo la inmediata atención del vendedor, quien lo reconoció al instante.
+
+—Hakuryuu, ¿esto es lo mejor que puedes ofrecer? —preguntó el guerrero con cierta autoridad.
+
+—¡Oh, señor! Claro que no. Por favor, acompáñeme —respondió rápidamente el vendedor, conduciéndolos a una habitación reservada, donde se almacenaban artefactos de considerable calidad y poder mágico. De entre estas maravillas, el vendedor seleccionó cuidadosamente una armadura especialmente adecuada para Ander: una armadura oscura de cuero tachonado, cuyos remaches ennegrecidos y la ausencia aparente de costuras creaban una ilusión de sombras vivientes. Su superficie absorbía la luz con una propiedad casi sobrenatural, haciendo difícil distinguir claramente sus bordes.
+
+—Esta es la Piel del Ocaso —anunció el mercader con reverencia—. Aunque no posee magia propiamente dicha, su cuero absorbe la luz de forma singular. Sería sumamente difícil verte mientras la lleves puesta, especialmente en penumbra. El conjunto fue elaborado por un maestro curtidor de Waterdeep, famoso por vestir a bardos, ladrones y agentes del Senado Secreto. Las botas, especialmente, se trenzan con hilos de plata lunar y poseen runas antiguas contra la detección.
+
 ![[Piel del Ocaso.png]]
+[[Armadura Piel del Ocaso]]
+
+Hakuryuu, con gesto escéptico, inspeccionó minuciosamente la armadura. Inicialmente desestimó su valor con desdén, alegando que el precio solicitado era exagerado. Pero tras una observación más detenida y reconociendo la calidad extraordinaria del trabajo, cedió con cierto desinterés:
+
+—Está bien... supongo que para ti será suficiente.
+
+Finalmente, tras las súplicas emotivas de Ander y la ligera insistencia de Hakuryuu y Vengy, adquirieron la armadura junto con unas botas a juego, mientras Alistar y Orianna, ya impacientes, urgían al grupo para continuar con premura hacia el templo de Lathander, deteniéndose previamente en el hospicio de Vengy para recuperar fondos adicionales.
+
+### _Las Agujas del Amanecer_
+
+Tras pasar brevemente por el hospicio donde se alojaba Vengy para recoger algunos fondos adicionales, el grupo avanzó hacia Las Agujas del Amanecer, el espléndido templo de Lathander, ubicado cerca de la costa pero fuera ya del Distrito del Mar. La estructura, magnífica y luminosa, parecía no sólo tallada en piedra y arte, sino moldeada a partir de la luz misma. Columnas abovedadas de mármol rosado y jaspe dorado sostenían bóvedas etéreas, coronadas por agujas de cristal puro, cuyos extremos en orbes de oro bruñido multiplicaban la luz en espectaculares haces irisados.
 
 ![[Templo de Lathander.png]]
+_Templo de Lathander_
 
-![[Templo de Lathander2.png]]
 
+Frente al templo se había dispuesto un escenario provisional de madera, sobre el cual permanecía inmóvil un joven con túnica blanca acompañado por tres soldados de la Mano de Hierro. Alrededor, numerosos soldados adicionales vigilaban atentamente la escena. Frente al escenario, una considerable multitud esperaba con inquietud. Diversos ciudadanos, muchos claramente devotos de la nueva fe, sostenían con reverencia sencillos amuletos que apretaban contra sus corazones en ferviente anticipación.
 
+El joven del escenario, conocido como el Apóstol Marvyn Taul, tenía un porte nervioso y febril, su piel pálida contrastando con su cabello castaño liso que caía sobre su frente. Su expresión era una mezcla de solemnidad y fervor, destacando el símbolo triangular oscuro de la Mano de Hierro bordado en su túnica blanca.
+
+El grupo, intrigado y precavido, decidió posicionarse cerca de la entrada del templo, desde donde podrían observar sin mezclarse directamente con la multitud. Otros miembros de la orden de Lathander salieron también del templo, congregándose en la entrada para escuchar las palabras del apóstol.
+
+Cerca del joven apostólico se encontraba el Sargento Derian Farse, con su semblante siempre alerta, rostro cuadrado marcado por una fina cicatriz bajo un ojo de acero azul. Vestía su habitual cota de malla impecable bajo un abrigo negro de cuero adornado con ribetes metálicos, mostrando con orgullo el brazalete triangular de la Mano de Hierro.
+
+Derian descendió del escenario justo antes de que Marvyn levantará lentamente sus brazos al cielo, invitando a un silencio absoluto. La multitud respondió inmediatamente, cayendo en un silencio tan profundo que casi podía palparse físicamente. En ese instante, un zumbido sordo reverberó en el aire, acompañado por un leve pero notable tambaleo en el poder divino que sustentaba a Vengy, Malizall y Alistar, haciendo que intercambiaran miradas de preocupación y alarma.
+
+La tensión en el ambiente era palpable, mientras todos aguardaban expectantes las palabras que pronto romperían aquel pesado silencio.
+
+### _El Pregón del Apóstol_
+
+![[Apóstol Marvyn Taul.png]]
+[[Apóstol Marvyn Taul]]
+
+Con una postura firme y solemne, el joven Apóstol Marvyn Taul se adelantó ligeramente en el escenario, proyectando una presencia que llenaba la plaza entera. Aunque evidentemente inexperto en la oratoria pública, sus ojos claros, vidriosos por el fervor, y la tensión palpable en su mandíbula, revelaban una convicción profunda, casi absoluta. Sus manos se alzaron lentamente, con gestos medidos y ceremoniosos, mostrando una seguridad imperturbable que atrapó inmediatamente la atención de la multitud expectante.
+
+Con una voz que inició en un susurro contenido y fue creciendo paulatinamente en resonancia y autoridad, Marvyn comenzó su discurso, cada palabra cuidadosamente articulada y cargada de un poder casi hipnótico:
+
+> “Amados hijos de Waterdeep…
+> 
+> El Dios Verdadero nos ha hablado con voz clara.  
+> Y esa voz, que resuena a través de la Mano, no viene a castigar, sino a proteger.
+> 
+> En estos días de tribulación, cuando la muerte se disfraza de milagro, debemos cerrar la puerta al engaño.
+> 
+> A partir de hoy, y por mandato tanto sagrado como civil:
+> 
+> — Toda magia de resurrección queda prohibida fuera de los Altares Sagrados, pues interferir con el destino impuesto por el Verdadero es una profanación.  
+> — Ningún conjuro de origen divino podrá ser invocado en la calle, en los hogares ni en los mercados. Las energías de los falsos dioses solo alimentan el caos.
+> 
+> Esta no es una condena, sino una cura. No es un castigo, sino una señal de fe.
+> 
+> — Y **pronto**, todo acto de **sanación** —ya sea conjuros, rituales o pociones mágicas— será **sacrilegio**, reservado exclusivamente a las manos consagradas de los Altares Oficiales, para que solo ellos determinen quién vive o muere.  
+> Pero para conseguir esto necesito de vuestra ayuda, debéis exigir este edicto al gobierno de forma incansable.
+> 
+> La Voz no os exige sacrificios, sino obediencia; no os quita consuelo, sino que os guía hacia el verdadero.
+> 
+> Que la paz del Dios Verdadero descienda sobre esta ciudad… y que la Mano, como siempre, os sostenga.”
+
+Cuando el Apóstol Marvyn concluyó su discurso, su voz resonó en la plaza como un eco sombrío que se aferró al aire por unos instantes adicionales. Ander, con el ceño fruncido y un tono abiertamente desafiante, intentó proyectar su pregunta por encima del bullicio creciente:
+
+—Tengo una pregunta para tu dios. Si no se puede practicar la resurrección fuera de los altares, ¿significa eso que existen condiciones para hacerlo?
+
+Sin embargo, su voz quedó rápidamente sofocada por la erupción entusiasta de vítores y aplausos que brotaron de la multitud, cuyos miembros clamaban con fervor casi fanático:
+
+—¡El ciclo no debe romperse! ¡La Voz debe ser escuchada!
+
+Entre el tumulto, Malizall murmuró al grupo con una mezcla de confusión y desprecio:
+
+—¿No veis la clara contradicción entre lo que dicen y lo que pretenden hacer?
+
+—Es pura hipocresía —contestó Alistar con áspera firmeza.
+
+Dos clérigos cercanos de Lathander, al escuchar estas palabras, intercambiaron miradas inquietas y cargadas de desaprobación. Sin mediar palabra, optaron por retirarse discretamente al interior del templo, dejando claro con su actitud que consideraban temerarias e imprudentes las palabras del grupo.
+
+Mientras los soldados de la Mano de Hierro se retiraban, la multitud se fragmentó en pequeños grupos, algunos demandando enérgicamente que el gobierno actuase con decisión, otros sugiriendo con furia y desesperación prender fuego a las calles en señal de protesta. El grupo, evitando involucrarse más en estas discusiones incendiarias, comenzó a avanzar hacia el templo.
+
+En ese preciso instante, una anciana de cabello canoso y manos arrugadas se adelantó rápidamente hacia Vengy, con paso tembloroso y un rostro marcado por la angustia. Portaba un símbolo dorado con la imagen del sol, evidentemente sagrado y dedicado a Lathander. Con lágrimas contenidas y voz trémula, acercó el símbolo hacia el pecho de Vengy, exclamando con desesperación:
+
+—Yo he visto milagros con mis propios ojos. ¿Quién sería capaz de prohibir la sanación? ¿Quién podría desear semejante crueldad?
+
+Orianna intervino con claridad severa:
+
+—Un dios cruel, que se deleita en la muerte y el sufrimiento.
+
+Vengy, procurando calmar a la mujer, respondió con voz firme pero serena:
+
+—No se preocupe, encontraremos al culpable de esto y haremos que responda por sus actos. Esto no quedará impune.
+
+Sin embargo, la anciana continuó con su voz casi quebrada:
+
+—Puedo entender hasta cierto punto lo de la resurrección… pero, ¿la sanación? ¿Quién podría tener el corazón tan negro para negar algo así?
+
+—Un dios que no es dios —añadió Malizall con gravedad—. Un dios falso que se regodea en la muerte.
+
+Para reforzar sus palabras y brindarle algo de esperanza, Vengy levantó su emblema sagrado de Lathander y pronunció suavemente unas palabras mágicas. Al instante, el símbolo comenzó a emitir una cálida luz dorada, reconfortante y brillante. Pero la tranquilidad fue fugaz; enseguida la luz comenzó a titilar, palideciendo hasta convertirse en un enfermizo resplandor amarillento, manifestando claramente la corrupción que permeaba incluso lo sagrado.
+
+La anciana, inicialmente reconfortada por el resplandor, contempló horrorizada cómo la luz se marchitaba.
+
+—¡No! —gritó con desesperación—. ¡El amanecer!
 
 ![[Bendición del amanecer.png]]
+_[[Amuleto Bendición del amanecer]]_
 
+La intensidad y pureza características del emblema habían sido oscurecidas, reflejando la influencia nefasta que ahora pesaba sobre la ciudad. Con expresión solemne y corazones cargados de inquietud, el grupo avanzó hacia el interior del templo, plenamente conscientes de que el peligro al que se enfrentaban iba mucho más allá de lo que hasta ahora habían imaginado.
 
+### _Audiencia con el Padre Relion_
 
+![[Templo de Lathander2.png]]
+_Patio interior del Templo de Lathander_
 
+Tan pronto el grupo mencionó que tenía un mensaje crucial para compartir, los clérigos del templo de Lathander los condujeron apresuradamente hacia el interior del majestuoso templo. La luz matinal que entraba por las agujas de cristal bañaba el recinto en resplandecientes reflejos irisados, proporcionando un ambiente de calma y reverencia profunda. Allí, aguardaba el Padre Relion, erguido y digno a pesar de su avanzada edad, con cabellos plateados y ojos azul celeste que irradiaban sabiduría y determinación serena.
+
+—Decidme, ¿cuál es el mensaje que me traéis? —inquirió Relion con voz firme, mostrando una seguridad imperturbable en su fe.
+
+![[Padre Relion.png]]
+_[[Padre Relion]]_
+
+El grupo dirigió sus miradas hacia Alistar, animándolo a tomar la palabra. Éste, dando un paso adelante, comenzó con solemnidad:
+
+—Eminencia, gracias por recibirnos. Venimos con información crítica sobre la profecía. Imagino que ya estará informado sobre algunas partes de la misma.
+
+—Así es —confirmó Relion—. Los textos y los pregones de los apóstoles ya se encuentran por doquier. Pero decidme, ¿hay algo más que deba conocer?
+
+—Efectivamente —prosiguió Alistar—. Venimos a advertirle sobre la tercera señal. Hemos sabido que en cinco días, cuando la luna se oculte sobre el horizonte marino de Waterdeep, este presagio se cumplirá. Las otras dos señales ya han tenido lugar, por lo que debemos prepararnos con toda prontitud. De hecho, planeamos alertar también a las demás órdenes religiosas afines a las fuerzas del bien.
+
+Relion asintió lentamente, comprendiendo la gravedad del mensaje:
+
+—Aprecio sinceramente vuestra diligencia. Sin embargo, debo tranquilizaros. Ya he convocado a los sacerdotes supremos de todas las órdenes para prepararnos conjuntamente ante esta última señal. El templo de Lathander siempre permanece alerta y listo para asistir a nuestros ciudadanos en cualquier circunstancia.
+
+Orianna intervino entonces, manifestando una preocupación personal:
+
+—Eminencia, la interferencia con el poder divino que percibimos hoy no parece haberme afectado demasiado, pero temo que eso podría cambiar.
+
+—Tened por seguro —respondió el sumo sacerdote con gravedad— que esta interferencia terminará afectándonos a todos por igual.
+
+—Vigilad a todos cuidadosamente —añadió Orianna con inquietud.
+
+—Además —apuntó Alistar con severidad—, la Capitana Soriah ahora se encuentra entre las filas de la Mano de Hierro.
+
+Malizall, cuya mirada reflejaba claramente sus dudas internas, habló con sinceridad:
+
+—¿No os parece contradictorio todo esto, eminencia? ¿No dudáis ante la magnitud de lo que enfrentamos?
+
+Relion dirigió al hechicero una mirada compasiva y paternal:
+
+—Malizall, ¿creéis que los clérigos de este templo, incluyéndome a mí mismo, nos sentimos merecedores del peso que Lathander ha depositado sobre nosotros? Nuestro dios confía en nosotros, y en esa confianza radica nuestro servicio. Así es como servimos a Lathander.
+
+Estas palabras reconfortaron visiblemente tanto a Malizall como a Vengy, reafirmando su determinación.
+
+Alistar prosiguió, buscando más información:
+
+—¿Habéis investigado algo más sobre la Mano de Hierro?
+
+Relion negó suavemente con pesar:
+
+—Más allá de reunir rumores y testimonios, desconocemos su origen exacto. Su organización cambia constantemente, extendiéndose rápidamente por todo Faerûn. Todo lo que sabemos es incertidumbre.
+
+—¿Y habéis hablado con el gobernador? —preguntó Alistar con curiosidad.
+
+—Así es —confirmó Relion—. Él ha cedido al edicto por miedo a una revuelta generalizada, no por malicia. Ha actuado por temor, buscando mantener la estabilidad.
+
+Antes de marcharse, Malizall solicitó con humildad al sumo sacerdote:
+
+—¿Podría prestarme algo que me ayude a combatir mis dudas y mis miedos?
+
+Relion, con un gesto solemne y bondadoso, retiró de su cuello un delicado amuleto: un pequeño sol de cristal rosado engastado en filigrana de oro blanco, del que irradiaba una suave luz reconfortante. Con voz cálida explicó:
+
+—Este colgante sagrado os otorgará claridad y coraje. Recordad siempre: "Siempre hay un nuevo comienzo".
+
+Alistar inclinó respetuosamente la cabeza:
+
+—Gracias por su tiempo, eminencia.
+
+Al salir del templo, el grupo se encontró con una multitud organizada en fervorosa protesta, reclamando con voces firmes que se cumpliera el mandato de la Voz y prohibiendo toda sanación fuera de los altares oficiales, recordándoles que el peligro que enfrentaban era cada vez más palpable y urgente.
 
 ![[Luz de la Aurora.png]]
+_[[Amuleto Luz de la Aurora]]_
+
+### _Audiencia en la Casa del Gobernador_
+
+Decididos a comunicar directamente sus preocupaciones al Gobernador, el grupo se encaminó hacia el imponente Distrito Administrativo de Waterdeep, conocido como la Plaza de la Justicia. Este enclave, de calles amplias y geométricas, imponía su presencia con edificios de piedra gris desprovistos de adornos superfluos, coronados por tejados de pizarra oscura y engalanados con sobrios emblemas cívicos, ahora tristemente acompañados por triángulos rojos de la Mano de Hierro.
+
+La plaza central, perfectamente nivelada, estaba presidida por una estatua monumental de Tyr, el Justiciero Ciego, cuya balanza dorada parecía contemplar silenciosamente la agitación reinante en la ciudad. El aire resonaba con las voces formales de magistrados y escribanos, entremezcladas con el eco metálico de armaduras de la guardia que patrullaba con rigurosa vigilancia.
+
+Al acercarse al recinto amurallado, el grupo notó con preocupación la mayor concentración militar. La habitual puerta amplia permanecía cerrada, reemplazada temporalmente por un pequeño portín custodiado por varios soldados. Tras acceder al distrito, encontraron aún más guardias desplegados, vigilando con una mezcla de tensión y rigidez.
+
+La Casa del Gobernador presentaba una sala principal abarrotada, alrededor de cien personas inquietas aguardando audiencia, hablando en susurros nerviosos o permaneciendo en ansioso silencio. Hakuryuu, mostrando una altiva determinación, avanzó hacia la recepción acompañado por Alistar, cuya expresión mostraba una ligera preocupación por la impulsividad de su compañero.
+
+—Necesitamos ver al Gobernador inmediatamente —exigió Hakuryuu con una autoridad que rozaba la arrogancia.
+
+La secretaria, una mujer mayor con expresión serena pero imperturbable, extendió con calma un formulario:
+
+—Fantástico. Rellene este formulario, por favor.
+
+—¿Acaso no sabe quién soy? —replicó Hakuryuu con visible irritación.
+
+Ante la insistencia del dragón plateado, la secretaria finalmente suspiró ligeramente, se levantó y se retiró de la sala para consultar con alguien más influyente, dejando al grupo esperando durante largos y tensos minutos.
+
+Pasados esos eternos quince minutos de espera, la paciencia de Hakuryuu finalmente se agotó. Sin contener más su frustración, intentó saltar el mostrador para hacerse oír con mayor contundencia. De inmediato, dos guardias y Alistar intervinieron para detenerlo. Uno de los guardias, reconociendo a Hakuryuu, habló con sorpresa:
+
+—¡Hakuryuu! ¿Qué hace aquí comportándose de esta manera?
+
+—Es imperativo que hablemos con el Gobernador —insistió Hakuryuu con firmeza, tratando de recuperar algo de compostura.
+
+En ese preciso momento regresó apresuradamente la secretaria con noticias favorables. Indicando con un gesto cortés, pidió al grupo que la acompañara y les guió a través del edificio hasta la planta superior. Allí, al fondo de un pasillo custodiado por guardias atentos, una puerta maciza de nogal decorada con el medallón de la ciudad les dio paso al despacho del Gobernador.
+
+La estancia rectangular que les acogió estaba repleta de estanterías con innumerables volúmenes de leyes, registros y crónicas, iluminada suavemente por la luz filtrada a través de pesadas cortinas grises. El escritorio de madera negra, imponente y ordenado, reflejaba la seriedad del hombre que los esperaba detrás: el Gobernador Varn Dorsic, quien se levantó al verlos entrar con una cordialidad casi exagerada y abrió sus brazos en un gesto hospitalario:
+
+—¡Mis queridos amigos, qué alegría veros aquí reunidos! Ha pasado demasiado tiempo desde la última vez que nos encontramos todos juntos. Desde aquel día tan memorable en que regresasteis entre los vivos. ¡Por favor, sentaos!
+
+Casi todo el grupo accedió inmediatamente a la invitación, excepto Hakuryuu y Orianna, quienes permanecieron de pie con gesto firme. Finalmente, ante la mirada insistente y suave de Orianna, Hakuryuu decidió sentarse con renuencia, aguardando con visible tensión el inicio de la importante conversación.
+
+
+![[Varn Dorsic.png]]
+_[[Gobernador Varn Dorsic]]_
+
+### _La Discusión con el Gobernador_
+
+Tras la inicial cordialidad, pronto la conversación entre el Gobernador Varn Dorsic y el grupo derivó hacia terrenos más tensos. Alistar fue el primero en expresar abiertamente sus preocupaciones sobre la reciente ley promulgada respecto al uso de magia divina.
+
+—Esa ley que prohíbe el uso de la resurrección y la sanación es extremadamente preocupante, gobernador —manifestó Alistar con firmeza.
+
+Dorsic miró a Alistar con una seriedad glacial y replicó con contundencia:
+
+—Lo realmente preocupante, Alistar, es que haya ciudadanos que se opongan a esta ley.
+
+La respuesta desconcertó al grupo. El gobernador prosiguió con énfasis:
+
+—Esta decisión busca salvaguardar la convivencia en la ciudad. Más allá de lo que podáis pensar sobre la nueva fe, es un hecho que cuenta con el apoyo de un número significativo de ciudadanos. Nuestra responsabilidad es adaptarnos a esa realidad.
+
+—¡Esa organización solo se aprovecha del miedo de la gente! —replicó Alistar, indignado.
+
+—Tal vez tengas razón, pero esa es nuestra realidad —respondió Dorsic con determinación—. ¿Qué proponéis, acaso? ¿Que prohíba a la Mano de Hierro, que los encarcele a todos? ¿Habéis pensado qué podría pasar entonces? ¿Creéis que sus seguidores permanecerían impasibles ante una acción así? El resultado sería una revuelta sangrienta, algo que bajo ningún concepto permitiré en Waterdeep.
+
+La discusión fue intensificándose con reproches mutuos. Malizall, intentando aportar cierta racionalidad, comentó:
+
+—Esa fe no tiene ninguna base real, ninguna verdad auténtica.
+
+—Puede que no la tenga —reconoció Dorsic con voz grave—, pero la realidad es que la gente cree en ella, y la creencia puede ser tan poderosa como cualquier verdad.
+
+—La Mano de Hierro continúa acumulando poder —insistió Alistar—, y llegará el día en que decidan sustituir vuestra autoridad por completo.
+
+Dorsic suspiró profundamente, dejando escapar por primera vez un atisbo claro de su profundo agotamiento y preocupación:
+
+—Os equivocáis si pensáis que no hemos estudiado a fondo a la Mano de Hierro. Sabemos perfectamente lo que está ocurriendo. Antes de los eventos recientes, apenas eran un millar de seguidores dispersos por la Costa de la Espada; ahora se cuentan por miles solo en Waterdeep. Actualmente existen ocho apóstoles conocidos, dos de ellos aquí mismo en nuestra ciudad. Uno es joven y fervoroso, mientras que al otro lo llaman el Gran Apóstol, ya que es el único que afirma haber visto personalmente a La Voz. Los demás solo la han escuchado.
+
+Ante la atención concentrada del grupo, el gobernador continuó con una mezcla de inquietud y fascinación:
+
+—Los apóstoles repiten exactamente las mismas consignas y mensajes, como si fueran ecos perfectos. La Voz parece ser una entidad de inteligencia incomparable, poseedora de un conocimiento absoluto sobre lo conocido y dotada de un poder mágico sin precedentes. Nuestros espías inicialmente calificaron la profecía como meras patrañas, pero la precisión con la que se está cumpliendo me hace dudar sobre si esta entidad realmente puede ver o incluso manipular el futuro.
+
+Orianna intervino con determinación:
+
+—No es cuestión de que pueda ver el futuro, gobernador. Él mismo está creando ese futuro. Ya intentó crear un dios de la muerte en el pasado, y nosotros lo impedimos. Y lo volveremos a impedir ahora.
+
+Dorsic asintió con solemnidad, percibiendo la gravedad de las palabras de Orianna.
+
+—Sobre la profecía —continuó Orianna—, sabed que la próxima señal ocurrirá dentro de pocos días. Debéis prepararos para entonces.
+
+—Tenemos al mejor ejército de la Costa de la Espada, los clérigos más poderosos y guerreros inigualables —respondió el gobernador con renovada seguridad—. No permitiremos que nada de esto ocurra.
+
+Con la discusión concluida y sabiendo que debían actuar con premura, el grupo se despidió y salió del despacho del gobernador. Antes de abandonar definitivamente la casa gubernamental, Hakuryuu respiró profundamente y, haciendo acopio de valor y humildad, se acercó a la secretaria con gesto incómodo pero sincero.
+
+—Lamento profundamente mi comportamiento anterior. No era mi intención causarle molestias, y espero pueda aceptar mis disculpas.
+
+La secretaria, visiblemente sorprendida pero agradecida por el gesto inesperado, asintió suavemente con una leve sonrisa.
+
+El grupo dejó atrás la casa del gobernador, plenamente conscientes del difícil camino que aún debían recorrer.
+
+### _Investigación en la Capilla de Lathander_
+
+Tras la reunión con el Gobernador, el grupo decidió dirigirse al pequeño templo de Lathander ubicado cerca del acantilado que domina el puerto de Waterdeep. Esta modesta capilla, conocida por albergar el primer campanario que saludaba al alba cada mañana, presentaba ahora una escena desoladora tras la reciente explosión. A medida que se acercaban, observaron claramente cómo el campanario parecía haber sido arrancado con violencia, dejando sólo escombros dispersos y la huella ennegrecida de un incendio sofocado apresuradamente.
+
+Consciente de la gravedad del incidente, Ander fue el primero en examinar superficialmente la escena en busca de rastros de pólvora o residuos que pudieran indicar el uso de algún tipo de explosivo.
+
+—Debo acercarme más —murmuró el halfling mientras contemplaba los cascotes esparcidos en la ladera que daba al mar—. Solo así sabré si realmente fue una bomba.
+
+El grupo accedió al interior del templo, donde inmediatamente Ander y Vengy descubrieron una cuerda parcialmente chamuscada sobre el suelo. Ander la recogió cuidadosamente, olfateando con atención, aunque no pudo detectar nada fuera de lo común.
+
+—No hay olor a pólvora ni a sustancias químicas —informó Ander con cierta frustración.
+
+Intentaron entonces ascender al lugar exacto del incidente, pero las escaleras del campanario se habían reducido a cenizas por las llamas recientes. En respuesta, Malizall extendió sus manos con gesto solemne, invocando alas mágicas que surgieron como resplandecientes manifestaciones de luz dorada. Estas alas, translúcidas y delicadamente emplumadas, irradiaban una calidez reconfortante y un suave resplandor que recordaba inevitablemente el primer amanecer.
+
+![[Alas sobre Ander.png]]
+
+Desde arriba, Vengy observó minuciosamente las vigas destrozadas, detectando indicios claros de direccionalidad en la explosión.
+
+—Parece que la detonación se produjo desde este lado, lanzando la campana en dirección opuesta —explicó, señalando los puntos específicos de mayor daño.
+
+Intrigado por estas observaciones, Ander consultó inmediatamente a Hakuryuu:
+
+—¿Crees que podrías estimar si esto fue causado por una bomba colocada intencionadamente, algún proyectil, o incluso un fenómeno mágico?
+
+Hakuryuu frunció el ceño, evaluando cuidadosamente los restos estructurales y la trayectoria visible de los fragmentos.
+
+—Por la fuerza y el patrón de dispersión, cualquier explosivo convencional parece improbable. Una explosión mágica de gran poder o incluso un meteoro caído del cielo serían explicaciones más plausibles. Y si fuera magia, excedería con creces nuestra capacidad actual.
+
+Orianna, pensativa, repasó en voz baja las palabras exactas de la profecía:
+
+—“Cuando el cielo se tiña de vino, la campana sonará bajo el agua”. ¿Debemos buscar la campana? Quizás pueda hallarse algo significativo allí abajo.
+
+Hakuryuu, con mirada analítica, intentó trazar la trayectoria posible de la campana al caer para facilitarle a Orianna su búsqueda submarina. Sin embargo, la druida mostró dudas:
+
+—Incluso si encontramos la campana, ¿cómo vamos a moverla? ¿Qué utilidad tendría entonces?
+
+El grupo, inmerso en profundas reflexiones, debatió durante varios minutos sobre la mejor manera de proceder. Finalmente, Alistar rompió el silencio con una sugerencia audaz:
+
+—Si lo pensamos bien, quizá esa gente no desaprovecharía la oportunidad de intentar convertirnos a su fe. Tal vez no debamos infiltrarnos, sino presentarnos abiertamente. Además, las marcas que vosotros lleváis —añadió, señalando significativamente a Hakuryuu y Orianna— podrían ser símbolos reconocibles por la organización. Eso podría brindarnos acceso directo a sus miembros más importantes.
+
+La propuesta quedó flotando en el aire, aumentando la tensión palpable del momento mientras el grupo consideraba detenidamente cuál sería su próximo movimiento.
+
+### _Revelación del Vínculo_
+
+En medio de la tensa reflexión provocada por las palabras de Alistar, Orianna, con súbita inquietud, reconstruyó mentalmente la escena del joven apóstol predicando frente al templo de Lathander. Su corazón se aceleró al darse cuenta de un detalle hasta entonces inadvertido.
+
+—¡La marca! —exclamó Orianna con ansiedad—. El apóstol, aquel joven que vimos, tenía exactamente la misma marca que llevamos Hakuryuu y yo.
+
+Un escalofrío recorrió al grupo al comprender la magnitud de lo que aquello implicaba. Hakuryuu intervino inmediatamente, visiblemente perturbado por la revelación:
+
+![[La marca de Hakuryuu.png]]
+
+—Debemos ser extremadamente cuidadosos —advirtió con gravedad—. Si esa marca nos vincula a ellos, podrían utilizarla en nuestra contra.
+
+Apenas hubo terminado de hablar, el dragón plateado sintió una violenta sacudida en su mente, como si una presencia poderosa y oscura invadiera abruptamente sus pensamientos. Su mirada se tornó vidriosa y distante, atrapado repentinamente en un trance profundo. La voz resonante y fría de Acererak invadió sus sentidos, envolviéndolo por completo en una niebla de recuerdos y culpa:
+
+> _¿Cuánto pesa el nombre de un héroe cuando nadie lo pronuncia ya?_
+
+Hakuryuu tembló imperceptiblemente, incapaz de responder, inmovilizado por aquella voz sobrenatural.
+
+> _Siento tus garras temblar en la noche. No es Myrym lo que has perdido, es a ti mismo. ¿O acaso nunca has sido nada de lo que pretendías ser?_
+
+Un gemido apenas audible escapó de la garganta del guerrero, atormentado por las dudas que habían anidado secretamente en su corazón durante tanto tiempo.
+
+> _¿Será quizás que toda tu vida es una cruel mentira, Hakuryuu? ¿Es acaso ese tu verdadero nombre?_
+
+La voz, implacable y burlona, desvelaba cruelmente la verdad oculta, desgarrando su alma en jirones. En un arrebato de desesperación, Hakuryuu reunió fuerzas para replicar mentalmente:
+
+—¡Basta! ¡Es mi espada lo que necesito recuperar!
+
+La respuesta resonó como una carcajada despiadada dentro de su mente:
+
+> _¿De verdad quieres tu espada?_
+
+—¡Sí! —respondió Hakuryuu con creciente angustia.
+
+> _Entonces ven a buscarla. Está justo donde la dejaste._
+
+—¡Iré allí! —gritó mentalmente, decidido a enfrentar lo que fuera necesario.
+
+La risa siniestra de Acererak resonó nuevamente antes de desvanecerse lentamente, dejando al guerrero sumido en un oscuro silencio interior.
+
+La visión se disipó bruscamente y Hakuryuu, liberado súbitamente del trance, cayó al suelo inconsciente ante la mirada alarmada de sus compañeros, que se apresuraron a socorrerlo, plenamente conscientes de que ahora enfrentaban algo mucho más profundo y peligroso de lo que habían anticipado.
+
+---
+
+## **Sesión 6**
+
