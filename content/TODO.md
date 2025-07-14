@@ -1,8 +1,14 @@
+diario arreglar conversaciones de sesion 3 añadiendo dialogos.
+cambiar la descripcion del corazon del abismo. (sesion 2)
+Añadir conversacion de malizall con relion (sesion 5)
+	Hay un fragmento de hakuryuu comprando la armadura que esta mal
+	añadir Verdeado en mayusculas en le discurso del apostol
+	subir imagenes a public
+diario sesion 6
 
 prepara escenas para la investigacion de la mano de hierro.
 
-diario sesion 5
-diario sesion 6
+
 
 Orianna cree que la frase de la profecía que habla de la sangre y la piedra habla del corazon del abismo, incorporar esto en las notas.
 
