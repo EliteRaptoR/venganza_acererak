@@ -569,7 +569,9 @@ Sin embargo, Elyz se adelantó a su búsqueda, con sus ojos brillantes cargados 
 
 Sin opción de discutir, Orianna montó sobre el lomo de Elyz, ambas sumergiéndose en una oscuridad densa e infinita. En plena caída, Elyz realizó una maniobra repentina, lanzando a Orianna más profundamente en el abismo mientras se aferraba a las paredes para frenar su descenso.
 
-Orianna sintió los vapores tóxicos aferrándose a su cuerpo, tratando de doblegar su voluntad. Pero resistió, atraída hacia abajo por ese latido insistente que parecía estirarla hacia algo inevitable. Finalmente, ante ella apareció un corazón envuelto en ramas oscurecidas, flotando en una realidad sin calor, tiempo ni gravedad. Solo existían ella y aquel corazón.
+Orianna sintió los vapores tóxicos aferrándose a su cuerpo, tratando de doblegar su voluntad, pero resistió, atraída hacia abajo por ese latido insistente que parecía estirarla hacia algo inevitable. Finalmente, ante ella apareció un corazón colosal, una masa imponente de piedra y carne entrelazada en una grotesca armonía. Su superficie palpitaba lentamente, cubierta de grietas profundas de las que emergían ramas oscurecidas y raíces retorcidas que se hundían en la oscuridad infinita, como arterias en busca de una vida que ya no existía. Aquel gigantesco corazón flotaba silencioso en una realidad sin calor, tiempo ni gravedad, emanando una presencia arcaica y perturbadora.
+
+Con cada latido, el corazón se estremecía, liberando una onda invisible que se expandía por el vacío abisal. El pulso era lento, profundo y reverberante, como el retumbar de un tambor ancestral que resonaba en la médula de Orianna, sincronizándose con su propia respiración hasta hacerle sentir que su alma latía en un compás lúgubre junto con él. En aquel instante, solo existían ella y aquel corazón, unidos por un ritmo que evocaba un destino oscuro e inexorable.
 
 ![[Corazón del abismo.png]]
 
@@ -664,31 +666,55 @@ Harker rompió el silencio, su voz grave, contenida: —Haced lo que debáis. Pe
 
 En la plaza frente al templo, la realidad era un cuadro desolador de destrucción. Columnas rotas y emblemas resquebrajados reposaban como huesos dispersos de una justicia caída. Bajo el cielo violáceo, cargado de gases residuales de la batalla nocturna, se movían figuras conocidas con pesadumbre, tratando de encontrar sentido a los restos del caos.
 
-Alistar, visiblemente agotado tras una noche sin tregua, se encontraba de pie en medio de la desolación, sus hombros caídos bajo el peso invisible de la responsabilidad. Junto a él, Ander rebuscaba entre los cadáveres con meticulosidad incómoda, guiado por la fría necesidad de dar dignidad a los caídos. No estaba acostumbrado a tal escena, pero no desistía en su tarea.
+Alistar, con evidente agotamiento tras una noche sin tregua, permanecía en medio de la desolación, sus hombros caídos bajo el peso invisible de la responsabilidad. Junto a él, Ander revisaba los cuerpos caídos con meticulosidad incómoda, buscando otorgar algo de dignidad a los muertos.
 
-Ander rompió el silencio incómodo con una voz quebrada por la ironía de su situación: —Hace mucho que no nos vemos así. ¿Qué tal una cerveza?
+—Hace mucho que no nos vemos así —comentó Ander con una voz teñida de amarga ironía—. ¿Qué tal una cerveza?
 
 —Este no es el momento, Ander —reprendió Alistar, severo aunque comprensivo.
 
-Vengy, que hasta ese momento había estado guiando a los ciudadanos heridos hacia el refugio del templo, se acercó con expresión incrédula. La tensión inicial pronto cedió ante la realidad compartida, y Alistar, finalmente, abrió su corazón, relatando las dificultades de mantener la ley y el orden en un mundo que ya no reconocía la justicia divina.
+En ese momento, Vengy, que había estado guiando a ciudadanos heridos hacia el templo, se acercó con expresión de asombro al ver a sus viejos compañeros.
 
-Ander sonrió con nostalgia, comentando con resignación que Alistar seguía siendo el mismo de siempre, firme e implacable en sus convicciones. Vengy, con ironía punzante, relató su reciente encarcelamiento, lo que provocó la sorpresa sincera de Alistar.
+—¿Alistar? ¿Ander? —preguntó Vengy sorprendido—. No esperaba encontraros aquí, aunque supongo que debería haberlo imaginado.
 
-—¿Ahora eres un estafador o un testaferro? —pinchó Ander, recuperando por un instante su vieja chispa provocadora.
+Ander sonrió nostálgicamente.
 
-Vengy trató de justificarse torpemente, maldiciendo su inocencia y jurando venganza contra aquellos que lo habían engañado. Esta conversación, tan llena de camaradería y tensión contenida, despertó en Alistar sentimientos encontrados: alegría por el reencuentro, añoranza de tiempos mejores y nostalgia por la unidad perdida del grupo que una vez había enfrentado lo imposible.
+—Supongo que hasta en tiempos como estos, algunos siguen firmes en sus convicciones.
 
-Vengy, notando la apariencia desmejorada de Ander, lo llamó cariñosamente "pequeñajo", intentando limpiar torpemente el polvo acumulado en sus desgastadas ropas.
+—El mundo ha cambiado demasiado —comentó Alistar con tono grave—. Mantener la ley y el orden se ha convertido en algo casi imposible cuando ya nadie reconoce la justicia divina.
 
-—La vida me pasó por encima —respondió Ander con amargura—. Salí a contar nuestras historias, esperando reconocimiento, pero solo obtuve burlas, insultos y violencia. Al final, simplemente me rendí al alcohol.
+—Firme e implacable, como siempre —respondió Ander con resignación, aunque con respeto sincero—. Algunas cosas nunca cambian.
 
-Vengy no pudo evitar un comentario ácido: —Ahora entiendo por qué tu primera reacción fue pedir cerveza.
+Vengy suspiró, interviniendo con una ironía punzante.
 
-Alistar, intentando aliviar el dolor evidente de su amigo, le habló con empatía sobre cómo había cambiado el mundo después de la maldición, cómo ahora cuestionaban incluso a Tyr y cómo un culto oscuro crecía, socavando la fe y la justicia conocidas.
+—Bueno, hablando de cambios inesperados, ¿sabíais que hace poco estuve encarcelado?
 
-Los tres, rodeados de ruinas y dolor, compartían ahora algo más profundo que el cansancio físico: una renovada certeza de que solo unidos podrían enfrentar lo que se avecinaba.
+—¿Encarcelado? ¿Por qué motivo? —preguntó Alistar, claramente sorprendido.
 
-El aislamiento, la culpa y la desesperación habían terminado. Ahora, comenzaba su verdadera batalla.
+—Al parecer, por ayudar a quien no debía —replicó Vengy con una sonrisa amarga—. Vivimos tiempos muy extraños, amigos míos.
+
+Ander soltó una leve carcajada, recuperando brevemente su antigua chispa provocadora.
+
+—¿Y ahora qué eres, Vengy? ¿Un estafador o un testaferro?
+
+Vengy frunció el ceño, intentando justificarse torpemente.
+
+—Nada de eso. Fui engañado y usado. Juro que quienes me tendieron la trampa lo pagarán caro.
+
+Alistar contempló a sus amigos con una mezcla de alegría y profunda nostalgia.
+
+—Me alegra veros de nuevo, aunque desearía que fuese bajo circunstancias mejores.
+
+Vengy notó la apariencia desmejorada de Ander y lo llamó cariñosamente "pequeñajo", tratando de limpiar torpemente el polvo acumulado en sus desgastadas ropas.
+
+—La vida me pasó por encima —respondió Ander con amargura—. Salí a contar nuestras historias buscando reconocimiento, pero solo obtuve burlas, insultos y violencia. Al final, simplemente me rendí al alcohol.
+
+—Ahora entiendo por qué lo primero que pediste fue cerveza —bromeó Vengy con acidez.
+
+Alistar intervino con empatía, intentando suavizar el momento.
+
+—Todo ha cambiado después de la maldición. La fe en Tyr se tambalea y un culto oscuro crece en las sombras, erosionando lo que conocemos por justicia.
+
+Los tres permanecieron en silencio por un instante, conscientes de que, pese al dolor y al cansancio, solo juntos podrían enfrentar lo que se avecinaba. El aislamiento, la culpa y la desesperación habían terminado; ahora comenzaba su verdadera batalla.
 
 ### _El sonido que aún no ha sonado_
 
@@ -1588,7 +1614,7 @@ Ander, directo y entusiasta, respondió:
 
 El mercader les mostró algunas armaduras de buena calidad, pero justo en ese momento, Hakuryuu intervino, atrayendo la inmediata atención del vendedor, quien lo reconoció al instante.
 
-—Hakuryuu, ¿esto es lo mejor que puedes ofrecer? —preguntó el guerrero con cierta autoridad.
+—¿Esto es lo mejor que puedes ofrecer? —preguntó Hakuryuu con cierta autoridad.
 
 —¡Oh, señor! Claro que no. Por favor, acompáñeme —respondió rápidamente el vendedor, conduciéndolos a una habitación reservada, donde se almacenaban artefactos de considerable calidad y poder mágico. De entre estas maravillas, el vendedor seleccionó cuidadosamente una armadura especialmente adecuada para Ander: una armadura oscura de cuero tachonado, cuyos remaches ennegrecidos y la ausencia aparente de costuras creaban una ilusión de sombras vivientes. Su superficie absorbía la luz con una propiedad casi sobrenatural, haciendo difícil distinguir claramente sus bordes.
 
@@ -1649,7 +1675,7 @@ Con una voz que inició en un susurro contenido y fue creciendo paulatinamente e
 > — Y **pronto**, todo acto de **sanación** —ya sea conjuros, rituales o pociones mágicas— será **sacrilegio**, reservado exclusivamente a las manos consagradas de los Altares Oficiales, para que solo ellos determinen quién vive o muere.  
 > Pero para conseguir esto necesito de vuestra ayuda, debéis exigir este edicto al gobierno de forma incansable.
 > 
-> La Voz no os exige sacrificios, sino obediencia; no os quita consuelo, sino que os guía hacia el verdadero.
+> La Voz no os exige sacrificios, sino obediencia; no os quita consuelo, sino que os guía hacia la verdadera paz.
 > 
 > Que la paz del Dios Verdadero descienda sobre esta ciudad… y que la Mano, como siempre, os sostenga.”
 

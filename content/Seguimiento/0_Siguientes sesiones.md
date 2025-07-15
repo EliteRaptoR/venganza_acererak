@@ -111,7 +111,7 @@ Los puestos de los comerciantes siguen abiertos, pero algunos detienen sus venta
 
 
 
-## **Orianna
+## **Orianna en la grieta
 
 Las primeras luces del alba apenas rozan el bosque cuando Orianna avanza entre los altos helechos y las raíces húmedas. Su silueta se recorta entre la niebla matinal, envuelta en el perfume de romero y lavanda que exhala su talismán. Cada paso la acerca a ese umbral prohibido, donde la tierra se ha abierto como una herida y el susurro del abismo resuena bajo las cortezas agrietadas.
 
@@ -122,7 +122,7 @@ La tierra se abre ante ella en un boquete de pesadilla, sus bordes dentados como
 Al fondo, Orianna distingue el tronco partido del árbol sagrado, aún aferrado al borde como si luchara por no caer. Allí, una vara de savia y escama, mezcla de corrupción y pureza, crece entre las raíces: un capullo a medio formar, crisálida de poder y enigma.
 
 La druida respira hondo, sintiendo el palpitar de la magia antigua y la mirada invisible de Elyz, y sabe que, en ese umbral, todo acto resonará en el bosque durante generaciones. Es el momento de elegir entre el miedo y el coraje, entre la huida y la transformación.
-## **Día 3: Confiscación en el Templo de Tymora**
+## **Día 4: Confiscación en el Templo de Tymora**
 
 ### **Lugar:**
 
@@ -354,87 +354,6 @@ En una esquina, una anciana (quizá **Maela Torran**, si fue liberada anteriorme
     
 - Establece que la Voz y la Mano ya no necesitan solo soldados: ahora tienen al miedo como aliado.
 
-## **Día 4/Noche: El Banquete de Carne**
-
-### **Escena: Gritos en la Penumbra**
-
----
-
-### **Lugar:**
-
-Un callejón oscuro en el distrito de las Agujas Silenciosas, cerca de una plaza secundaria abandonada. Las farolas están apagadas. Solo la luna oculta tras nubes ilumina tenuemente los tejados. El hedor es fétido: carne, humo, hierro oxidado.
-
----
-
-### **Inicio de la Escena:**
-
-Los personajes avanzan por las calles semidesiertas, en dirección a su refugio o quizás en ronda de vigilancia, cuando **un grito desgarrador rompe la quietud**, seguido de sonidos húmedos, como carne desgarrándose y huesos rompiéndose.
-
-Una voz femenina suplica, ya sin aliento. Luego, silencio.
-
-> **Opcional:** Tirada de Percepción (CD 13) para ubicar con precisión el origen.  
-> **Si superan CD 17:** Escuchan gruñidos guturales, conversaciones en un idioma infernal mezclado con carcajadas grotescas.
-
----
-
-### **Al llegar al lugar:**
-
-Una **plaza secundaria**, encajada entre dos edificios colapsados, sirve de escenario. En el centro hay una pila de piedra rota —antiguamente una fuente—, y sobre ella, **dos demonios obesos y de piel rojiza**, cubiertos de grasa, vísceras y sangre fresca, se agachan sobre el cuerpo desgarrado de una mujer aún convulsa.
-
-Sus bocas abiertas son pozos circulares llenos de dientes desordenados. Uno arranca una pierna de un tirón. El otro chilla de placer mientras mastica.  
-La sangre empapa los adoquines.
-
----
-
-### **Enemigos:**
-
-### **2 Gluttonas del Abismo (tipo demonio personalizado)**
-
-**Inspiración mecánica:** basado en _Hezrou_ o _Bulettes infernales_, pero con habilidades centradas en **debilitar por hedor, atrapar, y regenerarse al devorar carne**.
-
-#### Rasgos especiales:
-
-- **Aura de Corrupción Gástrica (6 m):** al principio del turno, CON CD 14 o sufren Desventaja en ataques hasta el siguiente turno.
-    
-- **Festín Voraz (acción):** Si muerden a una criatura inconsciente o muerta, recuperan 10 PV y ganan +2 CA durante 1 ronda.
-    
-- **Panza Iracunda (reacción):** si reciben daño radiante, gritan y entran en frenesí, ganando un ataque extra en su próximo turno.
-    
-
----
-
-### **Narrativa del Combate:**
-
-Al ver a los personajes, uno de los demonios alza la cabeza, los ojos inyectados en grasa y gozo:
-
-> **Demonio 1 (voz gutural):**  
-> “¿Queréis un trozo? Esta aún estaba caliente…”
-
-> **Demonio 2 (ronco, babeando):**  
-> “Más música. Más carne viva. ¡Danzad para el festín!”
-
-Acto seguido, se lanzan con violencia brutal, con garras como garfios y aliento pestilente.
-
----
-
-### **Opciones Tácticas del Escenario:**
-
-- **Terreno difícil:** sangre en los adoquines, ruinas, fuego en pequeños braseros.
-    
-- **Cuerpos cercanos:** hay una segunda víctima aún viva pero inconsciente (un niño o un viejo). Salvarlo puede ser una acción heroica… o un anzuelo trampa.
-    
-- **Aparición de refuerzos (opcional):** si el combate se prolonga, un tercer demonio más pequeño puede aparecer: un “Sabueso estomacal” (tipo dretche) que rastrea la carne de los vivos.
-    
-
----
-
-### **Final del Combate:**
-
-Si los personajes vencen, hallan restos irreconocibles de la mujer, tatuajes o ropas que podrían vincularla a un templo, un gremio o un civil inocente.
-
-Uno de los demonios, al morir, suelta una carcajada asfixiada y susurra en abisal:
-
-> “El Abismo se ha sentado a la mesa. ¡Y la Voz nos ha abierto la puerta!”
 ## **Día 4: El Consejo de la Cámara Silente**
 
 ### _Escena: La Voz del Oro_
@@ -550,7 +469,7 @@ La escena termina.
 
 ---
 
-## **Día 4: La Mano y el Silencio**
+## **Día 5: La Mano y el Silencio**
 
 ### **Escena: El Decreto de Cierre en la Gran Biblioteca**
 
