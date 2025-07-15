@@ -1740,7 +1740,23 @@ Malizall, cuya mirada reflejaba claramente sus dudas internas, habló con sincer
 
 Relion dirigió al hechicero una mirada compasiva y paternal:
 
-—Malizall, ¿creéis que los clérigos de este templo, incluyéndome a mí mismo, nos sentimos merecedores del peso que Lathander ha depositado sobre nosotros? Nuestro dios confía en nosotros, y en esa confianza radica nuestro servicio. Así es como servimos a Lathander.
+—Malizall, ¿creéis que los clérigos de este templo, incluyéndome a mí mismo, nos sentimos merecedores del peso que Lathander ha depositado sobre nosotros? Todos, en algún momento, hemos dudado sobre nuestra capacidad y nuestro valor para portar sus dones. Pero nuestro dios confía en nosotros, y en esa confianza radica nuestro servicio. Así es como servimos a Lathander.
+
+Malizall bajó la mirada, pensativo y algo turbado.
+
+Relion prosiguió, intentando dar una nueva perspectiva a los pensamientos de Malizall:
+
+—Piensalo de este modo, si realmente yo me creyese tan bueno y perfecto como para pensar que yo mismo soy el mejor preparado para tener esta posición ¿realmente seguiría siendo merecedor de esta? Quizás es esa misma duda, esa humildad, la que nos hace merecedores de la bendición de Lathander.
+
+—¿Y qué hay de Wako? Su pérdida… y ahora Cenit, mi nuevo familiar. ¿Es esto realmente un signo de renovación o solo una señal de mi fracaso? 
+
+Relion negó con la cabeza manteniendo una sonrisa tranquila y cercana.
+
+—Malizall, la pérdida y el cambio siempre vienen cargados de dudas y dolor. Pero Lathander nos enseña que tras cada noche, siempre surge un nuevo amanecer. Cada amanecer es nuevo y casi nunca es como lo imaginamos, pero hay que vivirlo y seguir el camino. Wako era un ser cuyo propósito era únicamente ayudar a los demas. Complaciente, obediente, y servicial. Ceniz no es asi, el cuida de si mismo y cuidará de ti cuando sea necesario. 
+
+Relion  colocó una mano tranquilizadora sobre el hombro del hechicero.
+
+—Malizall, tal vez, todo esto que vives, la pérdida de Wako y la llegada de Cenit, es una oportunidad para aprender algo nuevo sobre ti mismo. Quizás debes comprender que no siempre el servicio implica sacrificio absoluto. También debes reconocer que proteger tu propio espíritu es necesario. Estas acostumbrado a cuidar de los demás y siguiendo esa causa te has olvidado de cuidar de ti mismo. Tu y todos nosotros necesitamos que te cuides y que te dejes cuidar. Vive, disfruta y aprende en este nuevo amanecer e ilumina a aquellos que se crucen en tu camino con la luz de Lathander.
 
 Estas palabras reconfortaron visiblemente tanto a Malizall como a Vengy, reafirmando su determinación.
 
