@@ -1141,7 +1141,7 @@ Mientras los héroes recuperaban el aliento, un escalofrío inquietante recorri�
 
 El aire se tornó pesado y frío, cargado de una expectación sobrenatural. El cielo púrpura y ennegrecido, teñido por el humo persistente de los incendios recientes, comenzó a temblar con destellos anaranjados que atravesaban la penumbra, presagiando un acontecimiento terrible.
 
-Entonces, sin previo aviso, un estruendo metálico, profundo y aterrador, resonó por toda la ciudad, captando inmediatamente la atención de todos. Una explosión violenta sacudió el templo de Lathander, golpeando con fuerza brutal su campanario y proyectando la enorme campana dorada hacia el vacío, directamente sobre el acantilado.
+Entonces, sin previo aviso, un estruendo metálico, profundo y aterrador, resonó por toda la ciudad, captando inmediatamente la atención de todos. Una explosión violenta sacudió el campanario de la capilla de Lathander, golpeando con fuerza brutal su campanario y proyectando la enorme campana dorada hacia el vacío, directamente sobre el acantilado.
 
 —¡No puede ser! —exclamó Malizal, petrificado, incapaz de apartar la vista del templo que había sido un símbolo de esperanza.
 
@@ -1169,7 +1169,7 @@ Sin necesidad de palabras, comprendieron que solo existía un lugar seguro en me
 
 Al llegar al templo, depositaron cuidadosamente a sus compañeros heridos en improvisados camastros de paja y tela. Mientras sus amigos descansaban, Alistar sintió la necesidad de aclarar su mente agitada. Extrajo cuidadosamente de su bolsa dos pergaminos desgastados que contenían los textos sagrados de la profecía, su rostro sombrío mientras repasaba una y otra vez las palabras allí escritas. Finalmente, con voz profunda pero decidida, rompió el silencio:
 
-—Mirad este fragmento. Orianna, tú fuiste testigo directo de la primera señal. Y la segunda acaba de ocurrir frente a nuestros ojos con la caída del templo de Lathander. Está claro que la tercera también ocurrirá pronto. Debemos averiguar cuándo exactamente, para estar preparados esta vez. No podemos permitir que nos tome por sorpresa nuevamente. ¿Qué pensáis sobre ello?
+—Mirad este fragmento. Orianna, tú fuiste testigo directo de la primera señal. Y la segunda acaba de ocurrir frente a nuestros ojos con la caída del campanario de la capilla de Lathander. Está claro que la tercera también ocurrirá pronto. Debemos averiguar cuándo exactamente, para estar preparados esta vez. No podemos permitir que nos tome por sorpresa nuevamente. ¿Qué pensáis sobre ello?
 
 Malizal respondió sin vacilación, con una convicción que resonó en la estancia:
 
@@ -1527,7 +1527,7 @@ Alistar reflexionó profundamente antes de agregar:
 
 Vengy, revisando los textos proféticos, hizo una revelación preocupante:
 
-—Podría ser que Acererak intente revivir al Atropal. La profecía lo sugiere con claridad.
+—Podría ser que Acererak intente revivir al Atropal. La profecía lo sugiere con claridad. _No temáis a la muerte, pues es salvación,_ _sino al renacer de aquello que nunca vivió._
 
 Finalmente, Alistar trazó un plan concreto y firme para actuar en los próximos días:
 
@@ -1764,7 +1764,7 @@ Malizall, cuya mirada reflejaba claramente sus dudas internas, habló con sincer
 
 —¿No os parece contradictorio todo esto, eminencia? ¿No dudáis ante la magnitud de lo que enfrentamos?
 
-Relion dirigió al hechicero una mirada compasiva y paternal:
+Relion dirigió al brujo una mirada compasiva y paternal:
 
 —Malizall, ¿creéis que los clérigos de este templo, incluyéndome a mí mismo, nos sentimos merecedores del peso que Lathander ha depositado sobre nosotros? Todos, en algún momento, hemos dudado sobre nuestra capacidad y nuestro valor para portar sus dones. Pero nuestro dios confía en nosotros, y en esa confianza radica nuestro servicio. Así es como servimos a Lathander.
 
@@ -1993,3 +1993,490 @@ La visión se disipó bruscamente y Hakuryuu, liberado súbitamente del trance, 
 
 ## **Sesión 6**
 
+### _Visiones en la Lluvia_
+
+La mañana se deslizaba lenta y plomiza sobre Waterdeep, teñida por una luz grisácea que apenas conseguía abrirse paso entre los nubarrones espesos. La persistente llovizna golpeaba suavemente las calles, dejando un rastro húmedo y melancólico sobre la Avenida de la Esperanza. El aroma de piedra mojada, impregnado de promesas perdidas y temores enmudecidos, flotaba en el aire como un presagio inquietante.
+
+Las fachadas de los edificios lucían grotescamente adornadas con triángulos rojos, pintados apresuradamente por manos temblorosas. Bajo los soportales y entre las lonas a medio recoger de los mercados, los habitantes observaban con silencio contenido. Cada rostro, marcado por la incertidumbre y el temor, parecía susurrar una pregunta no pronunciada: ¿cuánto más resistiría la esperanza?
+
+En una esquina, una hoguera ardía bajo la mirada férrea de los soldados de la Mano de Hierro. No había violencia explícita, pero su presencia opresiva se manifestaba claramente en la rigidez con que los guardias requisaban amuletos y pequeños objetos considerados supersticiosos, arrojándolos con gesto impasible al fuego. Un humo verde y acre ascendía lentamente al cielo, llevándose consigo mucho más que meros objetos: se llevaba la esencia misma del consuelo.
+
+En ese ambiente cargado de tensión y expectativa, la escena se dibujaba con claridad dolorosa:
+
+Un grupo de fieles retrocedía discretamente, escondiendo apresuradamente sus símbolos bajo la ropa. Una madre abrazaba en silencio a su hijo, clavando una mirada dolida y distante en las llamas. Un comerciante cerraba prematuramente su puesto, murmurando con amargura que hoy no era día para tentar a la fortuna.
+
+Y fue en este momento sombrío cuando, en la capilla destrozada de Lathander junto al acantilado, Hakuryuu despertó abruptamente. El dragón plateado abrió los ojos de golpe, jadeante y visiblemente alterado. A pesar de sus esfuerzos por disimular, era evidente el miedo y la rabia que consumían su interior. Un observador atento habría notado el ligero temblor en sus manos, así como la delgada línea carmesí que escapaba de su palma cerrada, resultado de clavar profundamente sus propias garras.
+
+—Hakuryuu, ¿qué ha ocurrido? ¿Qué es lo que has visto? —preguntó Orianna con voz suave pero firme, sus ojos reflejando profunda preocupación.
+
+Vengy se aproximó lentamente, cauteloso pero decidido a conocer la verdad:
+
+—Cuéntanos, Hakuryuu. No es la primera vez que te vemos caer así, consumido por visiones repentinas. ¿Qué ha ocurrido esta vez?
+
+Hakuryuu respiró profundamente antes de responder, tratando de estabilizar sus emociones revueltas.
+
+—He visto a Acererak —dijo finalmente con voz grave—. Como siempre, intenta quebrar nuestra voluntad, busca minar nuestra confianza con sus tretas y burlas, pero no lo conseguirá.
+
+Ander, incapaz de contener su curiosidad, se aventuró con una pregunta arriesgada:
+
+—¿Y qué fue exactamente lo que te mostró, para afectarte tanto?
+
+Hakuryuu le lanzó una mirada penetrante, helada y afilada como el filo de una daga, transmitiendo claramente un mensaje inequívoco: esa era una pregunta que no debía formularse. Ander captó inmediatamente la indirecta, desviando la conversación con agilidad hacia otros asuntos.
+
+Alistar, siempre atento a los detalles esenciales, intervino con serenidad y convicción:
+
+—Esto confirma nuestras sospechas iniciales, especialmente tras mi conversación en Faux. Acererak está provocándonos deliberadamente. Quiere que vayamos en su búsqueda, que volvamos exactamente allí donde ya nos enfrentamos a él.
+
+—Y estará preparado, sin duda —añadió Ander con tono sombrío—. No cometerá el error de subestimarnos esta vez.
+
+—Eso es seguro —replicó Alistar, asintiendo lentamente.
+
+Orianna, con determinación calmada, aportó su visión personal:
+
+—Y podemos estar seguros de que vendrá a por nosotros, a cada uno de forma específica y personalizada. Debemos estar preparados.
+
+Sus palabras quedaron suspendidas en el aire cargado de humedad y tensión, resonando con una advertencia clara y solemne, mientras el grupo asimilaba silenciosamente la gravedad de lo que acababan de descubrir.
+
+### _La Voz es Ley_
+
+La mañana daba paso a tarde lentamente, teñida con matices rojizos y violáceos que bañaban el cielo, proyectando sombras largas y profundas sobre las calles húmedas de Waterdeep. Las fachadas de los edificios mostraban inquietantes triángulos rojos, pintados durante la noche, cada uno proclamando silenciosamente los oscuros lemas de la Mano de Hierro: “La Voz es Ley”, “Sin suerte, sin herejía”.
+
+En ese ambiente opresivo, el grupo avanzaba con cautela hacia el Templo de Tyr. La imponente construcción, símbolo de justicia y esperanza, se erguía como un bastión solitario envuelto en incertidumbre. Las puertas de bronce y la magnífica balanza dorada que presidía la entrada parecían ahora opacas, apagadas bajo el peso invisible de la desesperanza colectiva.
+
+La plaza frente al templo les recibió con una escena lúgubre y nueva: la majestuosa estatua de Tyr, ya dañada durante la noche del ataque demoníaco, había caído finalmente, revelando con crudeza la fragilidad del orden establecido. Un reducido grupo de fieles aguardaba bajo los aleros, intercambiando murmullos nerviosos mientras evitaban cruzar miradas con los soldados de la Mano de Hierro que patrullaban con gesto severo. Junto a los escalones del templo, una anciana, con los dedos temblorosos, apretaba un pequeño medallón dorado mientras murmuraba oraciones tan íntimas que parecían fundirse con el viento.
+
+Alistar guio al grupo hacia la entrada del templo. Los soldados, aunque atentos, no entorpecieron su paso. El paladín se dirigió rápidamente hacia sus austeras dependencias, extrayendo con gesto decidido algo de dinero de su cofre personal, un acto simple pero cargado de previsión.
+
+Sin dilación, Alistar decidió buscar al Capitán Marcus para advertirle y ponerlo al corriente de los últimos sucesos. Recorrió los corredores de piedra fría, escudriñando cada rincón conocido, pero no encontró señales de su compañero. En un segundo intento, se dirigió directamente al templo, cuyo vacío resonaba con un eco inquietante. Finalmente, Alistar decidió preguntar directamente a alguien de confianza.
+
+Fue entonces cuando se cruzó con Hendrick, un soldado joven cuyo semblante reflejaba lealtad inquebrantable. Hendrick, un joven de porte esbelto y constitución atlética, destacaba por su cabello castaño cuidadosamente peinado hacia atrás y una barba incipiente que subrayaba su juventud, otorgándole un aire de seriedad anticipada. Sus ojos oscuros y serenos eran ventanas de una determinación firme, producto de años dedicados al servicio del templo. Vestía con pulcritud la cota de malla reglamentaria bajo un tabardo blanco, marcado con el emblema de la justicia. Su postura era recta y disciplinada, revelando un respeto sincero hacia Alistar.
+
+—¡Señor! —saludó Hendrick con formalidad militar.
+
+—¡Hendrick! Me alegro de verte —respondió Alistar con cordialidad.
+
+—Igualmente, señor.
+
+—Hendrick, no son necesarias las formalidades. Ya sabes que he sido temporalmente apartado del servicio activo… —indicó Alistar suavizando la conversación.
+
+—Eso es irrelevante, señor —respondió Hendrick con una leve sonrisa, reafirmando su lealtad.
+
+Alistar asintió agradecido antes de continuar:
+
+—La verdad es que estaba buscando al capitán Marcus. ¿Sabes algo sobre su paradero?
+
+Hendrick frunció ligeramente el ceño, recordando:
+
+—Lo vi anoche, pero partió de nuevo hoy al alba en una misión. Si no recuerdo mal, hacia el mercado de los suburbios.
+
+—Disculpa la intromisión, Hendrick, pero ¿sabes si la misión tiene algo que ver con la orden de la mano?
+
+—No lo sé, señor.
+
+—De acuerdo. Gracias, Hendrick. Que Tyr esté contigo.
+
+—Y con usted, señor —respondió Hendrick con una firme inclinación de cabeza.
+
+Alistar regresó entonces a la sala principal del templo, donde dominaba una colosal estatua de Tyr, cuya mano ausente sostenía simbólicamente una balanza, mientras la otra blandía una espada implacable. El paladín se arrodilló en silenciosa oración, gesto que fue rápidamente seguido por Sildar, compartiendo ambos una plegaria sin palabras para recibir fuerza y protección.
+
+Al concluir, se levantaron y se dirigieron al resto del grupo que aguardaba respetuosamente.
+
+—Ya podemos irnos, chicos —indicó Alistar con determinación.
+
+Mientras abandonaban el templo, Orianna se aproximó suavemente:
+
+—Espero que tus rezos sean escuchados, Alistar.
+
+—Estoy seguro de que lo serán —contestó él con firme convicción.
+
+Sin embargo, la tensión volvió al notar cómo algunos soldados de la Mano de Hierro fijaban su atención desafiante sobre el grupo. Vengy, en respuesta, sostuvo su mirada, una confrontación silenciosa cargada de advertencias mutuas.
+
+Hakuryuu, captando una sonrisa burlona en los labios de uno de los soldados, estuvo a punto de reaccionar violentamente, pero Ander intervino rápidamente:
+
+—Un guerrero de verdad sabe cuándo luchar sus batallas. Ahora no, Hakuryuu. Déjalos, por favor.
+
+El dragón plateado, con un gesto contenido, aceptó la prudente intervención de su compañero.
+
+Orianna, percibiendo claramente el peligro, envió un mensaje telepático al grupo:
+
+—Si esta gente nos reconoce con esa facilidad, no creo que infiltrarnos sea la mejor opción.
+
+El grupo avanzó entonces, dirigido por Alistar, atravesando reticentemente la plaza en dirección a la mansión de Hakuryuu, conscientes de cada paso bajo la silenciosa vigilancia de sus adversarios.
+
+### _Descanso y Planificación en Sea Ward_
+
+Ya próximos a la mansión de Hakuryuu, la atmósfera del Distrito del Mar se presentaba notoriamente más apacible, en marcado contraste con las tensiones vividas en otras áreas de Waterdeep. El suelo, pavimentado con elegante mármol blanco, reflejaba la luz tenue de faroles mágicos dispuestos ordenadamente, de los cuales pendían orgullosamente las banderas doradas de la ciudad. El aire aquí era puro y fragante, cargado con un suave aroma marino y notas florales que conferían al lugar una sensación de tranquila nobleza.
+
+A lo largo del camino, destacaban estatuas meticulosamente talladas en homenaje a ilustres guerreros, escritores y héroes que habían dado forma a la historia de la ciudad. Cada figura parecía vigilar en silencio las calles amplias y despejadas, bajo la sutil presencia de soldados de la Mano de Hierro que patrullaban discretamente, sin intervenir directamente en la vida cotidiana del distrito.
+
+Mientras avanzaban, Ceniz, curioso y siempre atento a los pequeños tesoros que la ciudad podía ofrecerle, revoloteaba ágilmente entre las farolas. De repente, captó un brillo plateado en el suelo y, sin dudarlo, se lanzó con rapidez, regresando orgullosamente hacia Malizall con un delicado collarcito de plata entre sus picos.
+
+—Cenit, ¿otra vez recogiendo cosas del suelo? —le reprendió ligeramente Malizall, aunque su voz sonaba más divertida que severa.
+
+Al llegar finalmente a la mansión, encontraron al servicio de Hakuryuu trabajando diligentemente para limpiar los numerosos escombros que aún quedaban como testimonio de los daños sufridos. Ander, al ver el familiar entorno, llamó alegremente:
+
+—¡Querida, querida!
+
+En respuesta, Loti apareció rápidamente corriendo hacia él, luciendo en su cuello un pañuelo elegante que mostraba orgullosamente el blasón del dragón plateado. Hakuryuu, al aproximarse, se detuvo frente a las imponentes estatuas de dragones que flanqueaban la entrada. Durante unos instantes, una sombra de tristeza cruzó su rostro al recordar inevitablemente a su hermano y a sus padres. Respiró profundamente para calmar su ánimo agitado y prosiguió con paso decidido hacia el interior.
+
+En la puerta los recibió Varuum, cuyo rostro se iluminó al ver a Hakuryuu.
+
+—¡Señor, cuánto tiempo! —saludó Varuum con evidente respeto.
+
+—¿Cómo están las cosas por aquí? —preguntó Hakuryuu.
+
+—Tranquilas, supongo —respondió Varuum con leve incertidumbre.
+
+—Bien, veo que estáis cuidando bien de la mansión —comentó Hakuryuu observando alrededor.
+
+—De lo que queda… —musitó Varuum, dándose cuenta inmediatamente de su error y apresurándose a corregirse—. ¡Perdón, señor!
+
+—¿Alguna noticia? —continuó Hakuryuu con voz firme, sin darle importancia al desliz.
+
+—Ninguna, señor.
+
+—Bien. Descansa —añadió Hakuryuu.
+
+Varuum, cuadrándose orgullosamente, respondió con ímpetu:
+
+—¡Eso nunca, señor! ¡Un dragón nunca descansa!
+
+—Bien, entonces vigila. Y si ves algo sospechoso, avisa —ordenó Hakuryuu con leve sonrisa.
+
+—¡A sus órdenes, señor! —respondió Varuum decidido.
+
+Alistar, percibiendo que era un momento adecuado para reponer energías, sugirió al grupo:
+
+—Tal vez podríamos comer algo, chicos...
+
+Vengy, entusiasmado por la propuesta, exclamó:
+
+—¿Nos preparas algo bueno, Hakuryuu?
+
+—Venid conmigo. Podremos trazar nuestros próximos movimientos mientras comemos —indicó Hakuryuu con autoridad natural.
+
+Mientras seguían a Hakuryuu hacia uno de los comedores secundarios, dado que el principal aún se encontraba afectado por los daños, Ander expresó cómicamente su desacuerdo:
+
+—¡Ay, nooo, eso es malo para la digestión! ¿Comer y hablar de cosas serias y tensas? Preferiría comer primero y luego hablar...
+
+Sildar, divertido por las quejas de Ander, intervino burlonamente:
+
+—No te preocupes Ander, no hace falta que hables y comas a la vez. Comes. Y Hablas. Comes. Y Hablas —gesticuló exageradamente.
+
+Una vez acomodados, sirvientes aparecieron de inmediato ofreciendo una gran variedad de platos y bebidas, entre ellas hidromiel. Ander, dramáticamente, apartó la bebida con fingida desesperación, gesto que provocó una sonrisa en Orianna, quien lo alejó aún más.
+
+La conversación pronto derivó hacia historias personales, recuerdos del pasado y bromas amistosas que aligeraron notablemente la atmósfera. Malizall compartió reflexiones sobre su tiempo en soledad, y Sildar, tratando de levantar los ánimos, comentó:
+
+—A mí las canas no hacen más que subirme el carisma.
+
+La ocurrencia arrancó risas al grupo, disipando la tensión acumulada durante el día.
+
+Finalmente, comenzaron a discutir seriamente sus próximos movimientos. Tras considerar diversas opciones, Vengy propuso:
+
+—Creo que lo siguiente debería ser visitar el bosque de Orianna para revisar la grieta y buscar algo útil. La otra opción sería infiltrarnos en la Mano.
+
+La discusión continuó, explorando los riesgos y ventajas de ambas alternativas. Finalmente, ante las claras objeciones y preocupaciones, Sildar propuso una solución práctica:
+
+—No digáis que lo he propuesto yo, pero podríamos contratar a alguien en los bajos fondos de Waterdeep para infiltrarse en la Mano.
+
+—Sildar, eres un hombre de recursos —comentó Malizall con aprobación.
+
+Alistar asintió, considerando la propuesta:
+
+—No es mala idea. Podemos prepararlo antes de partir al bosque.
+
+Sildar, decidido, añadió:
+
+—Prefiero quedarme en Waterdeep. Me encargaré personalmente de esto.
+
+El grupo acordó entregarle una generosa suma para esta tarea. Con sus planes perfilados y el ánimo más distendido, siguieron disfrutando brevemente del descanso que tanto necesitaban.
+
+### _La Redención del Bardo_
+
+Mientras el grupo disfrutaba del merecido descanso en la mansión de Hakuryuu, la conversación tomó un giro más introspectivo. Malizall, tratando de involucrar al pensativo dragón plateado, preguntó suavemente:
+
+—Hakuryuu, ¿por qué no nos cuentas algo de estos años?
+
+Hakuryuu, sumido en profundos pensamientos, no respondió. Fue entonces cuando Ander, con su característico entusiasmo y buscando aliviar el ambiente, tomó la palabra:
+
+—Bueno, si nuestro querido dragón no quiere hablar, ¡yo sí tengo una historia que contar! Después de que nos resucitaran, fue todo miel sobre hojuelas. ¡Mis canciones eran un éxito absoluto! —Sus ojos brillaban con nostalgia y emoción—. Salía al escenario, cantaba y la gente… ¡La gente se volvía loca! Aquello duró unos diez meses más o menos, y debo admitir que me sentí en la cima del mundo.
+
+Hizo una pausa teatral, dejando que la sonrisa que adornaba su rostro se desvaneciera ligeramente:
+
+—Pero debo admitir que quizás, solo quizás, se me subieron un poco los humos a la cabeza. Empecé a exagerar nuestras hazañas en mis relatos. ¡Sobre todo en esos momentos donde yo os salvé el trasero, por supuesto! —dijo con un toque de autosuficiencia—. Como por ejemplo, aquella vez en la que vi a Hakuryuu llorando y le dije: ‘¡Ánimo amigo, no te vengas abajo, eres un dragón!’
+
+—¡Nunca lloré! —replicó Hakuryuu con fingida indignación.
+
+Ander continuó con humor:
+
+—¡Claro que sí, amigo! O como esa otra ocasión en la que Alistar tenía dudas sobre su fe y le dije: ‘Nooo, Alistar, tu fe es un pilar muy importante’, y recuperó su fe con mis palabras.
+
+Alistar intervino entonces con una sonrisa indulgente:
+
+—Ander, creo que te estás confundiendo con Sharwyn.
+
+La sonrisa del bardo se diluyó rápidamente, dando paso a una expresión más solemne:
+
+—Bueno, ahora que lo dices… ¡Puede que también me inventara algunas historias!
+
+Alistar añadió, buscando recuperar el tono animado:
+
+—Sin embargo, Ander, sí que hay una historia realmente heroica que supongo habrás contado. ¡Aquella en la que nos salvaste de morir frente a aquella serpiente gigante!
+
+El semblante de Ander se tornó algo triste al recordar aquel momento:
+
+—La verdad es que esa historia la he contado en pocas ocasiones. Aunque os salvé a los demás, no puedo evitar sentirme fracasado porque no pude salvar a Sharwyn. Así que con el tiempo, dejé esa historia atrás.
+
+Un silencio respetuoso llenó la habitación, dejando espacio para que Ander pudiera expresar el dolor guardado durante tanto tiempo.
+
+—Después de aquello, mi ego se convirtió en mi refugio —prosiguió Ander, visiblemente afectado—. Necesitaba que todos reconocieran mis historias, mis esfuerzos. Y cuando no era así, cuando veía indiferencia en los rostros, sentía una rabia terrible. Un día, cegado por la soberbia y el alcohol, quise impresionar a alguien que no reaccionaba ante mis canciones. Lancé un hechizo sin cuidado y… un niño inocente resultó herido.
+
+Sus ojos reflejaban un arrepentimiento genuino, y su voz tembló ligeramente al continuar:
+
+—Lo curé, lo cuidé. Pero cada vez que me veía después de aquello, veía miedo en sus ojos. Esa herida en mi ojo… no recuerdo cómo ocurrió exactamente, pero se convirtió en un recordatorio constante de mi fracaso, de mis errores.
+
+La sala quedó sumida en silencio durante un largo instante, hasta que Orianna intervino suavemente:
+
+—¿Fue entonces cuando perdiste tu ojo?
+
+Ander asintió levemente, incapaz de recordar claramente.
+
+Malizall lo observó con empatía:
+
+—En este viaje, Ander, estoy seguro de que encontrarás la manera de sanar esas heridas internas.
+
+—¡Y vamos a necesitar tus dos ojos! —añadió Orianna intentando aligerar el momento.
+
+Alistar reforzó con solemnidad:
+
+—Todos cometemos errores, amigo. Tu arrepentimiento es sincero. No necesitas una cicatriz para recordarlo.
+
+Entonces Sildar, viendo la vulnerabilidad de Ander, intervino con sabiduría práctica:
+
+—Si tienes miedo de olvidar algo, solo debes hacerle una marca a tu instrumento.
+
+Sin esperar respuesta, tomó suavemente la flauta de Ander y, con una daga, hizo una pequeña muesca en la madera pulida.
+
+—Algunas cosas no se olvidan nunca. Pero si necesitas recordarlas, mira esta marca. —Sildar retiró su escudo y mostró múltiples marcas internas—. Cada una representa algo que no debo olvidar. Jamás.
+
+Ander tomó la flauta con reverencia, mirando la nueva marca con profundo respeto.
+
+—Gracias, Sildar.
+
+Sin más, Sildar posó sus manos sobre el rostro del bardo, emitiendo un suave resplandor curativo que inundó el ojo herido de Ander. La magia fluyó cálidamente, disipando tanto el daño físico como un poco del peso emocional que Ander cargaba.
+
+El bardo, por primera vez en mucho tiempo, sintió la claridad volver a su mirada, y algo en su interior comenzó lentamente a sanar.
+
+### _Memorias de un Guerrero_
+
+Inspirado por la valentía de Ander al compartir su historia, Hakuryuu tomó un respiro profundo y, con una voz que reflejaba un extraño equilibrio entre orgullo y melancolía, comenzó a hablar:
+
+—Yo también os contaré una historia…
+
+Todas las miradas se dirigieron expectantes hacia él mientras el dragón plateado elegía cuidadosamente sus palabras.
+
+—Estos años han sido muy tranquilos para mí. Tengo de todo, no me falta nada —afirmó con un leve orgullo.
+
+Orianna intervino brevemente, con una mirada comprensiva:
+
+—Es lo que siempre has querido.
+
+Hakuryuu asintió ligeramente, continuando su relato:
+
+—Un día, tras mi entrenamiento diario en el jardín, escuché gritos cerca de la entrada. Intrigado y un poco molesto por la interrupción, me acerqué para ver qué sucedía. Encontré a uno de mis guardias discutiendo acaloradamente con un niño pequeño. Pregunté al guardia: “¿Qué sucede aquí? ¿Por qué tanto alboroto?”. Él me respondió rápidamente: “¡No se preocupe, señor! Es solo un niño andrajoso tratando de entrar. Yo me encargo”. Pero al observar al niño, noté que estaba claramente angustiado y asustado.
+
+Hakuryuu hizo una pausa, reviviendo aquel momento con nitidez:
+
+—El niño se dirigió a mí desesperadamente: “¡Por favor, señor Hakuryuu, necesito ayuda!”. Respondí algo cortante: “No es a mí a quien buscas, estoy ocupado. Retírate”. Me giré para marcharme, pero entonces él imploró con voz rota: “¡Por favor, señor Hakuryuu, es mi hermano! ¡Está en peligro!”. Me detuve en seco, preguntando con severidad: “¿Tu hermano? ¿Qué le ha ocurrido?”. El niño explicó atropelladamente: “Es mi gemelo, cayó por un acantilado mientras jugábamos. Nos alejamos demasiado de nuestros padres y fue culpa mía. Escuché hablar de usted y vine a pedir ayuda”.
+
+Orianna, atrapada por la narración, preguntó con urgencia:
+
+—¿Lo salvaste?
+
+Hakuryuu asintió lentamente:
+
+—Sin pensarlo mucho, cogí mi caballo, Drogon, subí al niño conmigo y partimos al lugar que me indicó. Era un niño humano, delgado y frágil, de unos siete u ocho años, cabello blanco y ojos plateados que brillaban con esperanza y miedo. Al llegar al bosque cerca del acantilado, escuché los gritos del hermano, pero también percibí cerca la presencia amenazante de una bestia. Le ordené al niño quedarse atrás, enfrentándome a la criatura con decisión. Mientras luchaba, sentí renacer en mí una pasión dormida por las batallas, rememorando nuestros días de gloria juntos. El combate fue duro, pero la vencí —dijo con satisfacción contenida—. Tras ello, busqué al otro hermano y lo hallé en una pequeña repisa, tranquilo y sereno. Le pregunté si estaba bien, y él respondió con calma sorprendente: “Sabía que mi hermano volvería por mí”.
+
+Su rostro reflejó brevemente una sombra de tristeza antes de continuar:
+
+—Al verlos reunidos, pregunté por qué se habían aventurado allí. Me explicaron que querían emular nuestras leyendas, nuestras aventuras. “No se enfade con nosotros, señor Hakuryuu”, me dijeron, “solo queremos ser grandes guerreros como usted”. Su determinación y cariño mutuo me conmovieron profundamente. Los llevé a mi mansión, ordené que los bañaran y vistieran con prendas que llevaban el emblema del dragón plateado. Entrené brevemente con ellos hasta que llegaron sus preocupados padres para recogerlos.
+
+Al terminar, Orianna comentó reflexivamente:
+
+—Hakuryuu, siempre cuentas algo de tu presente, nunca algo directamente de tu pasado.
+
+Ander intervino con su habitual falta de tacto:
+
+—Hakuryuu, ¿y tu familia? ¿Están todos muertos? ¿También eran guerreros como tú?
+
+Orianna lo miró incrédula, pero Hakuryuu respondió con serenidad inesperada:
+
+—Provengo de una familia importante. Mi padre aún vive; hace mucho que no nos vemos, pero intercambiamos cartas de vez en cuando. Es un guerrero estricto, dirige un clan. Mi apellido es Arashi.
+
+Ander, incapaz de contenerse, fantaseó cómicamente:
+
+—¡Imagínate a Hakuryuu y a su padre ahí, pa-pa-pa con las espadas!
+
+Hakuryuu continuó sin perder la compostura:
+
+—Mi padre siempre ha sido muy estricto, muy exigente. Puede que alguna vez me hayáis visto vulnerable, pero eso no volverá a suceder. Os respeto a todos, incluso si no sois guerreros tan hábiles como yo —concluyó con una sonrisa provocadora, aunque genuinamente agradecida—. Gracias por todo.
+
+El grupo decidió entonces descansar hasta la tarde del día siguiente, dejando que las palabras de Hakuryuu flotaran pensativas en el aire, fortaleciendo los lazos entre ellos.
+
+### _Viaje hacia la Luna y el Bosque_
+
+La tarde caía sobre Waterdeep como un sudario tejido con ceniza y agua. Pesadas nubes, cargadas de lluvia, filtraban una luz mortecina que teñía las calles y tejados de tonos grises y apagados. En las plazas, la presencia de la Mano de Hierro imponía una severidad opresiva; triángulos rojos pintados sobre templos y puertas parecían sangrar lentamente bajo el efecto de la lluvia constante. Frente al templo de Tymora, la hoguera aún ardía tenazmente, devorando símbolos sagrados entre las cenizas húmedas, mientras fieles temerosos murmuraban oraciones clandestinas.
+
+En la mansión, antes de partir, Ander se agachó junto a Loti, acariciándola suavemente.
+
+—Loti, debo irme a un lugar peligroso. Cuida bien de la mansión… y de Varuum también.
+
+Loti ladró alegremente, como asegurándole que cumpliría su encargo. Varuum, visiblemente incómodo por haber sido sorprendido momentos antes hablándole cariñosamente a Loti con una voz que nadie imaginaría en él, recuperó rápidamente su semblante habitual.
+
+El grupo salió de la mansión, abastecido de monturas desde los establos privados de Hakuryuu, mientras Alistar invocaba solemnemente su montura celestial. Orianna optó por tomar la forma de una majestuosa águila y planear sobre el grupo, vigilando atentamente desde lo alto.
+
+Antes de abandonar Sea Ward, Orianna pidió al grupo hacer una parada en el templo de Selûne. El santuario brillaba con una luz propia, reflejando la tenue y reconfortante claridad lunar que lo envolvía, indiferente a la hora del día que reinaba afuera. Orianna se adentró sola mientras sus compañeros aguardaban respetuosamente en la entrada.
+
+El templo respiraba una atmósfera mágica, impregnado del suave aroma del jazmín y del murmurar sereno del agua en la fuente central. Una sacerdotisa, vestida con vaporosos ropajes sedosos y un velo translúcido, realizaba una danza armoniosa alrededor de un círculo de pétalos blancos, sus movimientos delicados realzados por cintas plateadas y azules entrelazadas en su cabello.
+
+Orianna extrajo cuidadosamente de su cuello una pieza de corteza grabada con el símbolo lunar, colocándolo bajo un haz de luz plateada que penetraba por la cúpula cristalina. El símbolo brilló tenuemente en azul celeste, y Orianna cerró los ojos brevemente, recordando las noches pasadas bajo la luna, sus transformaciones y la presencia constante de Elyz.
+
+—Selûne —susurró con voz firme y reverencial—, te ruego que me ayudes a recuperar a Elyz y que mi conexión arcana resista frente a las fuerzas que buscan separarnos.
+
+La sacerdotisa, percibiendo el momento solemne, giró hacia Orianna con gracia y, lanzando suavemente pétalos al aire con un pequeño y grácil salto, pronunció:
+
+—Que la luna refleje tu destino, y la noche guíe tu alma.
+
+Orianna hizo una reverencia respetuosa antes de reunirse con sus compañeros, y juntos emprendieron el camino hacia el bosque.
+
+El viaje inicial fue sencillo, avanzando por rutas frecuentemente transitadas. Poco a poco, guiados por Orianna, tomaron desvíos menos visibles, internándose en caminos solitarios marcados por carteles de advertencia hacia los aldeanos, instalados por los habitantes de una cercana aldea a quienes Orianna había hecho algunas “trastadas” en el pasado.
+
+—Tranquilos —explicó Orianna—, conozco el camino y cómo evitar todas las trampas que puse para los inoportunos.
+
+Malizall, atento a cualquier peligro que pudiera acechar, extendió sus manos e invocó un hechizo de protección sobre Vengy, Hakuryuu y Ander, fortaleciendo sus energías vitales.
+
+Antes de llegar al árbol sagrado y la inquietante grieta, Orianna condujo al grupo hacia una madriguera cercana. Allí, en un escondrijo cuidadosamente camuflado, recuperó su kit de herboristería, manuales de venenos y, con profunda emoción, unos brazaletes forjados con las escamas de Elyz, regalo de tiempos más felices.
+
+—Nunca quise llevarlos —explicó Orianna a Ander, con una voz teñida de tristeza—. Creí que siempre estaríamos juntas, que no necesitaría este tipo de protección. Ahora siento que debería haberlos valorado más.
+
+Ander asintió con comprensión, observando con delicadeza cómo Orianna ocultaba los brazaletes bajo su ropa. Luego, rebuscando entre sus cosas, Orianna encontró tres pociones de curación mayor que guardó cuidadosamente en su riñonera junto a una capa con capucha.
+
+Preparados para enfrentar lo desconocido, continuaron hacia el árbol sagrado. Justo cuando estaban cerca, Alistar activó sus sentidos divinos y percibió inmediatamente una presencia maléfica.
+
+—¡Detrás nuestro! —alertó, girándose rápidamente.
+
+### _La Ira del Bosque_
+
+A lo lejos distinguieron dos figuras grotescas de apariencia humanoide, con cuerpos deformes, obesos y cubiertos apenas por harapos tribales que dejaban ver su piel de un enfermizo color violeta pálido. Sus rostros reflejaban una crueldad primitiva mientras devoraban brutalmente los restos de un ciervo destripado. Su hedor era nauseabundo, impregnando el aire con un aura pestilente.
+
+Sin titubeos, Alistar alzó su mano invocando una llama sagrada que golpeó violentamente a una de las criaturas. Los demonios reaccionaron con rugidos furiosos, lanzándose en una torpe pero veloz embestida hacia el paladín, empuñando grandes garrotes rematados con cuchillas rudimentarias.
+
+Orianna, enfurecida por la profanación del bosque, alzó la mirada hacia el cielo ya cargado de nubes. Su voz, potenciada mágicamente por taumaturgia, resonó como el trueno:
+
+—¡Acererak! ¡Mataremos a todas las criaturas que lances contra nosotros! ¡No profanes más mi bosque!
+
+En respuesta, los cielos rugieron en cólera. Relámpagos brillantes cayeron directamente sobre las criaturas, deteniendo la carrera de una que se estrelló violentamente contra un árbol.
+
+Malizall extendió sus manos, proyectando un caos estático que asaltó directamente la mente de las bestias, confundiéndolas y causando un dolor interno insoportable.
+
+Ander, con su acostumbrado sarcasmo, dirigió palabras cargadas de magia burlona hacia uno de los demonios, dañando su ya frágil estabilidad mental.
+
+Aprovechando la situación, Alistar avanzó decidido a interceptar al demonio más cercano. El impacto fue brutal, pero la firmeza del paladín fue mayor. Su espada brilló intensamente con un Castigo Divino, hiriendo profundamente al atacante. La criatura, desequilibrada, cayó pesadamente frente a Hakuryuu.
+
+El dragón plateado, con una sonrisa salvaje, desafió:
+
+—Así te quería pillar.
+
+Golpeó ferozmente con su espada, pero el demonio en desesperado intento se lanzó contra él sin éxito, trastabillando nuevamente y cayendo frente a Vengy, quien aprovechó para descargar un poderoso golpe sobre la criatura agonizante.
+
+Sin embargo, el demonio, en un último gesto desesperado, adoptó una pose de inmolación. Antes de que pudiera completarla, una brillante espada radiante lo atravesó limpiamente, evitando la explosión fatal.
+
+—¡La próxima vez que montéis una fiesta, no os olvidéis de invitarme! —gritó Sildar, apareciendo justo a tiempo con su arma aún resplandeciente.
+
+El grupo, fortalecido por la llegada de Sildar, dirigió su atención hacia el segundo demonio. Este, recuperado, arremetió con furia contra Alistar, pero antes de alcanzarlo fue interceptado por Hakuryuu, cuyas alas desplegadas le permitieron una maniobra ágil y veloz.
+
+Alistar y Vengy se unieron rápidamente a Hakuryuu, formando un frente unido contra el monstruo, mientras Malizall continuaba lanzando poderosos Eldritch Blast, Orianna convocaba rayos desde los cielos y Ander asaltaba la mente del demonio con insultos cargados de magia corrosiva.
+
+En un desesperado intento final, el demonio adoptó la pose de sacrificio, y esta vez, pese a todos sus esfuerzos, los héroes no lograron evitar la devastadora explosión. La energía oscura estalló violentamente, dañando significativamente al grupo.
+
+### _Sombras del Bosque_
+
+Sin apenas tiempo para recuperar el aliento tras la última batalla, Orianna sintió de repente la presencia de otra criatura. Era diferente a los seres grotescos que acababan de derrotar; esta figura se movía con una agilidad etérea y siniestra, apenas perceptible.
+
+De pronto, su silueta cobró nitidez frente a ellos.
+
+Ante el grupo apareció una visión sacada de una pesadilla:
+
+Su cuerpo, delgado y retorcido, parecía formado de ramas secas y raíces marchitas. Un manto harapiento, de tela oscura mezclada con restos de musgo muerto, envolvía su figura con macabra elegancia. Su piel, cenicienta y atravesada por venas azuladas, parecía absorber la poca luz del ambiente. De su cuello pendían amuletos macabros, elaborados con huesos y dientes de criaturas desconocidas. Un rostro espectral, parcialmente oculto por cabello gris que flotaba como algas en agua estancada, mostraba una sonrisa siniestra y burlona, mientras dos ojos desiguales brillaban con malicia sobrenatural.
+
+En cuanto la bruja se materializó completamente, extendió sus largos dedos rematados en uñas negras y curvadas, liberando un rayo oscuro dirigido hacia Hakuryuu, quien logró esquivarlo por poco. Inmediatamente después, su cuerpo se desvaneció en sombras etéreas, evadiendo hábilmente los ataques del grupo.
+
+—¡Ya nos enfrentamos a algo parecido en la tumba! ¡Es una bruja! —exclamó Alistar alarmado.
+
+—¡Sí, y se está desplazando entre planos! —añadió Malizall—. Debemos anclarla en este plano para dañarla.
+
+La bruja volvió a aparecer, atacando esta vez a Alistar, quien bloqueó con éxito el ataque. Orianna, anticipándose a su aparición, invocó un poderoso rayo que golpeó parcialmente a la criatura antes de que volviera a esfumarse.
+
+Mientras tanto, Vengy observaba atentamente sus movimientos, notando algo crucial:
+
+—¡Está usando una piedra de cambio de planos! ¡Una piedra del éter! —gritó con urgencia.
+
+La bruja retrocedió, preparándose para conjurar un hechizo de largo alcance desde una posición segura. Alistar activó sus sentidos divinos y logró detectar su presencia, pero no tuvo tiempo suficiente para intervenir. Sin embargo, en ese instante de duda y confusión, Malizall percibió un zumbido mortal justo a su espalda. Era demasiado tarde para reaccionar, y un relámpago oscuro surcó velozmente hacia él.
+
+Pero justo antes de que el ataque impactara en Malizall, Sildar, consciente del peligro, se interpuso. El rayo lo golpeó con fuerza brutal en el pecho, expulsando una onda que lo lanzó hacia atrás, golpeando también a Malizall y tirándolos al suelo.
+
+—¡Sildar! —gritó Malizall, horrorizado.
+
+Otra bruja, oculta hasta entonces, era la autora del ataque. Mientras el grupo se daba cuenta de su presencia, Vengy interrumpía con un contrahechizo la conjuración de la primera bruja, y Orianna descargaba sobre ella otra andanada de rayos letales.
+
+Hakuryuu reaccionó rápidamente, lanzándose contra la segunda bruja y asestándole un golpe certero con su espada. En un desesperado intento por huir, la bruja tocó su piedra, iniciando el paso al plano etéreo. Pero Alistar, con una voz cargada de poder arcano, le ordenó:
+
+—¡Suelta la piedra!
+
+La orden fue irresistible. La bruja dejó caer el objeto, interrumpiendo su escape, y Vengy la remató con un devastador ataque cargado de luz radiante.
+
+La primera bruja, acorralada y dañada por los ataques combinados del grupo, intentó una última vez cambiar de plano, pero Ander interrumpió su concentración con un insulto mágico que le causó un agudo dolor psíquico. Orianna aprovechó el momento y, convocando un poderoso relámpago, terminó por eliminarla.
+
+Al disiparse el combate, el grupo se precipitó hacia Sildar, quien intentaba incorporarse penosamente. Vengy aplicó rápidamente su magia curativa, pero aunque esto alivió parte de su dolor, la respiración de Sildar seguía siendo dificultosa. Al mirar sus manos, todos se congelaron al ver un triángulo oscuro marcado en la palma.
+
+—¡Sildar, tu mano! —exclamó Alistar con alarma.
+
+Sildar, al contemplar el símbolo, entró momentáneamente en trance. Cuando volvió en sí, miró aterrorizado a Malizall:
+
+—¡No era a mí a quien buscaba! Esto no iba dirigido a mí, sino a ti, Malizall.
+
+—¿Por qué lo has hecho, Sildar? ¡Yo debería protegerte a ti, no al revés! —exclamó Malizall, al borde de un ataque de ansiedad.
+
+Sildar, con dificultad, respondió:
+
+—Tenía que hacerlo. Vi cómo te atacaba… No podía permitirlo.
+
+Malizall, abrumado por la culpa, volcó toda su energía mágica en intentar sanar a su amigo, sabiendo en el fondo que no bastaría.
+
+—¿Qué has visto, Sildar? —preguntó desesperado.
+
+El rostro de Sildar reflejaba un profundo horror mientras susurraba:
+
+—Algo terrible... Almas atrapadas nuevamente...
+
+—¡No! —jadeó Malizall.
+
+—¡No puede ser! —replicó Alistar con profunda preocupación—. ¿Otra vez?
+
+Sildar, con la mirada perdida y la voz casi extinta, logró murmurar:
+
+—Sobre Waterdeep...
+
+En ese instante, perdió nuevamente la consciencia, dejando al grupo sumido en una profunda desesperación.
+
+La escena se elevó lentamente desde el grupo abatido hacia el cielo oscuro, mostrando la siniestra grieta abisal que atravesaba el bosque como una cicatriz maldita. La visión continuó alejándose, acercándose ominosamente hacia la cercana Waterdeep, envuelta en sombras y presagios de inminentes tragedias.
+
+La vista avanzó hacia las afueras de Waterdeep, a un cementerio envuelto en niebla y lluvia intensa. Guardias de la Mano de Hierro custodiaban la entrada, con miradas frías e impasibles. Dentro, cientos de seguidores de la nueva fe observaban en inquietante silencio un lúgubre ritual presidido por el Apóstol Hederic Alorn.
+
+Una oscuridad palpable cubría el lugar como un velo maligno, bloqueando cualquier luz divina que pudiera penetrar en aquel santuario de muerte. Diez cuerpos yacían preparados para el entierro, víctimas recientes de ataques y otras desgracias desconocidas.
+
+Hederic Alorn elevó un candelabro oscuro que exudaba una energía siniestra, atrayendo y atrapando las almas de los muertos, arrebatándolas con violencia desde sus cuerpos y lanzándolas al cielo tormentoso. Su voz resonó profunda, triunfal y escalofriante:
+
+—¡Estas almas han sido liberadas! Ahora yacen junto al verdadero dios todopoderoso.
+
+La lluvia caía con mayor intensidad, como si los propios cielos lloraran por la profanación y la desesperanza. Mientras los héroes luchaban por recuperar sus fuerzas, ajenos al horror que se desplegaba en las sombras, la oscura nueva fe avanzaba imparable sobre Waterdeep.
