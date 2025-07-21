@@ -1,5 +1,3 @@
-Añadir conversacion de malizall con relion (sesion 5)
-subir imagenes a public
 diario sesion 6
 
 prepara escenas para la investigacion de la mano de hierro.
