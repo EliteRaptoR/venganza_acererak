@@ -304,7 +304,7 @@ Ander corrió con una desesperación animal, huyendo de las sombras que brotaban
 
 Antes de que pudiese recuperar el aliento, una figura oscura apareció al final del callejón, a escasos metros. Sin pensarlo demasiado, Ander conjuró un Starry Wisp que impactó de lleno sobre la figura. Aprovechando el momento, echó a correr de nuevo, pero la criatura era veloz, demasiado veloz. En un abrir y cerrar de ojos, lo alcanzó y se lanzó sobre él, derribándolo al suelo en una maraña de brazos y sombras.
 
-![[AnderSesion2.png]]
+![[Ander y Loti.png]]
 
 Rodaron juntos por el suelo húmedo y frío; Ander logró momentáneamente liberarse, pero no sin recibir un golpe brutal que le dejó una sensación helada extendiéndose desde el punto de impacto hacia todo su cuerpo.
 
@@ -2039,7 +2039,9 @@ Sus palabras quedaron suspendidas en el aire cargado de humedad y tensión, reso
 
 ### _La Voz es Ley_
 
-La mañana daba paso a tarde lentamente, teñida con matices rojizos y violáceos que bañaban el cielo, proyectando sombras largas y profundas sobre las calles húmedas de Waterdeep. Las fachadas de los edificios mostraban inquietantes triángulos rojos, pintados durante la noche, cada uno proclamando silenciosamente los oscuros lemas de la Mano de Hierro: “La Voz es Ley”, “Sin suerte, sin herejía”.
+La mañana daba paso a tarde lentamente, teñida con matices rojizos y violáceos que bañaban el cielo, proyectando sombras largas y profundas sobre las calles húmedas de Waterdeep. Las fachadas de los edificios mostraban inquietantes triángulos rojos, pintados durante la noche, cada uno proclamando silenciosamente los oscuros lemas de la Mano de Hierro: “La Voz es Ley”,“Sin suerte, sin herejía”.
+
+![[LaVozEsLey.png]]
 
 En ese ambiente opresivo, el grupo avanzaba con cautela hacia el Templo de Tyr. La imponente construcción, símbolo de justicia y esperanza, se erguía como un bastión solitario envuelto en incertidumbre. Las puertas de bronce y la magnífica balanza dorada que presidía la entrada parecían ahora opacas, apagadas bajo el peso invisible de la desesperanza colectiva.
 
@@ -2111,13 +2113,15 @@ A lo largo del camino, destacaban estatuas meticulosamente talladas en homenaje 
 
 Mientras avanzaban, Ceniz, curioso y siempre atento a los pequeños tesoros que la ciudad podía ofrecerle, revoloteaba ágilmente entre las farolas. De repente, captó un brillo plateado en el suelo y, sin dudarlo, se lanzó con rapidez, regresando orgullosamente hacia Malizall con un delicado collarcito de plata entre sus picos.
 
-—Cenit, ¿otra vez recogiendo cosas del suelo? —le reprendió ligeramente Malizall, aunque su voz sonaba más divertida que severa.
+—Ceniz, ¿otra vez recogiendo cosas del suelo? —le reprendió ligeramente Malizall, aunque su voz sonaba más divertida que severa.
 
 Al llegar finalmente a la mansión, encontraron al servicio de Hakuryuu trabajando diligentemente para limpiar los numerosos escombros que aún quedaban como testimonio de los daños sufridos. Ander, al ver el familiar entorno, llamó alegremente:
 
 —¡Querida, querida!
 
 En respuesta, Loti apareció rápidamente corriendo hacia él, luciendo en su cuello un pañuelo elegante que mostraba orgullosamente el blasón del dragón plateado. Hakuryuu, al aproximarse, se detuvo frente a las imponentes estatuas de dragones que flanqueaban la entrada. Durante unos instantes, una sombra de tristeza cruzó su rostro al recordar inevitablemente a su hermano y a sus padres. Respiró profundamente para calmar su ánimo agitado y prosiguió con paso decidido hacia el interior.
+
+![[Loti Clan del dragon.png]]
 
 En la puerta los recibió Varuum, cuyo rostro se iluminó al ver a Hakuryuu.
 
@@ -2349,6 +2353,8 @@ La sacerdotisa, percibiendo el momento solemne, giró hacia Orianna con gracia y
 
 Orianna hizo una reverencia respetuosa antes de reunirse con sus compañeros, y juntos emprendieron el camino hacia el bosque.
 
+![[Ritual Selune.png]]
+
 El viaje inicial fue sencillo, avanzando por rutas frecuentemente transitadas. Poco a poco, guiados por Orianna, tomaron desvíos menos visibles, internándose en caminos solitarios marcados por carteles de advertencia hacia los aldeanos, instalados por los habitantes de una cercana aldea a quienes Orianna había hecho algunas “trastadas” en el pasado.
 
 —Tranquilos —explicó Orianna—, conozco el camino y cómo evitar todas las trampas que puse para los inoportunos.
@@ -2428,6 +2434,8 @@ Pero justo antes de que el ataque impactara en Malizall, Sildar, consciente del 
 —¡Sildar! —gritó Malizall, horrorizado.
 
 Otra bruja, oculta hasta entonces, era la autora del ataque. Mientras el grupo se daba cuenta de su presencia, Vengy interrumpía con un contrahechizo la conjuración de la primera bruja, y Orianna descargaba sobre ella otra andanada de rayos letales.
+
+![[Sildar Maldito.png]]
 
 Hakuryuu reaccionó rápidamente, lanzándose contra la segunda bruja y asestándole un golpe certero con su espada. En un desesperado intento por huir, la bruja tocó su piedra, iniciando el paso al plano etéreo. Pero Alistar, con una voz cargada de poder arcano, le ordenó:
 

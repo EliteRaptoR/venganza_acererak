@@ -62,7 +62,7 @@ _Así está escrito. Así será.”_
 **Cargar encuentro ander
 **Musica ander
 
-![[AnderSesion2.png]]
+![[Ander y Loti.png]]
 
 Cargas con el perro pero el demonio parece correr mas que tu y mas con ese saco de pulgas cargado.
 
