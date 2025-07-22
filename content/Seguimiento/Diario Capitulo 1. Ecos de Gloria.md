@@ -2229,7 +2229,13 @@ Alistar añadió, buscando recuperar el tono animado:
 
 El semblante de Ander se tornó algo triste al recordar aquel momento:
 
-—La verdad es que esa historia la he contado en pocas ocasiones. Aunque os salvé a los demás, no puedo evitar sentirme fracasado porque no pude salvar a Sharwyn. Así que con el tiempo, dejé esa historia atrás.
+—La verdad es que esa historia la he contado muy pocas veces. No fui para nada un héroe; me acurruqué en un rincón, dominado por el miedo al contemplar las fauces de aquel monstruo colosal. Vosotros erais quienes sosteníais ese titánico combate, mientras yo solo podía observar. La verdadera heroína fue Sharwyn, no yo, pues fue su sacrificio lo que nos permitió escapar de aquel enfrentamiento oscuro. Recuerdo, con un nudo en la garganta, cómo ella, guiada por la nobleza de su corazón y empuñando hábilmente sus espadas de luz y sombra, lograba herir al monstruo con golpes certeros. 
+
+La bestia se ensañó con ella y, en un segundo en que Sharwyn no pudo verla venir, la serpiente le dio el mortal abrazo. La vi caer, su cuerpo quedó inerte en el campo de batalla. Entonces, solo así pude moverme, empujado por algo más fuerte que el miedo: la esperanza de que mis ojos le hubieran jugado una cruel broma a mi corazón. Corrí hacia ella y, en un momento de inconsciencia, empuñé mi espada y le di el golpe final al monstruo.
+
+Me arrodillé junto a ella y la tomé entre mis brazos; noté todos los huesos quebrados de su cuerpo. Con prisa y la voz quebrada, recité todas las frases y cánticos que podrían haberla curado, pero ya era tarde. Solo pude estar con ella en su último suspiro y, con la boca ensangrentada, esbozó una sonrisa y me miró con una ternura tal que oí dentro de mí su voz diciendo: "No te asustes, pequeñajo; yo te protegeré siempre" y al finalizar está frase el brillo de sus ojos se apagó.
+
+Después de aquello, enmudecí por unos segundos, como preludio al doloroso llanto por la pérdida de una gran amiga. Por eso no puedo evitar sentirme un fracasado, porque no pude salvarla. Cada vez que intentaba cantar su gesta y su noble sacrificio, se me partía la voz. Así que, con el tiempo, dejé esa historia atrás.
 
 Un silencio respetuoso llenó la habitación, dejando espacio para que Ander pudiera expresar el dolor guardado durante tanto tiempo.
 
@@ -2237,7 +2243,7 @@ Un silencio respetuoso llenó la habitación, dejando espacio para que Ander pud
 
 Sus ojos reflejaban un arrepentimiento genuino, y su voz tembló ligeramente al continuar:
 
-—Lo curé, lo cuidé. Pero cada vez que me veía después de aquello, veía miedo en sus ojos. Esa herida en mi ojo… no recuerdo cómo ocurrió exactamente, pero se convirtió en un recordatorio constante de mi fracaso, de mis errores.
+—Lo curé, lo cuidé. Pero cada vez que me veía después de aquello, veía miedo en sus ojos. Esa herida en mi ojo… no recuerdo cómo ocurrió exactamente, pero se convirtió en un recordatorio constante de mi fracaso, de mis errores. Es también lo que retiene al monstruo que vive dentro de mí, ese monstruo que, cada vez que recuerdo su rostro ebrio de soberbia, me enferma y me aterra. Temo tanto que vuelva a salir y ha hacer daño a los inocentes, y por eso soy incapaz curarla, ya que solo así como me veis ahora soy capaz de verme yo también.
 
 La sala quedó sumida en silencio durante un largo instante, hasta que Orianna intervino suavemente:
 
