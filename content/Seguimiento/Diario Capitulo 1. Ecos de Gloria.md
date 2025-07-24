@@ -2279,9 +2279,10 @@ El bardo, por primera vez en mucho tiempo, sintió la claridad volver a su mirad
 
 ### _Memorias de un Guerrero_
 
+
 Inspirado por la valentía de Ander al compartir su historia, Hakuryuu tomó un respiro profundo y, con una voz que reflejaba un extraño equilibrio entre orgullo y melancolía, comenzó a hablar:
 
-—Yo también os contaré una historia…
+—Yo también os contaré una historia…de unos niños cuyos nombres se han desvanecido en mi memoria—
 
 Todas las miradas se dirigieron expectantes hacia él mientras el dragón plateado elegía cuidadosamente sus palabras.
 
@@ -2293,33 +2294,141 @@ Orianna intervino brevemente, con una mirada comprensiva:
 
 Hakuryuu asintió ligeramente, continuando su relato:
 
-—Un día, tras mi entrenamiento diario en el jardín, escuché gritos cerca de la entrada. Intrigado y un poco molesto por la interrupción, me acerqué para ver qué sucedía. Encontré a uno de mis guardias discutiendo acaloradamente con un niño pequeño. Pregunté al guardia: “¿Qué sucede aquí? ¿Por qué tanto alboroto?”. Él me respondió rápidamente: “¡No se preocupe, señor! Es solo un niño andrajoso tratando de entrar. Yo me encargo”. Pero al observar al niño, noté que estaba claramente angustiado y asustado.
+La mañana era fría, pero la escarcha comenzaba a derretirse sobre las hojas plateadas del jardín. Estaba  agitado por los ejercicios matutinos, caminaba entre los cerezos grises de mi jardín privado. Aunque mi cuerpo se había fortalecido, mi espíritu seguía erosionado.
+
+-"Sin Myrrym... sigo incompleto, pensaba"-.
+
+De pronto, un alboroto quebró la tranquilidad del momento.
+
+—"¡Te he dicho que no puedes pasar, niño! ¡Aléjate de los terrenos de mi señor!"
+
+Me detuve y caminé con paso firme hacia la entrada principal de mi mansión.
+
+Allí, un guardia forcejeaba con un niño de no más de ocho años. El pequeño estaba sucio, jadeando, con el rostro arañado por ramas y zarzas. A pesar de su tamaño, se plantaba con fuerza, aferrándose con determinación al umbral como si su vida dependiera de ello.
+
+—"¿Qué sucede?" —pregunté con tono seco.
+
+El guardia se cuadró y se dirigió a mí. —"Dice que busca a mi señor, pero no quiere dar su nombre ni el motivo."
 
 Hakuryuu hizo una pausa, reviviendo aquel momento con nitidez:
 
-—El niño se dirigió a mí desesperadamente: “¡Por favor, señor Hakuryuu, necesito ayuda!”. Respondí algo cortante: “No es a mí a quien buscas, estoy ocupado. Retírate”. Me giré para marcharme, pero entonces él imploró con voz rota: “¡Por favor, señor Hakuryuu, es mi hermano! ¡Está en peligro!”. Me detuve en seco, preguntando con severidad: “¿Tu hermano? ¿Qué le ha ocurrido?”. El niño explicó atropelladamente: “Es mi gemelo, cayó por un acantilado mientras jugábamos. Nos alejamos demasiado de nuestros padres y fue culpa mía. Escuché hablar de usted y vine a pedir ayuda”.
+—Yo soy Hakuryuu. ¿Qué quieres, niño?  
 
-Orianna, atrapada por la narración, preguntó con urgencia:
+El pequeño se irguió como pudo, tragando saliva. Sus ojos me escudriñaban con una mezcla de temor y esperanza. Su cabello, largo y plateado, caía en mechones desordenados sobre su frente, dándole un aire fantasmal bajo la luz del sol matutino. Sus ojos, grandes plateados  y brillantes, mostraban más miedo por lo que dejaba atrás que por mi imponente figura.
 
-—¿Lo salvaste?
+—"Dicen que usted es un héroe… Que salvó ciudades… Que luchó contra la muerte misma…"
 
-Hakuryuu asintió lentamente:
+Hakuryuu entrecerró los ojos.
 
-—Sin pensarlo mucho, cogí mi caballo, Drogon, subí al niño conmigo y partimos al lugar que me indicó. Era un niño humano, delgado y frágil, de unos siete u ocho años, cabello blanco y ojos plateados que brillaban con esperanza y miedo. Al llegar al bosque cerca del acantilado, escuché los gritos del hermano, pero también percibí cerca la presencia amenazante de una bestia. Le ordené al niño quedarse atrás, enfrentándome a la criatura con decisión. Mientras luchaba, sentí renacer en mí una pasión dormida por las batallas, rememorando nuestros días de gloria juntos. El combate fue duro, pero la vencí —dijo con satisfacción contenida—. Tras ello, busqué al otro hermano y lo hallé en una pequeña repisa, tranquilo y sereno. Le pregunté si estaba bien, y él respondió con calma sorprendente: “Sabía que mi hermano volvería por mí”.
+—“No es a mí a quien buscas, estoy ocupado. Retírate”. 
+
+Me giré para marcharme, pero entonces el niño tembló y bajó la mirada. Por un instante parecía rendirse, pero entonces él imploró con voz rota: 
+
+
+—"Es mi hermano gemelo… cayó a un acantilado . Estábamos jugando… Nos alejamos demasiado de nuestros padres y fue culpa mía. Escuchamos un rugido. Hay algo abajo. Algo que se mueve…Escuché hablar de usted y vine a pedir ayuda”.
+
+El mundo pareció detenerse para Hakuryuu y como el aire pareció hacerse más frío.
+
+—"¿Tu hermano? —Hakuryuu se giró lentamente hacia el niño. Su voz sonó grave, más baja de lo habitual, como si luchara contra un recuerdo".
+
+En el salón principal, mientras escuchaban la historia, Oriana ladeó la cabeza. No era solo lo que decía Hakuryuu… era cómo lo decía. La palabra "hermano" le había atravesado el pecho como una flecha. Atrapada por la narración, preguntó con urgencia:
+
+—¿Hakuryuu, lo savaste?
+
+Hakuryuu alzó la mirada, y por un instante, el fuego que le quedaba brilló en sus ojos helados y asintió lentamente:
+
+Bajé mi mirada y vi al niño. Pequeño, sucio, jadeante. Con los ojos llenos de desesperación… 
+
+Me giré hacia el guardia y le dije:
+
+—"Tráeme a Drogon. Ahora! 
+
+Él me respondió titubeante: 
+
+-¿Su semental, mi señor?"—"¡Mi señor, no vale la pena!" —gruñó el guardia, sujetando al niño por el brazo—.
+
+ -"Solo es un crío sucio inventando historias. No pierda su tiempo con él"
+
+Volví mi  rostro con furia hacia ese guardia descarado:
+
+—"Prepara a Drogon. Ahora!."
+
+—"Entendido, mi señor. ¡Ahora mismo!"—dijo el guardia resignado pero dispuesto a obedecer.
+
+La tarde había comenzado a cubrirse de nubes cuando  cabalgaba a toda velocidad, con el niño aferrado a mi cintura y con Drogon cortando el viento. El paisaje se tornaba rocoso, el sendero estrecho, y el rugido de una bestia en la lejanía comenzaba a crecer.
+
+—"¿Dónde cayó tu hermano?" —pregunté al niño.
+
+—"¡Allí! "—el niño señaló con el dedo tembloroso hacia una formación rocosa al borde de un precipicio. Unas zarzas y piedras marcaban un sendero roto que descendía hacia el acantilado. Y entre las rocas… un pequeño cuerpo se movía, colgado entre raíces y grietas, luchando por no caer.
+
+Entonces, una sombra cruzó el cielo.
+
+Frené a Drogon y descendí de un salto. Ordené al niño que se quedara tras una piedra. Entonces la ví: una criatura parecida a un lobo, enorme, de pelaje negro azabache y ojos como brasas, olfateando la zona, cada vez más cerca del niño herido.
+
+Descendió por la ladera con velocidad sorprendente. El terreno temblaba bajo las pisadas de esa bestia.
+
+ Mientras luchaba, sentí renacer en mí una pasión dormida por las batallas, rememorando nuestros días de gloria juntos. El combate fue duro, pero la vencí 
+
+El combate fue brutal. sentí renacer en mí una pasión dormida por las batallas, rememorando nuestros días de gloria juntos. El combate fue duro, pero la vencí. Hundí mi espada entre las costillas de la bestia justo cuando esta se disponía a atacar al gemelo caído—dijo con satisfacción contenida—
+
+La bestia soltó un chillido y se desplomó.
+
+Me acerqué al niño herido. Tenía rasguños, estaba aturdido, pero vivo.
+
+—Ya estás a salvo… —le dije, aunque por alguna razón, con una  voz más suave de lo que hubiera imaginado.
+
+La bestia yacía muerta. El silencio volvió a apoderarse del acantilado, roto solo por el jadeo de los tres: el niño herido, el que lo había buscado… y yo, con la espada aún ensangrentada en mano, arrodillado en la tierra.
+
+Cuando me  acerqué al niño que había estado colgado, percibí algo más. Una firmeza inesperada, una determinación pura que no se enseñaba, que nacía. Su cabello plateado caía sobre su frente de forma desordenada, agitándose con el viento, y sus ojos plateados, intensos, parecían fijas en un único propósito: proteger.
+
+Le pregunté si estaba bien, y él respondió con calma sorprendente: “Sabía que mi hermano volvería por mí”.
 
 Su rostro reflejó brevemente una sombra de tristeza antes de continuar:
 
-—Al verlos reunidos, pregunté por qué se habían aventurado allí. Me explicaron que querían emular nuestras leyendas, nuestras aventuras. “No se enfade con nosotros, señor Hakuryuu”, me dijeron, “solo queremos ser grandes guerreros como usted”. Su determinación y cariño mutuo me conmovieron profundamente. Los llevé a mi mansión, ordené que los bañaran y vistieran con prendas que llevaban el emblema del dragón plateado. Entrené brevemente con ellos hasta que llegaron sus preocupados padres para recogerlos.
+—Gracias por no dejarnos solos, señor Hakuryuu —dijo el pequeño, con los ojos brillantes de gratitud.
 
-Al terminar, Orianna comentó reflexivamente:
+Miré a los dos hermanos. Uno abrazaba al otro, temblando de alivio. Vivos. Juntos. Casi imposibles de distinguir: el mismo cabello plateado agitándose al viento, los mismos ojos grandes y brillantes como espejos enfrentados, la misma fragilidad vestida de coraje. Como dos gotas de agua reflejando un mismo sol... o una misma herida. 
+
+El más serio —o simplemente el más maduro— sostenía con firmeza a su hermano, su rostro aún pálido pero sereno, con una calma nacida del deber, no de la ausencia de miedo;
+el otro, más pequeño en espíritu aunque no en estatura, sollozaba aún, aferrado a su gemelo como si el mundo entero pudiera derrumbarse si lo soltaba.
+
+Y sin embargo, había sido él —el más asustado, el más frágil— quien había atravesado el bosque, enfrentado a los guardias y llamado a mis puertas  para salvar a su hermano.
+
+Porque el miedo no lo detuvo. Lo empujó. 
+
+—Al verlos reunidos, pregunté por qué se habían aventurado allí. Me explicaron que querían emular nuestras leyendas, nuestras aventuras. “No se enfade con nosotros, señor Hakuryuu”, me dijeron.
+
+—Usted es un verdadero héroe. Yo… bueno, todos hemos oído historias sobre usted y sus compañeros —sonrió tímidamente el niño rescatado—. Mi hermano menor y yo jugamos a ser guerreros todo el tiempo. Y siempre peleamos por quién sería usted.
+
+—¿Y quién ganaba? — pregunté al pequeño con curiosidad
+
+—Yo, casi siempre… porque soy el mayor —dijo con orgullo infantil. Luego se puso serio otra vez—. Pero hoy… hoy lo vi en persona luchar y fue mejor que cualquier historia.
+
+Hizo una pausa. Luego lo dijo con claridad, con respeto y fuego en la mirada:
+—Cuando crezca, quiero ser como usted. Fuerte, valiente… pero también alguien que escuche, que se detiene a ayudar. Que no ignora a los que nadie ve.
+Lo miré en silencio. Por un instante, ese brillo en los ojos del hermano mayor fueron un reflejo perfecto del yo que ya no existía… o del que aún vivía oculto dentro de mí:
+
+—Tienes buen corazón, niño — No lo pierdas. Te hará mejor guerrero que cualquier espada.
+
+—Si siguen entrenando… un día serán tan buenos guerreros como lo fuimos yo y mi her…
+
+—¿Su… qué? —preguntaron los niños, frunciendo el ceño- 
+
+—Nada… sólo un pensamiento antiguo —dije sin más. 
+
+Los llevé a mi mansión, ordené que los bañaran y vistieran con prendas que llevaban el emblema del dragón plateado. Entrené brevemente con ellos hasta que llegaron sus preocupados padres para recogerlos.
+
+Al terminar su historia,  Hakuryuu pensó en algo para sí mismo en ese momento, en unos ojos iguales a los del hermano mayor y en una voz que ya no escucharía más. Su rostro de afligió.
+
+Orianna comentó reflexivamente:
 
 —Hakuryuu, siempre cuentas algo de tu presente, nunca algo directamente de tu pasado.
 
-Ander intervino con su habitual falta de tacto:
+Fue entonces cuando Ander, sentado con una pierna cruzada sobre el respaldo del sofá, se inclinó hacia adelante, con el ceño ligeramente fruncido y falta de tacto:
 
-—Hakuryuu, ¿y tu familia? ¿Están todos muertos? ¿También eran guerreros como tú?
+—Hakuryuu, ¿y tu familia? ¿Están todos muertos o qué? ¿También eran guerreros como tú? —
 
-Orianna lo miró incrédula, pero Hakuryuu respondió con serenidad inesperada:
+El comentario cayó como una piedra en el agua. Oriana le dio un codazo seco en las costillas a Ander, pero Hakuryuu respondió con serenidad inesperada como si esa pregunta abriera una puerta que llevaba mucho tiempo cerrada:
 
 —Provengo de una familia importante. Mi padre aún vive; hace mucho que no nos vemos, pero intercambiamos cartas de vez en cuando. Es un guerrero estricto, dirige un clan. Mi apellido es Arashi.
 
@@ -2331,7 +2440,7 @@ Hakuryuu continuó sin perder la compostura:
 
 —Mi padre siempre ha sido muy estricto, muy exigente. Puede que alguna vez me hayáis visto vulnerable, pero eso no volverá a suceder. Os respeto a todos, incluso si no sois guerreros tan hábiles como yo —concluyó con una sonrisa provocadora, aunque genuinamente agradecida—. Gracias por todo.
 
-El grupo decidió entonces descansar hasta la tarde del día siguiente, dejando que las palabras de Hakuryuu flotaran pensativas en el aire, fortaleciendo los lazos entre ellos.
+El grupo decidió entonces descansar hasta la tarde del día siguiente, dejando que las palabras de Hakuryuu flotaran pensativas en el aire, fortaleciendo los lazos entre ellos.
 
 ### _Viaje hacia la Luna y el Bosque_
 

@@ -2,7 +2,7 @@
 
 # Sesión 5
 
-## **Dia 2: El Decreto de la Luz Verdadera**
+## **(Jugado)Dia 2: El Decreto de la Luz Verdadera**
 
 ### **Lugar**
 
@@ -111,7 +111,7 @@ Los puestos de los comerciantes siguen abiertos, pero algunos detienen sus venta
 
 
 
-## **Orianna en la grieta
+## **(empezar aqui)Orianna en la grieta
 
 Las primeras luces del alba apenas rozan el bosque cuando Orianna avanza entre los altos helechos y las raíces húmedas. Su silueta se recorta entre la niebla matinal, envuelta en el perfume de romero y lavanda que exhala su talismán. Cada paso la acerca a ese umbral prohibido, donde la tierra se ha abierto como una herida y el susurro del abismo resuena bajo las cortezas agrietadas.
 
@@ -122,7 +122,7 @@ La tierra se abre ante ella en un boquete de pesadilla, sus bordes dentados como
 Al fondo, Orianna distingue el tronco partido del árbol sagrado, aún aferrado al borde como si luchara por no caer. Allí, una vara de savia y escama, mezcla de corrupción y pureza, crece entre las raíces: un capullo a medio formar, crisálida de poder y enigma.
 
 La druida respira hondo, sintiendo el palpitar de la magia antigua y la mirada invisible de Elyz, y sabe que, en ese umbral, todo acto resonará en el bosque durante generaciones. Es el momento de elegir entre el miedo y el coraje, entre la huida y la transformación.
-## **Día 4: Confiscación en el Templo de Tymora**
+## **(en curso)Día 4: Confiscación en el Templo de Tymora**
 
 ### **Lugar:**
 
@@ -267,7 +267,7 @@ Pero **una oración** garabateada con carbón aparece en la pared del templo req
 ---
 
 
-## **Día 4: El Murmullo de las Calles**
+## **(rapido)Día 4: El Murmullo de las Calles**
 
 ### **Lugar:**
 
@@ -354,7 +354,7 @@ En una esquina, una anciana (quizá **Maela Torran**, si fue liberada anteriorme
     
 - Establece que la Voz y la Mano ya no necesitan solo soldados: ahora tienen al miedo como aliado.
 
-## **Día 4: El Consejo de la Cámara Silente**
+## **(opcional) Día 4: El Consejo de la Cámara Silente**
 
 ### _Escena: La Voz del Oro_
 
@@ -469,7 +469,7 @@ La escena termina.
 
 ---
 
-## **Día 5: La Mano y el Silencio**
+## **Día 5/Mañana: La Mano y el Silencio**
 
 ### **Escena: El Decreto de Cierre en la Gran Biblioteca**
 
@@ -575,3 +575,166 @@ Al caer la tarde, cuando la plaza se vacía, un grupo de niños juega en las esc
 La alza como si fuera una espada.  
 Los otros aplauden.  
 Nadie les dice que eso también está prohibido.
+
+## **Día 5/tarde: La caída de Lathander**
+
+### **Fragmento I — “La Muralla de la Aurora”**
+
+> Los pesados portones rosados del templo de Lathander se abren con un gemido que resuena sobre la Plaza de la Promesa. Padre **Relion** avanza en cabeza, erguido en su túnica blanca con estola dorada, la mirada firme como el filo del alba. Una docena de acólitos forman un semicírculo luminoso con candelabros encendidos ante los escalones, mientras detrás de ellos se concentran decenas de fieles. Enfrente, veinte agentes de la **Mano de Hierro**, liderados por el Sargento **Derian Farse**, avanzan en formación cerrada. Algunos soldados se desvían hacia las puertas laterales con martillos y barras metálicas, dispuestos a romper los accesos al templo por la fuerza. Relion eleva la voz con autoridad:
+> 
+> —¡Esta es casa de amanecer y misericordia! ¡Respetad la luz, respetad la ley divina!—
+> 
+> Su voz se enfrenta a la mirada fría del Sargento Derian, cuyo gesto permanece inmutable mientras hace señas claras a sus hombres de continuar la ruptura de los accesos secundarios. Cuando Relion alza una mano para invocar un conjuro protector, un agente oculto entre los soldados pronuncia unas palabras cortantes: la magia se desvanece abruptamente antes de tomar forma, anulada por un contrahechizo preciso.
+
+---
+
+### **Fragmento II — “Cenizas sobre el Santo”**
+
+> Desde la calle lateral irrumpe en la plaza la turba de la Nueva Fe: triángulos rojos al brazo, rostros distorsionados por el fervor, y antorchas humeantes en alto. Un heraldo impío levanta un ídolo decapitado de Tymora mientras vocifera:
+> 
+> —¡Sin suerte, sin herejía! ¡La Voz reclama lo suyo!—
+> 
+> La muchedumbre lanza muebles saqueados al templo, formando una pira blasfema. El fuego prende rápido, escupiendo chispas que ennegrecen las vidrieras de la nave. Sin demora, algunos exaltados se lanzan directamente contra los seguidores de Lathander, profiriendo insultos y empujones. Un joven acólito es derribado brutalmente, y la primera sangre se mezcla con el hollín que ya mancha el mármol blanco.
+
+---
+
+### **Fragmento III — “El Crisol de las Lanzas”**
+
+> La **Guardia de la Ciudad** irrumpe tratando de separar desesperadamente ambos bandos, formando un frágil muro con escudos y lanzas sin filo. Sin embargo, la plaza es demasiado extensa y la multitud demasiado furiosa para contenerla. Golpes aislados escapan al control, y las refriegas se multiplican.
+> 
+> Mientras tanto, bajo las órdenes del Sargento Derian, los soldados de la Mano de Hierro finalmente logran quebrar las puertas laterales con estrepitoso crujido, penetrando al templo en busca de artefactos sagrados. Transcurren minutos tensos; finalmente reaparecen cargando relicarios, objetos de culto y decenas de manuscritos.
+> 
+> Al ver esto, los seguidores de Lathander rompen filas intentando rescatar sus reliquias, pero una nueva ola de fieles de la Nueva Fe carga contra ellos con gritos desaforados. El choque es brutal. La guardia, incapaz de estar en todas partes, observa impotente cómo la plaza se convierte en un mosaico de violencia, desesperación y llamas crecientes.
+
+---
+
+### **Fragmento IV — “El Eco de un Amanecer Roto”**
+
+> Los cerrojos retumban al sellarse definitivamente las puertas del templo tras el paso de la Mano. La plaza se estremece bajo un clamor dividido: alaridos de rabia y dolor mezclados con plegarias rotas. La multitud de la Nueva Fe, alentada por la victoria parcial, embiste una vez más con ferocidad imparable. La Guardia no retrocede, pero tampoco puede frenar el caos generalizado que explota en todas direcciones.
+> 
+> Sobre el estruendo, Relion levanta una vez más su voz—clara, resonante—:
+> 
+> —¡El verdadero amanecer no depende de puertas ni decretos!—
+> 
+> Por un breve instante, incluso las antorchas parecen vacilar. Pero el silencio efímero termina abruptamente cuando otra piedra surca el aire, golpeando un escudo y provocando la última oleada de violencia desesperada. El ocaso mancha el cielo, y el templo sellado permanece en penumbra, herido, abandonado por primera vez en siglos. Ciudadanos horrorizados corren a difundir la noticia: el templo del dios del amanecer ha sido tomado por la fuerza, y nadie sabe si volverá a abrir sus puertas.
+
+### **Fragmento Final — “Últimas Luces del Día”**
+
+> La plaza queda envuelta en humo, sangre y silencio aturdido tras largos minutos de caos. El pavimento está cubierto de símbolos rotos, antorchas apagadas y trozos de madera chamuscada.
+> 
+> Padre **Relion**, con la túnica desgarrada y manchada de ceniza, permanece de pie ante las puertas selladas del templo. Sus ojos reflejan tristeza profunda, pero su postura continúa firme, digna, como la última luz antes del ocaso. Alza lentamente la mano sosteniendo un candelabro dorado, ahora doblado y cubierto de hollín, pronunciando con voz serena pero agotada:
+> 
+> —Lathander nos enseñó que el alba siempre vuelve, aunque la noche sea oscura y profunda. Hoy hemos visto caer nuestro templo, pero nuestra fe está más viva que nunca. Replegaos y cuidad a los heridos, no deis motivo a más sangre. Llegará el momento de restaurar lo que hoy ha sido profanado.—
+> 
+> Los seguidores de la Nueva Fe, eufóricos pero también exhaustos, comienzan a dispersarse lentamente por las calles laterales, llevando consigo algunos de los trofeos obtenidos y coreando proclamaciones desafiantes, pero ya sin fuerza para continuar el enfrentamiento directo.
+> 
+> Momentos después, al fin llegan refuerzos de la Guardia de Waterdeep, tarde para cambiar el destino, pero a tiempo para asegurar lo que queda del templo y recoger a los heridos. El Sargento Derian, desde el fondo de la plaza, observa la escena con una fría satisfacción mientras dirige a sus hombres fuera del área en perfecta formación, sin mirar atrás, sabiendo que han dado un paso definitivo hacia el dominio absoluto.
+> 
+> Padre Relion, aún en pie ante los escalones del templo mancillado, contempla a los guardias con expresión triste pero resuelta. Antes de retirarse hacia los callejones para ayudar a sus fieles, se vuelve una última vez hacia la fachada ennegrecida y murmura para sí mismo, casi en plegaria:
+> 
+> —No es aquí donde reside el verdadero amanecer. Lo llevamos con nosotros, y con nosotros volverá a brillar.—
+> 
+> La plaza queda vacía. Sobre Waterdeep cae lentamente la noche, anunciando que esto es solo el preludio de un caos mucho mayor.
+
+## **Dia 5/noche: Arde Sea Ward
+
+#### **Fragmento 1 — Fuego en sea ward
+
+> El tañido monocorde de las campanas de alerta atraviesa la neblina nocturna como una saeta de plomo. Desde la barbacana más alta se divisa Sea Ward envuelto en un resplandor infernal: mansiones marmóreas, otrora relucientes, se perfilan ahora como islotes de ámbar entre lenguas de fuego que crepitan con hambre sacrílega. Por las avenidas fluyen sombras innumerables; portan azadas, picas de cosecha, utensilios domésticos convertidos en armas. Gritan lemas nuevos y terribles, y cada sílaba parece astillar un viejo dogma.
+
+---
+
+#### **Fragmento 2 — La guardia de la ciudad
+
+> Una verja de hierro forjado cede con un alarido metálico; tras ella surge el perfume dulzón de los buganvillas ardiendo. Los guardias de librea azul se repliegan a paso firme, escudos bruñidos a la altura del pecho; disparan órdenes secas que la multitud ignora. Entre los seguidores de la nueva fe se erige una figura de túnica gris, la voz impregnada de melodías extrañas que reptan sobre los tímpanos: bastan tres notas para que los más próximos se lancen como oleada imparable. La guardia retrocede un palmo… y el mármol inmaculado se tiñe de la primera gota carmesí
+
+---
+#### **Fragmento 3 — “La guardia noble”**
+
+La guardia de la ciudad es superada, la sangre no hace mas que dar mas razones al sacrifcio.
+
+>En el momento que parece el barrio caera sumido en el caos llega la guardia noble. Sus penachos azules y dorados relucen bajo las antorchas como si fuesen estandartes de un reino ajeno a la miseria, y sus picas centellean con un orden casi ceremonial. Ante ellos, la turba—armada con candelabros robados y patas de silla—retrocede un paso… demasiado tarde.
+> 
+> El Capitan, Lancer, ordena: «¡Media luna, arrollad !» y los escudos y espadas nobles se abren como la mandíbula de un depredador en la carne de su presa. El primer vagabundo que tropieza recibe un tajo limpio en la clavícula; la sangre chispea sobre mármol y seda rasgada. La formación avanza, empujando cuerpos contra las balaustradas de jaspe; espadas singulares cortan sin piedad gargantas que suplican clemencia.
+> 
+> El olor—metal caliente y aceite perfumado—marca la línea invisible entre poder y desesperación. Los gritos cambian: ya no son consignas de saqueo, sino alaridos de madres que ven caer a sus hijos bajo botas bruñidas. Un juglar callejero intenta interponerse, su laúd alzado a modo de escudo; la madera cruje, la hoja lo atraviesa, y el sonido final es un acorde roto que reverbera en los ventanales de cristal emplomado.
+> 
+> Al ver la matanza, incluso quienes dudaban de la Nueva Fe sienten cómo la indignación les prende en el pecho. «¡No es cuestión de dioses, sino de sobrevivir!», ruge alguien desde un carro volcado. El clamor crece, corre por callejones y patios como pólvora seca.
+
+Pronto cientos y luego miles de personas, de los barrios mas bajos de esta ciudad llegan armados con todo tipo de armas improvisadas como machetes, martillos, hoces y demás.
+
+---
+#### **Fragmento 4 — Magia Impía, Multitud Enardecida**
+
+> Al pie de la avenida de los Héroes Caídos, un clérigo renegado alza su báculo polvoriento; del capitel mana un haz verdoso que serpentea por encima de la muchedumbre como una víbora de humo. Allá donde la luz toca, los airados adquieren bríos demenciales: músculos tensos, ojos dilatados, una única pulsión —derribar al opresor. El capitan Lancer vacila un instante ante aquel fulgor malsano; la duda basta. Una lanza de asta desgastada se desliza bajo su axila. El acero encuentra resquicio entre coraza y carne, y el héroe que ayer era leyenda se quiebra de rodillas.
+> 
+> No hay silencio piadoso: la turba descarga una tormenta de golpes —madera, piedra, hierro— hasta que el yelmo salta y la sangre brota en surtidor negro a la luz rojiza de las llamas. Como abejas sobre el oso, los insurgentes acaban con el coloso… y celebran su caída con un rugido que hace estremecer las vidrieras de las villas cercanas.
+
+### **Fragmento — “Arde Selune”**
+
+> En el corazón de Sea Ward, la cúpula argentada del templo de Selûne relucía débilmente, aún a través de las nubes de humo y la oscuridad creciente. Como era costumbre en noches peligrosas, las grandes puertas de roble estaban selladas desde el ocaso, los fieles y sacerdotisas refugiados en el interior, rezando en voz baja a la Dama de la Luna para que protegiera el barrio de la furia que rugía más allá de sus muros.
+> 
+> Pero la fe no detuvo la marea. Entre el estrépito de gritos y crujir de maderas, un grupo de saqueadores y fanáticos de la Nueva Fe, enardecidos por el fragor de la revuelta, rodeó el santuario. Piedras y antorchas volaron contra los ventanales decorados con estrellas y lunas, y pronto los vitrales estallaron en miles de fragmentos irisados. Alguien derramó aceite sobre la escalinata y las llamas treparon como lenguas hambrientas por las columnas de mármol.
+> 
+> En el interior, el incienso se mezcló con el olor acre del humo. Los fieles intentaron contener el fuego, pero la puerta principal, cerrada en busca de seguridad, se convirtió en trampa mortal. Mientras los cánticos se elevaban en busca de auxilio divino, el techo de madera crujió, luego colapsó, dejando caer una lluvia de brasas y cenizas sobre los sagrados tapices y las estatuas de alabastro.
+> 
+> Para cuando la Guardia llegó, sólo quedaban ruinas incandescentes y el eco de plegarias ahogadas. La luz de Selûne se apagó en Sea Ward aquella noche, y muchos juraron que la luna misma se ocultó tras un velo de ceniza para no ser testigo del sacrilegio.
+
+
+---
+
+#### **Fragmento 5 — Sea Ward derrotado**
+
+> A la medianoche, la bruma marina trae consigo un gemido grave, casi telúrico: el bronce de los templos en ruinas mezcla su clamor con el chisporroteo de las hogueras. Más allá de Sea Ward, columnas de humo se elevan en espirales sucesivas; el cielo parece una bóveda de cal viva donde se dibujan los fulgores del desastre. Sobre las techumbres acribilladas se adivinan pequeñas siluetas —arqueros, sanadores, conjuradores— todos superados, todos luchando contra un océano de furia. Y en la lontananza, como un presagio, la luna se vela un instante tras una nube reseca… recordando a cada alma que la verdadera noche aún no ha caído.
+
+### Proclamas y Lemas para la Batalla de Sea Ward
+
+_(úselos al azar o como guion de escalada; están ordenados del clamor inicial al clímax apocalíptico)_
+
+|Intensidad|Grito breve (coreo)|Consigna extendida / proclama|
+|---|---|---|
+|**I – Primeros saqueos**|«¡La suerte os abandonó!»|«Si los ricos coleccionan oro, nosotros coleccionaremos justicia—moneda por moneda.»|
+||«¡Fuego al diezmo!»|«Cada antorcha que enciendas arranca un ladrillo al palacio que te oprime.»|
+||«¡La Voz nos guía!»|«Donde arde un amuleto arderá un tributo; donde yace un tributo nacerá un pueblo libre.»|
+|**II – Respuesta violenta de la nobleza**|«¡Sangre en el mármol!»|«Ved cómo la espada del noble corta panza de mendigo: al cenagal con sus blasones.»|
+||«¡Picas contra plumas!»|«No temáis al acero bruñido; temed la ira del hambriento vestido de harapos.»|
+||«¡Ni reyes ni sugardíos!»|«La Voz proclama: el poder que mata un niño hoy, matará a su reino mañana.»|
+|**III – Rabia popular tras la masacre**|«¡Tenemos nombre, tenemos filo!»|«Al que ciñe corona de oro le haremos corona de ceniza, grano a grano.»|
+||«¡El mármol cruje!»|«No hay paz sin pago: sangran los ricos, florece el llano.»|
+||«¡Contad los caídos, temed a los vivos!»|«Por cada pueblo quemado nacerán mil incendios; por cada mendigo muerto se alzan cien vengadores.»|
+|**IV – Llegada de los clérigos oscuros**|«¡Uno en la Voz, uno en la Mano!» (call) — «¡Uno en la Mano, todo en la Voz!» (response)|«Abrid vuestros pechos a la nueva lumbre; la fe del triángulo rojo forja cadenas para los tiranos.»|
+||«¡Sin suerte, sin herejía!»|«Nuestros pactos no piden diezmo, sólo victoria. ¡Doblegaos o ardéis!»|
+||«¡Que la noche escuche!»|«Bajo el ojo sin párpados juzgaremos a hierro y brea a quien venda al pobre por una copa de vino.»|
+|**V – Clímax de la batalla campal**|«¡Agrietad el cielo!»|«La luna bien puede huir, mas su ausencia será nuestro estandarte: no hay luz más pura que la del incendio justo.»|
+||«¡Muriendo nacemos!»|«Cada gota vertida aviva el río rebelde; y ese río no conoce diques de oro ni de ley.»|
+||«¡Fin a la estirpe infame!»|«Hoy elegís: levantaros con nosotros o hundiros con vuestros amos entre el mármol derretido.»|
+||«¡Sea Ward somos todos!»|«La ciudad al fin recuerda su corazón obrero: late rojo, late furioso, late libre.»|
+
+
+## **Dia 5/noche 2: Templo Helm**
+
+#### Fragmento – “La primera Contienda”
+
+> El repique de las campanas de Helm se mezcla con el retumbar de botas pesadas en la explanada de Castle Ward. Bajo el pórtico central se alinean los paladines: corazas plateadas, escudos con el yelmo alado de su dios. Sus mazos descansan al hombro, manos firmes, miradas decididas.
+> 
+> Desde la Gran Avenida surge un cuña de hierro y ceniza: son ochenta guerreros de la Mano de Hierro, encabezados por el Sargento Derian Farse y la Escuadra de Martillo. Bajan las grises banderas triangulares y alzan un estruendo de órdenes cortantes. Los caballeros abandona la solemnidad del rito para empuñar armas. Padre Veldor, archipaladín de Helm, alza la voz:
+> 
+> —¡En nombre del Vigilante Eterno, soldad vuestro mandato! ¡No permitáis que profanen este santuario!—
+> 
+> El choque es instantáneo: un ropero de órdenes marciales, mazos contra mazas, y el eco que retumba en altares y muros. Un agente de la Escuadra Gris libera un destello abjurador que hace retroceder a un escudero, pero antes de que un clérigo de Helm pueda alzar el báculo, un conjuro de contención lo derriba en seco. Aun así, un paladín se planta ante el Sargento Farse y bloquea su espada con la empuñadura de su maza, gruñendo:
+> 
+> —¡Este suelo es sagrado, por tus huesos que no pasaréis!—
+> 
+> Y con ese reto, el estrépito de la Vigilia comienza.
+
+
+
+## Dia 6
+
+Toque de queda parcial, se puede salir pero se debe justificar el motivo
+Templos cerrados. 
+Calles vigiladas.
+Represion total
+Arrestos de clerigos, Relion entre los que lo spersonajes conocen, conjuro en las puertas del templo de lathander. Los heroes pueden ser testigos.
+Heroes perseguidos.
+Rituales de cosecha con los muertos por los disturbios.
