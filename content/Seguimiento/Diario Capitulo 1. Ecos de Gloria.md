@@ -2025,7 +2025,7 @@ Hakuryuu le lanzó una mirada penetrante, helada y afilada como el filo de una d
 
 Alistar, siempre atento a los detalles esenciales, intervino con serenidad y convicción:
 
-—Esto confirma nuestras sospechas iniciales, especialmente tras mi conversación en Faux. Acererak está provocándonos deliberadamente. Quiere que vayamos en su búsqueda, que volvamos exactamente allí donde ya nos enfrentamos a él.
+—Esto confirma nuestras sospechas iniciales, especialmente tras mi conversación con Faux. Acererak está provocándonos deliberadamente. Quiere que vayamos en su búsqueda, que volvamos exactamente allí donde ya nos enfrentamos a él.
 
 —Y estará preparado, sin duda —añadió Ander con tono sombrío—. No cometerá el error de subestimarnos esta vez.
 
