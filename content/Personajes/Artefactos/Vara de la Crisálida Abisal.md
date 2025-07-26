@@ -42,3 +42,5 @@ En la oscuridad, las vetas internas y la escama brillan con pulsaciones suaves, 
 - **Visión Fugaz:** Tres veces por descanso largo, puedes emplear una acción para concentrarte en la escama de Elyz incrustada en la vara. Recibes una visión breve, fragmentaria, sobre el entorno actual de Elyz o un eco de sus emociones recientes (a criterio del Director de Juego).
     
 - **Orientación Sutil:** Mientras la lleves contigo, tienes ventaja en tiradas de Sabiduría (Supervivencia) para rastrear huellas o señales de Elyz, así como en tiradas de Inteligencia (Historia) relacionadas con artefactos o leyendas del tesoro de Elyz.
+
+### **3. Y mas...**

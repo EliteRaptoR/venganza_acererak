@@ -126,6 +126,7 @@ Sorprendentemente, Orianna no cambiaría nada de su pasado. Acepta cada parte de
 ### Artefactos
 
 - [[Brazales de la Promesa Verde]]
+- [[Vara de la Crisálida Abisal]]
 - Vial de veneno
 - Vial de acido
 - 2 Pociones de curación mayor (4d4 + 4)

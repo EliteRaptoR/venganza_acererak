@@ -1,6 +1,6 @@
 #Master 
 
-## Notas para empezar la sesion
+## Notas para empezar la sesión
 
 
 Haku gana dos puntos de cordura
@@ -520,7 +520,7 @@ Solo deber.
 
 ### **PNJs Reaccionando:**
 
-- **Maese Dorlan Trenn** (anciano bibliotecario), al pie de la escalinata, no grita:
+- **Mase Dorlan Trenn** (anciano bibliotecario), al pie de la escalinata, no grita:
     
     > “¿Y si mañana necesitáis un mapa para encontrar a vuestros hijos? ¿O una crónica para recordar quiénes fuimos?”  
     > Mira a Soriah con decepción genuina.  
