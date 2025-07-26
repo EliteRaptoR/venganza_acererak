@@ -1,6 +1,14 @@
 #Master 
 
-# Sesión 5
+## Notas para empezar la sesion
+
+
+Haku gana dos puntos de cordura
+Ander gana dos puntos de cordura
+Hakuryu gana un punto de pasion o determinacion por jugar de caracter de forma desventajosa con la recepcionista del ayuntamiento.
+Teneis tiradas relacionadas con el caracter con ventaja de forma ilimitada
+Acordaos de usar pasion siempre que creais que falleis y sea importante. Si aun asi no conguis exito tendreis un punto de pasion.
+Pasaran cosas duras, y hay tiradas que son imposibles de conseguir de forma natural. +30 Pero teneis pasion para ello. hay que pedir tirar con pasion antes del lanzamiento.
 
 ## **(Jugado)Dia 2: El Decreto de la Luz Verdadera**
 
@@ -578,13 +586,15 @@ Nadie les dice que eso también está prohibido.
 
 ## **Día 5/tarde: La caída de Lathander**
 
-### **Fragmento I — “La Muralla de la Aurora”**
+### **Fragmento I — “Llegada de la mano”**
 
 > Los pesados portones rosados del templo de Lathander se abren con un gemido que resuena sobre la Plaza de la Promesa. Padre **Relion** avanza en cabeza, erguido en su túnica blanca con estola dorada, la mirada firme como el filo del alba. Una docena de acólitos forman un semicírculo luminoso con candelabros encendidos ante los escalones, mientras detrás de ellos se concentran decenas de fieles. Enfrente, veinte agentes de la **Mano de Hierro**, liderados por el Sargento **Derian Farse**, avanzan en formación cerrada. Algunos soldados se desvían hacia las puertas laterales con martillos y barras metálicas, dispuestos a romper los accesos al templo por la fuerza. Relion eleva la voz con autoridad:
 > 
 > —¡Esta es casa de amanecer y misericordia! ¡Respetad la luz, respetad la ley divina!—
 > 
 > Su voz se enfrenta a la mirada fría del Sargento Derian, cuyo gesto permanece inmutable mientras hace señas claras a sus hombres de continuar la ruptura de los accesos secundarios. Cuando Relion alza una mano para invocar un conjuro protector, un agente oculto entre los soldados pronuncia unas palabras cortantes: la magia se desvanece abruptamente antes de tomar forma, anulada por un contrahechizo preciso.
+
+**Edicto cierre de templo**
 
 ---
 
@@ -727,8 +737,19 @@ _(úselos al azar o como guion de escalada; están ordenados del clamor inicial 
 > 
 > Y con ese reto, el estrépito de la Vigilia comienza.
 
+### Fragmento — “Retirada y Asedio”
 
+Bajo el arco de obsidiana del atrio, los paladines de Helm retroceden con paso firme pero fatigado. Sus escudos, hendidos por mazos y lanzas, forman un muro errante que avanza hacia el interior del castillo. El Archipaladín **Veldor** gira un instante para clavar su mirada en el campo de batalla: cadáveres de ambos bandos, desparramados entre charcos de sangre y pedazos de armadura rota, atestiguan la furia del choque.
 
+El Sargento **Derian Farse** alza la voz sobre el estrépito:
+
+—¡Soldados, repliegue ordenado! ¡Que nada quede para el enemigo!—
+
+Antes de retirarse, los agentes de la Mano de Hierro despliegan cadenas y tablas astilladas: levantan barricadas, las empapan con brea vieja y encienden teas que chispean con un siseo sombrío. Un muro de llamas crepita entre las torres de Helm, consumiendo escombros y carrozas huérfanas. El resplandor rojizo tiñe de ceniza la fachada inmortal del vigía caído.
+
+Con un último estruendo de lanzas golpeando escudos, la columna se gira y abandona la explanada. Detrás de ellos, la puerta heráldica del castillo queda bloqueada por el fuego, anunciando a todos que la Mano de Hierro ha impuesto su ley en los muros de Helm.
+
+Montan a caballo en silencio, el crepitar de las barricadas siendo consumidas acompaña su avance mientras se adentran en la noche de Waterdeep. En sus miradas arde la certeza de un nuevo objetivo: un lugar donde el latido de la vieja fe se resiste a extinguirse…
 ## Dia 6
 
 Toque de queda parcial, se puede salir pero se debe justificar el motivo

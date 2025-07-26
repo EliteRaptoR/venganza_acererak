@@ -1,5 +1,6 @@
 
--cambiar fragmento haku
+imagenes dia 5.
+imprimir edictos
 
 falta dia 5, que pasa con Tyr.
 dia 6
