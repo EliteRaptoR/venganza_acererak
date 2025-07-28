@@ -14,15 +14,12 @@ _Amuleto sagrado, poco común (requiere sintonización por un lanzador divino o 
 ## Habilidades Especiales
 
 #### Luz del Nuevo Comienzo
-
 Mientras lleves el amuleto, puedes lanzar el conjuro **Luz** (_Light_) una vez al día. La luz creada no puede ser extinguida por oscuridad mágica de nivel inferior al artefacto.
 
 #### Aurora Protectora
-
 Una vez por descanso largo, puedes invocar la **Aurora Protectora**: rodeas a ti mismo (o a un aliado a 3 metros) de un halo de energía solar durante 1 minuto. Este halo concede **ventaja en una tirada de salvación contra magia de corrupción, necromancia o efectos de desesperación**.
 
 #### Corazón Inquebrantable
-
 Mientras portes el amuleto, tienes **ventaja en todas las pruebas de Cordura**
 
 ## Trasfondo
