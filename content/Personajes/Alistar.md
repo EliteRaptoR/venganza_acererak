@@ -152,5 +152,6 @@ Ahora eran parte de su ser.
 
 - [[Espada Castigo Divino]]
 - Escudo baliza de la equidad, puede generar aura de paz
+- [[Amuleto Escudo Belmont]]
 - Armadura de placas +1
 - Anillo de protección +1AC y +1ST

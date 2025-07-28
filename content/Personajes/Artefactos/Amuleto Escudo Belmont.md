@@ -1,6 +1,6 @@
 # **Amuleto Escudo Belmont**
 
-
+![[Escudo Belmont.png]]
 
 _Símbolo sagrado, único (requiere sintonización por un paladín devoto de Tyr)_
 ## Descripción Física
