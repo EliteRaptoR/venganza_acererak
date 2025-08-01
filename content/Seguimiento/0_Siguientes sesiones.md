@@ -3,13 +3,6 @@
 ## Notas para empezar la sesión
 
 
-Haku gana dos puntos de cordura
-Ander gana dos puntos de cordura
-Hakuryu gana un punto de pasion o determinacion por jugar de caracter de forma desventajosa con la recepcionista del ayuntamiento.
-Teneis tiradas relacionadas con el caracter con ventaja de forma ilimitada
-Acordaos de usar pasion siempre que creais que falleis y sea importante. Si aun asi no conguis exito tendreis un punto de pasion.
-Pasaran cosas duras, y hay tiradas que son imposibles de conseguir de forma natural. +30 Pero teneis pasion para ello. hay que pedir tirar con pasion antes del lanzamiento.
-
 ## **(Jugado)Dia 2: El Decreto de la Luz Verdadera**
 
 ### **Lugar**
@@ -119,7 +112,7 @@ Los puestos de los comerciantes siguen abiertos, pero algunos detienen sus venta
 
 
 
-## **(empezar aqui)Orianna en la grieta
+## **(Jugado)Orianna en la grieta
 
 Las primeras luces del alba apenas rozan el bosque cuando Orianna avanza entre los altos helechos y las raíces húmedas. Su silueta se recorta entre la niebla matinal, envuelta en el perfume de romero y lavanda que exhala su talismán. Cada paso la acerca a ese umbral prohibido, donde la tierra se ha abierto como una herida y el susurro del abismo resuena bajo las cortezas agrietadas.
 
@@ -130,7 +123,7 @@ La tierra se abre ante ella en un boquete de pesadilla, sus bordes dentados como
 Al fondo, Orianna distingue el tronco partido del árbol sagrado, aún aferrado al borde como si luchara por no caer. Allí, una vara de savia y escama, mezcla de corrupción y pureza, crece entre las raíces: un capullo a medio formar, crisálida de poder y enigma.
 
 La druida respira hondo, sintiendo el palpitar de la magia antigua y la mirada invisible de Elyz, y sabe que, en ese umbral, todo acto resonará en el bosque durante generaciones. Es el momento de elegir entre el miedo y el coraje, entre la huida y la transformación.
-## **(en curso)Día 4: Confiscación en el Templo de Tymora**
+## **(Jugado)Día 4: Confiscación en el Templo de Tymora**
 
 ### **Lugar:**
 
@@ -275,7 +268,7 @@ Pero **una oración** garabateada con carbón aparece en la pared del templo req
 ---
 
 
-## **(rapido)Día 4: El Murmullo de las Calles**
+## **(Jugado)Día 4: El Murmullo de las Calles**
 
 ### **Lugar:**
 
@@ -362,7 +355,7 @@ En una esquina, una anciana (quizá **Maela Torran**, si fue liberada anteriorme
     
 - Establece que la Voz y la Mano ya no necesitan solo soldados: ahora tienen al miedo como aliado.
 
-## **(opcional) Día 4: El Consejo de la Cámara Silente**
+## **(Jugado) Día 4: El Consejo de la Cámara Silente**
 
 ### _Escena: La Voz del Oro_
 
@@ -477,7 +470,7 @@ La escena termina.
 
 ---
 
-## **Día 5/Mañana: La Mano y el Silencio**
+## **(Estamos aqui)Día 5/Mañana: La Mano y el Silencio**
 
 ### **Escena: El Decreto de Cierre en la Gran Biblioteca**
 
