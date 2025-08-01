@@ -1,10 +1,6 @@
 
 imagenes dia 5.
-imprimir edicto 3
-hacer e imprimir edicto 1b
-Añadir fragmento background alistar
-añadir foco arcano y darle algo especial
-falta por hacer el escudo baliza de la equidad.
+hacer e imprimir edicto 1b, cierre bibliotecas, esta en la escena.
 Añadir rasgos de caracter a la web
 
 diario sesion 7
