@@ -2502,15 +2502,25 @@ Malizall extendió sus manos, proyectando un caos estático que asaltó directam
 
 Ander, con su acostumbrado sarcasmo, dirigió palabras cargadas de magia burlona hacia uno de los demonios, dañando su ya frágil estabilidad mental.
 
-Aprovechando la situación, Alistar avanzó decidido a interceptar al demonio más cercano. El impacto fue brutal, pero la firmeza del paladín fue mayor. Su espada brilló intensamente con un Castigo Divino, hiriendo profundamente al atacante. La criatura, desequilibrada, cayó pesadamente frente a Hakuryuu.
+Aprovechando la circunstancia, Alistar avanzó con determinación para interceptar al demonio más próximo. El impacto fue feroz, pero la firmeza del paladín prevaleció. Su espada se encendió en un destello cegador al activar un Castigo Divino, provocando una herida profunda en su adversario. La criatura, desorientada y desprovista de equilibrio, se desplomó pesadamente frente a Hakuryuu.
 
-El dragón plateado, con una sonrisa salvaje, desafió:
+El dragón plateado, con una sonrisa salvaje, sentenció:
 
 —Así te quería pillar.
 
-Golpeó ferozmente con su espada, pero el demonio en desesperado intento se lanzó contra él sin éxito, trastabillando nuevamente y cayendo frente a Vengy, quien aprovechó para descargar un poderoso golpe sobre la criatura agonizante.
+Golpeó ferozmente con su espada, el demonio desesperado se puso a cuatro patas y se lanzo con fuerza hacia el. Hakuryuu con un movimiento suave lo esquivó y el demonio paso de largo sin llegar a impactar y trastabillando nuevamente cayo frente a Vengy. En ese instante Vengy descargo toda su fuerza en un poderoso golpe con la espada dejando a la criatura agonizante en el suelo.
 
-Sin embargo, el demonio, en un último gesto desesperado, adoptó una pose de inmolación. Antes de que pudiera completarla, una brillante espada radiante lo atravesó limpiamente, evitando la explosión fatal.
+Con feroz agilidad descargó un golpe certero con su espada. Desesperado, el demonio se puso en cuatro patas y se lanzó hacia él con furia salvaje, pero Hakuryuu, en un movimiento grácil y calculado, lo esquivó suavemente, dejando que la criatura siguiera su inercia hasta caer, nuevamente trastabillando, frente a Vengy.
+
+Aprovechando la ventaja, Vengy canalizó toda su fuerza en un devastador golpe con su espada, dejando a la criatura en el suelo, retorciéndose en agonía.
+
+Pero en un último acto desesperado, el demonio comenzó a convulsionarse, canalizando energías oscuras y profiriendo palabras en el ominoso idioma abisal. Vengy, que ya había presenciado esa escena durante los sucesos en el mercado de Waterdeep, gritó con urgencia:
+
+—¡Cuidado, va a inmolarse!
+
+Alistar, alejado de la escena inmediata, alzó su escudo instintivamente, mientras Hakuryuu y Vengy trataban de recomponer rápidamente su guardia. Sin embargo, el tiempo apremiaba; en un abrir y cerrar de ojos, el demonio estuvo a punto de completar su fatal explosión.
+
+Pero antes de que el desastre aconteciera, una espada radiante surgió desde atrás y atravesó limpiamente a la criatura, frustrando su funesta intención.
 
 —¡La próxima vez que montéis una fiesta, no os olvidéis de invitarme! —gritó Sildar, apareciendo justo a tiempo con su arma aún resplandeciente.
 
@@ -2542,9 +2552,7 @@ Mientras tanto, Vengy observaba atentamente sus movimientos, notando algo crucia
 
 —¡Está usando una piedra de cambio de planos! ¡Una piedra del éter! —gritó con urgencia.
 
-La bruja retrocedió, preparándose para conjurar un hechizo de largo alcance desde una posición segura. Alistar activó sus sentidos divinos y logró detectar su presencia, pero no tuvo tiempo suficiente para intervenir. Sin embargo, en ese instante de duda y confusión, Malizall percibió un zumbido mortal justo a su espalda. Era demasiado tarde para reaccionar, y un relámpago oscuro surcó velozmente hacia él.
-
-Pero justo antes de que el ataque impactara en Malizall, Sildar, consciente del peligro, se interpuso. El rayo lo golpeó con fuerza brutal en el pecho, expulsando una onda que lo lanzó hacia atrás, golpeando también a Malizall y tirándolos al suelo.
+La bruja retrocedió, preparándose para conjurar un hechizo de largo alcance desde una posición segura.  El grupo se preparaba para lidiar con el conjuro de la bruja. Alistar activó sus sentidos divinos y logró detectar una nueva presencia justo detrás del grupo, pero no tuvo tiempo suficiente para intervenir. En ese instante de duda y confusión, Malizall percibió un zumbido mortal justo a su espalda. Era demasiado tarde para reaccionar, y un relámpago oscuro surcó velozmente hacia él. Alistar no puedo hacer mas que verlo con impotencia desde la distancia y Malizall a apenas tubo tiempo de girar medio cuerpo. El rayo de energía oscura era certero, pero justo antes de que el ataque impactara en Malizall, Sildar se interpuso. El rayo lo golpeó con fuerza brutal en la espalda, expulsando una onda que parecio atravesarle el curpo y salir el el pecho, golpeando también a Malizall y tirándolos al suelo. (añade aqui el gesto de sildar despues del impacto)
 
 —¡Sildar! —gritó Malizall, horrorizado.
 
@@ -2601,5 +2609,3 @@ Una oscuridad palpable cubría el lugar como un velo maligno, bloqueando cualqui
 Hederic Alorn elevó un candelabro oscuro que exudaba una energía siniestra, atrayendo y atrapando las almas de los muertos, arrebatándolas con violencia desde sus cuerpos y lanzándolas al cielo tormentoso. Su voz resonó profunda, triunfal y escalofriante:
 
 —¡Estas almas han sido liberadas! Ahora yacen junto al verdadero dios todopoderoso.
-
-La lluvia caía con mayor intensidad, como si los propios cielos lloraran por la profanación y la desesperanza. Mientras los héroes luchaban por recuperar sus fuerzas, ajenos al horror que se desplegaba en las sombras, la oscura nueva fe avanzaba imparable sobre Waterdeep.
