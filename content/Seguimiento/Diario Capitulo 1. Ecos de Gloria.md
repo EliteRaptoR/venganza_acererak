@@ -1919,7 +1919,7 @@ El grupo accedió al interior del templo, donde inmediatamente Ander y Vengy des
 
 Intentaron entonces ascender al lugar exacto del incidente, pero las escaleras del campanario se habían reducido a cenizas por las llamas recientes. En respuesta, Malizall extendió sus manos con gesto solemne, invocando alas mágicas que surgieron como resplandecientes manifestaciones de luz dorada. Estas alas, translúcidas y delicadamente emplumadas, irradiaban una calidez reconfortante y un suave resplandor que recordaba inevitablemente el primer amanecer.
 
-![[Alas sobre Ander.png]]
+![[AnderAlas.png]]
 
 Desde arriba, Vengy observó minuciosamente las vigas destrozadas, detectando indicios claros de direccionalidad en la explosión.
 
