@@ -1955,7 +1955,7 @@ En medio de la tensa reflexión provocada por las palabras de Alistar, Orianna, 
 
 Un escalofrío recorrió al grupo al comprender la magnitud de lo que aquello implicaba. Hakuryuu intervino inmediatamente, visiblemente perturbado por la revelación:
 
-![[La marca de Hakuryuu.png]]
+![[HakuryuuMarca.png]]
 
 —Debemos ser extremadamente cuidadosos —advirtió con gravedad—. Si esa marca nos vincula a ellos, podrían utilizarla en nuestra contra.
 
