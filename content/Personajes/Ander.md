@@ -1,7 +1,6 @@
 #Jugadores
 ## **Ander *Alma de Fuego* Colinaalta**
 
----
 ![[Ander.png]]
 ### **Rasgos principales**
 #### **Raza/Clase:** Halfling / Bardo.
