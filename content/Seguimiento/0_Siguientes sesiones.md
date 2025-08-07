@@ -743,6 +743,148 @@ Antes de retirarse, los agentes de la Mano de Hierro despliegan cadenas y tablas
 Con un último estruendo de lanzas golpeando escudos, la columna se gira y abandona la explanada. Detrás de ellos, la puerta heráldica del castillo queda bloqueada por el fuego, anunciando a todos que la Mano de Hierro ha impuesto su ley en los muros de Helm.
 
 Montan a caballo en silencio, el crepitar de las barricadas siendo consumidas acompaña su avance mientras se adentran en la noche de Waterdeep. En sus miradas arde la certeza de un nuevo objetivo: un lugar donde el latido de la vieja fe se resiste a extinguirse…
+
+## **Dia 5/noche 3: TEmplo de Tyr**
+
+La plaza del templo de Tyr se ha vaciado de fieles; el rumor de la violencia previa ha obligado a todos a observar desde lejos, detrás de cortinas o bajo los soportales. La Mano de Hierro, implacable pero disciplinada, registra hasta el último rincón del santuario, despojando altares y archivos. La liturgia se ha convertido en inventario y saqueo.
+
+Al pie de la escalinata, **Eldrin y Harker**, esposados, son vigilados por dos agentes. El primero se yergue con una serenidad casi sepulcral; el segundo respira agitado, la furia contenida en los puños atados.
+
+Cuando el registro concluye y queda patente que el templo ha sido vaciado —sin reliquias, sin fieles, sin resistencia—, un murmullo de irritación recorre a la cuadrilla de la Mano. **Un grupo de agentes se aproxima a la sombra de la puerta**, donde un individuo de porte severo y rostro apenas visible bajo el yelmo oscuro —el verdadero comandante de la operación, aunque su nombre no ha sido proclamado—, observa en silencio.
+
+Uno de los agentes murmura:
+
+> “No queda nada, señor. Ni registros, ni oro, ni clérigos. Solo estos dos.”
+
+El jefe asiente. No es un fanático, ni un orador, sino el brazo de la ley ejecutiva: aquel que no pide fe, solo obediencia.
+
+Sin palabras, avanza. El silencio pesa como plomo. Frente a Eldrin, lo observa un instante —no hay odio, ni juicio, solo el cumplimiento del deber que no admite vacilaciones.
+
+Entonces, con la precisión del verdugo acostumbrado al anonimato, **desembaina una espada corta y la hunde, limpia y letal, en el pecho del sumo sacerdote**. El filo atraviesa la carne y el hábito, y apenas se escucha el sonido: un quejido ahogado, un borbotón de sangre, el tintineo metálico al golpear la piedra.
+
+Eldrin se desploma de rodillas, la mirada perdida, la boca intentando formar palabras que nunca llegarán. Solo un hilo de sangre resbala por su barbilla mientras se derrumba, inerme, bajo los ojos horrorizados de Harker.
+
+No hay proclamas. No hay juicio. Solo el frío imperio de la fuerza disfrazada de orden.
+
+Los agentes arrastran a Harker, que, entre gritos y forcejeos, es silenciado a golpes. Nadie más interviene. El cuerpo de Eldrin es dejado en la escalinata, testigo mudo de la nueva era.
+
+## **Dia 6/Mañana La Plaza del Juicio: Escenario del Ritual**
+
+### **La Plaza del Juicio: Escenario del Ritual**
+
+En la plaza mayor, ante un altar improvisado de hierro negro y piedra, se alinean **docenas de cuerpos amortajados**: víctimas de los disturbios nocturnos, mártires y criminales indistinguibles bajo el velo de la muerte.
+
+La multitud es dispersa, dividida por cordones de soldados. Frente al altar, un círculo de **apóstoles de la Nueva Fe** y agentes de la Mano entonan letanías en un idioma arcaico, con voz monocorde, y blanden estandartes teñidos de sangre y ceniza.
+
+A la cabeza, un **Maestro Inquisidor** sostiene el Cáliz de la Cosecha —un relicario profanado capaz de capturar la esencia de los caídos—. Su voz, amplificada por la magia, resuena sobre el murmullo sordo de la muchedumbre:
+
+> “Hoy devolvemos a la Voz lo que es suyo. Ningún alma quedará errante, ninguna vida se perderá en la mentira del renacimiento. Por el Juicio y por el Orden, os entregamos a la eternidad verdadera.”
+
+Los soldados levantan los cuerpos, uno a uno, y los depositan ante el altar. Los apóstoles vierten polvo negro sobre los cadáveres y trazan runas con sangre sobre el suelo, invocando la red ritual de Acererak0_El plan de Acererak.
+
+Un resplandor siniestro —verde y púrpura, como un atardecer enfermo— se eleva en columnas desde los cuerpos. Los más cercanos sienten un estremecimiento en el pecho: un frío inexplicable, el eco de una tristeza ajena.
+
+Quien posea _sensibilidad arcana o divina_ percibe la brutalidad del proceso: las almas son desgarradas, arrebatadas antes de hallar consuelo, y absorbidas por el cáliz que vibra con un poder antinatural. **Un silencio aterrador** se extiende, roto solo por los lamentos apagados de algunos familiares o por el rezo en voz baja de un anciano, que es silenciado rápidamente.
+
+---
+
+### **Ganchos y Oportunidades**
+
+- **Los personajes** pueden intentar interrumpir o sabotear el ritual, aunque a riesgo de una persecución brutal.
+    
+- **Testigos del horror:** Pueden rescatar a un familiar de un difunto antes de la cosecha, o descubrir a un agente de la Mano que vacila ante la barbarie.
+    
+- **Efectos sobrenaturales:** Una de las almas, en su desesperación, puede manifestar una visión, un presagio o incluso un eco de Eldrin o de otra figura relevante, advirtiendo de la consumación del plan de Acererak.
+    
+- **Un error ritual:** Si los apóstoles se equivocan, un alma puede escapar y poseer un objeto o a un testigo, dejando una grieta por la que los personajes puedan investigar la red de cosecha.
+    
+- **Primeras grietas:** Entre los propios soldados y aventureros de refuerzo, se murmura el horror de lo que está ocurriendo. ¿Surge una alianza incipiente de resistencia? ¿Quién desafiará primero la ley de hierro?
+    
+
+---
+
+### **Epílogo de la escena**
+
+El ritual concluye con un golpe de martillo sobre el altar y un último cántico. Los cuerpos son retirados, ahora poco más que envoltorios vacíos. El Cáliz de la Cosecha es conducido, escoltado por la Mano, hacia el santuario de la Nueva Fe… donde, en las sombras, el eco de Acererak sonríe.
+
+Y Waterdeep tiembla. Porque por primera vez en siglos, los dioses están ausentes… y las almas, verdaderamente, no tienen ya a dónde ir.
+## **Día 6, Noche del Juicio — El Sacrificio de Eldrin**
+
+La ciudad de Waterdeep se ha sumido en una noche absoluta, una negrura que no es sólo ausencia de luz sino la manifestación palpable de la desesperanza. La lluvia, persistente durante toda la jornada, ha cesado por completo, como si el cielo mismo hubiese contenido la respiración ante el horror venidero. Ni siquiera el murmullo de las gotas contra el empedrado se atreve ya a interrumpir el silencio que domina la Plaza del Juicio.
+
+Bajo la custodia de la Mano de Hierro y la presencia inquebrantable de la Nueva Fe, el altar de hierro se erige como un monolito sombrío en el centro de la plaza, bruñido por la sangre y el humo de docenas de almas devoradas durante la jornada.  
+Alrededor del altar, la multitud se agolpa en oleadas de cuerpos temblorosos, los rostros ocultos bajo capuchas empapadas y mantos oscuros, las miradas esquivas, los labios sellados por el miedo o la resignación.  
+A cada extremo del perímetro, antorchas mortecinas oscilan al viento, arrojando una luz enferma que nada puede contra la penumbra reinante; su resplandor es devorado más allá de unos pocos pasos, como si el aire mismo se hubiera vuelto sólido y opaco.
+
+En el altar, los cuerpos de los caídos —héroes y criminales, inocentes y culpables, ya indiferenciados bajo el sudario común de la derrota— han sido alineados con orden ceremonial, como si la muerte hubiera impuesto finalmente una igualdad absoluta y sin consuelo.
+
+Sobre ese escenario de derrota, los agentes de la Mano y los apóstoles repiten letanías ancestrales en una lengua cuya musicalidad es cruel y áspera.  
+La ceremonia, en la penumbra, recuerda más a una misa de difuntos que a un acto de redención: cada estrofa es una condena, cada respuesta de la asamblea un eco hueco.  
+El Cáliz de la Cosecha —artefacto abominable, tallado en hueso y metal bruñido, veteado de inscripciones blasfemas— pasa de mano en mano, succionando las últimas chispas de luz de cada cadáver.  
+Cada alma absorbida es un leve destello, una breve danza de luz opaca y resignada que se disuelve en el fondo del cáliz como la última exhalación de un sueño olvidado.
+
+Cuando llega el turno del sumo sacerdote Eldrin, el clima mismo parece encogerse, como si el mundo, por un instante, contuviera la respiración. El cadáver del paladín es depositado sobre el altar con un respeto involuntario, casi reverencial, por parte de los propios agentes, como si temieran que la dignidad de aquel hombre pudiera desafiar incluso a la muerte.  
+El Maestro ritualista —cuyo rostro es sólo una sombra bajo el yelmo de acero— entona las palabras finales con una voz más tensa de lo habitual, como si la duda hubiera, aunque fuera fugazmente, anidado en su pecho:
+
+> “Por la Voz y por la Ley, esta alma será consagrada a la eternidad. Que el último vestigio del orden antiguo se disuelva en la sombra. Que ninguna compasión sobreviva al Juicio.”
+
+El polvo negro, impregnado de sangre y de cenizas, se esparce sobre el pecho de Eldrin. Las runas arcanas brillan un momento en la piedra y el aire se densifica, volviéndose casi sólido, cargado de presagios y presentimientos.  
+El cáliz, cuando se alza sobre el cadáver, emite un zumbido grave, profundo, como el gemido de una campana sumergida bajo el agua.
+
+Y entonces, **todo se detiene**.
+
+Por un solo latido, la noche se torna irreal. Ni una voz, ni un suspiro, ni el rumor del viento: sólo la expectación absoluta, la certeza de que algo irrevocable está a punto de acontecer.
+
+De improviso, en el cielo ennegrecido, un **rayo de luz** se abre paso entre los nubarrones como la espada de un dios caído. No es luz solar, ni lunar, ni de estrella alguna: es la herida de un plano sobre otro, la irrupción de lo imposible.  
+La lluvia, que amenazaba con volver, se desvanece antes de tocar la plaza. Donde incide la luz, el cuerpo de Eldrin parece brillar por un instante, no con el fulgor de los milagros pasados, sino con la pálida dignidad de quien no ha sido vencido del todo.
+
+En ese mismo instante, **una grieta inmensa** se abre sobre Waterdeep, desgarrando la cúpula de nubes con la precisión y el horror de una incisión quirúrgica.  
+Más allá, el firmamento se revela como nunca antes: un abismo tormentoso, cruzado por relámpagos púrpura y remolinos de sombra que giran en espiral, como si todo el cielo se hubiera convertido en un único ojo insomne y enfurecido.
+
+Un murmullo de terror recorre la multitud; algunos caen de rodillas, otros buscan refugio en la plegaria, pero ni los nombres antiguos ni los conjuros prohibidos ofrecen consuelo.  
+Los soldados de la Mano se aferran a sus armas, pero el acero tiembla en sus manos; los apóstoles intentan elevar su cántico, pero las voces se quiebran, convirtiéndose en susurros histéricos o gritos de desesperación.
+
+Y entonces, **el alma de Eldrin despierta**.  
+No es una ascensión suave, ni un tránsito apacible: es una lucha feroz, una espiral de luz azul que se retuerce y se agita, negándose a ceder ante la atracción profana del cáliz.  
+Durante unos instantes que parecen eternos, el alma se mantiene anclada a la tierra, luchando por su libertad, resistiendo con una furia tan pura como la primera vez que blandió su espada en nombre de la justicia.  
+Pero la magia del ritual, alimentada por el odio de la multitud y la desesperanza de la ciudad, termina por imponerse.  
+La luz azulada es arrancada violentamente del altar, absorbiéndose en el artefacto, que vibra y tiembla como si fuera a estallar bajo el peso de la proeza espiritual.
+
+La chispa que fue Eldrin no se apaga ni se disuelve, sino que es **arrastrada, a toda velocidad, hacia la grieta abierta en el cielo**.  
+La ciudad entera, desde los barrios más nobles hasta los callejones más lúgubres, asiste —quizás sin comprenderlo— a esa ascensión inhumana.
+
+Y allí, en el plano abismal, **todos ven** —aunque sólo durante un parpadeo— la monstruosidad absoluta del Atropal:  
+un ser ciclópeo, informe, gestante de oscuridad y voracidad, cuyas fauces abiertas reciben el alma de Eldrin junto a cientos de destellos menores: fragmentos de justicia, de compasión y de esperanza robados durante toda la jornada.
+
+Cuando el alma del paladín toca el corazón mismo del Atropal, la realidad se pliega sobre sí misma.  
+Un **grito sobrenatural**, mezcla de júbilo blasfemo y de lamento cósmico, resuena desde el abismo hasta la última piedra de la ciudad:  
+— Las madres abrazan a sus hijos,  
+— los sacerdotes caen de rodillas,  
+— los villanos gimen de horror y triunfo.  
+Las antorchas explotan en llamaradas verdes y azules antes de extinguirse; los estandartes caen como miembros cercenados.  
+Los personajes —y sólo ellos, quizás— son presa de visiones:  
+— templos consumidos por el fuego,  
+— ríos que fluyen hacia un horizonte de ceniza,  
+— niños que lloran sangre bajo una luna negra,  
+— profecías desmembradas y pactos rotos.
+
+El cáliz, incapaz de soportar el peso de la injusticia consumada, **explota en fragmentos negros y ardientes**, quemando las manos del Maestro ritualista, que cae de espaldas, gritando de dolor y de locura.  
+Del altar brotan grietas que supuran una luz púrpura y azul, como si la tierra misma sangrase la última esperanza.
+
+Por un instante, el mundo queda suspendido en el vacío.  
+La grieta del cielo se cierra, y la oscuridad retorna, más espesa, más plena, más definitiva.  
+El silencio es tan profundo que se diría que hasta los dioses han callado.
+
+Y entonces, una voz —etérea, incorpórea, poderosa— cruza la noche y penetra en el corazón de todos los que han presenciado el prodigio, pero se dirige, con particular claridad, a los personajes:
+
+> _“La última justicia no es resistir, sino recordar…  
+> y elegir el sacrificio cuando nadie más puede.  
+> El Juicio os llama, pero la esperanza solo perece si la olvidáis.”_
+
+El eco de esas palabras se diluye, no en el aire, sino en el alma colectiva de Waterdeep, dejando una semilla de desasosiego, pero también de rebelión.  
+Porque aunque el Juicio ha comenzado, la memoria del sacrificio es más difícil de erradicar que cualquier altar, cualquier símbolo, cualquier dios.
+
+
 ## Dia 6
 
 Toque de queda parcial, se puede salir pero se debe justificar el motivo

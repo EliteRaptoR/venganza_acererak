@@ -652,7 +652,7 @@ La noche avanzaba implacable hacia el amanecer, y con ella, la certeza de que la
 ###  _Amanecer púrpura sobre el templo herido_
 
 ![[Eldrin.png]]
-_[[Eldrin|Eldrin]]_
+_[[Sumo Sacerdote Eldrin|Sumo Sacerdote Eldrin]]_
 
 El templo de Tyr respiraba con dificultad aquella mañana. Sobre el aroma familiar del incienso ahora pesaba una atmósfera sofocante de ceniza y sangre seca, impregnando cada piedra, cada rincón del sagrado recinto. En los pasillos, hombres y mujeres descansaban, vendados y abatidos, con miradas perdidas que buscaban respuestas en las grietas del techo. Las velas sagradas habían dado paso a lámparas de aceite que proyectaban sombras largas, convirtiendo la santidad en un campo improvisado de batalla.
 

@@ -1,6 +1,6 @@
 #Jugadores 
 
-### **Eldrin IV**
+### **Sumo Sacerdote Eldrin**
 
 ![[Eldrin.png]]
 

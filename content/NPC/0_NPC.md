@@ -810,7 +810,7 @@ _“La guerra no se gana con acero... sino con claridad.”_
 
 ### Bitácora de campaña
 #Master 
-[[Eldrin]]
+[[Sumo Sacerdote Eldrin]]
 
 **Frase oculta de esencia:**  
 _“No temas la cólera de la multitud: solo el silencio tras su ira.”_

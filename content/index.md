@@ -36,7 +36,7 @@ slug: "inicio" # (Opcional. Solo si quieres cambiar la URL)
 ##### **Orden de Tyr**
 - [[Harker]]
 - [[Marcus Deren]]
-- [[Eldrin]]
+- [[Sumo Sacerdote Eldrin]]
 - [[Eredin]]
 
 ---
