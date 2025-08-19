@@ -127,6 +127,7 @@ Sorprendentemente, Orianna no cambiaría nada de su pasado. Acepta cada parte de
 
 - [[Brazales de la Promesa Verde]]
 - [[Vara de la Crisálida Abisal]]
+- [[Talismán de la Madre Luna]]
 - Vial de veneno
 - Vial de acido
 - 2 Pociones de curación mayor (4d4 + 4)

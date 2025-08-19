@@ -71,16 +71,6 @@ A su señal, los guardias arrojan los amuletos de los prisioneros a la hoguera. 
 
 ---
 
-## **Opciones para los personajes:**
-
-- **Intervenir es casi suicida:** Los guardias están listos, la multitud asustada. Si los personajes se arriesgan, pueden intentar liberar a un prisionero en el caos (quizá un PNJ conocido, como la anciana Maela Torran), pero deben huir inmediatamente o enfrentar una caza despiadada.
-    
-- **Ofrecer consuelo o resistencia silenciosa:** Un simple gesto (dejar una moneda a escondidas, lanzar una mirada de desafío, tomar la mano de un prisionero) puede levantar el ánimo de los oprimidos y sembrar semillas para la resistencia.
-    
-- **Recoger información:** Un anciano de la multitud, con voz temblorosa, susurra que “esta noche… el Profeta tomará el cielo. No habrá luna, no habrá salvación. Si podéis huir… huid.”
-    
-- **Semilla para la noche:** Algún fiel se acerca a los personajes tras la escena y, temblando, les entrega una reliquia oculta (“La última moneda de Tymora. Que os dé suerte… la vais a necesitar”).
-    
 
 ---
 
@@ -174,48 +164,3 @@ En medio del asombro y el terror, Terry Black avanza al centro de la tarima, se 
     
 - Los apóstoles repiten: “¡El Profeta! ¡El Profeta ha hablado!”
 
-
-    
-
----
-
-## **Opciones para los personajes**
-
-- **Si están ocultos en la plaza:** pueden ver cómo la ciudad se rinde, o intentar desvelar la trampa mágica (quizá con una tirada de perspicacia o magia descubran la intervención de Acererak).
-    
-- **Si deciden actuar:** pueden enfrentarse a los apóstoles o intentar llegar hasta Terry. La Mano de Hierro intervendrá con violencia si alguien desafía al Profeta.
-    
-- **Si llaman a Terry por su nombre real:** por un instante vacila, los mira con dolor y odio mezclados. Puede hablarles en voz baja, solo para ellos:
-    
-    > “No me habéis entendido nunca. Ahora, por fin, todos me escuchan.”
-    
-- **Si provocan combate:** Terry no lucha hasta morir, pero puede dejarse vencer dramáticamente, sabiendo que su resurrección está asegurada. Los guardias intentan linchar a los personajes, la plaza se vuelve un caos.
-    
-
----
-
-## **Clímax y Escape**
-
-- Con la ciudad sumida en la oscuridad total y el pánico, los personajes deben huir:
-    
-    - Callejones, persecuciones, puertas selladas, la Mano bloqueando salidas.
-        
-    - Un aliado perdido puede guiarlos a una ruta secreta: alcantarillas, viejo túnel, barco preparado, círculo de teletransporte clandestino.
-        
-    - Los últimos sonidos de la noche: rezos, sollozos, gritos de “¡Blasfemos! ¡Sacrificadlos!”.
-        
-- Si logran escapar, dejan atrás la Waterdeep más rota y fanática que hayan conocido:
-    
-    - Los templos han caído, la esperanza ha sido “devorada”, y solo el horizonte lejano de Chult parece ofrecer algún futuro.
-        
-
----
-
-## **Epílogo y Primeros Ecos**
-
-- En las horas siguientes, los rumores lo confirman:  
-    “La luna ha muerto”, “El Profeta es invencible”, “Los antiguos héroes son perseguidos”.
-    
-- Algunos PNJ fieles pueden enviar mensajes secretos, pidiendo ayuda o prometiendo resistir en la sombra.
-    
-- El capítulo cierra con la visión de la ciudad oscurecida, y la certeza de que **el Juicio ha comenzado**.

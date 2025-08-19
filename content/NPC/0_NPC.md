@@ -2530,7 +2530,7 @@ _“¿Me recuerdas? Yo también solía salvar el mundo.”_
 - Los personajes lo creían muerto, desaparecido o corrompido.
 #Master 
 
-[[Tharvek, Gran inquisidor]]
+[[Gran inquisidor Tharvek]]
 
 **Frase oculta de esencia:**  
 _“Yo no soy cruel. El caos lo es. Yo soy su castigo.”_

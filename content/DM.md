@@ -22,7 +22,7 @@
 - [[Ceniz (Master)]]
 - [[Sildar Hallwinter (Master)]]
 - [[Terry Black (Master)]]
-- [[Tharvek, Gran inquisidor (Master)]]
+- [[Gran inquisidor Tharvek (Master)]]
 - [[Wakanga O’tamu (Master)]]
 ##### **La Mano de Hierro**
 - [[Apóstol Marvyn Taul (Master)]]

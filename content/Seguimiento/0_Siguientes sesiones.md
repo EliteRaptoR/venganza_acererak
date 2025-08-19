@@ -786,22 +786,7 @@ Un resplandor siniestro —verde y púrpura, como un atardecer enfermo— se ele
 
 Quien posea _sensibilidad arcana o divina_ percibe la brutalidad del proceso: las almas son desgarradas, arrebatadas antes de hallar consuelo, y absorbidas por el cáliz que vibra con un poder antinatural. **Un silencio aterrador** se extiende, roto solo por los lamentos apagados de algunos familiares o por el rezo en voz baja de un anciano, que es silenciado rápidamente.
 
----
-
-### **Ganchos y Oportunidades**
-
-- **Los personajes** pueden intentar interrumpir o sabotear el ritual, aunque a riesgo de una persecución brutal.
-    
-- **Testigos del horror:** Pueden rescatar a un familiar de un difunto antes de la cosecha, o descubrir a un agente de la Mano que vacila ante la barbarie.
-    
-- **Efectos sobrenaturales:** Una de las almas, en su desesperación, puede manifestar una visión, un presagio o incluso un eco de Eldrin o de otra figura relevante, advirtiendo de la consumación del plan de Acererak.
-    
-- **Un error ritual:** Si los apóstoles se equivocan, un alma puede escapar y poseer un objeto o a un testigo, dejando una grieta por la que los personajes puedan investigar la red de cosecha.
-    
-- **Primeras grietas:** Entre los propios soldados y aventureros de refuerzo, se murmura el horror de lo que está ocurriendo. ¿Surge una alianza incipiente de resistencia? ¿Quién desafiará primero la ley de hierro?
-    
-
----
+**Primeras grietas:** Entre los propios soldados y aventureros de refuerzo, se murmura el horror de lo que está ocurriendo. ¿Surge una alianza incipiente de resistencia? ¿Quién desafiará primero la ley de hierro?
 
 ### **Epílogo de la escena**
 
