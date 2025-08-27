@@ -3,6 +3,7 @@
 
 ![[Harker.png]]
 _“Cuando la justicia duda, el deber debe alzar la voz.”_
+[[Ordenes Cofradias Hermandades#Orden del Martillo|Orden del Martillo]]
 
 **Comandante Harker**  
 **Raza / Clase:** Humano / Paladín retirado de Tyr  

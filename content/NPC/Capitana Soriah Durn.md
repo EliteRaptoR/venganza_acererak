@@ -4,6 +4,7 @@
 # **Capitana Soriah Durn, _La Mano de Hierro que no Tiembla_**
 
 _"El deber no espera a la compasión. La ley es clara. Y yo la cumplo."_
+[[Ordenes Cofradias Hermandades#Hermandad del Códice Luminar|Hermandad del Códice Luminar]]
 
 ---
 
@@ -65,15 +66,3 @@ _"El deber no espera a la compasión. La ley es clara. Y yo la cumplo."_
     
 - Puede mostrarse inusualmente respetuosa si reconoce en los personajes ideales que ella misma sacrificó.
     
-
----
-
-### **Ganchos de Escena**
-
-- Es quien proclama los edictos, dicta los términos de rendición y lidera los despliegues militares ante los templos.
-    
-- En situaciones de tensión, nunca ordena la crueldad gratuita y castiga la indisciplina o el abuso.
-    
-- Si ve un acto extraordinario de piedad u honor, puede ordenar un alto el fuego temporal.
-    
-- Siempre busca que el orden prevalezca, aunque ello signifique tomar decisiones dolorosas.

@@ -6,6 +6,8 @@
 **Frase de identidad:**  
 _“El alba no es propiedad de ningún rey ni profeta. Solo el amor puede echar raíces en estas piedras. No daremos un paso atrás.”_
 
+[[Ordenes Cofradias Hermandades#Orden de la Primera Luz|Orden de la Primera Luz]]
+
 - **Raza/Clase:** Humano / Sumo sacerdote de Lathander
     
 - **Edad:** Más de 70 años

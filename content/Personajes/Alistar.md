@@ -8,6 +8,7 @@
 ### **Rasgos principales**
 #### **Raza/Clase:** Humano / Paladín de Tyr.
 
+[[Ordenes Cofradias Hermandades#Orden de la Balanza|Orden de la Balanza]]
 #### Rasgos de carácter:
 -  
 
