@@ -48,3 +48,8 @@ file://C:\Users\Admin\Documents\Repositorios\venganza_acererak\Especiales	file n
 file://C:\Users\Admin\Documents\Repositorios\venganza_acererak\Fondo	file not found	133954208928407293
 file://C:\Users\Admin\Documents\Repositorios\venganza_acererak\PorClasificar	file not found	133954208928407293
 file://C:\Users\Admin\Documents\Repositorios\venganza_acererak\Relax	file not found	133954208928407293
+file://C:\Users\Admin\Documents\Repositorios\venganza_acererak\Fondo	file not found	134009568520732136
+file://C:\Users\Admin\Documents\Repositorios\venganza_acererak\Batalla	file not found	134009568520732136
+file://C:\Users\Admin\Documents\Repositorios\venganza_acererak\PorClasificar	file not found	134009568520732136
+file://C:\Users\Admin\Documents\Repositorios\venganza_acererak\Especiales	file not found	134009568520732136
+file://C:\Users\Admin\Documents\Repositorios\venganza_acererak\Relax	file not found	134009568520742209

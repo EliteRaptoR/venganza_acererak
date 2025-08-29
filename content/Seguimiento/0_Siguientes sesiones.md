@@ -637,7 +637,9 @@ Nadie les dice que eso también está prohibido.
 > 
 > —No es aquí donde reside el verdadero amanecer. Lo llevamos con nosotros, y con nosotros volverá a brillar.—
 > 
-> La plaza queda vacía. Sobre Waterdeep cae lentamente la noche, anunciando que esto es solo el preludio de un caos mucho mayor.
+> La plaza queda vacíaç
+> La noche no hecho mas que comenzar!
+
 
 ## **Dia 5/noche: Arde Sea Ward
 
