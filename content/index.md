@@ -9,6 +9,12 @@ slug: "inicio" # (Opcional. Solo si quieres cambiar la URL)
 - [[Diario Capitulo 1. Ecos de Gloria]]
 
 ---
+## **Mundo**
+- [[Dioses y mitología]]
+- [[Ordenes Cofradías Hermandades]]
+- [[La Mano de Hierro]]
+
+---
 ## **Personajes**
 ### **Nuestros Héroes**
 - [[Alistar]]

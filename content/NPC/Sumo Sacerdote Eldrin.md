@@ -8,7 +8,7 @@
 **Raza / Clase:** Humano / Sumo sacerdote de Tyr  
 **Edad:** 62 años  
 **Ubicación conocida:** Templo de Tyr, Waterdeep
-[[Ordenes Cofradias Hermandades#Orden de la Balanza|Orden de la Balanza]]
+[[Ordenes Cofradías Hermandades#Orden de la Balanza|Orden de la Balanza]]
 
 ---
 

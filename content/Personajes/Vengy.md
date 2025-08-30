@@ -6,7 +6,7 @@
 ### **Rasgos principales**
 #### **Raza/Clase:** Humano / Paladín-Hechicero.
 
-[[Ordenes Cofradias Hermandades#Orden de la Primera Luz|Orden de la Primera Luz]]
+[[Ordenes Cofradías Hermandades#Orden de la Primera Luz|Orden de la Primera Luz]]
 #### Rasgos de carácter:
 -  
 

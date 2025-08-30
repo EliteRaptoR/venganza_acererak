@@ -4,7 +4,7 @@
 # **Capitana Soriah Durn, _La Mano de Hierro que no Tiembla_**
 
 _"El deber no espera a la compasión. La ley es clara. Y yo la cumplo."_
-[[Ordenes Cofradias Hermandades#Hermandad del Códice Luminar|Hermandad del Códice Luminar]]
+[[Ordenes Cofradías Hermandades#Hermandad del Códice Luminar|Hermandad del Códice Luminar]]
 
 ---
 

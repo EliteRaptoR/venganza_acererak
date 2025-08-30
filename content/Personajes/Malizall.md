@@ -10,7 +10,7 @@
 #### Rasgos de carácter:
 -  
 
-[[Ordenes Cofradias Hermandades#Confraternidad del Pacto de la Aurora (Lathander)|Confraternidad del Pacto de la Aurora]]
+[[Ordenes Cofradías Hermandades#Confraternidad del Pacto de la Aurora (Lathander)|Confraternidad del Pacto de la Aurora]]
 
 #### **Edad:** 43 años (apariencia mucho mayor debido a un envejecimiento prematuro).
 

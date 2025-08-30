@@ -2,7 +2,7 @@
 
 ![[Eredin.png]]
 _"Las estrellas no mienten; los hombres, siempre."_
-[[Ordenes Cofradias Hermandades#Hermandad del Códice Luminar|Hermandad del Códice Luminar]]
+[[Ordenes Cofradías Hermandades#Hermandad del Códice Luminar|Hermandad del Códice Luminar]]
 
 ---
 
