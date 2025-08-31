@@ -47,6 +47,7 @@ slug: "inicio" # (Opcional. Solo si quieres cambiar la URL)
 
 ---
 ## **Normas** 
+- [[NDND]]
 - [[Imposición narrativa]]
 - [[Sistema de Descansos]]
 - [[Vida y muerte]]

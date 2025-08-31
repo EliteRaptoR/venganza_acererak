@@ -1,7 +1,6 @@
-# Sistema DnD Narrativo — **Guía del Jugador**
+# Sistema DnD Narrativo, Guía del Jugador
 
 ---
-
 ## Propósito del sistema
 
 Este juego busca escenas **ágiles, expresivas y coherentes con la ficción**. Conserva la progresión (equipo, artefactos, desarrollo), pero sustituye la iniciativa rígida y los puntos de vida por **Aspectos** y **resolución por márgenes**. Aquí el éxito no depende de una contabilidad fría, sino de **cómo justificas** tus acciones en la historia y de **qué riesgos asumes**.
@@ -13,8 +12,6 @@ Este juego busca escenas **ágiles, expresivas y coherentes con la ficción**. C
 - **Decisiones con peso:** los **Aspectos** y los **Puntos de Destino (PD)** premian creatividad, riesgo e interpretación.
 
 ---
-## Conceptos clave
-
 ### Puntos de Destino (PD)
 
 **Límite:** 10 por personaje.
@@ -23,11 +20,12 @@ Este juego busca escenas **ágiles, expresivas y coherentes con la ficción**. C
 
 - Aceptando un **forzado** de un **Aspecto negativo personal** (de ficha).
 - **Premios** de la Dirección por interpretación, audacia, ideas memorables o sacrificios.
+- Cuando te acercas o luchas por un objetivo de forma clara.
 
 **Cómo se gastan**
 
-- **3 PD → Determinación (re‑lanzar 1 dado).** Se declara **después** de ver la tirada y **antes** de fijar el resultado. Elige **un** dado (d12 base, d12 de Pasión o dado de Aspecto) y sustitúyelo.
-- **5 PD → Pasión (+1d12 explosivo).** Se declara **antes** de tirar y exige una narración de **entrega extrema** (no para acciones rutinarias).
+- **2 PD → Determinación (re‑lanzar 1 dado).** Se declara **después** de ver la tirada y **antes** de fijar el resultado. Elige **un** dado (d12 base, d12 de Pasión o dado de Aspecto) y sustitúyelo.
+- **3 PD → Pasión (+1d12 explosivo).** Se declara **antes** de tirar y exige una narración de **entrega extrema** (no para acciones rutinarias).
 - **Compras narrativas** (colectivas o individuales). Pacta con la Dirección «lo que pasa» y paga con PD.
   - **Menor (3–10 PD):** efecto local en una escena, sin invalidar riesgos.
   - **Sustantiva (5–20 PD):** atajo/modificador de misión; cambia un nodo del mapa social.
@@ -37,8 +35,8 @@ Este juego busca escenas **ágiles, expresivas y coherentes con la ficción**. C
 
 **Sugerencias tácticas**
 
-- Usa **Determinación (3 PD)** para rescatar un dado muy por debajo de su media.
-- Usa **Pasión (5 PD)** para **romper** CDs altas o buscar **Éxitos rotundos**.
+- Usa **Determinación (2 PD)** para rescatar un dado muy por debajo de su media.
+- Usa **Pasión (3 PD)** para **romper** CDs altas o buscar **Éxitos rotundos**.
 
 
 ---
@@ -53,9 +51,8 @@ Este juego busca escenas **ágiles, expresivas y coherentes con la ficción**. C
 4. **Tirada.**
    **Total = 2d12 explosivos (+1d12 expl. si hay Pasión) + dados/bonos de hasta 3 Aspectos  (máx. 1 por categoría)**.
    Cada **d12** que saque **12** explota (se vuelve a tirar y **se suma**, encadenado).
-5. **Resultado**. La dirección enuncia el éxito o fracaso.
-6. **Determinación (opcional).** Tras ver la tirada, puedes gastar **3 PD** para **re‑lanzar 1 dado** (uno de los d12, el d12 de Pasión o un dado de Aspecto).
-7. **Resolución.** La Dirección aplica teniendo en cuenta todos los aspectos y conocimiento la **clase de dificultad de la tirada (CD)**, el resultado de la tirada es superior o igual a la **CD** la acción tiene éxito nítido, de lo contrario puede ser que sea un éxito con consecuencia, un fracaso parcial, un fracaso total o incluso peor. 
+5. **Determinación (opcional).** Tras ver la tirada, puedes gastar **2 PD** para **re‑lanzar  tantos dados como quieras de la tirada**.
+6. **Resolución.** La Dirección aplica teniendo en cuenta todos los aspectos y conocimiento la **clase de dificultad de la tirada (CD)**, el resultado de la tirada es superior o igual a la **CD** la acción tiene éxito nítido, de lo contrario puede ser que sea un éxito con consecuencia, un fracaso parcial, un fracaso total o incluso peor. 
 
 A continuación se detallan cada uno de estos puntos, intentando responder a posibles dudas generadas de esta guía rápida.
 
@@ -66,24 +63,22 @@ El primer punto es declarar la acción, haciendo las preguntas pertinentes y añ
 Dentro de este primer punto entre en juego la mecánica principal del sistema, los **aspectos**.
 Los aspectos son una mecánica con la que los jugadores y la dirección pueden invocar rasgos de su personaje o de su entorno o cualquier cosa que pueda influir en la acciona que desean realizar.
 
-Un guerrero por ejemplo puede utilizar su aspecto Guerrero mientras realiza una acciona de golpeo durante una contienda. Otro aspecto seria su propia arma, alguna técnica concreta, su fuerza extrema, etc.
-#### 1.1 Categorías (para ordenar)
+Hay cuatro categorías de aspectos (Principales, Secundarios, Talentos y Personalidad), cuando se declara una acción se puede invocar un aspecto de cada categoría y acumular sus beneficios en la tirada. Lo mas importante es que cada aspecto tiene asociados un listado de detalles esteticos y evocativos que deben usarse durante la descripción de la acción para poder beneficiarse de estos aspectos.
 
-Lo primero que hay que discernir son los aspectos del personaje, que son utilizados por el jugador para mejorar (o empeorar) la tirada de resolución, de los aspectos ambientales y temporales, que son utilizados por la dirección para establecer la dificultad de acción.
+Por ejemplo alistar tiene un aspecto principal que es "Esquiva", este tiene (entre otros) el detalle "Escudo baliza de equidad". Si cuando se esta defendiendo narrar como interpone su escudo al golpe que esta recibiendo podrá añadir a su tirada el modificador de aspecto "Esquiva"
+#### 1.1 Aspectos temporales
 
-Los aspectos del personaje se detallan en la ficha del personaje. En ella, además del aspecto, también se indica el modificador asociado que se obtiene al ser invocado dicho aspecto y si tiene un limite de uso.
+Algunos aspectos son temporales como estar en una posición mejorada o derribado en el suelo. También están en esta categoría las heridas, efectos de estado como aturdido o efectos ambientales como la oscuridad, la lluvia, el viento, etc.
 
-Para evitar «apilar lo mismo», en cada acción puedes invocar **hasta 3 Aspectos**, con **máximo 1 por categoría**:
+Los aspectos ambientales también afectan a la probabilidad de éxito, pero en lugar de mejorar o empeorar el resultado de la tirada cambian la dificultad de la misma. 
 
-- **Carácter/Historia:** juramentos, reputación, traumas, contactos, fe.
-- **Técnica/Entrenamiento:** pericias, estilos, escuelas, maniobras.
-- **Equipo/Artefactos:** armas, armaduras, reliquias, herramientas.
+Los aspectos temporales son propiedad de la dirección de juego, no debes preocuparte por ellos y en todo caso puedes recordar o hacer hincapié en algo la dirección de juego si tu acciona se basa mucho en un aspecto temporal. Por ejemplo, si un enemigo esta herido de una pierna y quiere castigarla aun mas con algún golpe para explotar esa debilidad.
 #### 1.2 Aspectos negativos y forzados
 
 Como se comentaba antes, también es posible empeorar una tirada con un aspecto.
 
 - Algunos Aspectos personales pueden ser **ambivalentes o negativos** (p. ej., *Perfeccionista obsesivo*, *Juramento inflexible*, *Orgullo ancestral*). Puedes **invocarlos** tu mismo de forma negativa o la Dirección pueden ser invocados por la dirección. De cualquiera de las dos formas ganaras un PD por cada aspecto invocado de forma negativa.
-- Los **ambientales/temporales** (heridas, oscuridad, lodo, equipo roto…) **no otorgan PD** por defecto: son propiedad de la Dirección y se aplican vía **CD**.
+- Los **ambientales/temporales** (heridas, oscuridad, lodo, equipo roto…) **no otorgan PD**.
 
 
 ---
@@ -119,6 +114,8 @@ Esta etiqueta es lo que tu personaje estima. Por tanto no tiene en cuenta factor
 Ejemplo:
 >Si tratas de esconderte con invisibilidad de una criatura puede que parezca fácil. La dirección te dirá que es fácil cuando te proporcione la etiqueta. Que sorpresa cuando después de sacar una buena tirada la dirección te dice que es un fracaso total. No sabes porque, pero de lo que estas seguro es que hay algo que no sabes pero hace que esconderte de la criatura sea mucho mas complicado de lo que parece (quizás tiene visión verdadera...)
 
+Debes saber que hay normas para seleccionar la CD de una acción, aunque también son subjetivas claro esta, pero de momento dejemos que se ocupe dirección de esto. Si tienes dudas sobre la complejidad de algo o de cuanto afecta una situación a la dificultad de una acción, pregúntale directamente a la dirección. Por ejemplo: "¿Si en lugar de disparar mi flecha tumbado en el suelo, lo hiciera de pie, seria mucho más fácil apuntar al objetivo?"
+
 ---
 
 ### 4) Tirada
@@ -130,22 +127,18 @@ Tira todos los dados, súmalos y dile el resultado a la dirección.
 
 Explosivo significa que, si en el d12 obtienes un 12, te quedas con ese 12 y tiras otro d12. Esto puede pasar de forma encadenada (¡Si sacas otro 12 te lo quedas y vuelves a tirar!)
 
-### 5) Resultado
+### 5) Determinación
 
-La dirección resuelve el resultado de la tirada. Éxito o fracaso, pero aun sin consecuencias, solo un éxito o fracaso. El único objetivo de esto es darte la oportunidad de utilizar Determinación para mejorar la tirada.
-
-### 6) Determinación
-
-De usarla, gasta 3 PD y relanza un dado de la tirada. Suma de nuevo los dados y dile el nuevo resultado a la dirección.
+De usarla, gasta 2 PD y relanza tantos dados como quieras de la tirada. Suma de nuevo los dados y dile el nuevo resultado a la dirección.
 
 Si el dado es un d12, este puede explotar como si se tratase de una tirada normal.
 
-### 7) Resolución y márgenes narrativos
+### 6) Resolución y márgenes narrativos
 
 La dirección con el resultado final resuelve la tirada. 
-Hay que entender que la **CD** no tiene porque ser publica, solo la dirección la sabe y no tiene porque compartirla. Igualmente, en esta guía de jugador se dan algunas pistas para que podáis entender como funciona la mecánica.
+Hay que entender que la **CD** no tiene porque ser publica, solo la dirección la sabe y no tiene porque compartirla.
 
-En lugar de que superar o igualar la CD sea un éxito y no hacerlo sea un fracaso, se propone un sistema más avanzado y rico en matices donde superar por mucho la tirada tengas resultados mucho mejores y fallar por poco consecuencias mas ligeras.
+Por otra parte, en lugar de que superar o igualar la CD sea un éxito y no hacerlo sea un fracaso, se propone un sistema más avanzado y rico en matices donde superar por mucho la tirada tenga resultados mucho mejores y fallar por poco consecuencias más ligeras.
 
 - **≥ CD + 10**→ **Éxito rotundo** (beneficio adicional verosímil).
 - **CD +1…+10** → **Éxito nítido** (logras el objetivo).
@@ -158,33 +151,59 @@ En lugar de que superar o igualar la CD sea un éxito y no hacerlo sea un fracas
 
 > **Convención:** resultados de dados **ilustrativos**; se muestran para explicar el proceso.
 
-### **Asalto acrobático con Pasión**\
-  *«El corazón me ruge en el pecho: salto del balcón al carromato, tomo el filo con la izquierda y arranco el arma al apóstol aunque me cueste la caída.»*\
-  **Criterio:** desarmarlo sin caer. **Etiqueta:** **Muy difícil**.\
-  **Aspectos:** *Estilo acrobático (1d8)*, *Botas de gato (+2)*.\
-  **Pasión:** sí (**5 PD**) → **+1d12 explosivo**. *Justificación estética:* *«No es prudencia; es promesa y furia: antes me rompo que permitir que hiera a los míos.»*\
-  **Tirada:** 2d12 = **12** y **7** → el **12 explota** y añade **(9)** ⇒ 28. Pasión 1d12 = **12** → **explota** y añade **(5)** ⇒ +17 ⇒ **45**. *Estilo acrobático* 1d8 = **6**, *botas* +2 ⇒ **Total = 53**.\
+**Acción en combate en combate**
+  *«Lanzo la daga a la cuerda para soltar el candelabro.»*
+  **Criterio:** que el candelabro caiga **en el punto deseado**. **Etiqueta:** **Difícil** (distancia + poca luz).
+  **Aspectos:** *Puntería (Diestro en armas arrojadizas + daga equilibrada) (2d8)*,.
+  **Tirada:** 2d12 = 12 y 1 → el 12 explota y añade 2. *Ojo de halcón* 2d8 = 8 + 6 ⇒ **Total = 12 + 1 + 2 + 8 + 6 = 29**.
+  **Resolución:** **Éxito**; la cuerda se corta y el candelabro cae donde querías.
+
+ **Asalto acrobático con Pasión**
+  *«El corazón me ruge en el pecho: salto del balcón al carromato, al caer mis patas de tabaxi amortiguan la caída con sutileza y belleza, tomo el filo que sostiene en su mano izquierda, arrancándole el arma al apóstol aunque me cueste la caída.»*
+  **Criterio:** desarmarlo sin caer. **Etiqueta:** **Muy difícil**.
+  **Aspectos:** *Estilo acrobático (2d8),  Seguro de si mismo (1d6)*
+  **Pasión:** sí (**3 PD**) → **+1d12 explosivo**. *Justificación estética:* *«No es prudencia; es promesa y furia: antes me rompo que permitir que hiera a los míos.»*
+  Tirada: 2d12 = **10 y 7.** Pasión 1d12 = 12 → explota y añade (5) = **12 y 5** . Estilo acrobático 2d8 = **6 y 2**, seguro de si mismo 1d6  = **2** ⇒ **Total = 10 + 7 + 12 + 5 + 6 + 2 + 2  =** **44**
   **Resolución:** **Éxito rotundo**; desarmas en pleno salto, ruedas sobre la lona y te incorporas con el arma en tu mano, respiración de fragua y mirada encendida: obtienes **posición superior**.
 
-- **Negociación con Determinación**\
-  *«Convencer al sargento de que no somos herejes.»*\
-  **Criterio:** permitir el paso. **Etiqueta:** **Tenso**.\
-  **Aspectos:** *Juramento de caballería (1d6)*, *Emblema legítimo (+2)*.\
-  **Tirada:** 2d12 = **3** y **5**; *Juramento* 1d6 = **2**; *Emblema* +2 ⇒ provisional **12**.\
-  **Determinación (3 PD)** sobre el **3** → sale **11** ⇒ nuevo total **20**.\
-  **Resolución:** **Éxito con consecuencia** → os deja pasar, pero **debéis un favor** (Aspecto temporal de deuda).
+**Negociación con Determinación**
+  *«Convencer al sargento de la orden de Helm de que no somos herejes. La mera presencia Alistar, con su armadura, simbología y posición marcial disciplinada hablan por si mismas. »*
+  **Criterio:** permitir el paso. **Etiqueta:** **Tenso**.
+  **Aspectos:** *Persuasión (2d6)*, *Emblema legítimo (+2)*.
+  **Tirada:** 2d12 = **3** y **5**; *Juramento* 1d6 = **2**; *Emblema* +2 ⇒ provisional **12**.
+  Como parece que la tirada ha sido muy mala, decido usar determinación.
+  **Determinación (2 PD)** relanzando todos los dados, ahora el resultado es 8 + 4 + 4 +2 ⇒ 18 .
+  **Resolución:** **Éxito con consecuencia** → os deja pasar, pero **pero conserva cierta sospecha vigila vuestros movimientos.** (Aspecto temporal de sospechoso).
 
-- **Compra narrativa en grupo**\
-  *«El perro que salvamos era en realidad un ********espíritu del bosque******** que protege a los indefensos.»*\
-  **Coste:** **30 PD** (el grupo **apila** PD). El espíritu ahuyenta a los sicarios y otorga el Aspecto temporal **Amparo del bosque (1d8, 1 escena)**.
+---
 
-- **Determinación en combate**\
-  *«Lanzo la daga a la cuerda para soltar el candelabro.»*\
-  **Criterio:** que el candelabro caiga **en el punto deseado**. **Etiqueta:** **Tenso** (distancia + poca luz).\
-  **Aspectos:** *Ojo de halcón (1d8)*, *Daga equilibrada (+2)*.\
-  **Tirada:** 2d12 = **12** y **1** → el **12 explota** y añade **(2)** ⇒ 15; *Ojo de halcón* 1d8 = **2**, *Daga* +2 ⇒ **19**.\
-  **Determinación (3 PD)** sobre el **1** → sale **8** ⇒ **26**.\
-  **Resolución:** **Éxito**; la cuerda se corta y el candelabro cae donde querías.
+## Éxitos parciales, vitalidad y poder
+
+### Éxitos parciales
+
+Roma no se construyó en un día. Hay acciones que pueden dividirse en partes, de modo que se pueda progresar parcialmente con cada éxito. Cruzar un pueblo saltando por los tejados, abrir una caja fuerte de combinación o derrotar a un enemigo poderoso son ejemplos de este tipo de acciones.
+
+Cada éxito parcial te acerca narrativamente al objetivo: no es un simple contador en el que se acumulan resultados hasta alcanzar un número. Un éxito puede representar varios saltos que te hacen avanzar manzanas enteras, un cerrojo más abierto en la caja fuerte o una herida infligida a tu adversario.
+
+Conviene usar esta norma cuando la acción es demasiado compleja para resolverse en un único intento y, además, tiene sentido narrativo ir avanzando por etapas. Por ejemplo: saltar desde un puente sobre un tren en marcha, rodar hasta quedar arrodillado y disparar a tu perseguidor. Esta acción puede dividirse en dos partes —el salto con su caída y el disparo—, que por separado son más fáciles de lograr que si se resolvieran con una sola tirada.
+
+### Vitalidad
+
+Por otro lado está la **Vitalidad**, que permite cuantificar cuán cerca de la muerte se encuentra un personaje principal. Fracasar al defenderse de un golpe, caer desde gran altura o llegar a la extenuación resta vitalidad.
+
+Muchos fracasos defensivos implican dos consecuencias: por un lado, heridas, quemaduras, contusiones o fracturas; por otro, la pérdida de uno o más puntos de vitalidad. Fracasos mayores, o enemigos más poderosos, pueden provocar que esa pérdida sea mucho más brusca.
+
+### Cómo recuperarse
+
+Las heridas, contusiones y demás secuelas pueden tratarse mediante conjuros, reposo, cuidados o cualquier recurso que tenga sentido narrativo. Según la gravedad, podrían requerirse varios conjuros o éxitos para sanar completamente.
+
+La vitalidad, en cambio, se recupera con un descanso completo —generalmente 24 horas sin impedimentos graves—. Si el personaje sufre, por ejemplo, una infección severa, no podrá recuperar vitalidad.
+
+Conviene distinguir ambos conceptos:
+
+- **Heridas y contusiones:** Son aspectos que afectan mecánicamente a los resultados y se superan de manera narrativa con magia, pociones, curas o reposo.
+    
+- **Vitalidad:** Es un medidor abstracto que recuerda que los personajes no son inmortales y señala cuánta adversidad pueden resistir antes de caer.
 
 ---
 
@@ -205,4 +224,3 @@ El resto de columnas muestra la CD aproximada según las modificadores del perso
 | Difícil      | 30%       | 16                | 22                  | 25               | 29              | 32                |
 | Muy difícil  | 20%       | 19                | 25                  | 28               | 32              | 35                |
 | Épico        | 10%       | 23                | 29                  | 32               | 36              | 39                |
-
