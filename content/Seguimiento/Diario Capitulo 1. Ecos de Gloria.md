@@ -2609,3 +2609,88 @@ Una oscuridad palpable cubría el lugar como un velo maligno, bloqueando cualqui
 Hederic Alorn elevó un candelabro oscuro que exudaba una energía siniestra, atrayendo y atrapando las almas de los muertos, arrebatándolas con violencia desde sus cuerpos y lanzándolas al cielo tormentoso. Su voz resonó profunda, triunfal y escalofriante:
 
 —¡Estas almas han sido liberadas! Ahora yacen junto al verdadero dios todopoderoso.
+
+---
+
+## **Sesión 7**
+
+### _Umbral de la Séptima Noche_
+
+El mundo parecía haberse inclinado hacia lo siniestro. Sobre el bosque, la lluvia hilvanaba sombras: ramas empapadas, frondas abatidas, un rumor de agua arrastrándose por la maleza como si la misma noche respirase.
+
+La lluvia caía con un ritmo pausado, paciente; cada gota descendía entre frondas y nudosos ramajes, hasta reventar en charcos terrosos donde el sotobosque se convertía en barro oscuro. El aire, cargado de humedad y a tierra mojada, susurraba en la piel. No había trino ni zumbido: el bosque, mudo, parecía guardar luto.
+
+En una hondonada cercada por helechos vencidos y ramas abatidas, yacía Sildar. Su rostro, desencajado por la visión, conservaba la boca curvada y el ceño fruncido; estaba inconsciente. Alrededor, el rastro reciente del combate: cadáveres de brujas y bestias abisales, charcos de sangre enrojecida que la lluvia diluía en arabescos ferruginosos. Las piedras de paso etéreo, antes encendidas en las manos de aquellas hechiceras, yacían ahora opacas, sin pulso ni fulgor. Desde el sur empujaba un vientre de nubes densísimas, presagio de tormenta: una sombra gigantesca ensayando su caída sobre Waterdeep.
+
+El grupo se reunió en torno a Sildar con inquietud contenida. Alistar —la cota pesada oscurecida por la lluvia, los ojos firmes— comprobó su pulso y el compás de la respiración. Concluyó que, aunque desvanecido, estaba fuera de peligro. Acarició el hombro de Malizall con una mano enguantada y habló con voz baja, de temple acerado:
+
+—Calma, Malizall, es lo mismo que les ha pasado a Orianna y Hakuryuu; estará bien.
+
+—Pero era yo el que tenía que recibir esto, ¡no… no Sildar! —respondió Malizall, con la angustia hecha bruma en la garganta.
+
+—Ya lo conoces —replicó Alistar con firmeza—. Si tuviera la oportunidad de protegerte, no la iba a dejar pasar.
+
+Dentro de Malizall, una voz fina y despiadada arañó: _Tendrías que haber sido más rápido; más atento_. El amuleto rosado de Rellon reposaba tibio sobre su pecho, irradiando un consuelo tenue que apenas mitigaba el peso de la culpa; quizá, pensó, aquello era un umbral: otro tramo de camino en el que tendría que aprender a respirar con heridas que no cerraban del todo.
+
+—Hakuryuu —ordenó Alistar, girándose hacia el dracónido—, ayúdame a incorporarlo. Lo ataremos al arzón de mi montura para movernos con seguridad.
+
+Hakuryuu asintió en silencio. Sus manos escamadas, firmes pese al temblor contenido, alzaron con Alistar el cuerpo de Sildar. El metal, el cuero y el jadeo leve del herido compusieron un acorde breve bajo la lluvia. Con gesto experto, aseguraron correas y mantas.
+
+Alistar cerró los ojos un instante, abriendo su percepción a lo invisible. Su sentido divino palpó la espesura, tanteando la grieta entre lo sagrado y lo profano. Nada acudió: ni zarpazo de mal ni latido impío.
+
+—No percibo más corrupciones —anunció—. El bosque está quieto… por ahora.
+
+Orianna, con el cabello pegado a la frente y los ojos encendidos de una cólera silenciosa, miró hacia el sur, donde el cielo se ennegrecía como una amenaza antigua. Vengy apretó el medallón del sol naciente, cuya luz, en lugar de estallar, titubeó en un ámbar enfermo antes de apagarse de nuevo. Ander, serio por una vez, custodió el flanco con la mano en la empuñadura, atento al crujido más leve entre la maleza.
+
+Sobre ellos, la lluvia redobló su andadura. Y sin embargo, bajo aquel aguacero, en medio del bosque ensordecido, se encendió la decisión que a veces nace tras la fatiga: seguir adelante, atando al compañero caído, con la ciudad en el horizonte y una tormenta —de agua y de hierro— aguardando su hora.
+
+### _Aliento violeta_
+
+La grieta por la que Orianna había cruzado antaño aún supuraba humo: una herida abierta e infecta. El vaho denso se arrastraba a ras de suelo, espesándose en torno al tajo como si se aferrara a la tierra. A cada paso, el aire se volvía más frío, cerrado, con un olor antiguo de cripta abierta. Un eco sordo —crujidos, chasquidos, la promesa remota de una tormenta— emergía desde la profundidad.
+
+Alistar se quedó atrás, velando a Sildar; el resto avanzó. Hakuryuu, Orianna, Vengy y Malizall se internaron en el perímetro de la grieta, y antes de franquear el humo, Orianna alzó la voz:
+
+—Este miasma hirió a Elyz. Respirad poco y movedos deprisa.
+
+La luz, filtrada por gases violáceos, viraba a un violeta malsano. Malizall, atento al rumor de las profundidades, negó con la cabeza.
+
+—No es máquina ni fragua —murmuró—. No hay ritmo; es algo vivo.
+
+Los brazaletes de escamas —la gema musgosa que los recorría, sintonizada al bosque— vibraron contra la piel de Orianna, como si el lugar los reconociera y rechazara a la vez. Un hormigueo le subió por el antebrazo con el perfume agrio del peligro.
+
+—¿El sonido aumenta? —preguntó Ander, ladeando la cabeza.
+
+Se detuvieron. El ronco crujir no crecía; se mantenía, obstinado, como una marea al otro lado del mundo.
+
+De súbito, Vengy se volvió hacia Orianna:
+
+—¿Tienes marfil?
+
+—¿Marfil? —replicó ella, casi ofendida.
+
+—Para el ritual [traduce esto al español: _legend lore]_. Si supiéramos qué sangra al otro lado…
+
+No tenían marfil. Quedó el silencio, y la decisión de acercarse más.
+
+El árbol partido seguía colgado del borde, sangrando savia oscura, luchando por no ceder al abismo. Parecía una mano aferrada al precipicio. Orianna tomó la cabeza, Malizall la sombra; Vengy y Hakuryuu flanquearon. El consejo fue claro:
+
+—Evitad inhalar; recordadlo: esto es literalmente un portal al Abismo.
+
+Juntos bajaron hasta las raíces expuestas. La herida abierta supuraba un olor a corrupción, la inversión exacta de lo que aquel lugar había sido. Ander rompió el mutismo:
+
+—Dime una cosa, Orianna: ¿hemos de salvar el árbol, impedir que caiga… o solo mirar?
+
+—Hasta que la grieta no se cierre, el árbol seguirá enfermo —respondió ella, con voz acerada—. Creo que es lo único que la sujeta, lo que impide que crezca.
+
+—Entonces no deberíamos moverlo.
+
+—No. El árbol aún protege este bosque. Si la grieta no es mayor, es por su resistencia.
+
+Orianna alargó la mano hacia el tronco. Antes de tocarlo, algo verde relampagueó entre la corteza desgarrada: una escama, inconfundible, de Elyz. La recogió con dedos firmes; el pulso le vibró en la muñeca. Rabia, impotencia, cansancio se alzaron como un oleaje… y pasó a través de ellos. Guardó la escama en su bolsa.
+
+Entonces la visión la asaltó: garras verdes arañando el suelo, buscando asidero; la tierra levantada en surcos; el arrastre invisible en dirección al árbol, como si una fuerza silenciosa reclamase a Elyz hacia la grieta.
+
+—¡Elyz! —se le escapó, apenas un hilo de voz.
+
+Hakuryuu dio un paso, espada baja; Vengy apretó el símbolo del alba hasta que el metal le dolió en la palma; Malizall, con los ojos clavados en el tajo, sostuvo la mirada a lo desconocido.
+
