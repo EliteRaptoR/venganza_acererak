@@ -3144,3 +3144,229 @@ Vengy, Alistar, Orianna y Hakuryuu salieron luego hacia el puerto. Malizall y An
 —Es un don limitado —advirtió—. Si ves algún lugar sospechoso, lo emplearé.
 
 Y marcharon con la ciudad extendida como un tablero incierto, cada esquina capaz de ocultar una grieta o una esperanza.
+
+### _El puerto del Oro Silente_
+
+Llegaron al puerto sin contratiempos. La explanada costera no era sólo muelles y jarcias: se abría como un recinto industrial cercado por una valla de estacas reforzadas, más disuasoria que inexpugnable, con garitas en las esquinas y un equipo de guardia que regulaba el trasiego por unas puertas menores de paso. Dentro, el mundo del comercio respiraba a pulmón lleno: almacenes con portones anchos, patios donde se apilaban cajas marcadas con tintas de colores, grúas de flecha, polipastos chillando en alturas, carros que iban y venían entre calles de traviesas manchadas de brea, bancos de carpinteros con virutas recientes y cuadrillas remachando planchas en cascos abollados. De un lado, el edificio principal —una casa de piedra y madera barnizada— albergaba oficinas en los pisos superiores y, en su corazón, un gran auditorio donde se reunían los mercaderes del **Consorcio del Oro Silente**, patronal de los grandes capitales marítimos.
+
+Alistár —montado— distinguió a Markus en la puerta de acceso al recinto vigilado. Guardaba el tránsito con actitud sobria, la vista abarcando más de lo que parecía. El paladín espoleó hasta colocarse frente a él.
+
+—¡Markus! Me alegro de verte. Hace días que te he estado buscando.
+
+El otro respondió con el saludo reglamentario.
+
+—¡Señor!
+
+—Quería hablar contigo. Es realmente importante. He tratado de hablar con Harker, pero está totalmente cerrado a escuchar.
+
+—No me sorprende en absoluto —contestó Markus, sincero hasta la desolación.
+
+—Esperaba algo más de comprensión por su parte… —admitió Alistar, la frustración asomándole al rostro.
+
+—Tú siempre piensas demasiado bien de las personas —replicó Markus, sin acritud.
+
+Alistar tomó aire y, tras una pausa, expuso lo ocurrido con voz pesada:
+
+—Estuvimos en el bosque de Waterdeep. Nos enfrentamos a un grupo de demonios. Durante el combate, Sildar fue alcanzado por una maldición y tuvo una visión… vio almas atrapadas sobre Waterdeep.
+
+La sombra cruzó el semblante de Markus.
+
+—Imposible… No puede ser.
+
+—Me temo que sí. Y no tengo duda: la Mano está detrás. ¿Cómo iban a coincidir estos sucesos con su súbito ascenso si no?
+
+—Seguro… —concedió Markus—. Pero la Mano no es lo que más miedo me da. Son sus acólitos, sus profetas, sus apóstoles.
+
+—Exacto. Al fin y al cabo, son ellos quienes mueven los hilos. Si hay responsables de lo que hacen con esas almas, son ellos.
+
+—Están corruptos —dijo Markus, sin rodeos.
+
+—No sé cómo, pero mis compañeros y yo tenemos que acceder a ellos y detenerlos. ¿Tú o la Orden habéis averiguado algo más? Intenté sonsacar a Harker y se negó a darme información.
+
+Markus lo tomó del codo y lo apartó a un rincón del vallado, fuera del oído de los estibadores.
+
+—La verdad… no estamos haciendo nada para impedir que la Mano prospere. Vigilamos y custodiamos a los poderosos. Mírame aquí: guardando este perímetro porque los señores comerciantes están dentro. Nos ordenan protegerlos a ellos en vez de hacer algo de verdad por la ciudad.
+
+—Tenemos que luchar por esta ciudad —insistió Alistar—. Si no lo hacemos nosotros, ¿quién?
+
+Markus dejó que el silencio respondiera un par de latidos antes de hablar:
+
+—Aunque quieras, no es posible un enfrentamiento directo. Son demasiados. Y aunque los derrotaras y arrestaras, no puedes apresar la fe. Sigue habiendo quien cree. Cada vez que intentamos detener a un vándalo en la calle, sólo alimentamos el odio y la animadversión hacia nosotros… Nuestras armas no están hechas para esta guerra.
+
+La rabia y la impotencia tensaron el gesto de Alistar.
+
+—Lo sé… maldita sea.
+
+—Quizá Harker tenga razón —murmuró Markus, bajando la mirada—. Tal vez no sea nuestro deber.
+
+—¿Y de quién, si no, es luchar contra el mal? —alzò Alistar—. Esto ya no es sólo una fe. Están atrapando —y quizás destruyendo— las almas de la gente. Son un peligro para la sociedad.
+
+—Luchar contra el mal es sencillo cuando tienes un demonio delante —dijo Markus—. Cuando es una persona con ideales, con fe… no lo es. Eso quizá no sea trabajo de un paladín.
+
+Las palabras golpearon un sitio que Alistar conocía: la memoria de lo fácil que fue blandir justicia contra la Maldición de la Muerte frente a la dificultad áspera de combatir la injusticia cotidiana en Waterdeep.
+
+—Sinceramente —prosiguió Markus con gesto derrotado—, no sé qué solución hay. Temo que, haga uno lo que haga, empeore todo. Y si quisieran, ahora mismo… ¿qué no podrían hacer con esta ciudad?
+
+Alistar quedó un instante sumido en sus pensamientos.
+
+—Si averiguas algo que pueda servirnos, te agradeceré que me lo hagas saber —dijo, al fin.
+
+—No creo poder averiguar nada aquí, vigilando a estos picatostes mientras negocian a quién deben apoyar —escupió Markus, más cansado que airado.
+
+—¿El sumo sacerdote no se ha recuperado lo suficiente como para retomar la dirección de la Orden?
+
+—No lo creo.
+
+—Está bien. Acompañaré ahora a Vengy a buscar en el puerto los ingredientes que necesita.
+
+—Si puedo ayudarte en algo, dímelo. Aquí me siento completamente inútil… —admitió Markus. Luego, con una tristeza sin máscara—: A veces desearía que vinieran más demonios para saber por qué luchar… y qué hacer.
+
+—Al pasar por el templo de Lathander nos hablaron de un demonio muy poderoso en el norte, avanzando hacia el sur —recordó Alistar.
+
+—Así es. No hay certezas aún. Han partido hacia allí paladines de Helm y de Lathander. No así los de Tyr. Harker se aferra a defender a toda costa lo que cree que será nuestro último bastión: el templo.
+
+—Ya veo.
+
+Alistar posó una mano en el hombro de Markus.
+
+—Si llega el momento de luchar, sé que contaré contigo.
+
+—Por supuesto —respondió sin sombra de duda.
+
+Se despidieron con el saludo de orden. Después, Alistar se volvió hacia los suyos, y juntos se encaminaron al interior del recinto portuario, donde el rumor de poleas y martillos marcaba el compás de una ciudad que, incluso bajo amenaza, seguía moviendo mercancías y voluntades.
+
+### _La asamblea del Oro Silente_
+
+A esas horas, el recinto portuario respiraba con un pulmón más lento. Las grúas dormían como jirafas de hierro, los polipastos pendían inmóviles y sólo quedaba el ir y venir de algún sereno, el rumor de cadenas al mecerse y el salitre lamiendo la piedra. Entre naves y patios cercados se alzaba, con una sobria pretensión, el auditorio del Consorcio del Oro Silente: fachada de madera barnizada y sillería, contraventanas cerradas a cal y canto, dos lámparas de aceite encendidas junto al portal. No era un coloso —a lo sumo cincuenta almas cabían en su sala—, pero la guardia privada que lo flanqueaba, más los escoltas personales de cada mercader, le daban aspecto de bastión.
+
+Varias figuras bien vestidas, escoltadas de cerca, cruzaban el umbral con esa prisa medida de quien llega tarde sin querer parecerlo.
+
+—¿No os parece extraño una reunión a estas horas? —musitó Vengy.
+
+Un poco más allá, a pie de muelle, aguardaba una caravana: cajas de marfil con el sello de procedencia y bramantes recién tensados. No había vendedor —normal para la hora—, y la tentación llevaba nombre de necesidad. Vengy apretó la mandíbula, miró las cajas un latido más y volvió la vista al auditorio.
+
+Del interior llegó un jaleo: voces cruzadas, aplausos aislados, madera de banco protestando. Alistar se acercó a los dos guardias de la puerta.
+
+—¿Qué se celebra dentro? —preguntó.
+
+—Asamblea del Consorcio —respondió uno, seco. El resto de la información se atrincheró en su mirada. Alistar dejó el asunto donde lo había encontrado.
+
+—Podrías meterte como lagartija para escuchar… —susurró Vengy a Orianna.
+
+Ella dudó un instante. Transformarse en mitad de la vigilancia era invitar a preguntas. Esperó a que el grupo echara a andar, aprovechó el pliegue más ancho de la capa de Hakuryuu y, al abrigo de ese paño, dejó que la metamorfosis ocurriera: vértebras encogidas, piel que se afinaba, dedos que se volvían dedos distintos. La lagartija trepó por el zócalo y se deslizó bajo la puerta.
+
+Al mismo tiempo, Vengy hizo brotar un **ojo arcano**: una pupila invisible que planeó hasta el dintel… y atravesó el umbral como una gota en el agua. Sintió el roce de un campo antimagia, una resistencia como de goma tensa; pero el conjuro, aunque amortiguado, persistió.
+
+Dentro, la sala de actos desplegaba su geografía práctica: platea semicircular, bancos corridos, un pasillo central y, presidiéndolo todo, un atril de madera encerada con un emblema dorado. Entre cuarenta y cincuenta comerciantes llenaban el recinto; cada uno, flanqueado por su guardia. El sonido era un enjambre: frases que se solapaban, indignaciones simultáneas.
+
+—¡Guarden silencio! ¡Lady Shaddai en la sala! —tronó una voz desde el escenario.
+
+El rumor decreció hasta quedar en respiración contenida. Subió al atril una elfa lunar de porte glacial, la seda bien cortada, la mirada exacta de quien mide con el mismo rigor la ganancia y el riesgo. Habló sin pedir permiso a las palabras:
+
+—El orden se ha descompuesto en la ciudad. Las tiendas se vacían y el puerto rumia una superstición que cada día nos cuesta más dinero. Mientras aquí debatimos, yo sostengo —como puedo— el techo bajo el que todos comemos.
+
+Un hombre, apremiado por el cálculo, la interrumpió desde la platea:
+
+—El pueblo teme, y el miedo es caro. El alimento aquí almacenado no rota y se estropea. Los obreros rezan, y mientras rezan no trabajan. He revisado los libros: en tres días hemos perdido un catorce por ciento del movimiento fiscal. ¿Y el Consejo qué quiere? ¿Esperar los rezos a ver si nos salvan? No puede ser. Debemos deshacernos de las banderas que nos atan. ¡Hay que hacer algo!
+
+—Tal vez aún es pronto para según qué medidas… —arriesgó una voz joven.
+
+Lady Shaddai no cedió un milímetro:
+
+—¿Pronto para qué? ¿Para que la Mano de Hierro imponga un toque de queda y se paren muelles y mercados? ¿Para que nos llamen impíos por importar mirra? ¿Para que ese apóstol —ese adolescente esmirriado— decida qué grimorio es vendible y cuál no? No aceptaré que lleven contabilidad dentro de mi casa. No hacer nada es absurdo: hay que hacer. O, dicho de otro modo, nos pondremos del lado de la Mano de Hierro. Si la ciudad quiere rezar, que rece; mientras no impongan toque de queda y el comercio continúe, ¿qué problema hay? Si la ciudad necesita mártires, que los tenga. Si los templos caen, nosotros seguiremos teniendo ladrillos para levantarlos. Nos llamarán cobardes, oportunistas. Y el profeta —el falso profeta— desaparecerá. Cuando lo haga, nosotros seguiremos aquí, abasteciendo a la ciudad y reconstruyéndola con nuestras monedas.
+
+No fue ovación, pero sí una suma de aplausos decididos. Lady Shaddai descendió del atril, y el consenso —más práctico que fervoroso— se instaló en la sala como una losa útil.
+
+La lagartija se escurrió de nuevo hacia la luz de la calle y, en el amparo de una sombra, recuperó el cuerpo de Orianna. Contó lo visto y lo oído. Añadió, en voz baja, su reflexión:
+
+—Podría ser una aliada… si lográramos inclinarla.
+
+Alistar negó con suavidad.
+
+—Creo que se quedarán al margen. No van a luchar. Cuando termine, harán lo que mejor saben: seguir con su actividad y, quizá, contribuir a reconstruir. Pero no empuñarán nada que no sea su propio interés.
+
+—Puede que tengas razón —concedió Orianna, sin dejar de pensar en la utilidad de ciertas sumas de dinero cuando el mundo se desmorona.
+
+### _La mañana sin alba_
+
+La noche se retiró sin dar tregua y dejó una mañana sin sol. Las nubes, densas como un techo de plomo, cegaban el horizonte; el aire olía a tormenta inminente y a vela mojada. Waterdeep no había dormido bien: se notaba en los pasos cortos, en los párpados pesados de quienes cruzaban los claustros, en el modo casi maquinal con que los acólitos recogían cuencos y velas. En algún lugar, la Mano de Hierro formaba sus escuadras.
+
+Cuando los héroes despertaron, se reunieron en el cuarto donde Malizall velaba a Sildar. El paladín, aunque seguía inconsciente, presentaba mejor semblante: la fiebre había cedido un grado, y el rictus de dolor ya no le fruncía el entrecejo. El silencio del cuarto tenía el pulso contenido de las decisiones que aún no se nombran.
+
+Fue entonces cuando un anciano cruzó el pasillo, arrastrando las suelas y las palabras a partes iguales:
+
+—Agh… qué asco. Ahora están cerrando también la biblioteca. Ya me dirán qué tiene que ver eso con la fe…
+
+Alistar alzó la cabeza.
+
+—Señor, ¿dice que han clausurado todas las bibliotecas?
+
+—No. La Biblioteca Central. La gran biblioteca de Waterdeep —replicó, y su voz tuvo un filo de incredulidad—. Dicen que tiene libros que quieren requisar. Libros herejes.
+
+El hombre se detuvo un latido, como para tomar aliento, y añadió:
+
+—Y además, ninguno de ustedes está a salvo: cualquiera que haya conjurado en la calle ha cometido un delito. Tienen ojos por todas partes. Al menos ya han detenido a tres clérigos de Lathander en lo que va de mañana. La verdad… no sé qué hacemos aquí. Lo mejor sería huir y buscar otro sitio donde vivir.
+
+Se fue entre refunfuños, dejando el pasillo con un temblor de rumor.
+
+Las palabras encendieron la discusión como una yesca. Orianna fue la primera en fijar posición: no ocultaría nada por mera complacencia ante el celo inquisitorial de la Mano. Si empezaban a esconder sus posesiones o su saber, ¿qué no acabarían entregando?
+
+Malizall, atento a un silencio que pesaba más que todos los sonidos, miró a Alistar.
+
+—¿Qué te aflige?
+
+El paladín respiró hondo, y la exhalación sonó a cansancio antiguo.
+
+—Que ahora mismo veo imposible convencer a la gente de la falsedad y la corrupción de la Mano —dijo—. Y, aun así, lo único que podemos hacer es luchar por ellos, aunque estén en nuestra contra.
+
+Se pasó la mano por la frente, como si apartara un sudor que no había.
+
+—Pienso en tres vías. Primera: enfrentarnos directamente a los apóstoles, cueste lo que cueste y pase lo que pase con nosotros después. Segunda: ir a por la amenaza que avanza desde el norte. Quizá esté conectada con lo del sexto día; podría ser su método más rápido para acopiar almas sin mancharse las manos aquí. La gente no quiere morir, al fin y al cabo. Tercera… —y su voz bajó un punto—: averiguar cómo están atrapando las almas en Waterdeep. Si lo están haciendo, debe existir un mecanismo, una estructura, algo.
+
+—Pero la amenaza del norte… —objetó Malizall—. Se supone que está a semanas de aquí.
+
+—Sí —concedió Alistar—, pero no sabemos qué ocurrirá exactamente el sexto día. Podría ser sólo el inicio de algo que conecte con eso. No lo sé.
+
+Orianna, que había escuchado con los brazos cruzados y la mirada fija en el suelo, levantó por fin la voz:
+
+—Tal vez deberíamos dejarnos apresar para introducirnos en la Mano.
+
+—De ninguna manera —replicó Malizall sin dudar—. Ya pasamos por ahí, y no salió bien.
+
+Hakuryuu habló entonces, y su tono tuvo la firmeza de un tajo limpio:
+
+—Debemos enfrentarnos a ellos. No hay otra manera.
+
+—Si acabamos con los apóstoles los convertiremos en mártires —repuso Malizall—. Y eso podría ser peor.
+
+Alistar giró el ángulo de la conversación con un gesto.
+
+—Si la Mano está atrapando almas, necesita un modo de hacerlo. Un artefacto, un ritual sostenido, una infraestructura.
+
+—Tiene que haber un _almero_ —aventuró Orianna—. Pero Sildar dijo que las vio sobre Waterdeep. ¿Cómo puede estar… sobre Waterdeep?
+
+—Podríamos buscar en otras zonas —terció Vengy—. No tiene por qué estar literalmente encima de la ciudad, aunque Sildar lo viera así.
+
+—El almero que destruimos capturaba almas en todo Faerûn —recordó Malizall—. No necesitarían estar cerca del punto de muerte. A menos que estemos ante una versión más pequeña y limitada.
+
+—Y recuerda —dijo Vengy, frunciendo el gesto—: Acererak invirtió un tiempo incontable en construir aquel almero.
+
+—Entonces, busquemos a alguien con conocimientos arcanos elevados —propuso Malizall.
+
+—Es buena idea —asintió Alistar.
+
+—La Biblioteca Central —continuó el bardo— es la mayor fuente de conocimiento arcano de la ciudad… y, según el anciano, la Mano la ha clausurado.
+
+—Aun así, quizá valga la pena acercarse —decidió Alistar.
+
+—Propongo otra cosa —añadió Vengy—: pasemos primero por el puerto a por el marfil que necesito, y luego vamos a la biblioteca.
+
+Antes de moverse, aseguraron la vigilancia de Sildar. Benedict, avisado, aceptó ocuparse de él.
+
+—Queda en mis manos —dijo el clérigo—. Si la fiebre vuelve, estaré aquí.
+
+Dejaron el hospicio. El claustro recibía la mañana como quien recibe una mala noticia que ya esperaba: sin sorpresa. Tomaron los caballos. El camino hacia el puerto se les hizo veloz: la ciudad, aunque herida, abría paso al trote de las monturas. Pasaron por la entrada del recinto; Vengy pagó por el marfil que precisaba, contó los paquetes con una precisión de escriba y volvió a montar.
+
+—A la biblioteca —dijo Alistar.
+
+Y partieron hacia la gran sala de los libros clausurados, con el cielo de plomo pesándoles sobre la nuca y la sensación obstinada de que el sexto día —fuera lo que fuese— ya había comenzado a contar.
