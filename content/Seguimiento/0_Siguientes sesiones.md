@@ -470,7 +470,7 @@ La escena termina.
 
 ---
 
-## **(Estamos aqui)Día 5/Mañana: La Mano y el Silencio**
+## **(Jugado)Día 5/Mañana: La Mano y el Silencio**
 
 ### **Escena: El Decreto de Cierre en la Gran Biblioteca**
 
@@ -577,7 +577,7 @@ La alza como si fuera una espada.
 Los otros aplauden.  
 Nadie les dice que eso también está prohibido.
 
-## **Día 5/tarde: La caída de Lathander**
+## **(Jugado)Día 5/tarde: La caída de Lathander**
 
 ### **Fragmento I — “Llegada de la mano”**
 
@@ -881,3 +881,4 @@ Represion total
 Arrestos de clerigos, Relion entre los que lo spersonajes conocen, conjuro en las puertas del templo de lathander. Los heroes pueden ser testigos.
 Heroes perseguidos.
 Rituales de cosecha con los muertos por los disturbios.
+buscar escenas que nos muestren aspectos sobre los heroes.
