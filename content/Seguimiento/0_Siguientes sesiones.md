@@ -1,8 +1,4 @@
 #Master 
-
-## Notas para empezar la sesión
-
-
 ## **(Jugado)Dia 2: El Decreto de la Luz Verdadera**
 
 ### **Lugar**
@@ -772,6 +768,8 @@ Los agentes arrastran a Harker, que, entre gritos y forcejeos, es silenciado a g
 
 ## **Dia 6/Mañana La Plaza del Juicio: Escenario del Ritual**
 
+Dar el pergamino del dia 6.
+
 ### **La Plaza del Juicio: Escenario del Ritual**
 
 En la plaza mayor, ante un altar improvisado de hierro negro y piedra, se alinean **docenas de cuerpos amortajados**: víctimas de los disturbios nocturnos, mártires y criminales indistinguibles bajo el velo de la muerte.
@@ -887,7 +885,32 @@ _El caos se convierte en cobertura. Gritos, empujones, ciudadanos que bloquean e
 
 _Los personajes escapan entre callejones estrechos, protegidos por los mismos ciudadanos a los que juraron defender. Waterdeep tiembla esa mañana, no solo por el ritual, sino porque la Mano descubre que el miedo ya no es suficiente para contener a todos._
 
+### Recurso: _El Desafío del Manto del Apóstol_
 
+_En medio de los cánticos, si Malizall alza la voz proclamando que la fe de la Nueva Fe es una farsa, Hederic sonríe con una calma venenosa. Se adelanta un paso, el Cáliz de la Cosecha aún en la mano izquierda, y con la derecha alza el borde de su manto ennegrecido, bordado con símbolos triangulares._
+
+---
+
+**Hederic (voz clara, amplificada por magia):**  
+“¿Falsa, dices? ¿Menos poderosa que tus dioses? Entonces demuéstralo, resucitado. Invoca tu luz, conjura tu verdad… ¡haz que tu dios te responda ante el pueblo!”
+
+_El manto vibra con un murmullo sordo, como un eco de vacío. Malizall intenta invocar sus poderes divinos… y nada ocurre. El silencio pesa más que cualquier trueno. Hederic deja que el vacío se alargue unos segundos eternos antes de reír suavemente, con desprecio solemne._
+
+---
+
+**Hederic (riendo, con voz cortante):**  
+“¡Ja, ja, ja! ¿Lo veis? Este es vuestro campeón. Este es el poder de los falsos dioses: humo y cenizas. ¡No hay respuesta para el impuro, no hay luz para el resucitado!”
+
+---
+
+_Con un gesto amplio, el Apóstol eleva el cáliz al cielo y su cuerpo comienza a **levitar lentamente**, envuelto en un halo de viento. Una ráfaga poderosa estalla desde su centro, un círculo de aire furioso que golpea la plaza y obliga a la multitud a cubrirse. Los estandartes ondean violentos, los soldados se inclinan con esfuerzo para no caer._
+
+---
+
+**Hederic (gritando desde lo alto, voz casi profética):**  
+“¡Hay un dios por encima de los vuestros! ¡Un dios verdadero, cuya Voz guía nuestra era!  
+Y tú, Malizall… resucitado impuro… tu alma partirá pronto y tu carne se pudrirá.  
+No hay salvación para los que niegan al Juicio. ¡Solo ruina eterna!”
 ## **Día 6/Mañana:  _Los niños del pozo marchito_ (Orianna)
 
 #### Contexto
@@ -1032,7 +1055,7 @@ Toque de queda parcial, se puede salir pero se debe justificar el motivo
 Templos cerrados. 
 Calles vigiladas.
 Represion total
-Arrestos de clerigos, Relion entre los que lo spersonajes conocen, conjuro en las puertas del templo de lathander. Los heroes pueden ser testigos.
+Arrestos de clerigos, Relion entre los que lo spersonajes conocen
 Heroes perseguidos.
 Rituales de cosecha con los muertos por los disturbios.
 buscar escenas que nos muestren aspectos sobre los heroes.
