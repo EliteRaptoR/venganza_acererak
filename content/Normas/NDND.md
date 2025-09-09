@@ -224,3 +224,4 @@ El resto de columnas muestra la CD aproximada según las modificadores del perso
 | Difícil      | 30%       | 16                | 22                  | 25               | 29              | 32                |
 | Muy difícil  | 20%       | 19                | 25                  | 28               | 32              | 35                |
 | Épico        | 10%       | 23                | 29                  | 32               | 36              | 39                |
+

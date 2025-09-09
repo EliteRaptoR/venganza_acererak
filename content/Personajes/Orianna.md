@@ -1,5 +1,5 @@
 #Jugadores
-## **Orianna *Tejedora de Raices* **
+## **Orianna *Tejedora de Raíces* **
 ---
 ![[Orianna.png]]
 ### **Rasgos principales**
