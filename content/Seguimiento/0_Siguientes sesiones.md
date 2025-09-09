@@ -776,9 +776,9 @@ Los agentes arrastran a Harker, que, entre gritos y forcejeos, es silenciado a g
 
 En la plaza mayor, ante un altar improvisado de hierro negro y piedra, se alinean **docenas de cuerpos amortajados**: víctimas de los disturbios nocturnos, mártires y criminales indistinguibles bajo el velo de la muerte.
 
-La multitud es dispersa, dividida por cordones de soldados. Frente al altar, un círculo de **apóstoles de la Nueva Fe** y agentes de la Mano entonan letanías en un idioma arcaico, con voz monocorde, y blanden estandartes teñidos de sangre y ceniza.
+La multitud es dispersa, dividida por cordones de soldados. Frente al altar, un círculo de **clerigos de la Nueva Fe** y agentes de la Mano entonan letanías en un idioma arcaico, con voz monocorde, y blanden estandartes teñidos de sangre y ceniza.
 
-A la cabeza, un **Maestro Inquisidor** sostiene el Cáliz de la Cosecha —un relicario profanado capaz de capturar la esencia de los caídos—. Su voz, amplificada por la magia, resuena sobre el murmullo sordo de la muchedumbre:
+A la cabeza, un **el apostol Hederic**  sostiene el Cáliz de la Cosecha —un relicario profanado capaz de capturar la esencia de los caídos—. Su voz, amplificada por la magia, resuena sobre el murmullo sordo de la muchedumbre:
 
 > “Hoy devolvemos a la Voz lo que es suyo. Ningún alma quedará errante, ninguna vida se perderá en la mentira del renacimiento. Por el Juicio y por el Orden, os entregamos a la eternidad verdadera.”
 
@@ -790,11 +790,165 @@ Quien posea _sensibilidad arcana o divina_ percibe la brutalidad del proceso: la
 
 **Primeras grietas:** Entre los propios soldados y aventureros de refuerzo, se murmura el horror de lo que está ocurriendo. ¿Surge una alianza incipiente de resistencia? ¿Quién desafiará primero la ley de hierro?
 
+### Conversación con el Apóstol Hederic (en la Plaza del Juicio)
+
+_El aire vibra con el cántico de los clérigos. Hederic, de pie sobre el altar de hierro, levanta el Cáliz de la Cosecha. Su voz, amplificada por la magia, se impone incluso al murmullo de la multitud._
+
+---
+
+**Hederic (al pueblo):**  
+“Decís que los héroes de Chult salvaron al mundo.  
+¿Que detuvieron al dios de la muerte?  
+¡Mentira! Os contaré la verdad que nadie os quiso decir.”
+
+_Se pasea lentamente, el cáliz brillando con reflejos púrpura y verdes._
+
+**Hederic:**  
+“Ellos no detuvieron un castigo, sino que destruyeron la última bendición que nuestro Dios Verdadero nos había concedido.  
+¿No lo entendéis? La muerte no era un azote, era un don. Un camino para redimirnos de nuestros pecados. Solo los resucitados caminarían esa senda, pagando por sus soberbias.  
+Pero esos llamados héroes… ellos se creyeron más poderosos que el propio Dios. Negaron Su voluntad, quebraron Su ley, y con ello nos arrojaron a la condena que ahora padecemos.
+
+¿Y sabéis lo peor? Que tras profanar la bendición, nuestro propio gobernante, Varn Dorsic, pagó más de ¡diez mil piezas de oro! para resucitar a esos apócratas. ¡Diez mil! Mientras los pobres morían en silencio, el oro del pueblo compraba la soberbia de unos pocos. ¡Vergüenza, digo yo! ¡Vergüenza para Waterdeep!”
+
+---
+
+_Los murmullos crecen, la multitud se agita, algunos soldados intercambian miradas incómodas._
+
+---
+
+**Hederic (se detiene y alza la voz, señalando a los personajes):**  
+“¡Y he aquí el fruto de esa soberbia!  
+Aquí están los falsos héroes. No salvadores, no defensores… ¡profetas de su propio orgullo!  
+Todos ellos son culpables, todos deben rendir cuentas.”
+
+_Hace una pausa dramática. Su mirada se fija en Vengy, y su voz se vuelve más aguda, más venenosa._
+
+---
+
+**Hederic (con sonrisa amarga):**  
+“Bueno… todos, no. Hubo uno que intentó oponerse a la condena, que quiso salvar la bendición. Sí, tú, Vengy, hijo del amanecer y de un linaje dorado. Intentaste alzarte como campeón… pero tu fuerza fue insuficiente. Tu poder, escaso. Fracasaste antes siquiera de rozar la victoria.
+
+¿No es eso lo que siempre fuiste, Vengy? Orgullo desmedido, palabras altisonantes, pero cuando llega la hora de la verdad, nada más que viento.  
+Dime de qué presumes… y te diré de qué careces.”
+
+---
+
+_El veneno de las palabras cae sobre Vengy, mientras la multitud murmura, duda y observa. El golpe al orgullo está dado._
+
+---
+
+**Hederic (alza de nuevo el cáliz, voz atronadora):**  
+“Por eso, hermanos, estos apócratas deben ser capturados inmediatamente. Son enemigos del Juicio, heraldos de la mentira. Si se resisten, ¡usad todo el poder de vuestros juramentos! Que la Mano de Hierro los encadene y que la Voz decida su destino.”
+
+### Reacciones de la multitud
+
+#### **Los fieles fanáticos** (gritan con fervor)
+
+- “¡Herejes! ¡Nos condenaron todos estos años!”
+    
+- “¡Que paguen con su sangre lo que negaron a los dioses!”
+    
+- “¡El Juicio ya está aquí y ellos son la ofrenda!”
+
+
+#### **Los ciudadanos confundidos** (dudan, murmurando en voz baja)
+
+- “¿De verdad gastaron diez mil piezas de oro en ellos? ¿Mientras mis hijos morían sin cura?”
+    
+- “Pero yo escuché que salvaron Chult… que vencieron al dios de la Muerte. ¿No fue así?”
+    
+
+#### **Los familiares de los caídos** (entre lágrimas y rabia)
+
+- “¡Mi hijo murió sin resurrección! ¡Y ellos vivieron a costa nuestra!”
+    
+- “¿Qué clase de héroes dejan al pueblo sin milagros?”
+
+### **La Plaza en Caos: Grietas en la Mano**
+
+_El discurso de Hederic resuena aún en los muros, pero la multitud no guarda el silencio sumiso que él esperaba. Voces aisladas empiezan a levantarse… y no todas son de odio._
+
+- **Una anciana con el rostro surcado de lágrimas:**
+    
+    > “¡Ellos curaron a mi nieto en la plaza de Tyr! ¡Yo lo vi! ¡Lo vi con mis propios ojos!”
+    
+- **Un mercader de voz ronca:**
+    
+    > “¡Y salvaron mi tienda de los demonios cuando ni la Mano ni la Voz aparecieron! ¿Eso es ser apócrata?”
+
+### **El giro**
+
+_Los gritos se multiplican. Una oleada de cuerpos forma un muro humano entre los héroes y los soldados de la Mano. Familias enteras, mendigos, mercaderes y artesanos alzan los brazos, algunos incluso con herramientas de trabajo en la mano como si fueran armas improvisadas._
+
+*El cordón de hierro se resquebraja: no todos avanzan. Algunos guardias bajan las lanzas, otros miran de reojo a sus oficiales esperando una orden que no llega.*
 ### **Epílogo de la escena**
 
-El ritual concluye con un golpe de martillo sobre el altar y un último cántico. Los cuerpos son retirados, ahora poco más que envoltorios vacíos. El Cáliz de la Cosecha es conducido, escoltado por la Mano, hacia el santuario de la Nueva Fe… donde, en las sombras, el eco de Acererak sonríe.
+_El caos se convierte en cobertura. Gritos, empujones, ciudadanos que bloquean el paso a los soldados. El Apóstol Hederic alza el cáliz y vocifera maldiciones, pero su propia ceremonia queda ahogada por la rebelión inesperada de un pueblo que, aunque dividido, ha demostrado que aún hay quienes creen en los héroes._
 
-Y Waterdeep tiembla. Porque por primera vez en siglos, los dioses están ausentes… y las almas, verdaderamente, no tienen ya a dónde ir.
+_Los personajes escapan entre callejones estrechos, protegidos por los mismos ciudadanos a los que juraron defender. Waterdeep tiembla esa mañana, no solo por el ritual, sino porque la Mano descubre que el miedo ya no es suficiente para contener a todos._
+
+
+## **Día 6/Mañana:  _Los niños del pozo marchito_ (Orianna)
+
+#### Contexto
+
+El arrabal de Waterdeep, de madrugada. Entre chozas levantadas con tablones y tejados de hojalata, un **pozo comunal** yace abandonado. La Mano de Hierro lo ha declarado “impuro” y los vecinos lo evitan, pero los niños del barrio siguen acudiendo allí porque es el único lugar donde encontrar agua. Ahora, varios de ellos yacen enfermos, febriles y deshidratados. Los adultos no se atreven a tocarlos: murmuran que el agua roba el alma.
+
+#### Descripción evocadora
+
+_El aire alrededor del pozo huele a hierro húmedo y a savia podrida. De la piedra rezuma un musgo ennegrecido, moteado de gotas que laten como sangre coagulada. Orianna percibe en los vapores un murmullo: voces apagadas que susurran que todo esfuerzo es inútil, que salvar a unos pocos no cambiará nada. Sus brazales palpitan en respuesta, como si Elyz misma se revolviera contra aquella corrupción._
+
+*Orianna percibe cómo los brazales de Elyz palpitan, como si la dragona misma se revolviera contra aquella corrupción. En un rincón, varios niños febriles descansan sobre mantas raídas. Una de las más pequeñas, de no más de siete años, se incorpora con esfuerzo. Sus labios secos, sus ojos demasiado grandes en un rostro delgado, pero aún así se atreve a hablar.*
+
+> “Señora del bosque ¿Puedes traer de vuelta la hierba?”
+
+_La niña lleva colgado al cuello un **talisman de Tymora roto**: la herradura de latón ha sido quebrada en dos, claramente aplastada por una bota. Aun así lo acaricia con ternura, como si aquel pedazo torcido siguiera siendo su amuleto más preciado. Con dedos temblorosos lo arranca de la cuerda y se lo ofrece a Orianna._
+
+> “Dicen que ya no sirve… pero yo sé que todavía da suerte.”
+
+#### Desarrollo
+
+- **El dilema:** Orianna puede enfrentarse al pozo, arriesgándose a absorber parte de la corrupción, o intentar salvar a los niños sin purificar el agua (más seguro, pero incompleto).
+    
+- **Si triunfa en el ritual/purificación:** la piedra rezuma savia clara, brotan hierbas verdes entre las grietas y el agua se vuelve cristalina. Los niños beben y la fiebre cede.
+    
+- **Si falla:** la corrupción hiere a Orianna (psíquica o espiritualmente), pero el gesto basta para que los niños se salven: su sacrificio rompe la maldición parcial.
+#### Recompensa emocional
+
+_La niña, ya con color en las mejillas, insiste en que Orianna conserve el talismán roto. No como reliquia mágica, sino como símbolo: incluso en las ruinas de la fe, todavía queda espacio para la esperanza. Al recibirlo, Orianna siente un eco de Elyz: no todas las vidas merecen ser despreciadas, y algunas, como esta, pueden volver a florecer._
+
+## **Dia 6/Mañana: _El Juicio sobre Kuryuu_ (Haku)
+
+_La estancia huele a hierro y humo. El padre está de pie frente a la mesa donde reposa el escudo envuelto. Su voz retumba como martillazos, sin vacilar. Sus palabras no buscan herir: buscan “decir la verdad”, y por eso duelen más._
+
+---
+
+**Padre (tono severo, con un deje de decepción):**  
+“Este escudo… lo porté hasta que se lo confié a tu hermano Kuryuu. Pensé que con un símbolo así aprendería a sostenerse, que el hierro le enseñaría a ser un hombre. Pero estaba equivocado. Kuryuu nunca fue un guerrero. Y un Arashi que no es guerrero… ¿qué es, sino una carga para los suyos?”
+
+---
+
+**Padre (paseando la mirada por el metal, con dureza):**  
+“Kuryuu siempre fue… distinto. Se reía con facilidad, lloraba con frecuencia, amaba demasiado pronto. Todo en él eran emociones desbordadas, sin control. En el fragor de la batalla, la risa y las lágrimas no salvan vidas, hijo. Lo único que salvan son la espada firme y el escudo en alto. Y él nunca supo alzar ninguno de los dos con verdadero temple.”
+
+---
+
+**Padre (voz grave, con resentimiento contenido):**  
+“Le di demasiadas oportunidades. Confié más veces de las que debí. Siempre pensé: ‘quizá con más disciplina, quizá con más rigor, quizá con mi ejemplo’. Pero la verdad es que Kuryuu no estaba hecho para la senda que nos corresponde. Nunca lo estuvo. Y quizá, quizá lo más honorable que podría haber hecho como padre habría sido quitarle el peso del apellido Arashi… apartarlo de la guerra antes de condenarlo a una muerte segura en el campo de batalla.”
+
+---
+
+**Padre (apretando los puños, con voz amarga):**  
+“Pero no lo hice. Creí que el apellido sería su forja, y en cambio fue su condena. Y aún me atormenta pensar si fui yo quien lo empujó a la tumba con mi obstinación. Tal vez… debí haber aceptado que no todos los hijos de este linaje nacen para blandir acero.”
+
+---
+
+_El padre se detiene, la mirada fija en ti, como si buscara confirmar lo que dice. Luego, con un suspiro áspero, coloca el escudo frente a ti._
+
+---
+
+**Padre (con un destello de orgullo frío):**  
+“Pero tú… tú no eres como él. Tú eres Hakuryuu Arashi, el verdadero heredero de este linaje. Tú llevas en tu sangre lo que él nunca tuvo. En tus manos este escudo será digno. Tú sabrás aprovechar lo que él desperdició. Llévalo, hijo mío, y que nadie vuelva a recordar la debilidad de Kuryuu cuando hablen del honor de nuestra casa.”
 ## **Día 6, Noche del Juicio — El Sacrificio de Eldrin**
 
 La ciudad de Waterdeep se ha sumido en una noche absoluta, una negrura que no es sólo ausencia de luz sino la manifestación palpable de la desesperanza. La lluvia, persistente durante toda la jornada, ha cesado por completo, como si el cielo mismo hubiese contenido la respiración ante el horror venidero. Ni siquiera el murmullo de las gotas contra el empedrado se atreve ya a interrumpir el silencio que domina la Plaza del Juicio.
