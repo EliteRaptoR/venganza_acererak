@@ -10,6 +10,8 @@
 - [[Diario Capitulo 1. Ecos de Gloria#Sesión 4|Sesión 4]]
 - [[Diario Capitulo 1. Ecos de Gloria#Sesión 5|Sesión 5]]
 - [[Diario Capitulo 1. Ecos de Gloria#Sesión 6|Sesión 6]]
+- [[Diario Capitulo 1. Ecos de Gloria#Sesión 7|Sesión 7]]
+- [[Diario Capitulo 1. Ecos de Gloria#Sesión 8|Sesión 8]]
 
 ---
 ## **Prologo**
@@ -2702,6 +2704,9 @@ Entonces llegó el grito. No brotó del bosque, sino del interior de su cráneo:
 
 De la herida del tronco brotaba una rama mínima, tímida al principio, como un pronóstico de esperanza. Orianna la creyó sana, casi radiante; pero al alzarla a la luz vio, en la punta, una crisálida. La encerraba una escama de Elyz, engastada en fibras vegetales, y en torno a esa tesela de su compañera reptaba una corrupción púrpura, lenta y metódica, como tinta derramada en agua.
 
+![[Vara de la Crisálida Abisal.png]]
+_[[Vara de la Crisálida Abisal]]_
+
 El árbol, o aquello que aún quedaba de su voluntad, suplicó sin palabras. «Llévatela». Orianna obedeció. Arrancó el brote con un chasquido húmedo y se detuvo a contemplarlo.
 
 La vara cabía entera en el antebrazo —no más de treinta centímetros—, pero pesaba como un juramento. Su madera era de un negro terroso con vetas que, bajo la penumbra, destellaban verdes y violetas, como si una bioluminiscencia tímida las recorriera. La superficie no era lisa: presentaba espirales y surcos que evocaban runas druidas, hojas que nacen y se marchitan, ciclos grabados por alguna mano vegetal. En la base, la raíz desgarrada conservaba motas de savia solidificada; hebras translúcidas de resina colgaban y palidecían al contacto con el aire. El remate superior —la crisálida abrazando la escama— parecía sostenido por la corteza más que incrustado en ella, como si el propio árbol hubiese intentado asimilar el fragmento de Elyz sin conseguirlo del todo.
@@ -3370,3 +3375,9 @@ Dejaron el hospicio. El claustro recibía la mañana como quien recibe una mala 
 —A la biblioteca —dijo Alistar.
 
 Y partieron hacia la gran sala de los libros clausurados, con el cielo de plomo pesándoles sobre la nuca y la sensación obstinada de que el sexto día —fuera lo que fuese— ya había comenzado a contar.
+
+.....
+
+
+## **Sesión 8**
+

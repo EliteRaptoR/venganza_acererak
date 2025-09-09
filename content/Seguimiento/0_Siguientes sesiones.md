@@ -637,6 +637,57 @@ Nadie les dice que eso también está prohibido.
 > La noche no hecho mas que comenzar!
 
 
+
+## **(Estamos aqui) Dia 5/ noche: El Despertar de Sildar y la Archicatedrática Incontenible**
+
+**Lugar:** Aposentos de Benedict, iluminados con la luz tenue de un candil. Huele a hierbas curativas y vino aguado.  
+**Presentes:** Benedict (agotado), Sildar (pálido pero despierto en la cama), y la Archicatedrática Maelor Veyrum (gnoma de las rocas).
+
+---
+
+### **Narración inicial**
+
+Cuando abrís la puerta, lo primero que veis es a **Sildar** incorporado en el lecho, con el rostro todavía fatigado pero los ojos ya abiertos. **Benedict**, sentado a su lado, parece exhausto, con la expresión de alguien que lleva horas soportando una tormenta.
+
+Y junto a ellos, sobre un taburete demasiado alto para su tamaño, una **gnoma anciana**, con el cabello blanco hecho un moño desordenado y lentes deslizándose por la nariz, gesticula con una pluma en la mano como si fuera una varita mágica. Sus túnicas están atiborradas de pergaminos y tinteros, y cada palabra suya parece disparada como un proyectil.
+
+Cuando entráis, apenas podéis intercambiar una mirada con Sildar: la gnoma **se gira de inmediato hacia vosotros**, con un brillo en los ojos como si hubiera esperado este momento durante siglos.
+
+---
+
+### **Diálogo e interpretación**
+
+**Maelor (voz exaltada):**  
+“¡Ah, por fin, por fin! ¡Los héroes! Benedict me dijo que llegaríais tarde o temprano, ¡y yo sabía que no podía desperdiciar ni un minuto! ¡Ni uno! ¡Porque lo que tengo que contaros sobre Acererak y Orcus es tan fascinante que he tenido a este pobre caballero (señala a Sildar, que suspira) escuchando durante horas! ¡Y a Benedict, claro, pero él tiene cara de buen oyente, ¿verdad que sí?”
+
+**Sildar** os lanza una mirada suplicante, como diciendo: “¡sacadme de aquí!”. **Benedict**, con una sonrisa cansada, murmura apenas audible:  
+“Lleva así desde que llegó…”
+
+**Maelor (saltando del taburete, casi tropezando con su túnica):**  
+“¡Pero no os preocupéis! No he venido aquí por casualidad, no, no, no… El buen bibliotecario **Mase**, con quien os cruzasteis en la Gran Biblioteca, me buscó después, desesperado. ¡Se dio cuenta de que se había quedado corto, que no os había dado todo lo que necesitabais! Y entonces pensó: ‘¿Quién mejor que la Archicatedrática Veyrum para desentrañar los secretos de Acererak?’ ¡Y aquí estoy! ¡Para serviros!
+
+¡Oh, lo que he descubierto! Textos, cánticos, tablillas de obsidiana… ¡un festín de horrores!”
+
+(Levanta un fajo de pergaminos, que casi se le caen encima, y empieza a agitarlo como si fuera un estandarte).
+
+**Veyrum (voz excitada):**  
+“¡Escuchad, escuchad! He leído tablillas de obsidiana, códices malditos y hasta cartas con manchas de sangre que aún no se han secado —no preguntéis de quién— ¡y la conclusión es clara como el sol al amanecer!
+
+Primero: ¡Acererak no es un lich común! No, no, no, ¡es un arquitecto de la ruina! Sus tumbas respiran, sus trampas piensan, sus pasillos comen héroes como si fueran galletas.
+
+Segundo: ¡su linaje! ¡Oh, qué linaje! Mitad mortal, mitad balor, mitad… bueno, demasiadas mitades, ¿no creen? ¡Un cóctel explosivo! Demonio, humano y ahora liche eterno. ¡Ni las matemáticas lo soportan!
+
+Tercero: ¡Orcus, Orcus, Orcus! (agita la pluma como si fuera una vara de mando). Nuestro Príncipe de la No-Muerte. El gran cabrón… quiero decir, cabra. Fue su maestro, sí, pero nadie sabe si aún lo es. Para algunos, Acererak fue su joya; para otros, su peste más gloriosa.
+
+Cuarto: ¡el Almero! Esa máquina torcida que hizo caer a los resucitados como moscas. ¡Conjuros divinos apagados como velas en la tormenta! ¡Faerûn entero de rodillas ante el silencio de los dioses!
+
+Y lo más importante: Acererak no busca solo matar, oh no… (se inclina hacia adelante, voz de conspiración). Quiere que la muerte le pertenezca. No a Orcus, no a Kelemvor, no al ciclo natural… ¡a él! Él, como dios. Él, como dueño de todas las almas.
+
+Así que, mis valientes estudiantes… digo, héroes… lo que enfrentáis no es un enemigo cualquiera. ¡Es un proyecto de divinidad con patas huesudas y filacterias escondidas! ¡Una obra en marcha! ¿Espantoso? ¡Sí! ¿Maravilloso? ¡También! ¿No les parece emocionante?!”
+
+_(Se ríe sola, aplaude y luego empieza a anotar algo en un pergamino, murmurando mientras pierde el hilo)._
+
+**Les da el resumen.**
 ## **Dia 5/noche: Arde Sea Ward
 
 #### **Fragmento 1 — Fuego en sea ward
