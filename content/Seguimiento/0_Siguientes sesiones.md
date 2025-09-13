@@ -638,7 +638,7 @@ Nadie les dice que eso también está prohibido.
 
 
 
-## **(Estamos aqui) Dia 5/ noche: El Despertar de Sildar y la Archicatedrática Incontenible**
+## **(Jugado) Dia 5/ noche: El Despertar de Sildar y la Archicatedrática Incontenible**
 
 **Lugar:** Aposentos de Benedict, iluminados con la luz tenue de un candil. Huele a hierbas curativas y vino aguado.  
 **Presentes:** Benedict (agotado), Sildar (pálido pero despierto en la cama), y la Archicatedrática Maelor Veyrum (gnoma de las rocas).
@@ -688,7 +688,7 @@ Así que, mis valientes estudiantes… digo, héroes… lo que enfrentáis no es
 _(Se ríe sola, aplaude y luego empieza a anotar algo en un pergamino, murmurando mientras pierde el hilo)._
 
 **Les da el resumen.**
-## **Dia 5/noche: Arde Sea Ward
+## **(Jugado) Dia 5/noche: Arde Sea Ward
 
 #### **Fragmento 1 — Fuego en sea ward
 
@@ -722,7 +722,7 @@ Pronto cientos y luego miles de personas, de los barrios mas bajos de esta ciuda
 > 
 > No hay silencio piadoso: la turba descarga una tormenta de golpes —madera, piedra, hierro— hasta que el yelmo salta y la sangre brota en surtidor negro a la luz rojiza de las llamas. Como abejas sobre el oso, los insurgentes acaban con el coloso… y celebran su caída con un rugido que hace estremecer las vidrieras de las villas cercanas.
 
-### **Fragmento — “Arde Selune”**
+#### **Fragmento — “Arde Selune”**
 
 > En el corazón de Sea Ward, la cúpula argentada del templo de Selûne relucía débilmente, aún a través de las nubes de humo y la oscuridad creciente. Como era costumbre en noches peligrosas, las grandes puertas de roble estaban selladas desde el ocaso, los fieles y sacerdotisas refugiados en el interior, rezando en voz baja a la Dama de la Luna para que protegiera el barrio de la furia que rugía más allá de sus muros.
 > 
@@ -763,7 +763,7 @@ _(úselos al azar o como guion de escalada; están ordenados del clamor inicial 
 ||«¡Sea Ward somos todos!»|«La ciudad al fin recuerda su corazón obrero: late rojo, late furioso, late libre.»|
 
 
-## **Dia 5/noche 2: Templo Helm**
+## **(Jugado) Dia 5/noche 2: Templo Helm**
 
 #### Fragmento – “La primera Contienda”
 
@@ -793,7 +793,7 @@ Con un último estruendo de lanzas golpeando escudos, la columna se gira y aband
 
 Montan a caballo en silencio, el crepitar de las barricadas siendo consumidas acompaña su avance mientras se adentran en la noche de Waterdeep. En sus miradas arde la certeza de un nuevo objetivo: un lugar donde el latido de la vieja fe se resiste a extinguirse…
 
-## **Dia 5/noche 3: TEmplo de Tyr**
+## **(Jugado) Dia 5/noche 3: TEmplo de Tyr**
 
 La plaza del templo de Tyr se ha vaciado de fieles; el rumor de la violencia previa ha obligado a todos a observar desde lejos, detrás de cortinas o bajo los soportales. La Mano de Hierro, implacable pero disciplinada, registra hasta el último rincón del santuario, despojando altares y archivos. La liturgia se ha convertido en inventario y saqueo.
 
@@ -817,7 +817,7 @@ No hay proclamas. No hay juicio. Solo el frío imperio de la fuerza disfrazada d
 
 Los agentes arrastran a Harker, que, entre gritos y forcejeos, es silenciado a golpes. Nadie más interviene. El cuerpo de Eldrin es dejado en la escalinata, testigo mudo de la nueva era.
 
-## **Dia 6/Mañana La Plaza del Juicio: Escenario del Ritual**
+## **(Estamos aqui) Dia 6/Mañana La Plaza del Juicio: Escenario del Ritual**
 
 Dar el pergamino del dia 6.
 
