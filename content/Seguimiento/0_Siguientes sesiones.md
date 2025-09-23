@@ -995,8 +995,53 @@ _La niña, ya con color en las mejillas, insiste en que Orianna conserve el tali
 
 _La estancia huele a hierro y humo. El padre está de pie frente a la mesa donde reposa el escudo envuelto. Su voz retumba como martillazos, sin vacilar. Sus palabras no buscan herir: buscan “decir la verdad”, y por eso duelen más._
 
+### 1. **El padre como espejo deformado**
+
+- Para el padre, la inacción de Hakuryuu/Kuryuu es “correcta”: ¿para qué salvar a quienes no son de la sangre Arashi?
+    
+- Esto coloca al protagonista en un dilema: aceptar ese orgullo frío o rebelarse contra él.
+    
+- Es crucial que el padre no suene cruel, sino convencido, casi “racional”: eso hace que duela más.
+    
+
+### 2. **La revelación interna**
+
+- Hasta ahora, Hakuryuu se justificaba con _Myrrym_. Pero este momento le muestra que la espada nunca fue la causa, solo la excusa.
+    
+- Lo que siente es vacío porque ha reprimido a Kuryuu —su risa, su sensibilidad, sus lágrimas— para encajar en la imagen del heredero.
+    
+- Este es el punto donde puede “romper el espejo” y dejar salir algo más humano.
+    
+
+### 3. **El giro para el jugador**
+
+- La escena le da permiso a la jugadora para explorar otra faceta de Hakuryuu: menos la del “guerrero endurecido”, más la del ser emocional que siempre estuvo debajo.
+    
+- Lo interesante es que no pierde la fuerza, sino que la reconfigura: ya no es el filo frío del padre, sino la resiliencia nacida de sentir.
+    
+- El jugador, a través de su personaje, encuentra un espacio seguro para expresar algo que quizá en la vida real siempre ha debido ocultar.
+    
+
+### 4. **Posible estructura de la escena**
+
+1. **Padre**: llega, observa el caos en el barrio, y justifica la pasividad como un acto de superioridad.
+    
+    - _“No se pierde nada dejando que los débiles ardan en su propia mediocridad. Nuestro linaje es más que esas ruinas.”_
+        
+2. **Kuryuu**: escucha, y comprende que ese mismo discurso es lo que lo ha mantenido muerto por dentro.
+    
+    - Aquí puedes introducir un recuerdo fugaz de su niñez (riéndose, llorando, siendo Kuryuu) para que el contraste sea brutal.
+        
+3. **El punto de inflexión**: Kuryuu rechaza el discurso del padre, aunque no sepa aún qué camino tomar.
+    
+    - Puede romper el silencio con una frase sencilla pero cargada de emoción:  
+        _“No soy como tú. Y no quiero serlo.”_
+        
+4. **Epílogo**: no necesita acción inmediata. El solo hecho de rebelarse contra el molde es suficiente para abrir la grieta que permitirá a la jugadora reconstruir a Hakuryuu como Kuryuu.
+
 ---
 
+### escena antes de saber lo que pasaria
 **Padre (tono severo, con un deje de decepción):**  
 “Este escudo… lo porté hasta que se lo confié a tu hermano Kuryuu. Pensé que con un símbolo así aprendería a sostenerse, que el hierro le enseñaría a ser un hombre. Pero estaba equivocado. Kuryuu nunca fue un guerrero. Y un Arashi que no es guerrero… ¿qué es, sino una carga para los suyos?”
 
